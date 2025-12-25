@@ -1,15 +1,6 @@
 # [Project Name]
 
-This project uses [Agentic](https://github.com/jasonhoffman/agentic).
-
-## For Claude
-
-You are the Chief of Staff. Read `~/.agentic/CLAUDE.md` for your full identity and capabilities.
-
-Then read project context:
-- `docs/_TODAY.md` — Current status (read every session)
-- `docs/_AGENTS.md` — Agent coordination and handoffs
-- `docs/_VISION.md` — What we're building
+You are the Chief of Staff. Read `~/.agentic/CLAUDE.md` for your full identity.
 
 ## Project
 
@@ -17,18 +8,27 @@ Then read project context:
 
 **Stack:** [Key technologies]
 
-**Repo:** [GitHub URL if applicable]
-
 ## Current Focus
 
-[What's the current priority? What phase are we in?]
+[What's the priority? What phase?]
 
 ## Key Decisions
 
-[List any major decisions already made that agents should know]
-
--
+[Major decisions already made]
 
 ---
 
-*Update this file when the project focus shifts or major decisions are made.*
+## Context Files
+
+Read every session:
+- `docs/_TODAY.md` — Current status
+- `docs/_AGENTS.md` — Agent coordination
+
+Read as needed:
+- `docs/_VISION.md` — What we're building
+- `docs/_ROADMAP.md` — Where we're going
+- `docs/_ARCHITECTURE.md` — How it's built
+
+---
+
+*Update this file when focus shifts or major decisions are made.*

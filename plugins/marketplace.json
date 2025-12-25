@@ -6,9 +6,9 @@
       "path": "./wrap"
     },
     {
-      "name": "agentic-status",
-      "description": "Check coordination state across terminals",
-      "path": "./status"
+      "name": "agentic-sup",
+      "description": "Quick check on what's up across the project",
+      "path": "./sup"
     }
   ]
 }

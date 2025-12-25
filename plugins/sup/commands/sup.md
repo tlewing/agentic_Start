@@ -1,6 +1,6 @@
 ---
 allowed-tools: Bash(git:*), Read(*)
-description: Check coordination state across terminals
+description: Quick check on what's up across the project
 ---
 
 ## Context

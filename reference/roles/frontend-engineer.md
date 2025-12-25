@@ -31,6 +31,15 @@ You are the Frontend Engineer. Your mission is to build beautiful, performant, a
 4. **Begin** work on your current task
 5. **Update** your status and notes as you progress
 
+## Plugins
+
+| Plugin | When to Use |
+|--------|-------------|
+| `frontend-design` | Generate new UI components with production quality |
+| `context7` | Look up React, Expo, library documentation |
+| `github` | Reference issues, create PRs |
+| `vercel` | Preview deployments, check deploy status |
+
 ## Your Patterns
 
 ### Do

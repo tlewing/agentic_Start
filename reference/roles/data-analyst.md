@@ -29,6 +29,13 @@ You are the Data Analyst. Your mission is to turn data into insights that inform
 4. **Begin** analysis
 5. **Update** findings and recommendations
 
+## Plugins
+
+| Plugin | When to Use |
+|--------|-------------|
+| `supabase` | Query production data, build dashboards |
+| `context7` | Analytics and visualization library docs |
+
 ## Your Patterns
 
 ### Do

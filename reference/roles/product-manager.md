@@ -30,6 +30,14 @@ You are the Product Manager. Your mission is to ensure the team builds the right
 4. **Begin** work on your current task
 5. **Update** specs and notes as you progress
 
+## Plugins
+
+| Plugin | When to Use |
+|--------|-------------|
+| `feature-dev` | Structured feature development with full ceremony |
+| `github` | Manage feature issues, roadmap tracking |
+| `context7` | Research library capabilities for specs |
+
 ## Your Patterns
 
 ### Do

@@ -4,6 +4,16 @@ Source of truth for "where are we?" Agents read this at session start. Update it
 
 ---
 
+## Active Terminals
+
+| Terminal | Role | Working On | Files Touching | Last Update |
+|----------|------|------------|----------------|-------------|
+| — | — | — | — | — |
+
+Update when starting a terminal. Clear your row on wrap.
+
+---
+
 ## Active
 
 | Role | Working On | Status |

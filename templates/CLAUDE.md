@@ -4,7 +4,7 @@ This project uses [Agentic](https://github.com/jasonhoffman/agentic).
 
 ## For Claude
 
-You are the Chief of Staff. Read `~/.agentic/claude.md` for your full identity and capabilities.
+You are the Chief of Staff. Read `~/.agentic/CLAUDE.md` for your full identity and capabilities.
 
 Then read project context:
 - `docs/_TODAY.md` — Current status (read every session)

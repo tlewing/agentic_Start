@@ -8,7 +8,7 @@ Copy these to your project to get started.
 
 ```bash
 # From your project directory
-cp ~/.agentic/templates/claude.md ./
+cp ~/.agentic/templates/CLAUDE.md ./
 cp -r ~/.agentic/templates/docs ./
 ```
 
@@ -16,7 +16,7 @@ You'll have:
 
 ```
 your-project/
-├── claude.md               # Connects project to Agentic framework
+├── CLAUDE.md               # Connects project to Agentic framework
 └── docs/
     ├── _TODAY.md           # Daily operations (read every morning)
     ├── _AGENTS.md          # Agent coordination
@@ -32,7 +32,7 @@ your-project/
 
 | File | Purpose | Who Updates |
 |------|---------|-------------|
-| `claude.md` | Connects project to Agentic framework | You (when focus shifts) |
+| `CLAUDE.md` | Connects project to Agentic framework | You (when focus shifts) |
 | `_TODAY.md` | Your daily briefing — decisions, checkpoints, status | Agents update, you read |
 | `_AGENTS.md` | Agent status and coordination | Agents update |
 | `_VISION.md` | What you're building and why | You write, agents read |
@@ -44,7 +44,7 @@ your-project/
 
 ## After Copying
 
-1. **Fill in `claude.md`** — Project name, one-liner, current focus
+1. **Fill in `CLAUDE.md`** — Project name, one-liner, current focus
 2. **Fill in `_VISION.md`** — Describe what you're building
 3. **Activate Product Manager** — Get help with roadmap
 4. **Start building** — Create your first work package

@@ -1,41 +1,112 @@
 # Agentic
 
-A framework for working with AI agents in parallel.
+A coordination layer for humans running parallel Claude sessions.
+
+---
+
+## What This Is (and Isn't)
+
+Claude Code has a `feature-dev` plugin. It's excellent — a 7-phase process where Claude drives discovery, exploration, architecture, implementation, and review. You approve checkpoints. Claude runs the show.
+
+**This framework solves a different problem.**
+
+You have multiple terminals open. Each is running Claude. One's building an API, another's on the frontend, a third is running tests. You're switching between them, making decisions, unblocking work.
+
+The question isn't "how do I automate feature development?" It's:
+
+- **What is this terminal doing right now?**
+- **Where was it when I left?**
+- **Why did it make that choice?**
+
+This framework helps you stay oriented while *you* orchestrate the work.
+
+| | feature-dev | agentic |
+|---|---|---|
+| **Who drives** | Claude | You |
+| **Structure** | 7 sequential phases | Parallel terminals |
+| **Coordination** | Built into the process | Shared files + handoffs |
+| **Best for** | Complex features, thorough process | Multiple workstreams, human orchestration |
+
+Use both. Run `feature-dev` in one terminal while doing something else in another. They complement each other.
+
+---
+
+## The Plugins You Already Have
+
+This framework assumes you're using Claude Code with plugins:
+
+| Plugin | Role |
+|--------|------|
+| `feature-dev` | Structured feature development (when you want Claude to drive) |
+| `code-review` | PR review |
+| `commit-commands` | `/commit`, `/commit-push-pr`, `/clean_gone` |
+| `frontend-design` | Production-grade UI generation |
+| `context7` | Up-to-date library docs |
+| `github` | GitHub integration |
+| `supabase` | Supabase tooling |
+| `typescript-lsp` | TypeScript language server |
+| `pyright-lsp` | Python language server |
+| `gopls-lsp` | Go language server |
+
+The plugins handle *capabilities*. This framework handles *coordination*.
 
 ---
 
 ## The Problem
 
-You ask Claude to build something. It takes 20 minutes. You wait.
+You ask Claude to build something. It takes 30 minutes. You wait.
 
-That's 20 minutes you could spend on something else.
+Or: you open three terminals, start three workstreams, and now you're filling lag time instead of wasting it.
+
+But now you have a new problem: **orientation**. Which terminal is doing what? What's blocked? What decisions are waiting?
 
 ---
 
 ## The Solution
 
-Open multiple terminals. Give each one a clear role.
+**Roles** give each terminal an identity. Glance at Terminal 2 — "that's Backend on the profiles API."
 
-```
-Terminal 1: Backend building the profiles API
-Terminal 2: Tests running across the stack
-Terminal 3: Documentation being updated
-Terminal 4: You finding UI bugs with QA
-```
+**`_AGENTS.md`** tracks who's doing what, what's done, what's blocked.
 
-Now you're filling lag time instead of waiting. When you switch between terminals, the roles help you orient instantly.
+**Handoffs capture reasoning**, not just facts. "Used soft deletes because we need account restoration" — so the next terminal (or tomorrow's you) has context.
+
+**Commands** like `wrap`, `status`, and `today` keep state clean and visible.
 
 ---
 
-## What This Repo Provides
+## How It Works
 
-**Roles** — Backend Engineer, Frontend Engineer, QA, etc. Each terminal has a clear identity. You know what it's doing when you glance at it.
+### Single terminal (role shifting)
 
-**Coordination files** — `_AGENTS.md` shows who's doing what. When you (or an agent) need to know the state, it's there.
+```
+You: Build the user profiles feature
 
-**Handoffs** — When one role finishes, it writes notes for the next. Captures what was done and why.
+Chief of Staff: Let me bring in Backend for the API.
 
-**Simple commands** — `wrap` closes out work cleanly. `status` shows current state. `today` shows what needs attention.
+[shifts to Backend Engineer, works]
+
+Backend: API done. Tests passing.
+
+[shifts back]
+
+Chief of Staff: Frontend next?
+```
+
+### Multiple terminals (parallel work)
+
+```
+Terminal 1                    Terminal 2                    Terminal 3
+─────────────────────────     ─────────────────────────     ─────────────────────────
+"You're Backend.              "You're Frontend.             "You're QA.
+Build the profiles API."      Build the profile screen."    Test the auth flow."
+
+[works 30 min]                [works 20 min]                [works 15 min]
+```
+
+Each terminal is independent. Coordination happens through:
+- `_AGENTS.md` — shared state
+- Git — branches, commits
+- You — checking in, deciding, unblocking
 
 ---
 
@@ -47,98 +118,7 @@ cd ~/.agentic
 claude
 ```
 
-Say "hi" or describe what you're building.
-
----
-
-## How It Works
-
-**Single terminal:**
-```
-You: Build the user profiles feature
-
-Chief of Staff: Let me bring in Backend for the API.
-
-[works as Backend]
-
-Done. Frontend next?
-```
-
-**Multiple terminals:**
-```
-Terminal 1                    Terminal 2
-─────────────────────────     ─────────────────────────
-"You're Backend.              "You're Frontend.
-Build the profiles API."      Build the profile screen."
-
-[works for 30 min]            [works for 20 min]
-```
-
-Each terminal works independently. They coordinate through `_AGENTS.md` — who's doing what, what's done, what's blocked.
-
----
-
-## Why Roles Matter
-
-When you have 5 terminals open, each needs a clear identity.
-
-You glance at Terminal 3: "That's QA running tests."
-You glance at Terminal 1: "That's Backend on profiles."
-
-The role isn't a capability limit — Backend can write frontend code if needed. It's a **focus context** that makes switching clean.
-
----
-
-## Why `_AGENTS.md` Matters
-
-It's the source of truth for "where are we?"
-
-When you switch to a terminal after an hour, you need to orient. When an agent starts a session, it needs to know the state.
-
-`_AGENTS.md` answers:
-- Who's working on what right now
-- What's done
-- What's blocked
-- Handoff notes with context
-
----
-
-## Why Handoffs Capture "Why"
-
-Not just "Profiles API done."
-
-But: "Profiles API done. Used soft deletes because we need to restore accounts. Rate limited to 100/min based on expected traffic. Types in `lib/types.ts`."
-
-So when you (or the next agent) pick up, you have context, not just facts.
-
----
-
-## The Commands
-
-| Say | Get |
-|-----|-----|
-| `hi` / `morning` | Pick up where you left off |
-| `status` | Current state across all work |
-| `today` | What needs attention |
-| `wrap` | Close out — document, commit, clean up |
-
----
-
-## The Roles
-
-| Role | Focus |
-|------|-------|
-| **Chief of Staff** | Orchestration, orientation, shifting between roles |
-| **Product Manager** | Specs, priorities, scope |
-| **UX Designer** | User flows, wireframes |
-| **UI Designer** | Visual design, styling |
-| **Backend Engineer** | APIs, database, server logic |
-| **Frontend Engineer** | UI, screens, components |
-| **QA Engineer** | Testing, quality, edge cases |
-| **Security Engineer** | Auth, vulnerabilities, review |
-| **Platform Engineer** | Deploy, CI/CD, infrastructure |
-
-Plus: Data Analyst, Growth Engineer, Technical Writer, Customer Success, Project Manager, Operations Manager.
+Say "hi" — the Chief of Staff reads context and tells you where things stand.
 
 ---
 
@@ -146,9 +126,29 @@ Plus: Data Analyst, Growth Engineer, Technical Writer, Customer Success, Project
 
 | Doc | What |
 |-----|------|
-| [AGENTS.md](AGENTS.md) | The roles and how they work |
+| [CLAUDE.md](CLAUDE.md) | Chief of Staff instructions |
+| [AGENTS.md](AGENTS.md) | Role definitions |
 | [TECH_STACK.md](TECH_STACK.md) | Default tech choices |
-| [reference/](reference/) | Deep dives |
+| [reference/](reference/) | Deep dives on roles, workflows, concepts |
+
+---
+
+## When to Use What
+
+**Use `feature-dev`** when:
+- You want Claude to drive a thorough process
+- Single complex feature, full ceremony
+- You'll approve checkpoints but not actively orchestrate
+
+**Use this framework** when:
+- You want to run multiple workstreams in parallel
+- You're the orchestrator, Claude is the specialist
+- You need to stay oriented across terminals and sessions
+
+**Use both** when:
+- `feature-dev` runs in Terminal 1
+- You do other work in Terminals 2-4
+- Coordination happens through `_AGENTS.md`
 
 ---
 

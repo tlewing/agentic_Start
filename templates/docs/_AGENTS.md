@@ -4,6 +4,60 @@ This file coordinates all agent activity on this project. Agents read this file 
 
 ---
 
+## Quick Status
+
+| Area | Status |
+|------|--------|
+| **Active Work Packages** | 0 |
+| **Blocking Decisions** | 0 |
+| **Checkpoints Pending** | 0 |
+
+---
+
+## Work Packages
+
+### Active
+
+| Package | Phase | Agent | State | Blocking? |
+|---------|-------|-------|-------|-----------|
+| *None* | — | — | — | — |
+
+### Queued
+
+| Package | Next Phase | Waiting For |
+|---------|------------|-------------|
+| *None* | — | — |
+
+### Completed (Last 14 Days)
+
+| Package | Shipped | Notes |
+|---------|---------|-------|
+| *None* | — | — |
+
+---
+
+## Decision Queue
+
+### Blocking (work stopped until decided)
+
+| Package | Question | Options | Agent Rec | Added |
+|---------|----------|---------|-----------|-------|
+| *None* | — | — | — | — |
+
+### Non-Blocking (decide by EOD)
+
+| Package | Question | Options | Agent Rec | Added |
+|---------|----------|---------|-----------|-------|
+| *None* | — | — | — | — |
+
+### Recently Decided
+
+| Package | Decision | Rationale | Decided | By |
+|---------|----------|-----------|---------|-----|
+| *None* | — | — | — | — |
+
+---
+
 ## Active Agents
 
 | Role | Status | Current Focus |
@@ -23,7 +77,8 @@ This file coordinates all agent activity on this project. Agents read this file 
 | Field | Value |
 |-------|-------|
 | **Status** | Inactive |
-| **Current Task** | — |
+| **Work Package** | — |
+| **Phase** | — |
 | **Last Updated** | — |
 
 ### Task Queue
@@ -41,7 +96,8 @@ This file coordinates all agent activity on this project. Agents read this file 
 | Field | Value |
 |-------|-------|
 | **Status** | Inactive |
-| **Current Task** | — |
+| **Work Package** | — |
+| **Phase** | — |
 | **Last Updated** | — |
 
 ### Task Queue
@@ -59,7 +115,8 @@ This file coordinates all agent activity on this project. Agents read this file 
 | Field | Value |
 |-------|-------|
 | **Status** | Inactive |
-| **Current Task** | — |
+| **Work Package** | — |
+| **Phase** | — |
 | **Last Updated** | — |
 
 ### Task Queue
@@ -77,7 +134,8 @@ This file coordinates all agent activity on this project. Agents read this file 
 | Field | Value |
 |-------|-------|
 | **Status** | Inactive |
-| **Current Task** | — |
+| **Work Package** | — |
+| **Phase** | — |
 | **Last Updated** | — |
 
 ### Task Queue
@@ -95,7 +153,8 @@ This file coordinates all agent activity on this project. Agents read this file 
 | Field | Value |
 |-------|-------|
 | **Status** | Inactive |
-| **Current Task** | — |
+| **Work Package** | — |
+| **Phase** | — |
 | **Last Updated** | — |
 
 ### Task Queue
@@ -125,31 +184,45 @@ This file coordinates all agent activity on this project. Agents read this file 
 
 *Use this section to leave notes for other agents. Include your role and date.*
 
-### Template
+### Handoff Template
 
 ```markdown
-### From [Role] (Date)
+### Handoff: [From Role] → [To Role]
 
-**Context:** What you did and why
+**Work Package:** [Name]
+**Phase Transition:** [From Phase] → [To Phase]
+**State:** Complete | Auto-Proceed
 
-**For [Other Role]:**
-- Specific action or information they need
-- File references with line numbers
-- Questions that need answers
+---
 
-**Blocking:** Yes / No
+**For [Next Agent]:**
+- Specific instruction 1
+- Specific instruction 2
+- Files: `path/to/file.ts:line`
+
+**For Founder (FYI):**
+- One-line summary
+- Any concerns (or "No concerns")
+
+**Artifacts:**
+- [x] Completed items
+- [ ] Pending items for next agent
 ```
 
 ---
 
 ## Escalations
 
-*Document questions for the human here.*
+*For urgent issues only. Use Decision Queue for normal decisions.*
 
 ```markdown
 ### Escalation: [Role] (Date)
 
+**Urgency:** High / Medium / Low
+
 **Question:** What do you need decided?
+
+**Context:** Why this is urgent
 
 **Options:**
 1. Option A — trade-offs
@@ -158,7 +231,23 @@ This file coordinates all agent activity on this project. Agents read this file 
 **Recommendation:** Your suggestion
 
 **Blocking:** Yes / No
+**Impact if not decided today:** What happens
 ```
+
+---
+
+## Standing Decisions
+
+*Pre-made decisions agents can reference. Founder updates this section.*
+
+### Technology
+- *None yet*
+
+### UX
+- *None yet*
+
+### Security
+- *None yet*
 
 ---
 
@@ -166,12 +255,12 @@ This file coordinates all agent activity on this project. Agents read this file 
 
 *Document project-specific patterns all agents should follow.*
 
-### Example: File Naming
+### File Naming
 - Components: `PascalCase.tsx`
 - Utilities: `kebab-case.ts`
 - Tests: `ComponentName.test.tsx`
 
-### Example: Commit Messages
+### Commit Messages
 - Format: `type(scope): description`
 - Types: feat, fix, docs, test, refactor
 
@@ -179,10 +268,10 @@ This file coordinates all agent activity on this project. Agents read this file 
 
 ## Resources
 
-*Links to key documentation*
-
 | Doc | Purpose |
 |-----|---------|
-| `docs/_ARCHITECTURE.md` | Technical decisions |
-| `docs/_SCHEMA.md` | Database design |
+| `docs/_VISION.md` | What we're building |
 | `docs/_ROADMAP.md` | Product priorities |
+| `docs/_ARCHITECTURE.md` | Technical decisions |
+| `docs/_CONVENTIONS.md` | Coding standards |
+

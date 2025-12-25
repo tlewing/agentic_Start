@@ -1,6 +1,6 @@
-# Chapter 8: Technology Choices
+# Tech Stack
 
-An example stack that lets you move fast without piecing things together.
+The default stack. Move fast without piecing things together.
 
 ---
 
@@ -639,5 +639,5 @@ You can debate alternatives forever. Or you can use this and start building.
 
 ---
 
-→ Back to [00_START_HERE.md](00_START_HERE.md)
+→ Back to [README](README.md)
 

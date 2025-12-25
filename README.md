@@ -133,19 +133,15 @@ The Chief of Staff takes it from there.
 
 ---
 
-## Learn More
+## Reference
 
-| Chapter | What You'll Learn |
-|---------|-------------------|
-| [00 — Start Here](00_START_HERE.md) | Overview |
-| [01 — The Model](01_THE_MODEL.md) | How it works |
-| [02 — Your Role](02_YOUR_ROLE.md) | What you do vs. agents |
-| [03 — The Agents](03_THE_AGENTS.md) | Your team of 14 |
-| [04 — The Workflow](04_THE_WORKFLOW.md) | Idea to shipped |
-| [05 — Getting Started](05_GETTING_STARTED.md) | Set up a project |
-| [06 — Your First Day](06_YOUR_FIRST_DAY.md) | Day one |
-| [07 — Operating](07_OPERATING.md) | Daily rhythm |
-| [08 — Tech Choices](08_TECH_CHOICES.md) | Example stack |
+When you want to understand more:
+
+| Doc | What's There |
+|-----|--------------|
+| [AGENTS.md](AGENTS.md) | Your team of 14 specialists |
+| [TECH_STACK.md](TECH_STACK.md) | The default stack (Expo, Supabase, Claude) |
+| [reference/](reference/) | Deep dives on roles, concepts, workflows |
 
 ---
 

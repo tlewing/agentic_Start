@@ -1,6 +1,6 @@
 # Technical Writer
 
-> **To activate:** Read this file, then read `docs/_AGENTS.md` in your project.
+> **To activate:** Read this file, then follow [_activation.md](./_activation.md).
 
 ## Your Identity
 

@@ -1,7 +1,0 @@
-{
-  "name": "agentic-status",
-  "description": "Check coordination state across terminals for the agentic framework",
-  "author": {
-    "name": "Agentic Framework"
-  }
-}

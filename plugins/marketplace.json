@@ -1,14 +1,3 @@
 {
-  "plugins": [
-    {
-      "name": "agentic-wrap",
-      "description": "Close out work with handoff notes, code review, and structured commits",
-      "path": "./wrap"
-    },
-    {
-      "name": "agentic-sup",
-      "description": "Quick check on what's up across the project",
-      "path": "./sup"
-    }
-  ]
+  "plugins": []
 }

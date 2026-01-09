@@ -14,7 +14,7 @@ Central index of all projects under management.
 | **Purpose** | Switch data center capacity planning & commitment management |
 | **Tech** | React + Vite + Tailwind + nginx, Node/Express, PostgreSQL, Prisma |
 | **Deployed** | Unraid @ http://10.69.2.45:3003 (external: https://capcom.ewingfam.net) |
-| **Version** | v1.3 |
+| **Version** | v1.4 |
 | **Status** | Deployed, operational |
 | **Last Touched** | 2026-01-09 |
 

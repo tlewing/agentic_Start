@@ -194,6 +194,47 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-09 — CAPCOM v1.4 CEO Demo Prep
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~4 hours (overnight YOLO mode)
+
+### What was done
+- Audited all CAPCOM files for Sold vs Sellable capacity
+- Critical finding: 15 of 16 facilities are OVERSOLD (128.4% utilization)
+- Created importFacilitySummary.js with dynamic row detection
+- Updated Dashboard to show oversell indicators
+- Added Anonymous toggle and Job Title to Feedback form
+- Added jobTitle field to Prisma schema
+- Deployed v1.4 to Unraid (backend + frontend)
+
+### Audit Findings
+| Metric | Value |
+|--------|-------|
+| Total Sellable | 257.6 MW |
+| Total Sold | 330.8 MW |
+| Utilization | 128.4% |
+| Oversold Facilities | 15 of 16 |
+
+Most oversold: LAS05 (237%), LAS02 (167%), LAS10 (157%), LAS11 (154%), LAS07 (152%)
+
+### Files changed
+- backend/prisma/importFacilitySummary.js (new)
+- backend/prisma/schema.prisma (jobTitle field)
+- frontend/src/pages/Dashboard.jsx (oversell indicator)
+- frontend/src/pages/Feedback.jsx (Anonymous/JobTitle)
+
+### Known Issues for CEO Demo
+1. Some CAPCOM files have Sold row not detected (Row ?? in import)
+2. Dashboard shows 343.5 MW sellable (import update needed)
+3. Sold values vary by file structure (Row 12, 13, or 17)
+
+### Next steps
+- CEO demo at 6am PST
+- May need manual verification of specific facility data
+
+---
+
 ## 2026-01-09 — CAPCOM v1.3 Sellable Capacity
 
 **Projects touched:** capcom, jebidiah

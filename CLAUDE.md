@@ -10,7 +10,7 @@ All projects live in `D:\github repositories\`. Each has its own `CLAUDE.md` wit
 
 | Project | Path | Purpose | Status |
 |---------|------|---------|--------|
-| **capcom** | `D:\github repositories\capcom` | Switch data center capacity planning | v1.1 deployed |
+| **capcom** | `D:\github repositories\capcom` | Switch data center capacity planning | v1.2.1 deployed |
 | **home-infrastructure** | `D:\github repositories\home-infrastructure` | Home lab infrastructure management | Active |
 | **jebidiah** | `D:\github repositories\jebidiah` | This framework — your identity | Active |
 

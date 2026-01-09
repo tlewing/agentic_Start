@@ -149,8 +149,48 @@ Chronological record of significant work sessions.
 5. **effectiveContract pattern:** For shared infrastructure, aggregate cabinet-level allocations to show meaningful customer totals
 
 ### Next steps
-- Consider adding "Shared" indicator in UI for multi-tenant TSCIFs
-- Document CAPCOM data model in project README
+- ~~Document CAPCOM data model in project README~~ DONE v1.2.1
+
+---
+
+## 2026-01-09 — CAPCOM v1.2.1 QA & Documentation
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~1 hour
+
+### What was done
+- QA sweep of all CAPCOM pages before user release
+- Added all power metrics to Dashboard (Sold, Installed, Actual, Peak, Forecast)
+- Fixed Customer → Facility navigation (was /facility/, now /facilities/)
+- Made Feedback form mobile-friendly (larger touch targets, full-width buttons)
+- Updated all documentation (CLAUDE.md, README.md, _REGISTRY.md, _AUDIT.md)
+- Committed and pushed all projects to GitHub
+
+### Dashboard Metrics Now Shown
+| Row 1 (Power) | Row 2 (Counts) |
+|---------------|----------------|
+| UPS Capacity | Facilities |
+| Sold | TSCIFs |
+| Installed | Customer Cabs |
+| Actual | Available |
+| Peak | |
+| Forecast | |
+
+### Files changed
+- frontend/src/pages/Dashboard.jsx (added metrics)
+- frontend/src/pages/CustomerDetail.jsx (fixed routes)
+- frontend/src/pages/Feedback.jsx (mobile UX)
+- CLAUDE.md (v1.2.1 update)
+- README.md (v1.2.1 update)
+
+### Deployment
+- Rebuilt frontend container on Unraid
+- Verified all routes return 200
+- External access working: https://capcom.ewingfam.net
+
+### Next steps
+- User acceptance testing at 9:30 PST
+- Consider adding "Shared" indicator badge for multi-tenant TSCIFs
 
 ---
 

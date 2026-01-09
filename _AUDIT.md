@@ -194,6 +194,39 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-09 — CAPCOM Data Import Fix (Unmapped Sectors)
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~1 hour
+
+### What was done
+- Fixed importCapcomData.js to distribute remaining sellable capacity to unmapped sectors
+- RNO01 was showing 24,890 kW instead of correct 48,733 kW (mapped sectors only)
+- Sectors 05-11 in RNO01 and similar unmapped sectors now receive proportional share
+- Dashboard now shows 317.7 MW total sellable (correctly from CAPCOM files)
+- Verified TSCIF values tie out: contractKw, forecastKw, forecastPct all populated
+
+### Root Cause
+- CAPCOM files only have columns for sectors 0-4 in Facility Summary
+- Sectors 05-11 had no column mapping, so they retained old estimated values
+- Fix: Distribute (facilitySellable - mappedSectorSum) proportionally to unmapped sectors
+
+### Files changed
+- backend/prisma/importCapcomData.js (unmapped sector distribution)
+- CEO_DEMO_NOTES.md (updated values)
+
+### Data Verification
+| Facility | CAPCOM D4 | Dashboard | Status |
+|----------|-----------|-----------|--------|
+| RNO01 | 48,733 kW | 48,733 kW | MATCH |
+| LAS09 | 20,832 kW | 20,832 kW | MATCH |
+| Portfolio | - | 317.7 MW | Correct |
+
+### Next steps
+- None - data ties out correctly
+
+---
+
 ## 2026-01-09 — CAPCOM v1.4 CEO Demo Prep
 
 **Projects touched:** capcom, jebidiah

@@ -1,1 +1,7 @@
 .claude/settings.local.json
+
+# Local secrets - NEVER COMMIT
+_SECRETS.local
+*.local
+.env
+.env.*

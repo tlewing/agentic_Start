@@ -1,4 +1,4 @@
-# Agentic
+# Jebidiah
 
 A coordination layer for humans running parallel Claude sessions.
 
@@ -20,7 +20,7 @@ The question isn't "how do I automate feature development?" It's:
 
 This framework helps you stay oriented while *you* orchestrate the work.
 
-| | feature-dev | agentic |
+| | feature-dev | jebidiah |
 |---|---|---|
 | **Who drives** | Claude | You |
 | **Structure** | 7 sequential phases | Parallel terminals |
@@ -113,8 +113,8 @@ Each terminal is independent. Coordination happens through:
 ## Quick Start
 
 ```bash
-git clone https://github.com/jasonhoffman/agentic ~/.agentic
-cd ~/.agentic
+git clone https://github.com/jasonhoffman/jebidiah ~/.jebidiah
+cd ~/.jebidiah
 claude
 ```
 

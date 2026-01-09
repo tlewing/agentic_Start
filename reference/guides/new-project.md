@@ -1,6 +1,6 @@
 # New Project Guide
 
-How to start a new project from scratch using Agentic.
+How to start a new project from scratch using Jebidiah.
 
 ---
 
@@ -29,12 +29,12 @@ git init
 # Create docs directory
 mkdir docs
 
-# Copy templates from Agentic
-cp ~/projects/agentic/templates/_VISION.md docs/
-cp ~/projects/agentic/templates/_ROADMAP.md docs/
-cp ~/projects/agentic/templates/_AGENTS.md docs/
-cp ~/projects/agentic/templates/_ARCHITECTURE.md docs/
-cp ~/projects/agentic/templates/_CONVENTIONS.md docs/
+# Copy templates from Jebidiah
+cp ~/projects/jebidiah/templates/_VISION.md docs/
+cp ~/projects/jebidiah/templates/_ROADMAP.md docs/
+cp ~/projects/jebidiah/templates/_AGENTS.md docs/
+cp ~/projects/jebidiah/templates/_ARCHITECTURE.md docs/
+cp ~/projects/jebidiah/templates/_CONVENTIONS.md docs/
 ```
 
 You now have:
@@ -98,7 +98,7 @@ Just get your thoughts down. The Product Manager will help refine.
 Now bring in your first agent:
 
 ```
-You are ~/projects/agentic/docs/roles/product-manager.md
+You are ~/projects/jebidiah/docs/roles/product-manager.md
 
 This is a new project. Read docs/_VISION.md and help me:
 1. Ask clarifying questions about the vision
@@ -146,7 +146,7 @@ After this conversation, you'll have:
 If your project needs technical design, activate the Backend Engineer:
 
 ```
-You are ~/projects/agentic/docs/roles/backend-engineer.md
+You are ~/projects/jebidiah/docs/roles/backend-engineer.md
 
 Read docs/_VISION.md and docs/_ROADMAP.md. Help me:
 1. Propose a tech stack for this project
@@ -168,14 +168,14 @@ Once you have vision, roadmap, and architecture, activate engineering agents:
 
 **For UI-heavy work:**
 ```
-You are ~/projects/agentic/docs/roles/frontend-engineer.md
+You are ~/projects/jebidiah/docs/roles/frontend-engineer.md
 
 Read docs/_AGENTS.md for your task queue. We're starting Phase 1.
 ```
 
 **For backend work:**
 ```
-You are ~/projects/agentic/docs/roles/backend-engineer.md
+You are ~/projects/jebidiah/docs/roles/backend-engineer.md
 
 Read docs/_AGENTS.md for your task queue. Start with the database schema.
 ```

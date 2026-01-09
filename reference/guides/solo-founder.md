@@ -79,7 +79,7 @@ You → Code → Ship
      (bottleneck is your typing speed)
 ```
 
-**Agentic solo founder:**
+**Jebidiah solo founder:**
 ```
 You → Direction → Agents → Code → Ship
      (bottleneck is your judgment bandwidth)

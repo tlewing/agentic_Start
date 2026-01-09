@@ -95,7 +95,7 @@
 > **Next Step:** Activate the Product Manager agent to refine this vision and create your roadmap.
 >
 > ```
-> You are ~/projects/agentic/docs/roles/product-manager.md
+> You are ~/projects/jebidiah/docs/roles/product-manager.md
 >
 > This is a new project. Read docs/_VISION.md and help me:
 > 1. Refine the vision (ask clarifying questions)

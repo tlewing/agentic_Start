@@ -17,7 +17,7 @@ Each role file defines:
 
 To activate an agent:
 ```
-You are ~/projects/agentic/reference/roles/[role-name].md
+You are ~/projects/jebidiah/reference/roles/[role-name].md
 
 [Your task here]
 ```

@@ -1,12 +1,12 @@
 # Existing Project Guide
 
-How to adopt Agentic for a project that already has code.
+How to adopt Jebidiah for a project that already has code.
 
 ---
 
 ## Overview
 
-Adopting Agentic for an existing project involves:
+Adopting Jebidiah for an existing project involves:
 
 1. Add documentation structure
 2. Capture current state
@@ -26,11 +26,11 @@ cd your-existing-project
 mkdir -p docs
 
 # Copy templates
-cp ~/projects/agentic/templates/_AGENTS.md docs/
-cp ~/projects/agentic/templates/_VISION.md docs/
-cp ~/projects/agentic/templates/_ROADMAP.md docs/
-cp ~/projects/agentic/templates/_ARCHITECTURE.md docs/
-cp ~/projects/agentic/templates/_CONVENTIONS.md docs/
+cp ~/projects/jebidiah/templates/_AGENTS.md docs/
+cp ~/projects/jebidiah/templates/_VISION.md docs/
+cp ~/projects/jebidiah/templates/_ROADMAP.md docs/
+cp ~/projects/jebidiah/templates/_ARCHITECTURE.md docs/
+cp ~/projects/jebidiah/templates/_CONVENTIONS.md docs/
 ```
 
 ---
@@ -63,7 +63,7 @@ If you know the codebase well, fill in the templates:
 Activate the Technical Writer or Backend Engineer to explore:
 
 ```
-You are ~/projects/agentic/docs/roles/technical-writer.md
+You are ~/projects/jebidiah/docs/roles/technical-writer.md
 
 This is an existing project. Help me document its current state:
 1. Explore the codebase structure
@@ -75,7 +75,7 @@ This is an existing project. Help me document its current state:
 Or for more technical analysis:
 
 ```
-You are ~/projects/agentic/docs/roles/backend-engineer.md
+You are ~/projects/jebidiah/docs/roles/backend-engineer.md
 
 This is an existing project. Help me understand:
 1. The overall architecture
@@ -91,7 +91,7 @@ This is an existing project. Help me understand:
 Your project probably has implicit plans. Make them explicit:
 
 ```
-You are ~/projects/agentic/docs/roles/product-manager.md
+You are ~/projects/jebidiah/docs/roles/product-manager.md
 
 This is an existing project. Help me:
 1. Document what we've already built (recently completed)
@@ -113,7 +113,7 @@ After this, `_ROADMAP.md` should reflect:
 Look at your existing code to extract patterns:
 
 ```
-You are ~/projects/agentic/docs/roles/platform-engineer.md
+You are ~/projects/jebidiah/docs/roles/platform-engineer.md
 
 Analyze this codebase and help me document our conventions:
 1. File and folder structure
@@ -169,7 +169,7 @@ Now configure the coordination file for your team:
 Activate the Backend Engineer or Platform Engineer to audit:
 
 ```
-You are ~/projects/agentic/docs/roles/backend-engineer.md
+You are ~/projects/jebidiah/docs/roles/backend-engineer.md
 
 Audit this codebase for technical debt:
 1. Identify areas that need refactoring
@@ -182,7 +182,7 @@ Audit this codebase for technical debt:
 Activate the QA Engineer to create a testing strategy:
 
 ```
-You are ~/projects/agentic/docs/roles/qa-engineer.md
+You are ~/projects/jebidiah/docs/roles/qa-engineer.md
 
 This project has minimal test coverage. Help me:
 1. Identify critical paths that need tests first
@@ -195,7 +195,7 @@ This project has minimal test coverage. Help me:
 Activate the Technical Writer to audit and update:
 
 ```
-You are ~/projects/agentic/docs/roles/technical-writer.md
+You are ~/projects/jebidiah/docs/roles/technical-writer.md
 
 Our documentation is outdated. Help me:
 1. Identify what's wrong or missing
@@ -208,7 +208,7 @@ Our documentation is outdated. Help me:
 Activate the Security Engineer to audit:
 
 ```
-You are ~/projects/agentic/docs/roles/security-engineer.md
+You are ~/projects/jebidiah/docs/roles/security-engineer.md
 
 Perform a security audit of this codebase:
 1. Check for common vulnerabilities
@@ -253,7 +253,7 @@ Easier to adopt for new features than retrofitting existing code.
 ### Keep Agents Informed
 When activating agents, mention relevant existing patterns:
 ```
-You are ~/projects/agentic/docs/roles/frontend-engineer.md
+You are ~/projects/jebidiah/docs/roles/frontend-engineer.md
 
 Note: We use Vue, not React. Our component pattern is [describe it].
 Check docs/_CONVENTIONS.md for our coding standards.
@@ -284,4 +284,4 @@ Before starting with agents:
 
 ---
 
-> **Remember:** Agentic adapts to your project, not the other way around. Start where you are.
+> **Remember:** Jebidiah adapts to your project, not the other way around. Start where you are.

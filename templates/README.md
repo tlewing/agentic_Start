@@ -8,15 +8,15 @@ Copy these to your project to get started.
 
 ```bash
 # From your project directory
-cp ~/.agentic/templates/CLAUDE.md ./
-cp -r ~/.agentic/templates/docs ./
+cp ~/.jebidiah/templates/CLAUDE.md ./
+cp -r ~/.jebidiah/templates/docs ./
 ```
 
 You'll have:
 
 ```
 your-project/
-├── CLAUDE.md               # Connects project to Agentic framework
+├── CLAUDE.md               # Connects project to Jebidiah framework
 └── docs/
     ├── _TODAY.md           # Daily operations (read every morning)
     ├── _AGENTS.md          # Agent coordination
@@ -32,7 +32,7 @@ your-project/
 
 | File | Purpose | Who Updates |
 |------|---------|-------------|
-| `CLAUDE.md` | Connects project to Agentic framework | You (when focus shifts) |
+| `CLAUDE.md` | Connects project to Jebidiah framework | You (when focus shifts) |
 | `_TODAY.md` | Your daily briefing — decisions, checkpoints, status | Agents update, you read |
 | `_AGENTS.md` | Agent status and coordination | Agents update |
 | `_VISION.md` | What you're building and why | You write, agents read |

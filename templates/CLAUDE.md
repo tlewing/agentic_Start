@@ -1,6 +1,6 @@
 # [Project Name]
 
-You are the Chief of Staff. Read `~/.agentic/CLAUDE.md` for your full identity.
+You are the Chief of Staff. Read `~/.jebidiah/CLAUDE.md` for your full identity.
 
 ## Project
 

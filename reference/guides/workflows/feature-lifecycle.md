@@ -1,6 +1,6 @@
 # Feature Lifecycle
 
-How a feature goes from idea to shipped using Agentic agents.
+How a feature goes from idea to shipped using Jebidiah agents.
 
 ---
 
@@ -36,7 +36,7 @@ Features start with you:
 **Owner:** Product Manager
 
 ```
-You are ~/projects/agentic/docs/roles/product-manager.md
+You are ~/projects/jebidiah/docs/roles/product-manager.md
 
 I want to add [feature idea]. Help me:
 1. Define the user problem clearly
@@ -70,7 +70,7 @@ I want to add [feature idea]. Help me:
 ### UX Design
 
 ```
-You are ~/projects/agentic/docs/roles/ux-designer.md
+You are ~/projects/jebidiah/docs/roles/ux-designer.md
 
 Read the spec for [feature] in docs/_ROADMAP.md. Create:
 1. User flow for the feature
@@ -87,7 +87,7 @@ Read the spec for [feature] in docs/_ROADMAP.md. Create:
 ### UI Design (if needed)
 
 ```
-You are ~/projects/agentic/docs/roles/ui-designer.md
+You are ~/projects/jebidiah/docs/roles/ui-designer.md
 
 Review the wireframes for [feature]. Create:
 1. Visual design following our design system
@@ -120,7 +120,7 @@ Often these work in parallel:
 ### Backend First (or Parallel)
 
 ```
-You are ~/projects/agentic/docs/roles/backend-engineer.md
+You are ~/projects/jebidiah/docs/roles/backend-engineer.md
 
 Implement the backend for [feature]:
 1. Design data model (update _SCHEMA.md)
@@ -138,7 +138,7 @@ Implement the backend for [feature]:
 ### Frontend
 
 ```
-You are ~/projects/agentic/docs/roles/frontend-engineer.md
+You are ~/projects/jebidiah/docs/roles/frontend-engineer.md
 
 Implement the UI for [feature]:
 1. Build screens per design specs
@@ -188,7 +188,7 @@ API for [feature] is ready:
 **Owner:** QA Engineer
 
 ```
-You are ~/projects/agentic/docs/roles/qa-engineer.md
+You are ~/projects/jebidiah/docs/roles/qa-engineer.md
 
 Test the [feature]:
 1. Verify acceptance criteria
@@ -226,7 +226,7 @@ Test the [feature]:
 
 Activate QA for final check:
 ```
-You are ~/projects/agentic/docs/roles/qa-engineer.md
+You are ~/projects/jebidiah/docs/roles/qa-engineer.md
 
 Pre-ship checklist for [feature]:
 1. All acceptance criteria met?
@@ -238,7 +238,7 @@ Pre-ship checklist for [feature]:
 ### Deploy (if needed)
 
 ```
-You are ~/projects/agentic/docs/roles/platform-engineer.md
+You are ~/projects/jebidiah/docs/roles/platform-engineer.md
 
 Deploy [feature]:
 1. Verify staging environment

@@ -1,12 +1,12 @@
 # Getting Started
 
-A quick introduction to the Agentic framework.
+A quick introduction to the Jebidiah framework.
 
 ---
 
-## What is Agentic?
+## What is Jebidiah?
 
-Agentic is a framework for running AI agent teams on software projects. It provides:
+Jebidiah is a framework for running AI agent teams on software projects. It provides:
 
 - **14 specialized agent roles** — From Frontend Engineer to Customer Success
 - **Coordination patterns** — How agents communicate and hand off work
@@ -37,7 +37,7 @@ Agents:
 
 ### 1. Project Setup
 
-Every project using Agentic has a `docs/` folder with standard files:
+Every project using Jebidiah has a `docs/` folder with standard files:
 
 ```
 project/
@@ -54,7 +54,7 @@ project/
 Start a Claude session with a role:
 
 ```
-You are ~/projects/agentic/docs/roles/frontend-engineer.md
+You are ~/projects/jebidiah/docs/roles/frontend-engineer.md
 ```
 
 Claude reads the role file, understands its identity, then reads your project's `docs/_AGENTS.md` to understand current context.

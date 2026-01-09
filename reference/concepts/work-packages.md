@@ -260,7 +260,7 @@ Create the package entry, set initial phase.
 
 ### 6. Activate First Agent
 ```
-You are ~/projects/agentic/docs/roles/product-manager.md
+You are ~/projects/jebidiah/docs/roles/product-manager.md
 
 Work package "User Auth" is starting. Read the package definition
 in docs/_AGENTS.md and create the spec.

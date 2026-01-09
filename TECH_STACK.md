@@ -573,7 +573,7 @@ my-app/
 │   ├── colors.ts
 │   └── config.ts
 │
-├── docs/                   # Agentic docs (copied from templates)
+├── docs/                   # Jebidiah docs (copied from templates)
 │   ├── _TODAY.md
 │   ├── _AGENTS.md
 │   └── ...

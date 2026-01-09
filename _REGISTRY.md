@@ -13,16 +13,21 @@ Central index of all projects under management.
 | **GitHub** | https://github.com/joshewing02/capcom (private) |
 | **Purpose** | Switch data center capacity planning & commitment management |
 | **Tech** | React + Vite + Tailwind, Node/Express, PostgreSQL, Prisma |
-| **Deployed** | Unraid @ http://10.69.2.45:5173 |
-| **Version** | v1.1 |
+| **Deployed** | Unraid @ http://10.69.2.45:3003 (external: https://capcom.ewingfam.net) |
+| **Version** | v1.2 |
 | **Status** | Deployed, operational |
-| **Last Touched** | 2026-01-08 |
+| **Last Touched** | 2026-01-09 |
 
 **Quick Context:**
-- 22 facilities, 85 sectors, 1495 TSCIFs imported from Excel
-- Dashboard with campus views (Core, LAS, RNO, GRR, TX)
-- Utilization gauges, health indicators, TSCIF grid views
-- Backend API at port 3002, frontend at port 5173
+- 22 facilities, 85 sectors, 1495 TSCIFs, 338 with contract data
+- Dashboard with campus views, "Contracted" KPI (84.6 MW total)
+- Customer detail page with facility drill-down to TSCIF level
+- Production nginx build (was Vite dev server)
+- Backend API at port 3002, frontend at port 3003
+
+**Data model notes:**
+- 42% of TSCIFs are "Shared" (multi-tenant) with no individual contract
+- Two import phases: importRealData.js (utilization) + importContractKw.js (contracts)
 
 ---
 

@@ -96,6 +96,64 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-09 — CAPCOM v1.2 Data Quality & Customer Dashboard
+
+**Projects touched:** capcom
+**Duration:** ~3 hours
+
+### What was done
+- Fixed mobile web access (removed .env with hardcoded internal IP)
+- Changed frontend from Vite dev server to nginx production build
+- Changed "Committed" label to "Contracted" throughout Dashboard
+- Created enhanced CustomerDetail page with drill-down to TSCIF level
+  - Summary stat cards (Contracted, Committed, Installed, Peak, Cabinets, TSCIFs)
+  - Expandable facilities list with sector breakdown
+  - Full TSCIF table with navigation links
+- Enhanced /api/customers/:id/summary endpoint
+- Fixed importContractKw.js parsing issues:
+  - Handle numeric facility prefixes (08.04.01A format)
+  - Look for "Sold" labels in addition to "Contract"
+  - Better fallback row detection
+- Imported contract kW values from CAPCOM Excel files (338 TSCIFs updated)
+- Updated SWAG proxy config from port 5173 to 3003
+
+### Data Quality Investigation
+**Root cause of "0 contract but installed > 0" issue:**
+- 628 TSCIFs (42%) are "Shared" multi-tenant infrastructure
+- These don't have individual contracts - contract is at cabinet/customer level
+- CAPCOM files only contain contract data for primary/single-tenant TSCIFs
+- This is correct business logic, not a bug
+
+**Resolution:** Implemented "effectiveContract" calculation
+- For shared TSCIFs with contract=0, aggregate whipKw from cabinet positions matching customer name
+- Customer dashboard now shows "Allocated" (effectiveContract) instead of "Contracted"
+- Example: 24 Hour Fitness went from "0 contract, 105 kW installed" to "89.9 kW allocated, 105 kW installed"
+
+### Files changed
+- backend/src/routes/customers.js (effectiveContract calculation + enhanced summary)
+- backend/prisma/importContractKw.js (fixed parsing)
+- frontend/src/pages/CustomerDetail.jsx (complete rewrite with Allocated display)
+- frontend/src/pages/Dashboard.jsx (Committed → Contracted)
+- frontend/Dockerfile (nginx production build)
+
+### Deployment details
+- Backend: docker @ 10.69.2.45:3002
+- Frontend: docker @ 10.69.2.45:3003 (changed from 5173)
+- External: https://capcom.ewingfam.net (via SWAG)
+
+### Lessons learned
+1. **Two-stage data import:** CAPCOM uses two import phases - importRealData.js (utilization) + importContractKw.js (contracts)
+2. **Shared TSCIFs:** Multi-tenant TSCIFs have customerName="Shared" and no individual contract values
+3. **CAPCOM file formats vary:** Different facilities use different ID formats (08.04.01A vs GRR01.01.01A)
+4. **Production builds matter:** Vite dev server blocks external hosts; nginx production build works for mobile
+5. **effectiveContract pattern:** For shared infrastructure, aggregate cabinet-level allocations to show meaningful customer totals
+
+### Next steps
+- Consider adding "Shared" indicator in UI for multi-tenant TSCIFs
+- Document CAPCOM data model in project README
+
+---
+
 ## Template
 
 ```markdown

@@ -194,6 +194,44 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-09 — CAPCOM v1.3 Sellable Capacity
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~1 hour
+
+### What was done
+- Replaced estimated UPS Capacity (120% of installed) with actual Sellable Capacity from CAPCOM files
+- Created importSellableCapacity.js to read "UPS Sellable Capacity" from Sector High sheets
+- Pattern detection: LAS uses "UPS Sellable Capacity", RNO uses "UPS Capacity"
+- Imported 281.3 MW across 52 sectors from CAPCOM files
+- Dashboard now shows "Sellable Capacity: 351.2 MW" instead of estimated 604.7 MW
+- Updated Dashboard label from "UPS Capacity" to "Sellable Capacity"
+- Verified Forecast is prominent in first row of stats
+
+### Files changed
+- backend/prisma/importSellableCapacity.js (new)
+- frontend/src/pages/Dashboard.jsx (label change)
+- CLAUDE.md (v1.3 update)
+- README.md (v1.3 update)
+
+### Deployment
+- Backend image rebuilt with new import script
+- Import ran successfully: 52 sectors updated, 33 skipped (no CAPCOM file)
+- Frontend rebuilt with updated label
+- External access verified: https://capcom.ewingfam.net
+
+### Data Quality Notes
+- CAPCOM files use different label patterns:
+  - LAS: "UPS Sellable Capacity" at Row 11
+  - RNO: "UPS Capacity" or "UPS Capacity End State" at Row 11-12
+- Combined sectors (e.g., "Sector 4 & 5 High") correctly map to both sector codes
+- Some facilities have no CAPCOM file mapping yet (DFY, MEM, ATL02, HOU02)
+
+### Next steps
+- None specified — v1.3 shipped and working
+
+---
+
 ## Template
 
 ```markdown

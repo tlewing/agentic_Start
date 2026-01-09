@@ -306,6 +306,45 @@ Most oversold: LAS05 (237%), LAS02 (167%), LAS10 (157%), LAS11 (154%), LAS07 (15
 
 ---
 
+## 2026-01-09 — CAPCOM v1.5 Customer Features
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~2 hours
+
+### What was done
+- Added customer search/filter on Customers page
+- Added Top 10 Customers by Contract section with ranking badges
+- Added customer logos using Google Favicon API (150+ company mappings)
+- Added utilization dashboard to CustomerDetail (contracted vs actual gauge)
+- Added /api/customers/top endpoint for top customers by contract
+- Fixed TSCIF routing bug (/tscifs/ → /tscif/)
+- Implemented feedback integration workflow (read → implement → resolve)
+- Updated all version files to v1.5
+
+### Files changed
+- backend/src/routes/customers.js (added /top endpoint)
+- frontend/src/pages/Customers.jsx (search, Top 10, logos)
+- frontend/src/pages/CustomerDetail.jsx (utilization gauge, logos, routing fix)
+- frontend/src/services/api.js (getTopCustomers)
+- frontend/src/components/Layout.jsx (version v1.5)
+- CLAUDE.md, README.md, CEO_DEMO_NOTES.md (version updates)
+
+### Logo Implementation
+- Google Favicon API: `https://www.google.com/s2/favicons?domain=${domain}&sz=64`
+- 150+ company domain mappings (eBay, CoreWeave, Amazon, Nvidia, etc.)
+- Graceful fallback with onError handler for missing logos
+
+### Deployment
+- Backend: docker @ 10.69.2.45:3002
+- Frontend: docker @ 10.69.2.45:3003
+- External: https://capcom.ewingfam.net
+
+### Next steps
+- Deploy v1.5 to production
+- Continue feedback-driven development
+
+---
+
 ## Template
 
 ```markdown

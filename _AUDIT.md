@@ -4,6 +4,37 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-10 — CAPCOM v2.7 Alpha: AI Assistant
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~30 minutes
+
+### What was done
+- Added CAPCOM AI Assistant powered by Claude
+- Floating AI button in bottom-right corner opens chat panel
+- AI gathers context from database (facilities, customers, alarms, opportunities)
+- Role-aware responses based on user permissions (Viewer/Editor/Admin)
+- Version badge updated to "v2.7 Alpha" with amber styling
+- Configured Anthropic API key on Unraid backend
+- Updated secrets documentation with API key and deployment commands
+- Fixed SWAG proxy config (was pointing to wrong port 3003 → 5173)
+
+### Files changed
+- backend/src/routes/ai.js (new)
+- backend/src/index.js (added AI router)
+- backend/package.json (added @anthropic-ai/sdk)
+- frontend/src/components/AiAssistant.jsx (new)
+- frontend/src/components/Layout.jsx (AI button + version update)
+- frontend/src/services/api.js (AI API functions)
+- _SECRETS.local (API key + updated deployment docs)
+
+### Deployment
+- Deployed v2.7 to Unraid at https://capcom.ewingfam.net
+- AI responds to capacity queries with real data context
+- Test query: "How many facilities?" → Lists all 22 with campus breakdown
+
+---
+
 ## 2026-01-10 — CAPCOM v2.6: QA Bug Fixes
 
 **Projects touched:** capcom, jebidiah

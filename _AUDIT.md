@@ -4,6 +4,30 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-10 — Source Document Gap Closure
+
+**Projects touched:** gsl-sop-conversion
+**Duration:** ~15 min
+
+### What was done
+- Added 7 missing source document activities to existing SOPs
+- Used PowerShell Word COM automation to insert new sections
+
+### Gaps Filled
+1. Pre-fabrication area setup → 9.3.020 Setup Storage Trailer
+2. Dry shack setup for workers → 9.3.010 Setup Office Trailer
+3. Tool calibration tracking → 9.4.700 Track Equipment Utilization
+4. Subcontractor performance scoring → 9.4.615 Manage Vendor Evaluations
+5. Material waste tracking → 9.4.650 Manage Inventory
+6. Lessons learned feedback loop → 9.6.085 Document Lessons Learned
+7. Planning effectiveness scorecard → 9.2.120 Establish Tracking and Control Systems
+
+### Results
+- Source document coverage: 95% → **100%** (127 of 127 activities)
+- 7 files updated with new procedure sections
+
+---
+
 ## 2026-01-10 — RACI Automation for 9.4.XXX SOPs
 
 **Projects touched:** gsl-sop-conversion
@@ -67,7 +91,7 @@ Chronological record of significant work sessions.
 ### Pending items
 - ~~130 9.4.XXX SOPs need manual RACI table updates~~ AUTOMATED (see 2026-01-10 RACI Automation entry)
 - 11 key roles need formal job descriptions created
-- 7 minor source document gaps could be added to SOPs
+- ~~7 minor source document gaps could be added to SOPs~~ COMPLETE (see 2026-01-10 Gap Closure entry)
 
 ---
 

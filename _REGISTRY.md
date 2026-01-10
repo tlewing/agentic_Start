@@ -27,7 +27,7 @@ Central index of all projects under management.
 | Field | Value |
 |-------|-------|
 | **Path** | `C:\Users\tewing\OneDrive - GSL Electric\Documents 1\github projects\Organized Output\gsl-sop-conversion` |
-| **GitHub** | N/A (local only) |
+| **GitHub** | https://github.com/tlewing/gsl-sop-conversion |
 | **Purpose** | Convert GSL SOPs to new numbering scheme with verification |
 | **Tech** | Word documents, Markdown, PowerShell |
 | **Status** | Complete |

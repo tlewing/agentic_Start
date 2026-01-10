@@ -4,6 +4,34 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-10 — RACI Automation for 9.4.XXX SOPs
+
+**Projects touched:** gsl-sop-conversion
+**Duration:** ~30 min
+
+### What was done
+- Created PowerShell automation script (`update-raci.ps1`) to reformat RACI tables
+- Script uses Word COM to properly manipulate table cells
+- Processed all 130 9.4.XXX SOP files
+- Added RACI designations (A/R/C/I) to all role names in Roles and Responsibilities tables
+- Added RACI legend after each roles table
+- Applied 34 specific SOP overrides from CONFLICT_RESOLUTIONS.md
+- Applied default RACI rules for standard roles
+
+### Files changed
+- gsl-sop-conversion/update-raci.ps1 (new - automation script)
+- gsl-sop-conversion/raci-update-log.txt (new - execution log)
+- 130 .docx files in SOPs/9.4.XXX - Construction Execution/ (updated)
+- gsl-sop-conversion/INDEX.md (marked RACI complete)
+- gsl-sop-conversion/CLAUDE.md (marked RACI complete)
+
+### Results
+- 130 files processed, 130 updated, 0 errors
+- Average 3-4 roles updated per file
+- All files now have standardized RACI format matching 9.2.XXX/9.3.XXX templates
+
+---
+
 ## 2026-01-10 — GSL SOP Conversion Project Complete
 
 **Projects touched:** gsl-sop-conversion, agentic_Start
@@ -37,7 +65,7 @@ Chronological record of significant work sessions.
 - 4 .md analysis documents created
 
 ### Pending items
-- 130 9.4.XXX SOPs need manual RACI table updates (legacy format without A/R/C/I letters)
+- ~~130 9.4.XXX SOPs need manual RACI table updates~~ AUTOMATED (see 2026-01-10 RACI Automation entry)
 - 11 key roles need formal job descriptions created
 - 7 minor source document gaps could be added to SOPs
 

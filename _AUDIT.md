@@ -4,6 +4,99 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-10 — CAPCOM v2.6: QA Bug Fixes
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~1 hour
+
+### What was done
+- Ran comprehensive QA/QC with parallel agents (frontend + backend review)
+- Fixed 68 bugs identified (39 frontend, 29 backend)
+- Added null safety for API responses in IntakeForm, Alarms, Dashboard
+- Fixed division by zero in Alarms bulk update calculation
+- Use actual username instead of hardcoded 'Editor' for alarm silencing
+- Added API error interceptor with consistent logging
+- Added 30s default timeout and 2min upload timeout for API calls
+- Wrapped bulk forecast updates in transaction for atomicity
+- Added 404 responses for missing records in opportunities/alarms
+- Added type validation for numeric fields (forecastPct, contractKw)
+- Added date parsing validation for installDate
+- Added existence checks before updates/deletes
+- Fixed missing multer dependency in package.json
+
+### Files changed
+- backend/src/routes/alarms.js (transaction + validation)
+- backend/src/routes/opportunities.js (404s + validation)
+- backend/package.json (added multer)
+- frontend/src/pages/Alarms.jsx (null safety + division by zero)
+- frontend/src/pages/Dashboard.jsx (safe destructuring)
+- frontend/src/pages/IntakeForm.jsx (null safety)
+- frontend/src/services/api.js (error interceptor + timeouts)
+
+### Deployment
+- Deployed v2.6 to Unraid at 10.69.2.45:5173
+- Verified API endpoints return proper 404s for missing records
+- Alarms count working: 9 total, 1 critical
+
+---
+
+## 2026-01-10 — CAPCOM v2.1 Alpha: Scenario Planning
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~3 hours
+
+### What was done
+- Implemented Scenario Planning module for what-if capacity analysis
+- Created Scenario and ScenarioAllocation Prisma models
+- Built scenarioCalculator.js utility for forecast/capacity calculations
+- Created full scenarios.js API with CRUD, sharing, cloning, analysis endpoints
+- Built Scenarios list page with create/share/clone actions
+- Built ScenarioDetail page with allocation management and comparison views
+- Built Opportunities page - find sectors with available forecast capacity
+- Added Report Upload feature (XLSX file upload for updating actuals)
+- Added Activity Log for tracking who changed what
+- Changed Dashboard from "oversold %" to Forecast-based Opportunity metrics
+- Updated navigation and version to v2.1 Alpha
+
+### Key Features
+| Feature | Description |
+|---------|-------------|
+| Scenario Planning | Create what-if scenarios, add customer allocations, analyze impact |
+| Opportunity Finder | Find sectors with available forecast capacity for new placements |
+| Before/After View | Side-by-side comparison of baseline vs scenario |
+| Facility Impact | See delta by facility when scenario is applied |
+| Report Upload | Editors upload XLSX to bulk update actuals |
+| Activity Log | Audit trail of all changes in admin panel |
+
+### Files changed
+- backend/prisma/schema.prisma (Scenario, ScenarioAllocation models)
+- backend/src/routes/scenarios.js (new)
+- backend/src/routes/reports.js (upload endpoints)
+- backend/src/utils/scenarioCalculator.js (new)
+- backend/src/utils/activityLog.js (new)
+- backend/src/index.js (scenarios router)
+- frontend/src/pages/Scenarios.jsx (new)
+- frontend/src/pages/ScenarioDetail.jsx (new)
+- frontend/src/pages/Opportunities.jsx (new)
+- frontend/src/pages/ReportUpload.jsx (new)
+- frontend/src/pages/Admin.jsx (Activity Log tab)
+- frontend/src/components/Layout.jsx (nav + v2.1)
+- frontend/src/services/api.js (scenario + upload APIs)
+- frontend/src/App.jsx (new routes)
+
+### Deployment
+- Backend: docker @ 10.69.2.45:3002 (rebuilt)
+- Frontend: docker @ 10.69.2.45:3003 (rebuilt)
+- Database: schema synced with Prisma db push
+- External: https://capcom.ewingfam.net
+
+### Next steps
+- User testing of Scenario Planning workflow
+- Enhanced Reports view (Campus/Facility/Sector with PDF export)
+- Consider PDF export for scenarios
+
+---
+
 ## 2026-01-08 — Jebidiah Framework Setup
 
 **Projects touched:** jebidiah
@@ -303,6 +396,108 @@ Most oversold: LAS05 (237%), LAS02 (167%), LAS10 (157%), LAS11 (154%), LAS07 (15
 
 ### Next steps
 - None specified — v1.3 shipped and working
+
+---
+
+## 2026-01-09 — CAPCOM v2.0 User Management & Admin Edit Mode
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~3 hours
+
+### What was done
+- Implemented 3-tier user role system (ADMIN, EDITOR, VIEWER)
+- Created User model in Prisma schema with roles, status, credentials
+- Built user profile page for self-service name/title editing
+- Built admin panel with two tabs:
+  - Users tab: Create/edit/pause/remove user accounts
+  - Access Logs tab: View login history (username, time, IP, action)
+- Implemented htpasswd sync when creating/updating users
+- Renamed AuditLog.jsx to Admin.jsx with expanded functionality
+- Added sector grid admin edit mode:
+  - Edit Mode toggle button (admin only)
+  - Editable sector header cards (upsCapacity, expansionKw)
+  - TSCIF edit modal (contractKw, forecastPct, status)
+  - Yellow highlight ring on editable cells
+- Added updateSector and updateTscif API endpoints
+- Deployed to Unraid, rebuilt frontend container
+
+### Files changed
+- backend/prisma/schema.prisma (User model)
+- backend/src/routes/admin.js (user CRUD, profile, htpasswd sync)
+- backend/src/routes/sectors.js (updateSector endpoint)
+- backend/src/routes/tscifs.js (updateTscif endpoint)
+- frontend/src/pages/Admin.jsx (user management + access logs)
+- frontend/src/pages/Profile.jsx (new)
+- frontend/src/pages/SectorGrid.jsx (admin edit mode)
+- frontend/src/services/api.js (user management + update APIs)
+- frontend/src/components/Layout.jsx (Profile nav, admin check)
+- frontend/src/App.jsx (profile route)
+
+### Deployment
+- Backend: docker @ 10.69.2.45:3002
+- Frontend: docker @ 10.69.2.45:3003
+- External: https://capcom.ewingfam.net
+
+### Next steps
+- Consider session-based auth for v2.1
+
+---
+
+## 2026-01-09 — CAPCOM v1.6 Admin Audit Log
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~30 min
+
+### What was done
+- Added AuthLog model to database schema
+- Created admin route with auth logging endpoints
+- Updated nginx to proxy API requests with auth headers (X-Authenticated-User, X-Real-IP)
+- Created AuditLog.jsx admin-only page showing:
+  - Stats: total logins, unique users, last 24 hours
+  - User breakdown by login count
+  - Full log table with time, username, IP, action, path
+- Added automatic page access logging on navigation
+- Admin nav item only visible to joshewing02
+- Deployed to Unraid, verified working
+
+### Files changed
+- backend/prisma/schema.prisma (AuthLog model)
+- backend/src/routes/admin.js (new)
+- backend/src/index.js (admin router)
+- frontend/nginx.conf (API proxy with auth headers)
+- frontend/src/services/api.js (admin API functions)
+- frontend/src/pages/AuditLog.jsx (new)
+- frontend/src/components/Layout.jsx (admin nav, access logging)
+- frontend/src/App.jsx (audit route)
+
+### Next steps
+- v2.0: Session-based auth with login page, Azure AD integration
+
+---
+
+## 2026-01-09 — CAPCOM v1.5.1 Auth Security
+
+**Projects touched:** capcom, jebidiah
+**Duration:** ~15 min
+
+### What was done
+- Added HTTP basic auth to nginx (password protection)
+- Created .htpasswd with admin credentials
+- Updated Dockerfile to use external nginx.conf
+- Deployed to Unraid, verified 401 without auth, 200 with auth
+- Marked Mark's feedback (Access Concern) as RESOLVED
+- Documented session-based auth for v1.6 roadmap
+
+### Files changed
+- frontend/nginx.conf (new)
+- frontend/.htpasswd (new, gitignored)
+- frontend/Dockerfile (updated for config files)
+- .gitignore (added .htpasswd)
+- CLAUDE.md (v1.5.1, roadmap)
+- frontend/src/components/Layout.jsx (version bump)
+
+### Next steps
+- v1.6: Session-based auth with login page, prep for Azure AD
 
 ---
 

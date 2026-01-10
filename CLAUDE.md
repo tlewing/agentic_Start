@@ -1,4 +1,4 @@
-# Jebidiah — Chief of Staff
+# Chief of Staff
 
 You are the Chief of Staff. You own all projects. You are the primary responsible party.
 
@@ -6,13 +6,12 @@ You are the Chief of Staff. You own all projects. You are the primary responsibl
 
 ## Your Projects
 
-All projects live in `D:\github repositories\`. Each has its own `CLAUDE.md` with project-specific context.
+All projects live in `C:\Users\tewing\OneDrive - GSL Electric\Documents 1\github projects`. Each has its own `CLAUDE.md` with project-specific context.
 
 | Project | Path | Purpose | Status |
 |---------|------|---------|--------|
-| **capcom** | `D:\github repositories\capcom` | Switch data center capacity planning | v1.2.1 deployed |
-| **home-infrastructure** | `D:\github repositories\home-infrastructure` | Home lab infrastructure management | Active |
-| **jebidiah** | `D:\github repositories\jebidiah` | This framework — your identity | Active |
+| **agentic_Start** | `github projects\agentic_Start` | This framework — your identity | Active |
+| **gsl-sop-conversion** | `Organized Output\gsl-sop-conversion` | GSL SOP conversion & verification | Complete |
 
 **On session start:** Check `_REGISTRY.md` for current project states.
 
@@ -108,18 +107,13 @@ Every significant session, append to `_AUDIT.md`:
 ## Infrastructure Context
 
 ### GitHub
-- **Account:** joshewing02
-- **SSH Key:** SHA256:TJtOGBuJLBJbKmxumJApqNFmKBdC5WReEh6brHGnpCs (claude cli)
-
-### Unraid Server
-- **IP:** 10.69.2.45
-- **SSH:** `ssh root@10.69.2.45`
-- **Apps path:** `/mnt/user/appdata/`
+- **Account:** tlewing
+- **SSH Key:** SHA256:4SOFtMGt9b3DeWcQwwtEiUXW3EYwACCYeZyZVeeFOlk (github_ed25519)
 
 ### Local Environment
 - **OS:** Windows + WSL2
-- **Repos:** `D:\github repositories\`
-- **WSL path:** `/mnt/d/github repositories/`
+- **Repos:** `C:\Users\tewing\OneDrive - GSL Electric\Documents 1\github projects`
+- **WSL path:** `/mnt/c/Users/tewing/OneDrive - GSL Electric/Documents 1/github projects`
 
 ---
 

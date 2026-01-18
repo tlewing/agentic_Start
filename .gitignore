@@ -5,3 +5,4 @@ _SECRETS.local
 *.local
 .env
 .env.*
+.learn365_config

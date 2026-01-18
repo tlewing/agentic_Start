@@ -4,6 +4,277 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-17 — Learn365 API Integration Complete
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~2 hours
+
+### What was done
+
+**Learn365 API Discovery:**
+- Discovered Learn365 has two separate systems: Skills API and Competencies API
+- Found 223 API endpoints via swagger at api.365.systems/swagger/docs/v1
+- Established authentication: Basic auth with empty username, API key as password
+- Documented API architecture for future reference
+
+**Skills Framework Created in Learn365:**
+- Created GSL Proficiency Scale (5 levels: Awareness, Basic, Intermediate, Advanced, Expert)
+- Created 10 new Skill Categories (Safety, Lean Construction, Leadership, etc.)
+- Created 56 new skills with GSL Proficiency Scale
+- Migrated 22 existing skills to new categories
+- Total: 40+ skills using GSL framework
+
+**Existing Infrastructure Preserved:**
+- 372 Competencies (course completion rewards)
+- 205 Competency Categories
+- 80% of courses have competency links
+- No disruption to existing course-competency mappings
+
+### Deliverables
+- `deliverables/scorm-catalog/LEARN365_INTEGRATION.md` - Full integration documentation
+- `scripts/learn365_api.py` - API client and testing
+- `scripts/create_gsl_skills.py` - Skills framework creation
+- `scripts/migrate_skills.py` - Skill migration script
+- `.learn365_config` - API credentials (gitignored)
+
+### Key Findings
+| System | Purpose | Course Linking |
+|--------|---------|----------------|
+| Skills API | Role requirements (TargetSkills) | No |
+| Competencies API | Course completion rewards | Yes |
+
+### Limitations Discovered
+- Scale Set levels don't persist via API (must configure in UI)
+- Skills can't be deleted if linked to courses
+- TargetSkills require UI configuration for levels
+
+### Next Steps (in Learn365 Admin UI)
+- Configure scale set levels
+- Create TargetSkills for roles (Foreman, PM, Superintendent)
+- Set user field conditions for role targeting
+
+---
+
+## 2026-01-17 — SCORM Training Catalog Complete
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~2 hours
+
+### What was done
+
+Created comprehensive SCORM training catalog with skills framework cleanup:
+
+**Skills Framework Cleanup:**
+- Analyzed existing framework: 80 Skill Level Sets, 260 Skills, 163 Categories
+- Proposed and approved consolidated framework: 10 Skill Level Sets
+- Reduced Skill Level Sets by 88% (80 → 10)
+- Organized ~180 skills into clean hierarchy
+
+**Course Catalog Processing:**
+- Extracted metadata from 255 SCORM packages
+- Identified 184 unique courses (71 duplicates)
+- Assigned Skill Level Set, Category, and Proficiency Level to each course
+- Created automated extraction scripts (Python)
+
+**Target Skill Rules:**
+- Mapped 8 roles to required training
+- Defined proficiency requirements per role per skill set
+- Created 5 assignment rules (New Hire, Promotion, Advancement, Refresher, Software)
+- Estimated training hours by role (4-80 hours depending on role)
+
+### Deliverables Created
+- `deliverables/scorm-catalog/PROPOSED_SKILLS_FRAMEWORK.md` - 10 Skill Level Sets
+- `deliverables/scorm-catalog/SAMPLE_COURSE_ENTRIES.md` - Pattern templates
+- `deliverables/scorm-catalog/SCORM_COURSE_CATALOG.md` - Full markdown catalog
+- `deliverables/scorm-catalog/SCORM_COURSE_CATALOG.csv` - CSV for LMS import
+- `deliverables/scorm-catalog/DUPLICATE_COURSES.csv` - 71 duplicates identified
+- `deliverables/scorm-catalog/TARGET_SKILL_RULES.md` - Role-to-training mapping
+
+### Course Distribution by Skill Level Set
+| Skill Level Set | Courses |
+|-----------------|---------|
+| Leadership & Field Management | 82 |
+| Safety | 51 |
+| Professional Development | 14 |
+| Lean Construction | 10 |
+| Emotional Intelligence | 8 |
+| Project Planning & Productivity | 7 |
+| Construction Software | 5 |
+| Performance Management | 3 |
+| Communication & Coaching | 2 |
+| Documentation & Compliance | 2 |
+
+### Next Steps
+- LMS import using CSV catalog
+- Configure learning paths per role
+- Set up automatic enrollment rules
+
+---
+
+## 2026-01-17 — Training Gap Closure Complete
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~45 min
+
+### What was done
+
+Closed all four training gaps identified during Phase 5 by creating new comprehensive training modules:
+
+| Module | Location | Words | SOPs |
+|--------|----------|-------|------|
+| Large Feeder Wire Management | Tab 41 | 3,000+ | 4 |
+| Prefabrication Operations (expanded) | Tab 42 | 3,500+ | 5 |
+| Contract Review & Risk Assessment | Tab 2 | 3,000+ | 5 |
+| RFI Management | Tab 22 | 3,500+ | 4 |
+
+### Training Files Created
+- `TAB 41\Large Feeder Wire Management.docx`
+- `Tab 42\Prefabrication Operations - Comprehensive Training.docx`
+- `TAB 2\Contract Review and Risk Assessment.docx`
+- `TAB 22\RFI Management - Complete Guide.docx`
+
+### Deliverables
+- `deliverables/phase5/TRAINING_GAP_CLOSURE.md` - Summary document
+
+### Results
+- 13,000+ words of new training content
+- 18 SOPs now have dedicated training support
+- All four priority training gaps closed
+
+---
+
+## 2026-01-17 — GSL Operations Framework COMPLETE (All 5 Phases)
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~4 hours total (all phases)
+
+### What was done
+
+**Phase 5 - Cross-Reference Completion:**
+- Created TRAINING_SOP_MAPPING.md (57 Tabs → 167 SOPs)
+- Created MASTER_CROSSREFERENCE_INDEX.md (central four-pillar index)
+- Validated all bidirectional linkages across all pillars
+- Identified training gaps for future resolution
+
+### Framework Summary
+
+| Phase | Status | Key Output |
+|-------|--------|------------|
+| 1 - Training Foundation | Complete | 95 skills, 9 levels, 17 rules |
+| 2 - SOP Alignment | Complete | 167 SOPs with cross-references |
+| 3 - Job Description Sync | Complete | 8 JDs with SOP references |
+| 4 - Management Directive Sync | Complete | 8 MDs with SOP references |
+| 5 - Cross-Reference Completion | Complete | Master index, bidirectional validation |
+
+### Total Deliverables
+- 17 framework documents created
+- 167 revised SOPs
+- 8 revised Job Descriptions
+- 8 revised Management Directives
+- 1,600+ cross-reference links established
+
+### Output Locations
+- Revised SOPs: `C:\Users\tewing\Desktop\Claude Projects\Revised SOPs`
+- Revised JDs: `C:\Users\tewing\Desktop\Claude Projects\Revised Job Descriptions`
+- Revised MDs: `C:\Users\tewing\Desktop\Claude Projects\Revised Management Directives`
+- Framework Docs: `GSL-Operations-Framework\deliverables\phase1-5`
+
+### Training Gaps Identified (Future Work)
+- Large Feeder Wire training (High priority)
+- Prefab Operations expansion (High priority)
+- Contract Review module (Medium priority)
+- RFI Management module (Medium priority)
+
+---
+
+## 2026-01-17 — GSL Operations Framework Phase 4 Complete
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~20 min
+
+### What was done
+
+**Phase 4 - Management Directive Sync:**
+- Updated 8 Management Directive documents with SOP reference blocks
+- Created MD_SOP_MAPPING.md with directive-to-SOP assignments
+- Built automation script (update_management_directives.py)
+
+### Files Processed
+| MD | Title | SOPs |
+|----|-------|------|
+| 9.2 | Field Employees | 6 |
+| 9.3 | Field Leadership | 69 |
+| 9.4 | General Superintendents | 20 |
+| 9.5 | Project Management | 167 |
+| 9.6 | Branch Management | 15 |
+| 9.7 | Estimating | 9 |
+| 9.14 | Contract Managers | 11 |
+| 9.16 | Purchasing | 18 |
+
+### Deliverables
+- deliverables/phase4/MD_SOP_MAPPING.md
+- deliverables/phase4/PHASE4_SUMMARY.md
+- scripts/update_management_directives.py
+
+### Output Location
+`C:\Users\tewing\Desktop\Claude Projects\Revised Management Directives\`
+
+### Next Steps
+- Phase 5: Cross-Reference Completion
+
+---
+
+## 2026-01-17 — GSL Operations Framework SOP Cross-References Complete
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~2 hours
+
+### What was done
+
+**Phase 2 - SOP Alignment:**
+- Processed all 205 SOP files from `SOPs For Review` folder
+- Converted 157 old-format SOPs (9.41.XXX) to new numbering (9.X.XXX) per Key_Sop_Matrix.xlsx
+- Added cross-reference blocks to all SOPs containing:
+  - Training Materials (Foreman Training Binder tab references)
+  - Job Descriptions (Policy Manual Section 7 references)
+  - Management Directives (Policy Manual Section 9 references)
+
+**Phase 3 - Job Description Sync:**
+- Updated 8 Job Description Word documents with SOP reference blocks
+- Created JD_SOP_MAPPING.md with role-to-SOP assignments
+
+### Scripts created
+- scripts/batch_process_sops.py (processes 48 new-format SOPs)
+- scripts/batch_process_old_sops.py (converts and processes 157 old-format SOPs)
+- scripts/update_jds.py (updates Job Descriptions with SOP references)
+- scripts/rename_sops.py, update_sop_numbers.py (initial renaming tools)
+
+### Deliverables
+- deliverables/phase2/REVISED_SOP_LIST.md — Organized list of all 167 unique SOPs by phase
+- deliverables/phase2/SOP_NUMBERING_ANALYSIS.md — Analysis of file formats found
+- deliverables/phase3/JD_SOP_MAPPING.md — Role-to-SOP mapping
+- deliverables/phase3/JD_SOP_REFERENCE_BLOCKS.md — Reference blocks for JDs
+
+### Summary by Phase
+| Phase | Description | Count |
+|-------|-------------|-------|
+| 9.2 | Pre-Construction Planning | 18 |
+| 9.3 | Mobilization | 14 |
+| 9.4 | Construction Execution | 119 |
+| 9.5 | Commissioning | 2 |
+| 9.6 | Closeout | 14 |
+| **Total** | | **167** |
+
+### Output location
+`C:\Users\tewing\Desktop\Claude Projects\Revised SOPs\`
+
+### Next steps
+- Phase 4: Management Directive Sync
+- Phase 5: Cross-Reference Completion
+- Review revised documents with operations management
+
+---
+
 ## 2026-01-10 — Source Document Gap Closure
 
 **Projects touched:** gsl-sop-conversion

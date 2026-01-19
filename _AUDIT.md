@@ -4,6 +4,61 @@ Chronological record of significant work sessions.
 
 ---
 
+## 2026-01-18 — Learn365 API Integration Complete
+
+**Projects touched:** GSL-Operations-Framework
+**Duration:** ~2 hours
+
+### What was done
+
+**Learn365 Skill Level Sets:**
+- Created GSL Career Progression scale set (L0-L9)
+- 10 levels aligned with career progression:
+  - L0: Pre-Employment
+  - L1-L4: Apprentice Years 1-4
+  - L5: Journeyman
+  - L6: Lead Journeyman
+  - L7: Foreman
+  - L8: Superintendent
+  - L9: Safety Specialist
+
+**Learn365 Skills Standardization:**
+- Updated 362 of 369 existing skills to use GSL Career Progression scale set
+- Created 10 new skill categories
+- Handled 123 skills (created new or matched existing)
+- 7 skills have duplicate titles (different scale sets) — could not update
+
+**Learn365 Target Skill Rules:**
+- Created 16 of 17 target skill rules via API
+- Rules map roles to required skill/level combinations
+- Rules created: UNIV-001, APP-001 through APP-004, JRN-001, LEAD-001, FOR-001 through FOR-006, SUP-001, PSC-001, EST-001
+- 1 rule skipped (UNIV-002: Nevada Employees — "Nevada Employee Rights" skill doesn't exist)
+
+### Scripts created
+- `scripts/learn365_skill_level_sets.py` — Creates GSL Career Progression (L0-L9)
+- `scripts/learn365_update_skill_scalesets.py` — Updates all skills to use GSL scale set
+- `scripts/learn365_replace_skills.py` — Creates categories and skills (updated)
+- `scripts/learn365_target_skills.py` — Creates target skill rules (updated)
+
+### Key API discoveries
+- Skills require `scaleSetId` (must create scale set first)
+- Target skill conditions require both `userField` (title) AND `userFieldId` (UUID)
+- API returns max 100 items — pagination required via `$skip` and `$top`
+- Use `$expand=levels` to get scale set levels in single call
+- User field for job title is "Job Title" (with space), ID: `5c6065be-ef67-434b-aa90-de594d84cac6`
+
+### Hardcoded IDs (API pagination makes searching unreliable)
+- GSL Career Progression Scale Set: `dc10f982-86fa-4a5b-8869-6d5e4dde769b`
+- GSL Academy Catalog: `b1670146-674a-4730-9e9d-d7d29ba52385`
+
+### Next steps
+- Create "Nevada Employee Rights" skill for UNIV-002 rule
+- Resolve 7 duplicate-title skills (Estimating, Strategic Thinking, Delegation Skills, Leadership, Project Planning, Manpower Forecasting, Corrective Counseling)
+- Map courses to skills in Learn365 Admin Center
+- Test target skill rule assignments with sample users
+
+---
+
 ## 2026-01-17 — Learn365 API Integration Complete
 
 **Projects touched:** GSL-Operations-Framework

@@ -1,0 +1,305 @@
+"""
+Update SOP Metadata v2 - Preserves original content
+Copies SOURCE SOP, injects metadata XML from template with updated values.
+"""
+import zipfile
+import xml.etree.ElementTree as ET
+from pathlib import Path
+import json
+import re
+import shutil
+from datetime import datetime
+
+BASE_DIR = Path(r"C:\Users\tewing\Desktop\Holding\SOP")
+SOURCE_DIR = BASE_DIR / "SharePoint-SOPs"
+OUTPUT_DIR = BASE_DIR / "Revised-SOPs"
+TEMPLATE_PATH = BASE_DIR / "Templates" / "GSL_SOP_Master_Template_SHAREPOINT_ENABLED (v1).docx"
+REFERENCE_FILE = BASE_DIR / "docs" / "policy_reference.json"
+RACI_LOG = BASE_DIR / "docs" / "sop_raci_assignments.md"
+
+NAMESPACE = "b11c1c0a-1848-4118-b7cf-ce9450f86f68"
+
+ET.register_namespace('p', 'http://schemas.microsoft.com/office/2006/metadata/properties')
+ET.register_namespace('xsi', 'http://www.w3.org/2001/XMLSchema-instance')
+ET.register_namespace('pc', 'http://schemas.microsoft.com/office/infopath/2007/PartnerControls')
+ET.register_namespace('', NAMESPACE)
+
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+
+def load_reference():
+    with open(REFERENCE_FILE, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def get_template_custom_xml():
+    """Extract all customXml files from template."""
+    custom_xml = {}
+    with zipfile.ZipFile(TEMPLATE_PATH, 'r') as zf:
+        for name in zf.namelist():
+            if name.startswith('customXml/'):
+                custom_xml[name] = zf.read(name)
+    return custom_xml
+
+
+def extract_text_from_docx(docx_path):
+    try:
+        with zipfile.ZipFile(docx_path, 'r') as zf:
+            xml_content = zf.read('word/document.xml').decode('utf-8')
+            root = ET.fromstring(xml_content)
+            text_parts = []
+            for elem in root.iter():
+                if elem.text:
+                    text_parts.append(elem.text)
+            return ' '.join(text_parts)
+    except Exception as e:
+        return f"[ERROR: {e}]"
+
+
+def extract_sop_info(text, filename):
+    info = {'filename': filename, 'sop_id': '', 'title': '', 'phase': ''}
+
+    id_match = re.search(r'(9\.\d+\.?\d*)', filename)
+    if id_match:
+        info['sop_id'] = id_match.group(1)
+        phase_match = re.match(r'9\.(\d)', info['sop_id'])
+        if phase_match:
+            info['phase'] = f"9.{phase_match.group(1)}"
+
+    title_match = re.search(r'9\.\d+\.?\d*\s*[–-]\s*(.+?)(?:\.docx|$)', filename)
+    if title_match:
+        info['title'] = title_match.group(1).strip()
+
+    return info
+
+
+def determine_raci(text, sop_info, reference):
+    raci = {'responsible': [], 'accountable': [], 'consulted': [], 'informed': []}
+
+    phase = sop_info['phase']
+    title_lower = sop_info['title'].lower()
+
+    role_patterns = {
+        'Project Manager': r'project\s*manager|PM\b',
+        'General Superintendent': r'general\s*superintendent|GS\b',
+        'Foreman': r'foreman|field\s*supervisor',
+        'Safety': r'safety\s*(rep|coordinator|officer)?',
+        'Estimator': r'estimator|estimating',
+        'Purchasing': r'purchas(ing|er)|buyer',
+        'Prefab': r'prefab|pre-fab',
+        'Admin': r'admin|administrative',
+        'Lead Journeyman': r'lead\s*journeyman',
+    }
+
+    mentioned_roles = []
+    for role, pattern in role_patterns.items():
+        if re.search(pattern, text, re.IGNORECASE):
+            mentioned_roles.append(role)
+
+    title_role_hints = {
+        'safety': 'Safety', 'quality': 'General Superintendent',
+        'schedule': 'Project Manager', 'budget': 'Project Manager',
+        'cost': 'Project Manager', 'billing': 'Project Manager',
+        'procurement': 'Purchasing', 'purchase': 'Purchasing',
+        'material': 'Purchasing', 'vendor': 'Purchasing',
+        'prefab': 'Prefab', 'field': 'Foreman', 'setup': 'Foreman',
+        'coordination': 'Project Manager', 'meeting': 'Project Manager',
+        'closeout': 'Project Manager', 'documentation': 'Admin',
+        'estimat': 'Estimator',
+    }
+
+    phase_default = {
+        '9.1': 'Estimator', '9.2': 'Project Manager', '9.3': 'Foreman',
+        '9.4': 'Foreman', '9.5': 'General Superintendent', '9.6': 'Project Manager'
+    }
+
+    responsible = None
+    for hint, role in title_role_hints.items():
+        if hint in title_lower:
+            responsible = role
+            break
+
+    if not responsible:
+        responsible = phase_default.get(phase, 'Project Manager')
+
+    raci['responsible'] = [responsible]
+
+    if responsible in ['Foreman', 'Safety', 'Lead Journeyman']:
+        raci['accountable'] = ['General Superintendent']
+    elif responsible in ['Purchasing', 'Admin', 'Prefab']:
+        raci['accountable'] = ['Project Manager']
+    elif responsible == 'General Superintendent':
+        raci['accountable'] = ['Project Manager']
+    elif responsible == 'Project Manager':
+        raci['accountable'] = ['Operations Manager']
+    else:
+        raci['accountable'] = ['Project Manager']
+
+    for role in mentioned_roles:
+        if role not in raci['responsible'] and role not in raci['accountable']:
+            if role not in raci['consulted']:
+                raci['consulted'].append(role)
+
+    raci['consulted'] = raci['consulted'][:3]
+
+    return raci
+
+
+def update_metadata_xml(xml_content, metadata):
+    """Update metadata XML with new values."""
+    root = ET.fromstring(xml_content)
+
+    doc_mgmt = None
+    for child in root:
+        if 'documentManagement' in child.tag:
+            doc_mgmt = child
+            break
+
+    if doc_mgmt is None:
+        return xml_content
+
+    field_map = {
+        'Status': metadata.get('status', 'Draft'),
+        'DocumentType': 'SOP',
+        'SOPFileName': metadata.get('filename', ''),
+        'Description': metadata.get('description', ''),
+        'SOPID': metadata.get('sop_id', ''),
+        'Tags_x002f_Keywords': metadata.get('tags', ''),
+        'Department_x002f_Division': metadata.get('department', ''),
+        'RACI_Responsible': ', '.join(metadata.get('raci_responsible', [])),
+        'RACI_Accountable': ', '.join(metadata.get('raci_accountable', [])),
+        'RACI_Consulted': ', '.join(metadata.get('raci_consulted', [])),
+        'RACI_Informed': ', '.join(metadata.get('raci_informed', [])),
+    }
+
+    for child in doc_mgmt:
+        local_name = child.tag.split('}')[-1] if '}' in child.tag else child.tag
+
+        if local_name in field_map:
+            value = field_map[local_name]
+            if value:
+                nil_attr = '{http://www.w3.org/2001/XMLSchema-instance}nil'
+                if nil_attr in child.attrib:
+                    del child.attrib[nil_attr]
+                child.text = str(value)
+
+    return ET.tostring(root, encoding='unicode', xml_declaration=True)
+
+
+def process_sop(source_path, template_custom_xml, reference):
+    """
+    Process SOP:
+    1. Copy SOURCE file (preserves content)
+    2. Inject template's customXml structure
+    3. Update metadata values
+    """
+    text = extract_text_from_docx(source_path)
+    sop_info = extract_sop_info(text, source_path.name)
+
+    if not sop_info['sop_id']:
+        return None, "No SOP ID found"
+
+    raci = determine_raci(text, sop_info, reference)
+
+    phase_mapping = reference.get('sop_phase_mapping', {})
+    phase_info = phase_mapping.get(sop_info['phase'], {})
+
+    metadata = {
+        'sop_id': sop_info['sop_id'],
+        'filename': source_path.name,
+        'status': 'Draft',
+        'description': sop_info['title'][:255],
+        'department': 'Project Management',
+        'tags': f"{phase_info.get('name', '')[:50]}",
+        'raci_responsible': raci['responsible'],
+        'raci_accountable': raci['accountable'],
+        'raci_consulted': raci['consulted'],
+        'raci_informed': raci['informed'],
+    }
+
+    output_path = OUTPUT_DIR / source_path.name
+    temp_path = output_path.with_suffix('.tmp')
+
+    # Copy SOURCE and inject/update customXml
+    with zipfile.ZipFile(source_path, 'r') as zf_in:
+        with zipfile.ZipFile(temp_path, 'w', zipfile.ZIP_DEFLATED) as zf_out:
+            # Track what we've written
+            written = set()
+
+            # First, copy all files from source EXCEPT customXml
+            for item in zf_in.namelist():
+                if not item.startswith('customXml/'):
+                    zf_out.writestr(item, zf_in.read(item))
+                    written.add(item)
+
+            # Now inject customXml from template, updating item4.xml with metadata
+            for name, content in template_custom_xml.items():
+                if name == 'customXml/item4.xml':
+                    # Update with our metadata
+                    xml_content = content.decode('utf-8')
+                    xml_content = update_metadata_xml(xml_content, metadata)
+                    content = xml_content.encode('utf-8')
+
+                zf_out.writestr(name, content)
+                written.add(name)
+
+            # Update [Content_Types].xml to include customXml if needed
+            # (usually already present, but let's be safe)
+
+    temp_path.replace(output_path)
+
+    return {
+        'sop_id': sop_info['sop_id'],
+        'title': sop_info['title'],
+        'phase': sop_info['phase'],
+        'raci': raci
+    }, None
+
+
+def main():
+    print("=" * 60)
+    print("UPDATE SOP METADATA v2 - PRESERVES CONTENT")
+    print("=" * 60)
+
+    reference = load_reference()
+    template_custom_xml = get_template_custom_xml()
+
+    print(f"Template customXml files: {list(template_custom_xml.keys())}")
+
+    sop_files = list(SOURCE_DIR.glob("*.docx"))
+    print(f"\nProcessing {len(sop_files)} SOPs (preserving content)...")
+
+    results = []
+    errors = []
+
+    for sop_file in sorted(sop_files):
+        result, error = process_sop(sop_file, template_custom_xml, reference)
+        if result:
+            results.append(result)
+            print(f"  [OK] {result['sop_id']} - R: {', '.join(result['raci']['responsible'])}")
+        else:
+            errors.append({'file': sop_file.name, 'error': error})
+            print(f"  [ERR] {sop_file.name}: {error}")
+
+    # Generate RACI log
+    with open(RACI_LOG, 'w', encoding='utf-8') as f:
+        f.write(f"# SOP RACI Assignments\n\n")
+        f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+        f.write(f"**Total SOPs:** {len(results)}\n\n")
+
+        f.write("## RACI Matrix\n\n")
+        f.write("| SOP ID | Title | R | A | C | I |\n")
+        f.write("|--------|-------|---|---|---|---|\n")
+
+        for r in results:
+            title_short = r['title'][:25] + '...' if len(r['title']) > 25 else r['title']
+            f.write(f"| {r['sop_id']} | {title_short} | {', '.join(r['raci']['responsible'])} | {', '.join(r['raci']['accountable'])} | {', '.join(r['raci']['consulted']) or '-'} | {', '.join(r['raci']['informed']) or '-'} |\n")
+
+    print(f"\n--- COMPLETE ---")
+    print(f"Processed: {len(results)}")
+    print(f"Errors: {len(errors)}")
+    print(f"Output: {OUTPUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()

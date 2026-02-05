@@ -1,0 +1,100 @@
+==========================================================================================
+FILE: C:\Users\tewing\Desktop\Claude Projects\Revised SOPs\9.2.120 – Establish Tracking & Control Systems.docx
+==========================================================================================
+
+------------------------------------------------------------------------------------------
+PARAGRAPHS (non-empty)
+------------------------------------------------------------------------------------------
+  [  0]  Style: Normal                          Text: SOP 9.2.120 – Establish Tracking & Control Systems
+  [  1]  Style: Normal                          Text: Department: Project Management / Operations
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.2.005 - Review Contract for High Risk Clauses; 9.2.010 - Team Selection; 9.2.015 - Project Turnover Meeting; 9.2.020 - Procurement of Large Feeder Wire; 9.2.030 - Review Contract for Unfavorable or High-Risk Clauses; 9.4.190 - Document Filing Standards; 9.4.195 - Manage Project Documentation System; 9.4.400 - Monitor Project Costs
+Reference: GSL Pre-Construction Planning – Tracking & Control
+  [  5]  Style: Normal                          Text: ================================================================================
+  [  6]  Style: Normal                          Text: DOCUMENT REFERENCES
+  [  7]  Style: Normal                          Text: ================================================================================
+  [  9]  Style: Normal                          Text: Training Materials (Foreman Training Binder):
+  [ 10]  Style: Normal                          Text: - Tab 2: Preplanning & Staging
+  [ 11]  Style: Normal                          Text: - Tab 3: Kickoff/Project Turnover Meeting
+  [ 12]  Style: Normal                          Text: - Tab 5: Purchasing Buy out
+  [ 13]  Style: Normal                          Text: - Tab 6: Scheduling
+  [ 14]  Style: Normal                          Text: - Tab 7: Job Plans
+  [ 16]  Style: Normal                          Text: Job Descriptions (Policy Manual Section 7):
+  [ 17]  Style: Normal                          Text: - 7.2.4 Foreman
+  [ 18]  Style: Normal                          Text: - 7.2.6 Project Safety Coordinator
+  [ 19]  Style: Normal                          Text: - 7.3.1 Operations Management
+  [ 20]  Style: Normal                          Text: - 7.4.4 Purchasing Manager
+  [ 22]  Style: Normal                          Text: Management Directives (Policy Manual Section 9):
+  [ 23]  Style: Normal                          Text: - 9.5 Project Management
+  [ 24]  Style: Normal                          Text: - 9.7 Estimating
+  [ 25]  Style: Normal                          Text: - 9.3 Field Leadership
+  [ 27]  Style: Normal                          Text: ================================================================================
+  [ 29]  Style: Normal                          Text: Purpose
+  [ 30]  Style: Normal                          Text: To implement standardized systems for monitoring labor, materials, procurement, safety, and project performance, enabling accurate reporting and proactive management.
+  [ 32]  Style: Normal                          Text: Scope
+  [ 33]  Style: Normal                          Text: This SOP applies to Project Managers, Field Supervisors, Purchasing, and Branch Managers for all awarded projects.
+  [ 35]  Style: Normal                          Text: Roles and Responsibilities
+  [ 37]  Style: Normal                          Text: Required Documents and Tools
+  [ 38]  Style: Normal                          Text: Labor tracking sheets
+  [ 39]  Style: Normal                          Text: Procurement log
+  [ 40]  Style: Normal                          Text: RFI and Submittal logs
+  [ 41]  Style: Normal                          Text: Safety inspection forms
+  [ 42]  Style: Normal                          Text: Weekly dashboard (Smartsheet, Excel, or equivalent)
+  [ 44]  Style: Normal                          Text: Procedure
+  [ 45]  Style: Normal                          Text: Step 1: Set Up Tracking Systems
+  [ 46]  Style: Normal                          Text: Establish standardized templates for labor, procurement, RFIs, submittals, and safety.
+  [ 47]  Style: Normal                          Text: Step 2: Assign Update Responsibilities
+  [ 48]  Style: Normal                          Text: Define who updates each log and set update frequencies.
+  [ 49]  Style: Normal                          Text: Step 3: Monitor Progress
+  [ 50]  Style: Normal                          Text: Review weekly updates against the baseline schedule and labor budget.
+  [ 51]  Style: Normal                          Text: Step 4: Generate Reports
+  [ 52]  Style: Normal                          Text: Create weekly dashboard summarizing key metrics.
+  [ 53]  Style: Normal                          Text: Distribute to Branch Manager and project stakeholders.
+  [ 54]  Style: Normal                          Text: Step 5: Adjust Plans
+  [ 55]  Style: Normal                          Text: Use tracking data to identify risks early.
+  [ 56]  Style: Normal                          Text: Implement corrective actions as required.
+  [ 58]  Style: Normal                          Text: Deliverables
+  [ 60]  Style: Normal                          Text: Compliance & Review
+  [ 62]  Style: Normal                          Text: References
+  [ 63]  Style: Normal                          Text: GSL Pre-Construction Planning – Section 4.9 Tracking & Control
+  [ 65]  Style: Normal                          Text: Appendix
+  [ 66]  Style: Normal                          Text: Labor Tracking Template
+  [ 67]  Style: Normal                          Text: Procurement Log Template
+  [ 68]  Style: Normal                          Text: Weekly Dashboard Example
+
+------------------------------------------------------------------------------------------
+TABLES  (total: 3)
+------------------------------------------------------------------------------------------
+
+  TABLE 0  (6 rows x 2 cols)
+  --------------------------------------------------------------------------------
+    Row   0: Role | Responsibilities
+    Row   1: Project Manager | Establishes and maintains all tracking systems; ensures data is accurate and current.
+    Row   2: Field Supervisor | Reports daily manpower, progress, and field conditions.
+    Row   3: Purchasing | Updates procurement log with material and vendor status.
+    Row   4: Safety Coordinator | Submits safety inspection reports and compliance updates.
+    Row   5: Branch Manager | Reviews project reports to monitor health and performance.
+  --------------------------------------------------------------------------------
+
+  TABLE 1  (5 rows x 3 cols)
+  --------------------------------------------------------------------------------
+    Row   0: Document | Owner | Location
+    Row   1: Labor Tracking Report | Field Supervisor / PM | Project Folder
+    Row   2: Procurement Log | Purchasing | Procurement Subfolder
+    Row   3: Weekly Dashboard | Project Manager | Shared Folder
+    Row   4: Safety Reports | Safety Coordinator | Safety Folder
+  --------------------------------------------------------------------------------
+
+  TABLE 2  (4 rows x 2 cols)
+  --------------------------------------------------------------------------------
+    Row   0: KPI | Target
+    Row   1: Tracking systems implemented before mobilization | 100%
+    Row   2: Weekly updates maintained throughout project | ≥95%
+    Row   3: Branch Manager reviews reports weekly | 100%
+  --------------------------------------------------------------------------------
+
+==========================================================================================
+END OF DOCUMENT
+==========================================================================================

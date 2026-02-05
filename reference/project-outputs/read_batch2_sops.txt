@@ -1,0 +1,1707 @@
+================================================================================
+  BATCH 2 SOP DOCUMENT READER OUTPUT
+  Source: C:\Users\tewing\Desktop\Claude Projects\Revised SOPs
+  Files processed: 10
+================================================================================
+
+================================================================================
+  FILE 1/10: 9.3.050 – Setup Temporary Water.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.110 – Setup Temporary Water
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Field Operations
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.060 - Setup Sanitary Facilities; 9.3.070 - Setup Temporary Lighting; 9.3.080 - Setup Signage; 9.3.090 - Setup Security
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To provide safe, reliable temporary water supply for construction use, including dust control, concrete work, cleaning, and sanitary needs.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers and Field Supervisors during mobilization and throughout project execution.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Temporary water layout plan
+
+    [  34]  Style: Normal
+           Text:  Utility agreements/permits
+
+    [  35]  Style: Normal
+           Text:  Safety and environmental compliance forms
+
+    [  37]  Style: Normal
+           Text:  Procedure
+
+    [  38]  Style: Normal
+           Text:  Step 1: Identify Requirements
+
+    [  39]  Style: Normal
+           Text:  Determine project water needs (e.g., mixing, cleaning, sanitary).
+
+    [  40]  Style: Normal
+           Text:  Step 2: Coordinate with Utility/Owner
+
+    [  41]  Style: Normal
+           Text:  Apply for temporary water meter or hydrant connection.
+
+    [  42]  Style: Normal
+           Text:  Confirm service availability.
+
+    [  43]  Style: Normal
+           Text:  Step 3: Install Distribution System
+
+    [  44]  Style: Normal
+           Text:  Connect to utility and install pipes/hoses.
+
+    [  45]  Style: Normal
+           Text:  Provide shutoff valves and backflow prevention.
+
+    [  46]  Style: Normal
+           Text:  Step 4: Verify Functionality
+
+    [  47]  Style: Normal
+           Text:  Test flow and pressure at distribution points.
+
+    [  48]  Style: Normal
+           Text:  Step 5: Safety and Environmental Review
+
+    [  49]  Style: Normal
+           Text:  Ensure hoses and lines are protected from damage.
+
+    [  50]  Style: Normal
+           Text:  Verify compliance with stormwater and environmental regulations.
+
+    [  52]  Style: Normal
+           Text:  Deliverables
+
+    [  54]  Style: Normal
+           Text:  Compliance & Review
+
+    [  56]  Style: Normal
+           Text:  References
+
+    [  57]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  59]  Style: Normal
+           Text:  Appendix
+
+    [  60]  Style: Normal
+           Text:  Temporary Water Setup Checklist
+
+    [  61]  Style: Normal
+           Text:  Example Utility Connection Permit
+
+    --- 47 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (4 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Coordinates with owner/utility for water service connection.']
+      Row   2: ['Field Supervisor', 'Oversees installation of piping, hoses, and distribution.']
+      Row   3: ['Safety Coordinator', 'Ensures compliance with environmental and safety requirements.']
+
+    Table 2  (4 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Temporary Water Setup Checklist', 'Field Supervisor', 'Project Folder']
+      Row   2: ['Utility Connection Records', 'PM', 'Project Folder']
+      Row   3: ['Safety/Environmental Compliance Log', 'Safety Coordinator', 'Safety Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Water service established before mobilization', '100%']
+      Row   2: ['Backflow prevention installed', '100%']
+      Row   3: ['Environmental compliance verified', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 2/10: 9.3.060 – Setup Sanitary Facilities.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.115 – Setup Sanitary Facilities
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Safety
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To provide adequate sanitary facilities (toilets, wash stations) for workers in compliance with OSHA requirements and project specifications.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers and Safety Coordinators during site mobilization and throughout the project.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Sanitary facility vendor contract
+
+    [  34]  Style: Normal
+           Text:  OSHA sanitation standards
+
+    [  35]  Style: Normal
+           Text:  Inspection log template
+
+    [  37]  Style: Normal
+           Text:  Procedure
+
+    [  38]  Style: Normal
+           Text:  Step 1: Plan Facility Locations
+
+    [  39]  Style: Normal
+           Text:  Identify accessible, evenly distributed locations.
+
+    [  40]  Style: Normal
+           Text:  Ensure ADA-compliant unit if required.
+
+    [  41]  Style: Normal
+           Text:  Step 2: Secure Vendor Services
+
+    [  42]  Style: Normal
+           Text:  Contract portable toilet/wash station vendor.
+
+    [  43]  Style: Normal
+           Text:  Establish service and cleaning schedule.
+
+    [  44]  Style: Normal
+           Text:  Step 3: Install Facilities
+
+    [  45]  Style: Normal
+           Text:  Place units per site logistics plan.
+
+    [  46]  Style: Normal
+           Text:  Anchor units if required for safety.
+
+    [  47]  Style: Normal
+           Text:  Step 4: Maintain Facilities
+
+    [  48]  Style: Normal
+           Text:  Vendor provides regular cleaning and servicing.
+
+    [  49]  Style: Normal
+           Text:  Safety Coordinator inspects weekly.
+
+    [  50]  Style: Normal
+           Text:  Step 5: Document Compliance
+
+    [  51]  Style: Normal
+           Text:  Maintain sanitation inspection log.
+
+    [  52]  Style: Normal
+           Text:  Report deficiencies and corrective actions.
+
+    [  54]  Style: Normal
+           Text:  Deliverables
+
+    [  56]  Style: Normal
+           Text:  Compliance & Review
+
+    [  58]  Style: Normal
+           Text:  References
+
+    [  59]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  60]  Style: Normal
+           Text:  OSHA Sanitation Standards
+
+    [  62]  Style: Normal
+           Text:  Appendix
+
+    [  63]  Style: Normal
+           Text:  Sanitary Facilities Setup Checklist
+
+    [  64]  Style: Normal
+           Text:  Inspection Log Template
+
+    --- 50 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (4 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Coordinates contracts with sanitary facility vendors.']
+      Row   2: ['Field Supervisor', 'Determines placement for accessibility and logistics.']
+      Row   3: ['Safety Coordinator', 'Ensures OSHA compliance and maintains inspection log.']
+
+    Table 2  (4 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Sanitary Facilities Setup Checklist', 'Field Supervisor', 'Project Folder']
+      Row   2: ['Vendor Contract & Service Records', 'PM', 'Procurement Folder']
+      Row   3: ['Inspection Log', 'Safety Coordinator', 'Safety Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Sanitary facilities installed before mobilization', '100%']
+      Row   2: ['Cleaning schedule maintained', '100%']
+      Row   3: ['Weekly inspections completed', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 3/10: 9.3.070 – Setup Temporary Lighting.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.120 – Setup Temporary Lighting
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Safety
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To provide adequate temporary lighting for safety, security, and productivity during construction.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers, Field Supervisors, and Safety Coordinators during mobilization and project execution.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Temporary lighting layout
+
+    [  34]  Style: Normal
+           Text:  Temporary power connection plan (SOP 9.41.105)
+
+    [  35]  Style: Normal
+           Text:  OSHA lighting standards
+
+    [  37]  Style: Normal
+           Text:  Procedure
+
+    [  38]  Style: Normal
+           Text:  Step 1: Assess Lighting Needs
+
+    [  39]  Style: Normal
+           Text:  Identify required light levels for work areas, walkways, and security zones.
+
+    [  40]  Style: Normal
+           Text:  Step 2: Install Fixtures
+
+    [  41]  Style: Normal
+           Text:  Connect to temporary power sources.
+
+    [  42]  Style: Normal
+           Text:  Mount fixtures securely to poles, scaffolding, or structures.
+
+    [  43]  Style: Normal
+           Text:  Step 3: Test Coverage
+
+    [  44]  Style: Normal
+           Text:  Verify adequate illumination in all designated areas.
+
+    [  45]  Style: Normal
+           Text:  Adjust placement as needed.
+
+    [  46]  Style: Normal
+           Text:  Step 4: Safety Review
+
+    [  47]  Style: Normal
+           Text:  Confirm compliance with OSHA minimum light levels.
+
+    [  48]  Style: Normal
+           Text:  Ensure cords are secured and protected.
+
+    [  49]  Style: Normal
+           Text:  Step 5: Maintain System
+
+    [  50]  Style: Normal
+           Text:  Replace failed bulbs/fixtures promptly.
+
+    [  51]  Style: Normal
+           Text:  Conduct weekly inspections.
+
+    [  53]  Style: Normal
+           Text:  Deliverables
+
+    [  55]  Style: Normal
+           Text:  Compliance & Review
+
+    [  57]  Style: Normal
+           Text:  References
+
+    [  58]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  59]  Style: Normal
+           Text:  OSHA Lighting Standards
+
+    [  61]  Style: Normal
+           Text:  Appendix
+
+    [  62]  Style: Normal
+           Text:  Temporary Lighting Layout Example
+
+    [  63]  Style: Normal
+           Text:  Inspection Log Template
+
+    --- 49 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (5 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Approves lighting plan and coordinates budget for fixtures and power.']
+      Row   2: ['Field Supervisor', 'Oversees installation and verifies coverage across work areas.']
+      Row   3: ['Electrical Subcontractor', 'Installs temporary lighting systems.']
+      Row   4: ['Safety Coordinator', 'Inspects lighting for OSHA compliance and safety.']
+
+    Table 2  (4 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Temporary Lighting Plan', 'Project Manager', 'Project Folder']
+      Row   2: ['Installation Checklist', 'Field Supervisor', 'Project Folder']
+      Row   3: ['Inspection Log', 'Safety Coordinator', 'Safety Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Lighting installed before work commences', '100%']
+      Row   2: ['OSHA compliance verified', '100%']
+      Row   3: ['Weekly inspections performed', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 4/10: 9.3.080 – Setup Signage.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.125 – Setup Signage
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Safety
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To install signage that provides safety information, site identification, and directional guidance for workers, visitors, and the public.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers, Field Supervisors, and Safety Coordinators during mobilization.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Safety and hazard communication plan
+
+    [  34]  Style: Normal
+           Text:  Signage package (safety, directional, informational)
+
+    [  35]  Style: Normal
+           Text:  OSHA signage standards
+
+    [  37]  Style: Normal
+           Text:  Procedure
+
+    [  38]  Style: Normal
+           Text:  Step 1: Identify Requirements
+
+    [  39]  Style: Normal
+           Text:  Review OSHA requirements and project-specific signage needs.
+
+    [  40]  Style: Normal
+           Text:  Include safety, hazard, PPE, traffic, and directional signage.
+
+    [  41]  Style: Normal
+           Text:  Step 2: Procure Signage
+
+    [  42]  Style: Normal
+           Text:  Order standardized signage per GSL and client requirements.
+
+    [  43]  Style: Normal
+           Text:  Step 3: Install Signs
+
+    [  44]  Style: Normal
+           Text:  Place at entrances, work areas, and hazard zones.
+
+    [  45]  Style: Normal
+           Text:  Ensure visibility and durability.
+
+    [  46]  Style: Normal
+           Text:  Step 4: Verify Compliance
+
+    [  47]  Style: Normal
+           Text:  Safety Coordinator inspects signage placement.
+
+    [  48]  Style: Normal
+           Text:  Replace or repair damaged signs immediately.
+
+    [  50]  Style: Normal
+           Text:  Deliverables
+
+    [  52]  Style: Normal
+           Text:  Compliance & Review
+
+    [  54]  Style: Normal
+           Text:  References
+
+    [  55]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  56]  Style: Normal
+           Text:  OSHA Signage Standards
+
+    [  58]  Style: Normal
+           Text:  Appendix
+
+    [  59]  Style: Normal
+           Text:  Sample Site Signage Package
+
+    [  60]  Style: Normal
+           Text:  Installation Checklist Template
+
+    --- 46 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (4 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Determines signage requirements and coordinates vendor procurement.']
+      Row   2: ['Field Supervisor', 'Installs signage in designated locations.']
+      Row   3: ['Safety Coordinator', 'Ensures signs meet OSHA and client requirements.']
+
+    Table 2  (3 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Signage Installation Checklist', 'Field Supervisor', 'Project Folder']
+      Row   2: ['Safety Compliance Report', 'Safety Coordinator', 'Safety Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Required signage installed before mobilization', '100%']
+      Row   2: ['OSHA-compliant signage in place', '100%']
+      Row   3: ['Damaged signage replaced within 24 hrs', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 5/10: 9.3.090 – Setup Security.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.130 – Setup Security
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Safety
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  17]  Style: Normal
+           Text:  - 7.4 Business Administration
+
+    [  19]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  20]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  21]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  22]  Style: Normal
+           Text:  ================================================================================
+
+    [  24]  Style: Normal
+           Text:  Purpose
+
+    [  25]  Style: Normal
+           Text:  To establish security measures that protect personnel, equipment, and materials from theft, vandalism, and unauthorized access.
+
+    [  27]  Style: Normal
+           Text:  Scope
+
+    [  28]  Style: Normal
+           Text:  This SOP applies to Project Managers, Field Supervisors, and Safety Coordinators during mobilization and throughout construction.
+
+    [  30]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  32]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  33]  Style: Normal
+           Text:  Site security plan
+
+    [  34]  Style: Normal
+           Text:  Access control plan
+
+    [  35]  Style: Normal
+           Text:  Fencing and signage layouts
+
+    [  36]  Style: Normal
+           Text:  Security vendor contract (if applicable)
+
+    [  38]  Style: Normal
+           Text:  Procedure
+
+    [  39]  Style: Normal
+           Text:  Step 1: Develop Security Plan
+
+    [  40]  Style: Normal
+           Text:  Identify risks (theft, vandalism, trespassing).
+
+    [  41]  Style: Normal
+           Text:  Define required measures (guards, cameras, patrols, lighting).
+
+    [  42]  Style: Normal
+           Text:  Step 2: Implement Physical Security
+
+    [  43]  Style: Normal
+           Text:  Secure fencing and access gates (see SOP 9.41.100).
+
+    [  44]  Style: Normal
+           Text:  Install locks, lighting, and surveillance systems.
+
+    [  45]  Style: Normal
+           Text:  Step 3: Establish Access Protocols
+
+    [  46]  Style: Normal
+           Text:  Require badges/sign-in logs.
+
+    [  47]  Style: Normal
+           Text:  Train site staff and enforce procedures.
+
+    [  48]  Style: Normal
+           Text:  Step 4: Monitor and Adjust
+
+    [  49]  Style: Normal
+           Text:  Conduct daily inspections of access points.
+
+    [  50]  Style: Normal
+           Text:  Adjust measures as site conditions change.
+
+    [  51]  Style: Normal
+           Text:  Step 5: Document Security Activities
+
+    [  52]  Style: Normal
+           Text:  Maintain daily security logs and incident reports.
+
+    [  54]  Style: Normal
+           Text:  Deliverables
+
+    [  56]  Style: Normal
+           Text:  Compliance & Review
+
+    [  58]  Style: Normal
+           Text:  References
+
+    [  59]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  61]  Style: Normal
+           Text:  Appendix
+
+    [  62]  Style: Normal
+           Text:  Security Plan Template
+
+    [  63]  Style: Normal
+           Text:  Incident Report Template
+
+    [  64]  Style: Normal
+           Text:  Daily Security Log Example
+
+    --- 50 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (5 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Approves security plan and contracts vendors if required.']
+      Row   2: ['Field Supervisor', 'Implements physical security measures and monitors access points.']
+      Row   3: ['Safety Coordinator', 'Ensures security plan does not conflict with safety standards.']
+      Row   4: ['Security Personnel (if engaged)', 'Monitors site and enforces access protocols.']
+
+    Table 2  (4 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Security Plan', 'Project Manager', 'Project Folder']
+      Row   2: ['Security Logs', 'Security Personnel / Field Supervisor', 'Project Folder']
+      Row   3: ['Incident Reports', 'PM / Safety', 'Safety Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Security plan in place before mobilization', '100%']
+      Row   2: ['Access points monitored daily', '100%']
+      Row   3: ['Incident reports filed within 24 hrs', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 6/10: 9.3.100 – Setup Laydown Area.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.135 – Setup Laydown Area
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Field Operations
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water; 9.4.640 - Manage Storage and Logistics
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To establish a designated laydown area for material storage and staging to support efficient project operations and site safety.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers and Field Supervisors during mobilization.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Laydown area setup checklist
+
+    [  34]  Style: Normal
+           Text:  Material handling plan (SOP 9.41.060)
+
+    [  36]  Style: Normal
+           Text:  Procedure
+
+    [  37]  Style: Normal
+           Text:  Select Location – Identify flat, accessible ground close to work zones, ensuring crane/hoist access if required.
+
+    [  38]  Style: Normal
+           Text:  Prepare Site – Clear debris, grade if necessary, install ground protection for heavy loads.
+
+    [  39]  Style: Normal
+           Text:  Organize Layout – Separate storage by material type, mark access lanes for forklifts and deliveries.
+
+    [  40]  Style: Normal
+           Text:  Secure Area – Fence or barrier as required; provide lighting if in use after hours.
+
+    [  41]  Style: Normal
+           Text:  Safety Review – Confirm materials are stacked properly, compliant with fire/hazardous material requirements.
+
+    [  43]  Style: Normal
+           Text:  Deliverables
+
+    [  45]  Style: Normal
+           Text:  Compliance & Review
+
+    [  47]  Style: Normal
+           Text:  References
+
+    [  48]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  50]  Style: Normal
+           Text:  Appendix
+
+    [  51]  Style: Normal
+           Text:  Laydown Area Layout Example
+
+    [  52]  Style: Normal
+           Text:  Inspection Checklist Template
+
+    --- 38 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (4 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Approves laydown area per site logistics plan.']
+      Row   2: ['Field Supervisor', 'Sets up and manages the laydown area.']
+      Row   3: ['Safety Coordinator', 'Reviews for compliance with safety standards and traffic flow.']
+
+    Table 2  (3 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Laydown Area Setup Checklist', 'Field Supervisor', 'Project Folder']
+      Row   2: ['Updated Site Logistics Plan', 'PM', 'Project Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Laydown area established before first delivery', '100%']
+      Row   2: ['Access lanes clear and maintained', '100%']
+      Row   3: ['Weekly inspections performed', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 7/10: 9.3.110 – Setup Equipment Staging.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.140 – Setup Equipment Staging
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Field Operations
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water; 9.4.565 - Manage Equipment Allocation; 9.4.700 - Track Equipment Utilization
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To establish designated areas for equipment staging, ensuring safe and efficient deployment of construction equipment.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers, Field Supervisors, and Equipment Operators during mobilization.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Equipment delivery schedule
+
+    [  34]  Style: Normal
+           Text:  Material handling plan (SOP 9.41.060)
+
+    [  36]  Style: Normal
+           Text:  Procedure
+
+    [  37]  Style: Normal
+           Text:  Select Staging Location – Accessible area that avoids disrupting traffic flow.
+
+    [  38]  Style: Normal
+           Text:  Prepare Area – Clear ground, provide mats if needed, mark parking/maneuvering zones.
+
+    [  39]  Style: Normal
+           Text:  Position Equipment – Organize by size/type, ensure emergency access.
+
+    [  40]  Style: Normal
+           Text:  Apply Safety Controls – Provide barriers near public access, lockout/tagout idle equipment.
+
+    [  41]  Style: Normal
+           Text:  Document – Maintain log of staged equipment and inspections.
+
+    [  43]  Style: Normal
+           Text:  Deliverables
+
+    [  45]  Style: Normal
+           Text:  Compliance & Review
+
+    [  47]  Style: Normal
+           Text:  References
+
+    [  48]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  50]  Style: Normal
+           Text:  Appendix
+
+    [  51]  Style: Normal
+           Text:  Equipment Staging Log Template
+
+    [  52]  Style: Normal
+           Text:  Site Logistics Plan Example
+
+    --- 38 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (5 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Approves staging area location based on site logistics.']
+      Row   2: ['Field Supervisor', 'Directs setup and coordinates equipment deliveries.']
+      Row   3: ['Equipment Operators', 'Position equipment safely in staging area.']
+      Row   4: ['Safety Coordinator', 'Ensures OSHA compliance for equipment storage.']
+
+    Table 2  (3 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Equipment Staging Log', 'Field Supervisor', 'Project Folder']
+      Row   2: ['Updated Site Logistics Plan', 'PM', 'Project Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Staging area established prior to equipment arrival', '100%']
+      Row   2: ['Safety barriers/signage in place', '100%']
+      Row   3: ['Weekly inspection log maintained', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 8/10: 9.3.120 – Setup Parking.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.145 – Setup Parking
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Safety
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.3.010 - Setup Office Trailer; 9.3.020 - Setup Storage Trailer; 9.3.030 - Setup Site Fencing and Access Control; 9.3.040 - Setup Temporary Power; 9.3.050 - Setup Temporary Water
+Reference: GSL Project Manager Procedures – Mobilization
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To designate and manage parking areas for workers, visitors, and deliveries, ensuring safety and minimizing disruption to site operations.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers, Field Supervisors, and Safety Coordinators during mobilization.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  Site logistics plan
+
+    [  33]  Style: Normal
+           Text:  Parking layout plan
+
+    [  34]  Style: Normal
+           Text:  Signage package
+
+    [  35]  Style: Normal
+           Text:  Material handling plan (SOP 9.41.060)
+
+    [  37]  Style: Normal
+           Text:  Procedure
+
+    [  38]  Style: Normal
+           Text:  Identify Parking Areas – Assign zones for employees, visitors, and deliveries; include ADA-compliant spaces.
+
+    [  39]  Style: Normal
+           Text:  Prepare & Mark Areas – Grade, mark spaces, define lanes and walkways.
+
+    [  40]  Style: Normal
+           Text:  Install Signage – Provide clear directional and restriction signs; designate visitor parking.
+
+    [  41]  Style: Normal
+           Text:  Safety & Security – Add barriers near construction zones; install lighting for night use.
+
+    [  42]  Style: Normal
+           Text:  Maintain Parking – Inspect weekly, repair damage, and adjust as site changes.
+
+    [  44]  Style: Normal
+           Text:  Deliverables
+
+    [  46]  Style: Normal
+           Text:  Compliance & Review
+
+    [  48]  Style: Normal
+           Text:  References
+
+    [  49]  Style: Normal
+           Text:  GSL Project Manager Procedures – Mobilization
+
+    [  51]  Style: Normal
+           Text:  Appendix
+
+    [  52]  Style: Normal
+           Text:  Parking Plan Template
+
+    [  53]  Style: Normal
+           Text:  Inspection Log Example
+
+    --- 39 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (4 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Approves parking plan per site logistics.']
+      Row   2: ['Field Supervisor', 'Establishes parking areas and installs signage.']
+      Row   3: ['Safety Coordinator', 'Ensures traffic flow and pedestrian safety compliance.']
+
+    Table 2  (3 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Parking Plan', 'Project Manager', 'Project Folder']
+      Row   2: ['Inspection Log', 'Field Supervisor', 'Project Folder']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Parking established before mobilization', '100%']
+      Row   2: ['ADA compliance verified', '100%']
+      Row   3: ['Weekly inspections maintained', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 9/10: 9.3.470 – Develop Site Specific Safety Plan.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.41.470 – Develop Site-Specific Safety Plan
+
+    [   1]  Style: Normal
+           Text:  Department: Safety / Project Management
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.2.070 - Conduct Site Visit; 9.3.030 - Setup Site Fencing and Access Control; 9.4.475 - Conduct Safety Orientation; 9.4.480 - Conduct Safety Inspections; 9.4.485 - Conduct Safety Meetings; 9.4.490 - Report Safety Incidents; 9.4.505 - Conduct Safety Compliance Audits; 9.4.510 - Provide Safety Training
+Reference: GSL Project Manager Procedures – Safety Management
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 4: Staging & Job Familiarization
+
+    [  11]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  13]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  14]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  15]  Style: Normal
+           Text:  - 7.2.6 Project Safety Coordinator
+
+    [  16]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  18]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  19]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  20]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  21]  Style: Normal
+           Text:  ================================================================================
+
+    [  23]  Style: Normal
+           Text:  Purpose
+
+    [  24]  Style: Normal
+           Text:  To prepare and implement a site-specific safety plan (SSSP) that identifies hazards, compliance requirements, and procedures to protect workers and the public.
+
+    [  26]  Style: Normal
+           Text:  Scope
+
+    [  27]  Style: Normal
+           Text:  This SOP applies to Project Managers, Safety Coordinators, and Field Supervisors.
+All safety plan documentation must be filed per SOP 9.41.190A – Document Filing Standards.
+
+    [  29]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  31]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  32]  Style: Normal
+           Text:  SOP 9.41.190A – Document Filing Standards
+
+    [  33]  Style: Normal
+           Text:  Corporate safety manual
+
+    [  34]  Style: Normal
+           Text:  OSHA 29 CFR 1926
+
+    [  36]  Style: Normal
+           Text:  Procedure
+
+    [  37]  Style: Normal
+           Text:  Review project scope and site conditions.
+
+    [  38]  Style: Normal
+           Text:  Identify hazards and compliance requirements.
+
+    [  39]  Style: Normal
+           Text:  Draft site-specific safety plan (SSSP).
+
+    [  40]  Style: Normal
+           Text:  Review and approve with Project Manager and Branch Manager.
+
+    [  41]  Style: Normal
+           Text:  File and distribute plan per SOP 190A.
+
+    [  43]  Style: Normal
+           Text:  Deliverables
+
+    [  45]  Style: Normal
+           Text:  Compliance & Review
+
+    [  47]  Style: Normal
+           Text:  References
+
+    [  48]  Style: Normal
+           Text:  GSL Project Manager Procedures – Safety Management
+
+    [  49]  Style: Normal
+           Text:  SOP 9.41.190A – Document Filing Standards
+
+    [  50]  Style: Normal
+           Text:  OSHA 29 CFR 1926
+
+    [  52]  Style: Normal
+           Text:  Appendix
+
+    [  53]  Style: Normal
+           Text:  Safety Plan Template
+
+    [  54]  Style: Normal
+           Text:  Hazard Assessment Checklist
+
+    --- 40 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (5 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Safety Coordinator', 'Drafts and maintains the site-specific safety plan.']
+      Row   2: ['Project Manager', 'Reviews and approves the plan before mobilization.']
+      Row   3: ['Field Supervisor', 'Implements the safety plan in daily field operations.']
+      Row   4: ['Branch Manager', 'Audits the safety plan for compliance.']
+
+    Table 2  (4 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Site-Specific Safety Plan', 'Safety Coordinator', 'Per SOP 190A']
+      Row   2: ['Hazard Assessment', 'PM / Safety Coordinator', 'Per SOP 190A']
+      Row   3: ['Approval Record', 'Branch Manager', 'Per SOP 190A']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Safety plan completed before mobilization', '100%']
+      Row   2: ['All hazards identified and mitigated', '100%']
+      Row   3: ['Plan reviewed quarterly', '100%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  FILE 10/10: 9.4.010 – Conduct Coordination Meetings.docx
+================================================================================
+
+  PARAGRAPHS (non-empty)
+  ----------------------------------------------------------------------------
+    [   0]  Style: Normal
+           Text:  SOP 9.4.010 – Conduct Coordination Meetings
+
+    [   1]  Style: Normal
+           Text:  Department: Project Management / Field Operations
+Created by: Tom Ewing
+Effective Date: [Insert Date]
+Version: 1.0
+Related SOPs: 9.4.020 - Conduct Subcontractor Coordination Meetings; 9.4.030 - Conduct Client/Owner Meetings; 9.4.040 - Conduct Safety Meetings; 9.4.045 - Identify Value Engineering & Prefabrication Opportunities; 9.4.050 - Conduct Prefabrication Coordination Meetings; 9.4.055 - Procurement of Large Feeder Wire; 9.4.060 - Conduct Quality Meetings; 9.4.345 - Conduct Schedule Review Meetings
+Reference: GSL Project Manager Procedures – Coordination
+
+    [   5]  Style: Normal
+           Text:  ================================================================================
+
+    [   6]  Style: Normal
+           Text:  DOCUMENT REFERENCES
+
+    [   7]  Style: Normal
+           Text:  ================================================================================
+
+    [   9]  Style: Normal
+           Text:  Training Materials (Foreman Training Binder):
+
+    [  10]  Style: Normal
+           Text:  - Tab 6: Scheduling
+
+    [  11]  Style: Normal
+           Text:  - Tab 8: Change Order Process
+
+    [  12]  Style: Normal
+           Text:  - Tab 9: Submittals
+
+    [  13]  Style: Normal
+           Text:  - Tab 12: Look Ahead
+
+    [  14]  Style: Normal
+           Text:  - Tab 14: Daily Reports
+
+    [  15]  Style: Normal
+           Text:  - Tab 22: Document Management
+
+    [  16]  Style: Normal
+           Text:  - Tab 41: Material Management
+
+    [  17]  Style: Normal
+           Text:  - Tab 57: ProCore
+
+    [  19]  Style: Normal
+           Text:  Job Descriptions (Policy Manual Section 7):
+
+    [  20]  Style: Normal
+           Text:  - 7.2.4 Foreman
+
+    [  21]  Style: Normal
+           Text:  - 7.3.1 Operations Management
+
+    [  23]  Style: Normal
+           Text:  Management Directives (Policy Manual Section 9):
+
+    [  24]  Style: Normal
+           Text:  - 9.5 Project Management
+
+    [  25]  Style: Normal
+           Text:  - 9.3 Field Leadership
+
+    [  26]  Style: Normal
+           Text:  - 9.4 General Superintendents
+
+    [  28]  Style: Normal
+           Text:  ================================================================================
+
+    [  30]  Style: Normal
+           Text:  Purpose
+
+    [  31]  Style: Normal
+           Text:  To establish a standard process for conducting project coordination meetings to ensure alignment between all project stakeholders, resolve issues, and review progress.
+
+    [  33]  Style: Normal
+           Text:  Scope
+
+    [  34]  Style: Normal
+           Text:  This SOP applies to Project Managers, Field Supervisors, Subcontractors, and Design Team representatives.
+All coordination meeting documentation must be filed per SOP 9.41.190A – Document Filing Standards.
+
+    [  36]  Style: Normal
+           Text:  Roles and Responsibilities
+
+    [  38]  Style: Normal
+           Text:  Required Documents and Tools
+
+    [  39]  Style: Normal
+           Text:  SOP 9.41.190A – Document Filing Standards
+
+    [  40]  Style: Normal
+           Text:  Coordination meeting agenda template
+
+    [  41]  Style: Normal
+           Text:  Action item log
+
+    [  43]  Style: Normal
+           Text:  Procedure
+
+    [  44]  Style: Normal
+           Text:  Schedule coordination meetings weekly (or as required by project).
+
+    [  45]  Style: Normal
+           Text:  Prepare and distribute meeting agenda at least 24 hours in advance.
+
+    [  46]  Style: Normal
+           Text:  Conduct meeting covering:
+
+    [  47]  Style: Normal
+           Text:  Safety
+
+    [  48]  Style: Normal
+           Text:  Progress updates
+
+    [  49]  Style: Normal
+           Text:  Upcoming activities
+
+    [  50]  Style: Normal
+           Text:  Coordination issues (site access, deliveries, manpower, conflicts)
+
+    [  51]  Style: Normal
+           Text:  Action items
+
+    [  52]  Style: Normal
+           Text:  Record attendance and meeting minutes.
+
+    [  53]  Style: Normal
+           Text:  Distribute minutes within 48 hours.
+
+    [  54]  Style: Normal
+           Text:  File minutes and action item log per SOP 190A.
+
+    [  56]  Style: Normal
+           Text:  Deliverables
+
+    [  58]  Style: Normal
+           Text:  Compliance & Review
+
+    [  60]  Style: Normal
+           Text:  References
+
+    [  61]  Style: Normal
+           Text:  GSL Project Manager Procedures – Coordination
+
+    [  62]  Style: Normal
+           Text:  SOP 9.41.190A – Document Filing Standards
+
+    [  64]  Style: Normal
+           Text:  Appendix
+
+    [  65]  Style: Normal
+           Text:  Coordination Meeting Agenda Template
+
+    [  66]  Style: Normal
+           Text:  Action Item Log Example
+
+    --- 51 non-empty paragraphs ---
+
+  TABLES
+  ----------------------------------------------------------------------------
+    Table 1  (6 rows x 2 cols)
+      Row   0: ['Role', 'Responsibilities']
+      Row   1: ['Project Manager', 'Schedules and chairs coordination meetings, sets agenda.']
+      Row   2: ['Field Supervisor', 'Provides field updates and identifies coordination issues.']
+      Row   3: ['Subcontractors', 'Share progress updates and upcoming needs.']
+      Row   4: ['Design Team / Consultants', 'Provide design clarifications as required.']
+      Row   5: ['Site Administrator', 'Records minutes, action items, and files records.']
+
+    Table 2  (4 rows x 3 cols)
+      Row   0: ['Document', 'Owner', 'Location']
+      Row   1: ['Meeting Agenda', 'Project Manager', 'Per SOP 190A']
+      Row   2: ['Meeting Minutes', 'Site Administrator', 'Per SOP 190A']
+      Row   3: ['Action Item Log', 'Project Manager', 'Per SOP 190A']
+
+    Table 3  (4 rows x 2 cols)
+      Row   0: ['KPI', 'Target']
+      Row   1: ['Agendas issued 24 hrs before meetings', '100%']
+      Row   2: ['Minutes distributed within 48 hrs', '100%']
+      Row   3: ['Action items closed by due dates', '≥95%']
+
+    --- 3 table(s) ---
+
+================================================================================
+  END OF REPORT
+================================================================================

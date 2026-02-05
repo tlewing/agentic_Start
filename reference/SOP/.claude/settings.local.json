@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b \"%USERPROFILE%\\\\.claude\"\")",
+      "Bash(powershell -ExecutionPolicy Bypass -File:*)",
+      "Bash(powershell -Command \"Add-Type -AssemblyName System.IO.Compression.FileSystem; $zip = [System.IO.Compression.ZipFile]::OpenRead\\(''GSL_SOP_Master_Template_SHAREPOINT_ENABLED \\(v1\\).docx''\\); $entry = $zip.Entries | Where-Object { $_FullName -eq ''word/document.xml'' }; $stream = $entry.Open\\(\\); $reader = New-Object System.IO.StreamReader\\($stream\\); $xml = [xml]$reader.ReadToEnd\\(\\); $reader.Close\\(\\); $zip.Dispose\\(\\); $xml.document.body.InnerText\")",
+      "Bash(pip show:*)",
+      "Bash(pip3 show:*)",
+      "Bash(C:/Python314/python.exe:*)",
+      "Bash(python scripts/verify_content.py:*)",
+      "Bash(py -3:*)",
+      "Bash(ls:*)",
+      "Bash(powershell -ExecutionPolicy Bypass -Command \"\nImport-Module PnP.PowerShell -ErrorAction Stop\n$SiteUrl = ''https://gslelectric8540.sharepoint.com/sites/StandardOperationProcedures''\n$LibraryName = ''Standard Operating Procedures''\n\nWrite-Host ''=== CONNECTING TO SHAREPOINT ==='' -ForegroundColor Cyan\nConnect-PnPOnline -Url $SiteUrl -UseWebLogin\n\n$files = @\\(\n    ''C:\\\\Users\\\\tewing\\\\Desktop\\\\Holding\\\\SOP\\\\Revised-SOPs\\\\9.2.010 – Team Selection.docx'',\n    ''C:\\\\Users\\\\tewing\\\\Desktop\\\\Holding\\\\SOP\\\\Revised-SOPs\\\\9.2.015 – Project Turnover Meeting.docx'',\n    ''C:\\\\Users\\\\tewing\\\\Desktop\\\\Holding\\\\SOP\\\\Revised-SOPs\\\\9.4.360 – Manage Change Orders.docx''\n\\)\n\nWrite-Host ''=== UPLOADING 3 SAMPLE SOPs ==='' -ForegroundColor Cyan\nforeach \\($file in $files\\) {\n    $name = Split-Path $file -Leaf\n    try {\n        Add-PnPFile -Path $file -Folder $LibraryName -ErrorAction Stop | Out-Null\n        Write-Host \"\"  [OK] $name\"\" -ForegroundColor Green\n    } catch {\n        Write-Host \"\"  [FAILED] $name - $_\"\" -ForegroundColor Red\n    }\n}\n\nWrite-Host ''=== COMPLETE ==='' -ForegroundColor Green\n\")"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+SOP ID,SOP Title,Phase,Roles (RACI),Primary JD,Related SOPs,Formerly
+9.1.050,9.1.050  Construction Takeoff,,,,,
+9.2.030,9.2.030 Review Contract for Unfavorable or High-Risk Clauses,2 – Preconstruction,PM; Branch Manager; Contracts Admin,,9.2.110,Formerly 9.41.015
+9.2.055,9.2.055 – Compare Est. vs. Planned,3 – Preconstruction,,,,
+9.2.090,9.2.090 Develop Labor Budget,2 – Preconstruction,PM; General Superintendent; Estimator; Branch Manager,,9.2.100; 9.2.110,Formerly 9.41.065
+9.2.100,9.2.100 Prepare Layout & Sequencing Plan,2 – Preconstruction,PM; Field Supervisor; General Superintendent; Safety,,9.2.090; 9.2.110,Formerly 9.41.070
+9.2.110,9.2.110 Develop Project Schedule,2 – Preconstruction,PM; General Superintendent; Purchasing; Branch Manager,,9.2.090; 9.2.080; 9.2.120,Formerly 9.41.075
+9.2.120,9.2.120 Establish Tracking & Control Systems,2 – Preconstruction,PM; Field Supervisor; Purchasing; Safety; Branch Manager,,9.2.110; 9.2.130,Formerly 9.41.080
+9.2.130,9.2.130 Construction Execution Kickoff Meeting,2 – Preconstruction,PM; General Superintendent; Field Supervisor; Purchasing; Safety; Branch Manager,,9.2.120,Formerly 9.41.085
+9.3.010,9.3.010 Setup Office Trailer,3 – Mobilization & Job Site Setup,PM; Site Administrator; General Superintendent; IT/Communications,,9.3.020; 9.3.030,Formerly 9.41.090
+9.3.010,9.3.010 Setup Office Trailer,3 – Mobilization & Job Site Setup,PM; Site Administrator; General Superintendent; IT/Communications,,9.3.020; 9.3.030,Formerly 9.41.090
+9.3.020,9.3.020 Setup Storage Trailer,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.010; 9.3.100,Formerly 9.41.095
+9.3.020,9.3.020 Setup Storage Trailer,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.010; 9.3.100,Formerly 9.41.095
+9.3.030,9.3.030 Setup Site Fencing and Access Control,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety; Security Personnel,,9.3.080; 9.3.090,Formerly 9.41.100
+9.3.030,9.3.030 Setup Site Fencing and Access Control,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety; Security Personnel,,9.3.080; 9.3.090,Formerly 9.41.100
+9.3.040,9.3.040 Setup Temporary Power,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Electrical Subcontractor; Safety,,9.3.010; 9.3.070,Formerly 9.41.105
+9.3.040,9.3.040 Setup Temporary Power,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Electrical Subcontractor; Safety,,9.3.010; 9.3.070,Formerly 9.41.105
+9.3.050,9.3.050 Setup Temporary Water,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.060; 9.3.040,Formerly 9.41.110
+9.3.050,9.3.050 Setup Temporary Water,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.060; 9.3.040,Formerly 9.41.110
+9.3.060,9.3.060 Setup Sanitary Facilities,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.050,Formerly 9.41.115
+9.3.060,9.3.060 Setup Sanitary Facilities,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.050,Formerly 9.41.115
+9.3.070,9.3.070 Setup Temporary Lighting,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Electrical Subcontractor; Safety,,9.3.040,Formerly 9.41.120
+9.3.070,9.3.070 Setup Temporary Lighting,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Electrical Subcontractor; Safety,,9.3.040,Formerly 9.41.120
+9.3.080,9.3.080 Setup Signage,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.030,Formerly 9.41.125
+9.3.080,9.3.080 Setup Signage,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.030,Formerly 9.41.125
+9.3.090,9.3.090 Setup Security,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety; Security Personnel,,9.3.030; 9.3.080,Formerly 9.41.130
+9.3.090,9.3.090 Setup Security,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety; Security Personnel,,9.3.030; 9.3.080,Formerly 9.41.130
+9.3.100,9.3.100 Setup Laydown Area,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.020; 9.2.080,Formerly 9.41.135
+9.3.100,9.3.100 Setup Laydown Area,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety,,9.3.020; 9.2.080,Formerly 9.41.135
+9.3.110,9.3.110 Setup Equipment Staging,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Equipment Operator; Safety Coordinator,,9.3.100,Formerly 9.41.140
+9.3.120,9.3.120 Setup Parking,3 – Mobilization & Job Site Setup,PM; Field Supervisor; Safety Coordinator,,9.3.110; 9.3.100,Formerly 9.41.145
+9.4.020,9.4.020 Conduct Subcontractor Coordination Meetings,4 – Construction,PM; Subcontractors; Field Supervisor; Safety,,9.4.010; 9.2.110,Formerly 9.41.155
+9.4.030,9.4.030 Conduct Client/Owner Meetings,4 – Construction,PM; Branch Manager; Client/Owner; Safety,,9.4.010,Formerly 9.41.160
+9.4.040,9.4.040 Conduct Safety Meetings,4 – Construction,Safety Coordinator; PM; Field Supervisor; All Employees,,9.3.060; 9.3.070,Formerly 9.41.165
+9.4.050,9.4.050 Conduct Prefabrication Coordination Meetings,4 – Construction,PM; Prefab Lead; Field Supervisor; General Superintendent,,9.2.080; 9.2.090,Formerly 9.41.170
+9.4.060,9.4.060 Conduct Quality Meetings,4 – Construction,PM; Field Supervisor; Quality Inspector; Safety Coordinator,,9.4.010,Formerly 9.41.175
+9.4.195,9.4.195 Manage Project Documentation System,4 – Construction,PM; Site Administrator; Branch Manager,,9.4.190; 9.4.200; 9.6.010,Formerly 9.41.195
+9.4.200,9.4.200 Manage Submittals,4 – Construction,PM; Purchasing; Subcontractors,,9.4.195; 9.4.225,Formerly 9.41.200
+9.4.205,9.4.205 Manage RFIs (Requests for Information),4 – Construction,PM; Field Supervisor; Estimator,,9.2.060; 9.4.195,Formerly 9.41.205
+9.4.210,9.4.210 Manage Meeting Minutes,4 – Construction,PM; Site Administrator; Meeting Participants,,9.4.010; 9.4.020; 9.4.030,Formerly 9.41.210
+9.4.215,9.4.215 Manage Daily Reports,4 – Construction,Field Supervisor; PM; Safety Coordinator,,9.4.165; 9.4.175,Formerly 9.41.215
+9.4.220,9.4.220 Manage Drawing Logs,4 – Construction,PM; Site Administrator; Field Supervisor,,9.4.205; 9.4.225,Formerly 9.41.220
+9.4.225,9.4.225 Manage Specifications,4 – Construction,PM; Site Administrator; Field Supervisor,,9.4.200; 9.4.220,Formerly 9.41.225
+9.4.230,9.4.230 Manage Correspondence,4 – Construction,PM; Site Administrator; Branch Manager,,9.4.190; 9.4.195; 9.4.205; 9.4.210,Formerly 9.41.230
+9.4.235,9.4.235 Manage Permits,4 – Construction,PM; Safety Coordinator; Site Administrator,,9.3.010; 9.3.060; 9.4.240,Formerly 9.41.235
+9.4.240,9.4.240 Manage Inspection Reports,4 – Construction,PM; Safety Coordinator; Quality Inspector; Site Administrator,,9.4.165; 9.4.175; 9.4.235,Formerly 9.41.240
+9.4.270,9.4.270 Manage Project Communications,4 – Construction,PM; Field Foreman; Site Administrator,,9.4.230; 9.4.210,Formerly 9.41.270
+9.4.275,9.4.275 Manage Internal Communications,4 – Construction,PM; Superintendent; Field Foreman; Site Administrator,,9.4.150; 9.4.165,Formerly 9.41.275
+9.4.280,9.4.280 Manage External Communications,4 – Construction,PM; Site Administrator; Field Foreman,,9.4.190; 9.4.230; 9.4.160,Formerly 9.41.280
+9.4.285,9.4.285 Manage Client/Owner Communications,4 – Construction,PM; Branch Manager; Site Administrator,,9.4.160; 9.4.280; 9.4.190,Formerly 9.41.285
+9.4.290,9.4.290 Manage Subcontractor Communications,4 – Construction,PM; Field Supervisor; Site Administrator,,9.4.155; 9.4.280; 9.4.190,Formerly 9.41.290
+9.4.300,9.4.300 Manage Architect/Engineer Communications,4 – Construction,PM; Field Supervisor; Site Administrator,,9.4.205; 9.4.220; 9.4.225,Formerly 9.41.300
+9.4.305,9.4.305 Manage Regulatory/Authority Communications,4 – Construction,PM; Safety Coordinator; Site Administrator,,9.4.235; 9.4.240; 9.4.190,Formerly 9.41.305
+9.4.310,9.4.310 Manage General Contractor Communications,4 – Construction,PM; Field Supervisor; Site Administrator,,9.2.015; 9.4.150; 9.4.190,Formerly 9.41.310
+9.4.315,9.4.315 Develop Project Schedule,4 – Construction,PM; Superintendent; Scheduler,,9.2.110; 9.4.320; 9.4.325,Formerly 9.41.315
+9.4.320,9.4.320 Update Project Schedule,4 – Construction,PM; Superintendent; Site Administrator,,9.4.315; 9.4.325,Formerly 9.41.320
+9.4.325,9.4.325 Monitor Schedule Performance,4 – Construction,PM; Superintendent; Branch Manager,,9.4.315; 9.4.320,Formerly 9.41.325
+9.4.330,9.4.330 Develop Schedule Recovery Plans,4 – Construction,PM; Superintendent; Branch Manager,,9.4.325; 9.2.040; 9.4.190,Formerly 9.41.330
+9.4.335,9.4.335 Prepare Lookahead Schedules,4 – Construction,PM; Superintendent; Field Foreman,,9.4.320; 9.4.330,Formerly 9.41.335
+9.4.340,9.4.340 Manage Resource-Loaded Schedules,4 – Construction,PM; Superintendent; Branch Manager,,9.4.315; 9.4.335,Formerly 9.41.340
+9.4.345,9.4.345 Conduct Schedule Review Meetings,4 – Construction,PM; Superintendent; Field Foreman; Branch Manager,,9.4.320; 9.4.325; 9.4.335,Formerly 9.41.345
+9.4.350,9.4.350 Manage Schedule Change Requests,4 – Construction,PM; Branch Manager; Site Administrator,,9.4.315; 9.4.325; 9.4.330,Formerly 9.41.350
+9.4.355,9.4.355 Manage Project Scope,4 – Construction,PM; Estimator; Field Supervisor; Site Administrator,,9.2.015; 9.4.350; 9.4.365,Formerly 9.41.355
+9.4.370,9.4.370 Manage Owner Directives,4 – Construction,PM; Estimator; Site Administrator,,9.4.365; 9.4.360; 9.4.355,Formerly 9.41.370
+9.4.375,9.4.375 Manage Scope Clarifications,4 – Construction,PM; Estimator; Field Supervisor; Site Administrator,,9.4.355; 9.4.365; 9.4.370,Formerly 9.41.375
+9.4.380,9.4.380 Manage Backcharges,4 – Construction,PM; Accounting; Site Administrator,,9.4.360; 9.4.290; 9.4.190,Formerly 9.41.380
+9.4.385,9.4.385 Manage Force Account Work,4 – Construction,PM; Field Supervisor; Accounting; Site Administrator,,9.4.360; 9.4.365; 9.4.380; 9.4.190,Formerly 9.41.385
+9.4.390,9.4.390 Manage Claims,4 – Construction,PM; Estimator; Branch Manager; Legal Counsel; Site Administrator,,9.4.360; 9.4.370; 9.4.385; 9.4.190,Formerly 9.41.390
+9.4.400,9.4.400 Monitor Project Costs,4 – Construction,PM; Accounting; Branch Manager,,9.2.140; 9.4.405; 9.4.190,Formerly 9.41.400
+9.4.405,9.4.405 Manage Cost Forecasts,4 – Construction,PM; Accounting; Branch Manager,,9.4.400; 9.2.140; 9.4.190,Formerly 9.41.405
+9.4.410,9.4.410 Manage Cost Codes,4 – Construction,PM; Estimator; Accounting,,9.2.140; 9.4.400,Formerly 9.41.410
+9.4.415,9.4.415 Manage Committed Costs,4 – Construction,PM; Purchasing; Accounting; Site Administrator,,9.2.020; 9.2.140; 9.4.400,Formerly 9.41.415
+9.4.420,9.4.420 Manage Actual Costs,4 – Construction,PM; Accounting; Site Administrator,,9.4.415; 9.4.400; 9.4.425,Formerly 9.41.420
+9.4.425,9.4.425 Manage Job Cost Reports,4 – Construction,PM; Accounting; Branch Manager,,9.4.400; 9.4.420; 9.2.140,Formerly 9.41.425
+9.4.430,9.4.430 Manage Profit Projections,4 – Construction,PM; Accounting; Branch Manager,,9.4.405; 9.4.425; 9.4.190,Formerly 9.41.430
+9.4.435,9.4.435 Manage Cost-to-Complete,4 – Construction,PM; Accounting; Branch Manager,,9.4.405; 9.4.420; 9.4.430,Formerly 9.41.435
+9.4.440,9.4.440 Prepare Billing Schedule,4 – Construction,PM; Accounting; Branch Manager,,9.2.140; 9.4.445; 9.4.465,Formerly 9.41.440
+9.4.445,9.4.445 Prepare Monthly Pay Applications,4 – Construction,PM; Field Supervisor; Accounting; Branch Manager,,9.4.440; 9.4.450; 9.4.460,Formerly 9.41.445
+9.4.450,9.4.450 Track Accounts Receivable,4 – Construction,Accounting; PM; Branch Manager,,9.4.445; 9.4.425; 9.4.455,Formerly 9.41.450
+9.4.455,9.4.455 Manage Lien Waivers,4 – Construction,PM; Accounting; Subcontractors; Site Administrator,,9.4.445; 9.4.450; 9.4.465,Formerly 9.41.455
+9.4.460,9.4.460 Manage Retainage,4 – Construction,PM; Accounting; Branch Manager,,9.4.445; 9.4.465; 9.6.010,Formerly 9.41.460
+9.4.465,9.4.465 Manage Final Invoicing,4 – Construction,PM; Accounting; Branch Manager; Subcontractors,,9.6.010; 9.4.455; 9.4.460,Formerly 9.41.465
+9.4.475,9.4.475 Conduct Safety Orientation,4 – Construction,Safety Coordinator; PM; Field Supervisor,,9.3.470; 9.4.165; 9.4.480,Formerly 9.41.475
+9.4.480,9.4.480 Conduct Safety Inspections,4 – Construction,Safety Coordinator; Field Supervisor; Project Manager; Branch Manager,,9.3.470; 9.4.485; 9.4.505,Formerly 9.41.480
+9.4.485,9.4.485 Conduct Safety Meetings,4 – Construction,Safety Coordinator; Project Manager; Field Supervisor,,9.4.480; 9.4.490; 9.4.495,Formerly 9.41.485
+9.4.490,9.4.490 Report Safety Incidents,4 – Construction,All Employees; Field Supervisor; Safety Coordinator; Project Manager,,9.4.495; 9.4.480; 9.4.500,Formerly 9.41.490
+9.4.495,9.4.495 Investigate Accidents,4 – Construction,Safety Coordinator; Project Manager; Field Supervisor; Branch Manager,,9.4.490; 9.4.480; 9.4.505,Formerly 9.41.495
+9.4.500,9.4.500 Conduct Emergency Preparedness,4 – Construction,Safety Coordinator; Project Manager; Field Supervisor; All Employees,,9.3.470; 9.4.495; 9.4.505,Formerly 9.41.500
+9.4.505,9.4.505 Conduct Safety Compliance Audits,4 – Construction,Branch Manager; Safety Coordinator; Project Manager,,9.4.480; 9.4.495; 9.4.500,Formerly 9.41.505
+9.4.510,9.4.510 Provide Safety Training,4 – Construction,Safety Coordinator; HR; Project Manager; Field Supervisor,,9.4.475; 9.4.485; 9.4.500,Formerly 9.41.510
+9.4.515,9.4.515 Develop Quality Management Plan,4 – Construction,Project Manager; Quality Inspector; Field Supervisor; Branch Manager,,9.4.520; 9.4.525; 9.4.190,Formerly 9.41.515
+9.4.520,9.4.520 Conduct Quality Meetings,4 – Construction,Project Manager; Quality Inspector; Field Supervisor; Subcontractors,,9.4.515; 9.4.525,Formerly 9.41.520
+9.4.525,9.4.525 Conduct Quality Inspections,4 – Construction,Quality Inspector; Project Manager; Field Supervisor; Branch Manager,,9.4.520; 9.4.515; 9.4.190,Formerly 9.41.525
+9.4.530,9.4.530 Manage Quality Testing,4 – Construction,PM; Quality Inspector; Testing Agency; Field Supervisor,,9.4.515; 9.4.525; 9.4.540,Formerly 9.41.530
+9.4.535,9.4.535 Manage Nonconformance Reports (NCRs),4 – Construction,Quality Inspector; PM; Field Supervisor; Branch Manager,,9.4.525; 9.4.530; 9.4.540,Formerly 9.41.535
+9.4.540,9.4.540 Manage Quality Records,4 – Construction,PM; Site Administrator; Quality Inspector,,9.4.535; 9.4.515; 9.4.190,Formerly 9.41.540
+9.4.545,9.4.545 Manage Punch List Quality,4 – Construction,PM; Field Supervisor; Subcontractors; Quality Inspector,,9.4.525; 9.4.540; 9.6.020,Formerly 9.41.545
+9.4.560,9.4.560 Manage Manpower Allocation,4 – Construction,PM; Superintendent; Field Supervisor; Branch Manager,,9.4.335; 9.4.340; 9.4.565,Formerly 9.41.560
+9.4.565,9.4.565 Manage Equipment Allocation,4 – Construction,PM; Superintendent; Equipment Manager; Field Supervisor,,9.4.560; 9.4.340; 9.4.570,Formerly 9.41.565
+9.4.570,9.4.570 Manage Material Allocation,4 – Construction,PM; Purchasing; Field Supervisor; Branch Manager,,9.4.565; 9.4.560; 9.2.010,Formerly 9.41.570
+9.4.575,9.4.575 Manage Feeder Wire Release,4 – Construction,Field Supervisor; Foremen; Project Manager; Site Administrator,,9.2.020,
+9.4.575,9.4.575 Manage Subcontractor Resources,4 – Construction,PM; Field Supervisor; Subcontractors; Site Administrator,,9.4.155; 9.4.560; 9.4.565,Formerly 9.41.575
+9.4.580,9.4.580 Manage Vendor Resources,4 – Construction,PM; Purchasing; Vendors; Site Administrator,,9.2.020; 9.4.605; 9.4.625,Formerly 9.41.580
+9.4.585,9.4.585 Plan Prefabrication Resources,4 – Construction,PM; Prefab Manager; Field Supervisor; Purchasing,,9.2.080; 9.4.565; 9.4.570,Formerly 9.41.585
+9.4.590,9.4.590 Manage Specialty Contractor Resources,4 – Construction,PM; Field Supervisor; Specialty Contractors; Site Administrator,,9.4.155; 9.4.575; 9.4.190,Formerly 9.41.590
+9.4.595,9.4.595 Prepare Resource Reports,4 – Construction,PM; Superintendent; Site Administrator; Branch Manager,,9.4.560; 9.4.565; 9.4.570; 9.4.575,Formerly 9.41.595
+9.4.605,9.4.605 Issue Purchase Orders,4 – Construction,Purchasing; PM; Accounting; Vendors,,9.4.415; 9.2.160; 9.4.620,Formerly 9.41.605
+9.4.610,9.4.610 Manage Vendor Prequalification,4 – Construction,Purchasing; PM; Branch Manager,,9.4.615; 9.4.605; 9.4.580,Formerly 9.41.610
+9.4.615,9.4.615 Manage Vendor Evaluations,4 – Construction,PM; Purchasing; Branch Manager,,9.4.610; 9.4.580; 9.4.620,Formerly 9.41.615
+9.4.620,9.4.620 Manage Expediting,4 – Construction,Purchasing; PM; Vendors; Site Administrator,,9.4.605; 9.4.625; 9.4.580,Formerly 9.41.620
+9.4.625,9.4.625 Manage Delivery Tracking,4 – Construction,Purchasing; PM; Field Supervisor; Site Administrator,,9.4.620; 9.4.580; 9.4.415,Formerly 9.41.625
+9.4.630,9.4.630 Manage Material Receiving,4 – Construction,Field Supervisor; Project Manager; Purchasing; Site Administrator,,9.4.625; 9.4.570; 9.4.190,Formerly 9.41.630
+9.4.631 ,9.4.631 Release of Large Feeder Wire,,,,,
+9.4.635,9.4.635 Manage Material Inspection,4 – Construction,Quality Inspector; Field Supervisor; Project Manager; Site Administrator,,9.4.530; 9.4.630; 9.4.190,Formerly 9.41.635
+9.4.640,9.4.640 Manage Storage and Logistics,4 – Construction,Project Manager; Field Supervisor; Warehouse Staff; Site Administrator,,9.4.060; 9.4.570; 9.4.630,Formerly 9.41.640
+9.4.645,9.4.645 Manage Material Handling,4 – Construction,Field Supervisor; Warehouse Staff; Project Manager; Site Administrator,,9.4.060; 9.4.640; 9.4.570,Formerly 9.41.645
+9.4.650,9.4.650 Manage Inventory,4 – Construction,Project Manager; Field Supervisor; Site Administrator; Purchasing,,9.4.640; 9.4.645; 9.4.570,Formerly 9.41.650
+9.4.655,9.4.655 Prepare Procurement Reports,4 – Construction,Purchasing; Project Manager; Branch Manager; Site Administrator,,9.4.600; 9.4.605; 9.4.650,Formerly 9.41.655
+9.4.660,9.4.660 Manage Procurement Closeout,4 – Construction,Project Manager; Purchasing; Accounting; Site Administrator,,9.4.465; 9.4.655; 9.4.650,Formerly 9.41.660
+9.4.665,9.4.665 Reconcile Procurement Accounts,4 – Construction,Accounting; Project Manager; Purchasing; Branch Manager,,9.4.395; 9.4.420; 9.4.660,Formerly 9.41.665
+9.4.670,9.4.670 Manage Vendor Closeout,4 – Construction,Purchasing; Project Manager; Accounting; Branch Manager,,9.4.610; 9.4.615; 9.4.660; 9.4.665,Formerly 9.41.670
+9.4.675,9.4.675 Conduct Daily Huddles,4 – Construction,Field Supervisor; Foremen; Project Manager; Site Administrator,,9.4.165; 9.4.335; 9.4.560,Formerly 9.41.675
+9.4.680,9.4.680 Conduct Weekly Foreman Meetings,4 – Construction,PM; Field Supervisor; Foremen; Site Administrator,,9.4.150; 9.4.335; 9.4.675,Formerly 9.41.680
+9.4.690,9.4.690 Track Manpower Utilization,4 – Construction,Field Supervisor; PM; Site Administrator; Branch Manager,,9.4.560; 9.4.595; 9.4.690,Formerly 9.41.690
+9.4.695,9.4.695 Track Production Quantities,4 – Construction,Field Supervisor; PM; Foremen; Site Administrator,,9.4.690; 9.4.400; 9.4.595,Formerly 9.41.695
+9.4.700,9.4.700 Track Equipment Utilization,4 – Construction,Field Supervisor; Equipment Manager; PM; Site Administrator,,9.4.565; 9.4.595; 9.4.190,Formerly 9.41.700
+9.4.705,9.4.705 Manage Work Packaging,4 – Construction,PM; Field Supervisor; Foremen; Site Administrator,,9.2.070; 9.4.335; 9.4.695,Formerly 9.41.705
+9.4.710,9.4.710 Manage Workface Planning,4 – Construction,PM; Field Supervisor; Foremen; Site Administrator,,9.4.705; 9.4.335; 9.4.675,Formerly 9.41.710
+9.4.715,9.4.715 Manage Field Coordination,4 – Construction,PM; Field Supervisor; Subcontractors; Site Administrator,,9.4.150; 9.4.680; 9.4.705,Formerly 9.41.715
+9.4.720,9.4.720 Conduct Productivity Analysis,4 – Construction,PM; Field Supervisor; Accounting; Site Administrator,,9.4.690; 9.4.695; 9.4.400,Formerly 9.41.720
+9.4.725,9.4.725 Resolve Field Problems,4 – Construction,Field Supervisor; PM; Quality Inspector; Site Administrator,,9.4.205; 9.4.715; 9.4.535,Formerly 9.41.725
+9.4.735,9.4.735 Perform Field Quality Verifications,4 – Construction,Field Supervisor; Quality Inspector; Project Manager; Site Administrator,,9.4.525; 9.4.535; 9.4.720,Formerly 9.41.735
+9.4.755,9.4.755 Implement Field Productivity Improvements,4 – Construction,Project Manager; Field Supervisor; Foremen; Site Administrator,,9.4.720; 9.4.695; 9.4.585,Formerly 9.41.755
+9.5.010,9.5.015 Conduct Commissioning Meetings,5 – Testing & Commissioning,PM; Commissioning Agent; Subcontractors; Quality Inspector,,9.4.060,Formerly 9.41.180
+9.6.005,9.6.005 Prepare for Turnover (Field Perspective),6 – Project Closeout,Field Supervisor; Foremen; Project Manager; Quality Inspector,,9.4.545; 9.6.010; 9.4.555,Formerly 9.41.760
+9.6.010,9.6.010 Conduct Closeout Meetings,6 – Project Closeout,PM; Field Supervisor; Subcontractors; Client/Owner,,9.4.060; 9.5.010,Formerly 9.41.185
+9.6.015,9.6.010 Manage Project Turnover Documentation,6 – Project Closeout,PM; Site Administrator; Branch Manager,,9.4.545; 9.5.550; 9.4.265,Formerly 9.41.555
+9.6.020,9.6.020 Manage Punch Lists,6 – Project Closeout,PM; Field Supervisor; Subcontractors; Client/Owner,,9.4.175; 9.5.010; 9.6.010,Formerly 9.41.245
+9.6.020,9.6.020 Manage Punch List Closeout,6 – Project Closeout,Project Manager; Field Supervisor; Quality Inspector; Subcontractors,,9.4.545; 9.6.005; 9.6.010,Formerly 9.41.770
+9.6.030,9.6.030 Manage As-Built Drawings,6 – Project Closeout,PM; Field Supervisor; Subcontractors; Site Administrator,,9.4.220; 9.6.020,Formerly 9.41.250
+9.6.030,9.6.030 Submit Warranties,6 – Project Closeout,Project Manager; Site Administrator; Subcontractors; Vendors,,9.6.020; 9.4.555; 9.4.260,Formerly 9.41.775
+9.6.040,9.6.040 Manage O&M Manuals,6 – Project Closeout,PM; Subcontractors; Site Administrator,,9.6.030; 9.6.050,Formerly 9.41.255
+9.6.040,9.6.040 Submit O&M Manuals,6 – Project Closeout,Project Manager; Site Administrator; Vendors; Subcontractors,,9.6.030; 9.6.010; 9.5.550,Formerly 9.41.780
+9.6.050,9.6.050 Manage Warranties,6 – Project Closeout,PM; Subcontractors; Site Administrator,,9.6.040; 9.6.060,Formerly 9.41.260
+9.6.050,9.6.050 Provide Owner Training,6 – Project Closeout,Project Manager; Vendors; Subcontractors; Site Administrator; Owner Rep,,9.5.550; 9.6.030; 9.6.040,Formerly 9.41.785
+9.6.060,9.6.060 Manage Closeout Documentation,6 – Project Closeout,PM; Site Administrator; Subcontractors; Owner/Client,,9.6.030; 9.6.040; 9.6.050,Formerly 9.41.265
+9.6.060,9.6.060 Archive Project Documentation,6 – Project Closeout,Project Manager; Site Administrator; Branch Manager,,9.6.030; 9.6.040; 9.6.050,Formerly 9.41.790
+9.6.070,9.6.070 Conduct Post-Project Review,6 – Project Closeout,Project Manager; Branch Manager; Executive Management,,9.4.400; 9.4.430; 9.6.060,Formerly 9.41.795
+9.6.080,9.6.080 Capture Client Feedback,6 – Project Closeout,Project Manager; Branch Manager; Business Development,,9.6.070; 9.6.085; 9.4.190,Formerly 9.41.800
+9.6.085,9.6.085 Document Lessons Learned,6 – Project Closeout,Project Manager; Branch Manager; Quality Coordinator,,9.6.070; 9.6.080; 9.4.190,Formerly 9.41.805
+9.2.010,9.2.010 – Team Selection,2 – Preconstruction,Project Manager; General Superintendent; Branch Manager/Business Manager; Safety Coordinator; Purchasing; Prefabrication Lead; Project Coordinator,,9.2.015; 9.2.040; 9.4.190,Formerly 9.41.005
+9.2.015,9.2.015 Project Turnover Meeting,2 – Preconstruction,Estimator; PM; Contract Manager; General Superintendent; Field Leadership; Prefab Lead; Safety Coordinator; Branch Manager,,9.2.010; 9.2.020,Formerly 9.41.010
+9.2.020,9.2.020 Procurement of Large Feeder Wire,2 – Preconstruction,PM; APM; Project Coordinator; Purchasing; Vendor; Branch Manager,,9.2.080; 9.2.110,Formerly 9.2.10; 9.41.010
+9.2.040,"9.2.040 Project Manager Reviews Plans,  Specifications & Schedule",2 – Preconstruction,PM; APM,,9.2.060; 9.2.110,Formerly 9.41.020
+9.2.050,"9.2.050 Field Supervisor Reviews Plans,  Specifications & Schedule",2 – Preconstruction,General Superintendent; Field Supervisor,,9.2.070; 9.2.080,Formerly 9.41.025
+9.2.057,9.2.057 – Identify Value Engineering & Prefabrication Opportunities,2 – Preconstruction,Project Manager; Prefabrication Lead; Field Supervisor/General Superintendent; Estimator; Contract Manager; Safety Coordinator; BIM/VDC; Branch Manager,,9.2.055; 9.2.015; 9.1.050; 9.4.190,
+9.2.060,9.2.060 Create List of Issues & Begin RFI Process,2 – Preconstruction,PM; APM; Project Coordinator,,9.2.040; 9.2.110,Formerly 9.41.030
+9.2.070,9.2.070 – Conduct Site Visit,2 – Preconstruction,PM (A); Field Leadership (R); Safety Coordinator (R); General Superintendent (C),,9.2.060; 9.2.055; 9.4.190,Formerly 9.41.035
+9.2.080,9.2.080 – Prepare Material Handling Plan,2 – Preconstruction,PM; Field Supervisor; Safety; General Superintendent,,9.2.070; 9.2.020,Formerly 9.41.060
+9.2.140,9.2.140 Develop Project Budget,2 – Preconstruction,PM; Estimator; Accounting; Branch Manager,,9.4.410; 9.4.400; 9.4.405,Formerly 9.41.395
+9.2.160,9.2.160 Develop Procurement Plan,2 – Preconstruction,PM; Estimator; Purchasing; Branch Manager,,9.2.020; 9.4.605; 9.4.620,Formerly 9.41.600
+9.3.470,9.3.470 Develop Site-Specific Safety Plan,3 – Mobilization & Job Site Setup,Safety Coordinator; PM; Field Supervisor; Branch Manager,,9.3.010; 9.3.115; 9.4.165,Formerly 9.41.470
+9.4.010,9.4.010 Conduct Coordination Meetings,4 – Construction,PM; Field Supervisor; Subcontractors; Site Admin,,9.4.020; 9.4.030,Formerly 9.41.150
+9.4.190,9.4.190 Document Filing Standards,4 – Construction,PM; Field Foreman; Site Administrator; Branch Manager,,9.6.060; 9.4.195; 9.4.200,9.41.190A
+9.4.360,9.4.360 Manage Change Orders,4 – Construction,PM; Estimator; Accounting; Site Administrator,,9.4.205; 9.4.355; 9.4.365,Formerly 9.41.360
+9.4.365,9.4.365 Manage Potential Change Orders (PCOs),4 – Construction,PM; Estimator; Site Administrator,,9.4.360; 9.4.370; 9.4.355,Formerly 9.41.365
+9.4.745,9.4.745 Manage Field Rework,4 – Construction,Project Manager; General Superintendent; Foreman; QA/QC,,Document Filing Standards; Nonconformance Reporting; Corrective Action; Change Management,9.41.745
+9.5.550,9.5.550 Manage Commissioning Activities,5 – Testing & Commissioning,PM; Commissioning Agent; Subcontractors; Quality Inspector,,9.4.515; 9.4.530; 9.4.545,Formerly 9.41.550

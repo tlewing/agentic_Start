@@ -1,0 +1,389 @@
+{
+  "job_descriptions": [
+    {
+      "filename": "Policy Manual 7.2.1 Apprentice Electrician (Revised).docx",
+      "title": "Apprentice Electrician",
+      "responsibilities": [],
+      "keywords": [
+        "meeting",
+        "owner",
+        "labor",
+        "safety"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.2.2 Journeyman Electrician (Revised).docx",
+      "title": "Journeyman Electrician",
+      "responsibilities": [],
+      "keywords": [
+        "coordination",
+        "labor",
+        "quality"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.2.3 Lead Journeyman (Revised).docx",
+      "title": "Lead Journeyman",
+      "responsibilities": [],
+      "keywords": [
+        "coordination",
+        "meeting",
+        "material",
+        "safety",
+        "quality"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.2.4 Foreman (Revised).docx",
+      "title": "Foreman",
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "meeting",
+        "client",
+        "owner",
+        "safety",
+        "quality"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.2.5 Project Superintendent (Revised).docx",
+      "title": "Project Superintendent",
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "coordination",
+        "meeting",
+        "client",
+        "owner",
+        "safety",
+        "quality",
+        "closeout"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.2.6 Project Safety Coordinator (Revised).docx",
+      "title": "Project Safety Coordinator",
+      "responsibilities": [],
+      "keywords": [
+        "coordination",
+        "meeting",
+        "safety"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.3.1 Project Manager (Revised).docx",
+      "title": "Project Manager",
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "meeting",
+        "client",
+        "owner",
+        "safety",
+        "quality",
+        "closeout"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.3.2 Operations Manager (Revised).docx",
+      "title": "Operations Manager",
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "client",
+        "closeout"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.3.3 Estimator (Revised).docx",
+      "title": "Estimator",
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "cost",
+        "rfi",
+        "meeting",
+        "material",
+        "labor"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.3.7 Pre-Fabrication - REVISED.doc",
+      "title": "Pre-Fabrication",
+      "responsibilities": [],
+      "keywords": [],
+      "note": "Binary .doc file - needs manual conversion"
+    },
+    {
+      "filename": "Policy Manual 7.4.1 Human Resource Manager (Revised).docx",
+      "title": "Human Resource Manager",
+      "responsibilities": [],
+      "keywords": [
+        "coordination",
+        "safety"
+      ]
+    },
+    {
+      "filename": "Policy Manual 7.4.4 Purchasing Manager (Salt Lake Office) - REVISED.doc",
+      "title": "Purchasing Manager (Salt Lake Office)",
+      "responsibilities": [],
+      "keywords": [],
+      "note": "Binary .doc file - needs manual conversion"
+    },
+    {
+      "filename": "Policy Manual 7.4.5 Administrative Support (Revised).docx",
+      "title": "Administrative Support",
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "submittal",
+        "rfi",
+        "meeting",
+        "closeout"
+      ]
+    }
+  ],
+  "management_directives": [
+    {
+      "filename": "Policy Manual 9.2 Management Directives for Field Employees (Revised).docx",
+      "title": "Field Employees",
+      "scope": [
+        "field",
+        "safety"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "rfi",
+        "meeting",
+        "labor",
+        "safety",
+        "reporting"
+      ]
+    },
+    {
+      "filename": "Policy Manual 9.3 Management Directives for Field Leadership (Revised).docx",
+      "title": "Field Leadership",
+      "scope": [
+        "execution",
+        "field",
+        "safety",
+        "quality"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "change order",
+        "meeting",
+        "material",
+        "labor",
+        "safety",
+        "quality",
+        "documentation",
+        "reporting"
+      ]
+    },
+    {
+      "filename": "Policy Manual 9.4 Management Directives for General Superintendents (Revised).docx",
+      "title": "General Superintendents",
+      "scope": [
+        "pre-construction",
+        "mobilization",
+        "execution",
+        "closeout",
+        "field",
+        "project management",
+        "safety",
+        "quality"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "coordination",
+        "meeting",
+        "safety",
+        "quality"
+      ]
+    },
+    {
+      "filename": "Policy Manual 9.5 Management Directives for Project Management (Revised).docx",
+      "title": "Project Management",
+      "scope": [
+        "pre-construction",
+        "execution",
+        "closeout",
+        "estimating",
+        "field",
+        "project management"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "billing",
+        "change order",
+        "meeting",
+        "labor"
+      ]
+    },
+    {
+      "filename": "Policy Manual 9.6 Management Directives for Branch Management (Revised).docx",
+      "title": "Branch Management",
+      "scope": [
+        "pre-construction",
+        "execution",
+        "closeout",
+        "field",
+        "project management",
+        "quality"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "meeting",
+        "quality"
+      ]
+    },
+    {
+      "filename": "Policy Manual 9.7 Management Directives for Estimating (Revised).docx",
+      "title": "Estimating",
+      "scope": [
+        "estimating",
+        "bidding"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "rfi",
+        "meeting",
+        "labor"
+      ]
+    },
+    {
+      "filename": "Policy Manual, 9.14 Management Directives for Contract Managers - REVISED.doc",
+      "title": "Contract Managers",
+      "scope": [],
+      "responsibilities": [],
+      "keywords": [],
+      "note": "Binary .doc file - needs manual conversion"
+    },
+    {
+      "filename": "Policy Manual, 9.16 Management Directives for Purchasing - REVISED.docx",
+      "title": "Purchasing",
+      "scope": [
+        "pre-construction",
+        "execution",
+        "closeout",
+        "field",
+        "project management",
+        "purchasing"
+      ],
+      "responsibilities": [],
+      "keywords": [
+        "schedule",
+        "budget",
+        "submittal",
+        "procurement",
+        "material"
+      ]
+    }
+  ],
+  "sop_phase_mapping": {
+    "9.1": {
+      "name": "Project Procurement, Design & Estimating",
+      "roles": [
+        "Estimator",
+        "Business Development",
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Prefab",
+        "Foreman",
+        "Safety"
+      ]
+    },
+    "9.2": {
+      "name": "Pre-Construction",
+      "roles": [
+        "Project Manager",
+        "General Superintendent",
+        "Estimator",
+        "Safety",
+        "Foreman",
+        "Purchasing",
+        "Prefab",
+        "Foreman",
+        "Admin",
+        "Lead Journeyman"
+      ]
+    },
+    "9.3": {
+      "name": "Mobilization & Jobsite Setup",
+      "roles": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Foreman",
+        "Safety",
+        "Purchasing",
+        "Prefab",
+        "Admin",
+        "Lead Journeyman"
+      ]
+    },
+    "9.4": {
+      "name": "Construction Execution",
+      "roles": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Foreman",
+        "Safety",
+        "Purchasing",
+        "Prefab",
+        "Admin",
+        "Lead Journeyman",
+        "Estimator"
+      ]
+    },
+    "9.5": {
+      "name": "Testing & Commissioning",
+      "roles": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Foreman",
+        "Safety",
+        "Lead Journeyman",
+        "Admin"
+      ]
+    },
+    "9.6": {
+      "name": "Project Closeout",
+      "roles": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Foreman",
+        "Admin",
+        "Safety",
+        "Purchasing"
+      ]
+    }
+  }
+}

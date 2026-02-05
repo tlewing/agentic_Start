@@ -1,0 +1,3811 @@
+{
+  "generated": "2026-02-02T14:55:26.936358",
+  "summary": {
+    "total": 157,
+    "errors": 1,
+    "warnings": 33,
+    "ok": 123
+  },
+  "results": [
+    {
+      "sop_id": "9.1.050",
+      "title": "Prepare Construction Takeoff",
+      "filename": "9.1.050 \u2013 Prepare Construction Takeoff.docx",
+      "phase": "9.1",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "budget",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.005",
+      "title": "Review Contract for High Risk Clauses",
+      "filename": "9.2.005 \u2013 Review Contract for High Risk Clauses.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "billing",
+        "change order",
+        "rfi",
+        "meeting",
+        "procurement",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.010",
+      "title": "Team Selection",
+      "filename": "9.2.010 \u2013 Team Selection.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "rfi",
+        "meeting",
+        "procurement",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.015",
+      "title": "Project Turnover Meeting",
+      "filename": "9.2.015 \u2013 Project Turnover Meeting.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "meeting",
+        "procurement",
+        "material",
+        "safety",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.020",
+      "title": "Procurement of Large Feeder Wire",
+      "filename": "9.2.020 \u2013 Procurement of Large Feeder Wire.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "rfi",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "quality",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.030",
+      "title": "Review Contract for Unfavorable or High Risk Clauses",
+      "filename": "9.2.030 \u2013 Review Contract for Unfavorable or High Risk Clauses.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "change order",
+        "meeting",
+        "procurement",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.040",
+      "title": "Project Manager Reviews Plans, Specifications & Schedule",
+      "filename": "9.2.040 \u2013 Project Manager Reviews Plans, Specifications & Schedule.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.050",
+      "title": "Field Supervisor Reviews Plans, Specifications & Schedule",
+      "filename": "9.2.050 \u2013 Field Supervisor Reviews Plans, Specifications & Schedule.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "rfi",
+        "meeting",
+        "material",
+        "labor",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.055",
+      "title": "Compare Estimated vs Planned Performance",
+      "filename": "9.2.055 \u2013 Compare Estimated vs Planned Performance.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "change order",
+        "submittal",
+        "material",
+        "labor",
+        "safety",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.057",
+      "title": "Identify VE and Prefabrication Opportunities",
+      "filename": "9.2.057 \u2013 Identify VE and Prefabrication Opportunities.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "submittal",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "safety",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.060",
+      "title": "Create Issue List and Begin RFI Process",
+      "filename": "9.2.060 \u2013 Create Issue List and Begin RFI Process.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "submittal",
+        "rfi",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.070",
+      "title": "Conduct Site Visit",
+      "filename": "9.2.070 \u2013 Conduct Site Visit.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "rfi",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.080",
+      "title": "Prepare Material Handling Plan",
+      "filename": "9.2.080 \u2013 Prepare Material Handling Plan.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "labor",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.090",
+      "title": "Develop Labor Budget",
+      "filename": "9.2.090 \u2013 Develop Labor Budget.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "meeting",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.100",
+      "title": "Prepare Layout & Sequencing Plan",
+      "filename": "9.2.100 \u2013 Prepare Layout & Sequencing Plan.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.110",
+      "title": "Develop Project Schedule",
+      "filename": "9.2.110 \u2013 Develop Project Schedule.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "submittal",
+        "meeting",
+        "procurement",
+        "material",
+        "labor",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.2"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.2.120",
+      "title": "Establish Tracking & Control Systems",
+      "filename": "9.2.120 \u2013 Establish Tracking & Control Systems.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "submittal",
+        "rfi",
+        "meeting",
+        "procurement",
+        "material",
+        "labor",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.130",
+      "title": "Construction Execution Kickoff Meeting",
+      "filename": "9.2.130 \u2013 Construction Execution Kickoff Meeting.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "labor",
+        "safety",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.140",
+      "title": "Develop Project Budget",
+      "filename": "9.2.140 \u2013 Develop Project Budget.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "meeting",
+        "material",
+        "labor",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.2.160",
+      "title": "Develop Procurement Plan",
+      "filename": "9.2.160 \u2013 Develop Procurement Plan.docx",
+      "phase": "9.2",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Estimator",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "meeting",
+        "procurement",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.010",
+      "title": "Setup Office Trailer",
+      "filename": "9.3.010 \u2013 Setup Office Trailer.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "coordination",
+        "meeting",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.020",
+      "title": "Setup Storage Trailer",
+      "filename": "9.3.020 \u2013 Setup Storage Trailer.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Foreman",
+        "Safety",
+        "Purchasing"
+      ],
+      "keywords": [
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.030",
+      "title": "Setup Site Fencing and Access Control",
+      "filename": "9.3.030 \u2013 Setup Site Fencing and Access Control.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.040",
+      "title": "Setup Temporary Power",
+      "filename": "9.3.040 \u2013 Setup Temporary Power.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "coordination",
+        "material",
+        "safety",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.3"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.3.050",
+      "title": "Setup Temporary Water",
+      "filename": "9.3.050 \u2013 Setup Temporary Water.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "budget",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.060",
+      "title": "Setup Sanitary Facilities",
+      "filename": "9.3.060 \u2013 Setup Sanitary Facilities.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.070",
+      "title": "Setup Temporary Lighting",
+      "filename": "9.3.070 \u2013 Setup Temporary Lighting.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "budget",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.080",
+      "title": "Setup Signage",
+      "filename": "9.3.080 \u2013 Setup Signage.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "procurement",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.090",
+      "title": "Setup Security",
+      "filename": "9.3.090 \u2013 Setup Security.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.100",
+      "title": "Setup Laydown Area",
+      "filename": "9.3.100 \u2013 Setup Laydown Area.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.110",
+      "title": "Setup Equipment Staging",
+      "filename": "9.3.110 \u2013 Setup Equipment Staging.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.120",
+      "title": "Setup Parking",
+      "filename": "9.3.120 \u2013 Setup Parking.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.3.470",
+      "title": "Develop Site Specific Safety Plan",
+      "filename": "9.3.470 \u2013 Develop Site Specific Safety Plan.docx",
+      "phase": "9.3",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.010",
+      "title": "Conduct Coordination Meetings",
+      "filename": "9.4.010 \u2013 Conduct Coordination Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "safety",
+        "quality",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.020",
+      "title": "Conduct Subcontractor Coordination Meetings",
+      "filename": "9.4.020 \u2013 Conduct Subcontractor Coordination Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "safety",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.030",
+      "title": "Conduct Client Owner Meetings",
+      "filename": "9.4.030 \u2013 Conduct Client Owner Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "safety",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.040",
+      "title": "Conduct Safety Meetings",
+      "filename": "9.4.040 \u2013 Conduct Safety Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "safety",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.045",
+      "title": "Identify Value Engineering & Prefabrication Opportunities",
+      "filename": "9.4.045 \u2013 Identify Value Engineering & Prefabrication Opportunities.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "procurement",
+        "material",
+        "labor",
+        "safety",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.050",
+      "title": "Conduct Prefabrication Coordination Meetings",
+      "filename": "9.4.050 \u2013 Conduct Prefabrication Coordination Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "safety",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.055",
+      "title": "1 Procurement of Large Feeder Wire",
+      "filename": "9.4.055 \u2013 1 Procurement of Large Feeder Wire.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "coordination",
+        "procurement",
+        "material",
+        "quality",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.060",
+      "title": "Conduct Quality Meetings",
+      "filename": "9.4.060 \u2013 Conduct Quality Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "safety",
+        "quality",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.190",
+      "title": "A Document Filing Standards",
+      "filename": "9.4.190 \u2013 A Document Filing Standards.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "billing",
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "closeout",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.195",
+      "title": "Manage Project Documentation System",
+      "filename": "9.4.195 \u2013 Manage Project Documentation System.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.200",
+      "title": "Manage Submittals",
+      "filename": "9.4.200 \u2013 Manage Submittals.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.205",
+      "title": "Manage RF Is (Requests for Information)",
+      "filename": "9.4.205 \u2013 Manage RF Is (Requests for Information).docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.210",
+      "title": "Manage Meeting Minutes",
+      "filename": "9.4.210 \u2013 Manage Meeting Minutes.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.215",
+      "title": "Manage Daily Reports",
+      "filename": "9.4.215 \u2013 Manage Daily Reports.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.220",
+      "title": "Manage Drawing Logs",
+      "filename": "9.4.220 \u2013 Manage Drawing Logs.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.225",
+      "title": "Manage Specifications",
+      "filename": "9.4.225 \u2013 Manage Specifications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.230",
+      "title": "Manage Correspondence",
+      "filename": "9.4.230 \u2013 Manage Correspondence.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.235",
+      "title": "Manage Permits",
+      "filename": "9.4.235 \u2013 Manage Permits.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.240",
+      "title": "Manage Inspection Reports",
+      "filename": "9.4.240 \u2013 Manage Inspection Reports.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "material",
+        "safety",
+        "quality",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.270",
+      "title": "Manage Project Communications",
+      "filename": "9.4.270 \u2013 Manage Project Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.275",
+      "title": "Manage Internal Communications",
+      "filename": "9.4.275 \u2013 Manage Internal Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.280",
+      "title": "Manage External Communications",
+      "filename": "9.4.280 \u2013 Manage External Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.285",
+      "title": "Manage Client Owner Communications",
+      "filename": "9.4.285 \u2013 Manage Client Owner Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.290",
+      "title": "Manage Subcontractor Communications",
+      "filename": "9.4.290 \u2013 Manage Subcontractor Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.295",
+      "title": "Manage Vendor Supplier Communications",
+      "filename": "9.4.295 \u2013 Manage Vendor Supplier Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.300",
+      "title": "Manage Architect Engineer Communications",
+      "filename": "9.4.300 \u2013 Manage Architect Engineer Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "coordination",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.305",
+      "title": "Manage Regulatory Authority Communications",
+      "filename": "9.4.305 \u2013 Manage Regulatory Authority Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "coordination",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.310",
+      "title": "Manage General Contractor Communications",
+      "filename": "9.4.310 \u2013 Manage General Contractor Communications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.315",
+      "title": "Develop Project Schedule",
+      "filename": "9.4.315 \u2013 Develop Project Schedule.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.320",
+      "title": "Update Project Schedule",
+      "filename": "9.4.320 \u2013 Update Project Schedule.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.325",
+      "title": "Monitor Schedule Performance",
+      "filename": "9.4.325 \u2013 Monitor Schedule Performance.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.330",
+      "title": "Develop Schedule Recovery Plans",
+      "filename": "9.4.330 \u2013 Develop Schedule Recovery Plans.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "labor",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.335",
+      "title": "Prepare Lookahead Schedules",
+      "filename": "9.4.335 \u2013 Prepare Lookahead Schedules.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.340",
+      "title": "Manage Resource Loaded Schedules",
+      "filename": "9.4.340 \u2013 Manage Resource Loaded Schedules.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.345",
+      "title": "Conduct Schedule Review Meetings",
+      "filename": "9.4.345 \u2013 Conduct Schedule Review Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.350",
+      "title": "Manage Schedule Change Requests",
+      "filename": "9.4.350 \u2013 Manage Schedule Change Requests.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.355",
+      "title": "Manage Project Scope",
+      "filename": "9.4.355 \u2013 Manage Project Scope.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.360",
+      "title": "Manage Change Orders",
+      "filename": "9.4.360 \u2013 Manage Change Orders.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "rfi",
+        "coordination",
+        "meeting",
+        "material",
+        "labor",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.365",
+      "title": "Manage Potential Change Orders (PCOs)",
+      "filename": "9.4.365 \u2013 Manage Potential Change Orders (PCOs).docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.370",
+      "title": "Manage Owner Directives",
+      "filename": "9.4.370 \u2013 Manage Owner Directives.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.375",
+      "title": "Manage Scope Clarifications",
+      "filename": "9.4.375 \u2013 Manage Scope Clarifications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.380",
+      "title": "Manage Backcharges",
+      "filename": "9.4.380 \u2013 Manage Backcharges.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.385",
+      "title": "Manage Force Account Work",
+      "filename": "9.4.385 \u2013 Manage Force Account Work.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "billing",
+        "change order",
+        "submittal",
+        "material",
+        "labor",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.390",
+      "title": "Manage Claims",
+      "filename": "9.4.390 \u2013 Manage Claims.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "cost",
+        "change order",
+        "submittal",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.400",
+      "title": "Monitor Project Costs",
+      "filename": "9.4.400 \u2013 Monitor Project Costs.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.405",
+      "title": "Manage Cost Forecasts",
+      "filename": "9.4.405 \u2013 Manage Cost Forecasts.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.410",
+      "title": "Manage Cost Codes",
+      "filename": "9.4.410 \u2013 Manage Cost Codes.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Estimator"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.415",
+      "title": "Manage Committed Costs",
+      "filename": "9.4.415 \u2013 Manage Committed Costs.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "procurement",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.420",
+      "title": "Manage Actual Costs",
+      "filename": "9.4.420 \u2013 Manage Actual Costs.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "material",
+        "labor",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.425",
+      "title": "Manage Job Cost Reports",
+      "filename": "9.4.425 \u2013 Manage Job Cost Reports.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.430",
+      "title": "Manage Profit Projections",
+      "filename": "9.4.430 \u2013 Manage Profit Projections.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "material",
+        "labor",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.435",
+      "title": "Manage Cost to Complete",
+      "filename": "9.4.435 \u2013 Manage Cost to Complete.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.440",
+      "title": "Prepare Billing Schedule",
+      "filename": "9.4.440 \u2013 Prepare Billing Schedule.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.445",
+      "title": "Prepare Monthly Pay Applications",
+      "filename": "9.4.445 \u2013 Prepare Monthly Pay Applications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.450",
+      "title": "Track Accounts Receivable",
+      "filename": "9.4.450 \u2013 Track Accounts Receivable.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.455",
+      "title": "Manage Lien Waivers",
+      "filename": "9.4.455 \u2013 Manage Lien Waivers.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.460",
+      "title": "Manage Retainage",
+      "filename": "9.4.460 \u2013 Manage Retainage.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.465",
+      "title": "Manage Final Invoicing",
+      "filename": "9.4.465 \u2013 Manage Final Invoicing.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "cost",
+        "billing",
+        "change order",
+        "submittal",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.475",
+      "title": "Conduct Safety Orientation",
+      "filename": "9.4.475 \u2013 Conduct Safety Orientation.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.480",
+      "title": "Conduct Safety Inspections",
+      "filename": "9.4.480 \u2013 Conduct Safety Inspections.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.485",
+      "title": "Conduct Safety Meetings",
+      "filename": "9.4.485 \u2013 Conduct Safety Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.490",
+      "title": "Report Safety Incidents",
+      "filename": "9.4.490 \u2013 Report Safety Incidents.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.495",
+      "title": "Investigate Accidents",
+      "filename": "9.4.495 \u2013 Investigate Accidents.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.500",
+      "title": "Conduct Emergency Preparedness",
+      "filename": "9.4.500 \u2013 Conduct Emergency Preparedness.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.505",
+      "title": "Conduct Safety Compliance Audits",
+      "filename": "9.4.505 \u2013 Conduct Safety Compliance Audits.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.510",
+      "title": "Provide Safety Training",
+      "filename": "9.4.510 \u2013 Provide Safety Training.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.515",
+      "title": "Develop Quality Management Plan",
+      "filename": "9.4.515 \u2013 Develop Quality Management Plan.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "quality",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.520",
+      "title": "Conduct Quality Meetings",
+      "filename": "9.4.520 \u2013 Conduct Quality Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "quality",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.525",
+      "title": "Conduct Quality Inspections",
+      "filename": "9.4.525 \u2013 Conduct Quality Inspections.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "safety",
+        "quality",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.530",
+      "title": "Manage Quality Testing",
+      "filename": "9.4.530 \u2013 Manage Quality Testing.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "quality",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.535",
+      "title": "Manage Nonconformance Reports (NC Rs)",
+      "filename": "9.4.535 \u2013 Manage Nonconformance Reports (NC Rs).docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "quality",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.540",
+      "title": "Manage Quality Records",
+      "filename": "9.4.540 \u2013 Manage Quality Records.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "closeout",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4",
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.545",
+      "title": "Manage Punch List Quality",
+      "filename": "9.4.545 \u2013 Manage Punch List Quality.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "quality",
+        "closeout",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'testing' typically belongs in phase 9.5, but this SOP is in 9.4",
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.560",
+      "title": "Manage Manpower Allocation",
+      "filename": "9.4.560 \u2013 Manage Manpower Allocation.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "change order",
+        "submittal",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.565",
+      "title": "Manage Equipment Allocation",
+      "filename": "9.4.565 \u2013 Manage Equipment Allocation.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "change order",
+        "submittal",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.570",
+      "title": "Manage Material Allocation",
+      "filename": "9.4.570 \u2013 Manage Material Allocation.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.576",
+      "title": "Manage Subcontractor Resources",
+      "filename": "9.4.576 \u2013 Manage Subcontractor Resources.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.580",
+      "title": "Manage Vendor Resources",
+      "filename": "9.4.580 \u2013 Manage Vendor Resources.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.585",
+      "title": "Plan Prefabrication Resources",
+      "filename": "9.4.585 \u2013 Plan Prefabrication Resources.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "labor",
+        "quality",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.590",
+      "title": "Manage Specialty Contractor Resources",
+      "filename": "9.4.590 \u2013 Manage Specialty Contractor Resources.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.595",
+      "title": "Prepare Resource Reports",
+      "filename": "9.4.595 \u2013 Prepare Resource Reports.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.605",
+      "title": "Issue Purchase Orders",
+      "filename": "9.4.605 \u2013 Issue Purchase Orders.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "coordination",
+        "procurement",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.610",
+      "title": "Manage Vendor Prequalification",
+      "filename": "9.4.610 \u2013 Manage Vendor Prequalification.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "safety",
+        "quality",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.615",
+      "title": "Manage Vendor Evaluations",
+      "filename": "9.4.615 \u2013 Manage Vendor Evaluations.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing"
+      ],
+      "keywords": [
+        "cost",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "quality",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.620",
+      "title": "Manage Expediting",
+      "filename": "9.4.620 \u2013 Manage Expediting.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.625",
+      "title": "Manage Delivery Tracking",
+      "filename": "9.4.625 \u2013 Manage Delivery Tracking.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.630",
+      "title": "Manage Material Receiving",
+      "filename": "9.4.630 \u2013 Manage Material Receiving.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "quality",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.631",
+      "title": "Release of Large Feeder Wire",
+      "filename": "9.4.631 \u2013 Release of Large Feeder Wire.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Purchasing"
+      ],
+      "keywords": [
+        "schedule",
+        "submittal",
+        "procurement",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.635",
+      "title": "Manage Material Inspection",
+      "filename": "9.4.635 \u2013 Manage Material Inspection.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "quality",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.640",
+      "title": "Manage Storage and Logistics",
+      "filename": "9.4.640 \u2013 Manage Storage and Logistics.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.645",
+      "title": "Manage Material Handling",
+      "filename": "9.4.645 \u2013 Manage Material Handling.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.650",
+      "title": "Manage Inventory",
+      "filename": "9.4.650 \u2013 Manage Inventory.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "procurement",
+        "material",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.655",
+      "title": "Prepare Procurement Reports",
+      "filename": "9.4.655 \u2013 Prepare Procurement Reports.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.660",
+      "title": "Manage Procurement Closeout",
+      "filename": "9.4.660 \u2013 Manage Procurement Closeout.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.665",
+      "title": "Reconcile Procurement Accounts",
+      "filename": "9.4.665 \u2013 Reconcile Procurement Accounts.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.670",
+      "title": "Manage Vendor Closeout",
+      "filename": "9.4.670 \u2013 Manage Vendor Closeout.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Purchasing"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "procurement",
+        "material",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.4"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.4.675",
+      "title": "Conduct Daily Huddles",
+      "filename": "9.4.675 \u2013 Conduct Daily Huddles.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "safety"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.680",
+      "title": "Conduct Weekly Foreman Meetings",
+      "filename": "9.4.680 \u2013 Conduct Weekly Foreman Meetings.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "safety",
+        "quality",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.690",
+      "title": "Track Manpower Utilization",
+      "filename": "9.4.690 \u2013 Track Manpower Utilization.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.695",
+      "title": "Track Production Quantities",
+      "filename": "9.4.695 \u2013 Track Production Quantities.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.700",
+      "title": "Track Equipment Utilization",
+      "filename": "9.4.700 \u2013 Track Equipment Utilization.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "meeting",
+        "material"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.705",
+      "title": "Manage Work Packaging",
+      "filename": "9.4.705 \u2013 Manage Work Packaging.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.710",
+      "title": "Manage Workface Planning",
+      "filename": "9.4.710 \u2013 Manage Workface Planning.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "labor",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.715",
+      "title": "Manage Field Coordination",
+      "filename": "9.4.715 \u2013 Manage Field Coordination.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "change order",
+        "submittal",
+        "coordination",
+        "material",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.720",
+      "title": "Conduct Productivity Analysis",
+      "filename": "9.4.720 \u2013 Conduct Productivity Analysis.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "budget",
+        "cost",
+        "change order",
+        "submittal",
+        "meeting",
+        "material",
+        "labor"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.725",
+      "title": "Resolve Field Problems",
+      "filename": "9.4.725 \u2013 Resolve Field Problems.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Safety",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "rfi",
+        "coordination",
+        "material",
+        "safety",
+        "quality"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.735",
+      "title": "Perform Field Quality Verifications",
+      "filename": "9.4.735 \u2013 Perform Field Quality Verifications.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "quality",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.745",
+      "title": "Manage Field Rework",
+      "filename": "9.4.745 \u2013 Manage Field Rework.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "cost",
+        "change order",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.4.755",
+      "title": "Implement Field Productivity Improvements",
+      "filename": "9.4.755 \u2013 Implement Field Productivity Improvements.docx",
+      "phase": "9.4",
+      "roles_mentioned": [
+        "Project Manager",
+        "General Superintendent",
+        "Foreman",
+        "Prefab",
+        "Admin"
+      ],
+      "keywords": [
+        "change order",
+        "submittal",
+        "coordination",
+        "material",
+        "quality",
+        "documentation"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.5.020",
+      "title": "Handling and or Disposing of Excess Materials",
+      "filename": "9.5.020 \u2013 Handling and or Disposing of Excess Materials.docx",
+      "phase": "9.5",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "coordination",
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "closeout",
+        "commissioning",
+        "testing",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.5"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.5.550",
+      "title": "Manage Commissioning Activities",
+      "filename": "9.5.550 \u2013 Manage Commissioning Activities.docx",
+      "phase": "9.5",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "coordination",
+        "material",
+        "quality",
+        "documentation",
+        "closeout",
+        "commissioning",
+        "testing"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'closeout' typically belongs in phase 9.6, but this SOP is in 9.5"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.6.005",
+      "title": "Prepare for Turnover (Field Perspective)",
+      "filename": "9.6.005 \u2013 Prepare for Turnover (Field Perspective).docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman"
+      ],
+      "keywords": [
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "closeout",
+        "commissioning"
+      ],
+      "issues": [],
+      "warnings": [
+        "Keyword 'commissioning' typically belongs in phase 9.5, but this SOP is in 9.6"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.6.010",
+      "title": "Conduct Closeout Meetings",
+      "filename": "9.6.010 \u2013 Conduct Closeout Meetings.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety",
+        "Prefab"
+      ],
+      "keywords": [
+        "schedule",
+        "billing",
+        "submittal",
+        "coordination",
+        "meeting",
+        "material",
+        "safety",
+        "documentation",
+        "closeout",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [
+        "Role 'Prefab' mentioned but not typically associated with phase 9.6 (Project Closeout)"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "9.6.015",
+      "title": "Manage Project Turnover Documentation",
+      "filename": "9.6.015 \u2013 Manage Project Turnover Documentation.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "meeting",
+        "procurement",
+        "material",
+        "quality",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.020",
+      "title": "Manage Punch List Closeout",
+      "filename": "9.6.020 \u2013 Manage Punch List Closeout.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman"
+      ],
+      "keywords": [
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "closeout",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.030",
+      "title": "Manage As Built Drawings",
+      "filename": "9.6.030 \u2013 Manage As Built Drawings.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "submittal",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.035",
+      "title": "Submit Warranties",
+      "filename": "9.6.035 \u2013 Submit Warranties.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.040",
+      "title": "Submit O&M Manuals",
+      "filename": "9.6.040 \u2013 Submit O&M Manuals.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "material",
+        "quality",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.050",
+      "title": "Provide Owner Training",
+      "filename": "9.6.050 \u2013 Provide Owner Training.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "schedule",
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.065",
+      "title": "Archive Project Documentation",
+      "filename": "9.6.065 \u2013 Archive Project Documentation.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Admin"
+      ],
+      "keywords": [
+        "submittal",
+        "rfi",
+        "material",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.070",
+      "title": "Conduct Post Project Review",
+      "filename": "9.6.070 \u2013 Conduct Post Project Review.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety"
+      ],
+      "keywords": [
+        "schedule",
+        "budget",
+        "cost",
+        "change order",
+        "meeting",
+        "material",
+        "safety",
+        "quality",
+        "documentation",
+        "inspection"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.080",
+      "title": "Capture Client Feedback",
+      "filename": "9.6.080 \u2013 Capture Client Feedback.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman"
+      ],
+      "keywords": [
+        "schedule",
+        "meeting",
+        "material",
+        "quality",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [],
+      "status": "OK"
+    },
+    {
+      "sop_id": "9.6.085",
+      "title": "Document Lessons Learned",
+      "filename": "9.6.085 \u2013 Document Lessons Learned.docx",
+      "phase": "9.6",
+      "roles_mentioned": [
+        "Project Manager",
+        "Foreman",
+        "Safety",
+        "Estimator",
+        "Admin"
+      ],
+      "keywords": [
+        "budget",
+        "meeting",
+        "material",
+        "safety",
+        "quality",
+        "documentation",
+        "closeout"
+      ],
+      "issues": [],
+      "warnings": [
+        "Role 'Estimator' mentioned but not typically associated with phase 9.6 (Project Closeout)"
+      ],
+      "status": "WARNING"
+    },
+    {
+      "sop_id": "",
+      "title": "",
+      "filename": "GSL Release Conditions for Wire and Cable.docx",
+      "phase": "",
+      "roles_mentioned": [],
+      "keywords": [
+        "billing",
+        "procurement"
+      ],
+      "issues": [
+        "Unknown phase: "
+      ],
+      "warnings": [],
+      "status": "ERROR"
+    }
+  ]
+}

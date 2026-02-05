@@ -1,0 +1,993 @@
+<#
+.SYNOPSIS
+    GSL Electric SOP Management Tool - Complete Solution
+    
+.DESCRIPTION
+    All-in-one tool for SOP document management:
+    - Create SOPs from the master template
+    - Populate all metadata fields
+    - Set document properties for SharePoint
+    - Populate RACI matrix
+    - Upload to SharePoint with full metadata
+    - Batch processing support
+
+.PARAMETER Action
+    Template  - Download blank template
+    New       - Create new SOP from metadata JSON
+    Batch     - Process multiple SOPs
+    Validate  - Validate metadata JSON
+    Columns   - Show SharePoint column configuration
+    
+.EXAMPLE
+    # Download the template
+    .\GSL-SOPManager.ps1 -Action Template
+    
+.EXAMPLE
+    # Create a new SOP with metadata and upload
+    .\GSL-SOPManager.ps1 -Action New -SOPName "9.2.025 - Change Order Process" -MetadataPath ".\9.2.025-metadata.json" -Upload
+    
+.EXAMPLE
+    # Validate metadata before creating
+    .\GSL-SOPManager.ps1 -Action Validate -MetadataPath ".\metadata.json"
+    
+.EXAMPLE
+    # Batch upload all SOPs in folder
+    .\GSL-SOPManager.ps1 -Action Batch -Upload
+#>
+
+[CmdletBinding()]
+param(
+    [Parameter(Mandatory = $true)]
+    [ValidateSet("Template", "New", "Batch", "Validate", "Columns")]
+    [string]$Action,
+
+    [Parameter(Mandatory = $false)]
+    [string]$SOPName,
+
+    [Parameter(Mandatory = $false)]
+    [string]$MetadataPath,
+
+    [Parameter(Mandatory = $false)]
+    [string[]]$RemoveSections,
+
+    [Parameter(Mandatory = $false)]
+    [switch]$Upload,
+
+    [Parameter(Mandatory = $false)]
+    [switch]$SkipValidation
+)
+
+#region ==================== CONFIGURATION ====================
+
+$script:Config = @{
+    # SharePoint Settings
+    SiteUrl         = "https://gslelectric8540.sharepoint.com/sites/StandardOperationProcedures"
+    LibraryName     = "SOP Library"
+    TemplateLibrary = "Standard Operating Procedures"
+    TemplateFolder  = "Templates"
+    TemplateName    = "GSL_SOP_Master_Template_SHAREPOINT_ENABLED (v1).docx"
+    
+    # Local Paths
+    WorkingFolder   = "C:\Users\tewing\Desktop\Claude Projects\SOPs For Review"
+    TempFolder      = "$env:TEMP\GSL_SOP_Manager"
+}
+
+#endregion
+
+#region ==================== SHAREPOINT COLUMNS ====================
+
+$script:Columns = @{
+    # ===== REQUIRED FIELDS =====
+    "DocumentType" = @{
+        Internal = "DocumentType"
+        Type     = "Choice"
+        Required = $true
+        Default  = "SOP"
+        Choices  = @("SOP", "Form", "Checklist", "Template")
+    }
+    "Status" = @{
+        Internal = "Status"
+        Type     = "Choice"
+        Required = $true
+        Default  = "Draft"
+        Choices  = @("Draft", "Under Review", "Approved", "Retired")
+    }
+    
+    # ===== TEXT FIELDS =====
+    "Title" = @{
+        Internal = "Title"
+        Type     = "Text"
+        Required = $false
+    }
+    "SOPID" = @{
+        Internal = "SOPID"
+        Type     = "Text"
+        Required = $false
+        MaxLength = 20
+        Pattern  = '^\d+\.\d+\.\d+$'
+        PatternHelp = "Format: 9.[Phase].[Number] (e.g., 9.2.025)"
+    }
+    "SOPFileName" = @{
+        Internal = "SOPFileName"
+        Type     = "Text"
+        Required = $false
+        MaxLength = 255
+    }
+    
+    # ===== CHOICE FIELDS (Single) =====
+    "DepartmentDivision" = @{
+        Internal = "Department_x002f_Division"
+        Type     = "Choice"
+        Required = $false
+        Choices  = @("Operations", "Safety", "Prefab", "Accounting", "Engineering", "Administration")
+    }
+    
+    # ===== CHOICE FIELDS (Multi-Select) =====
+    "CategoryCCCTag" = @{
+        Internal = "Category_x0028_CCCTag_x0029_"
+        Type     = "MultiChoice"
+        Required = $false
+        Choices  = @(
+            "110 Mobilization", "120 Coordination", "130 Documentation Mgmt",
+            "140 Communication", "150 Scheduling", "160 Scope & Change Control",
+            "165 Accounting", "170 Cost Control & Billing", "180 Subcontractor Mgmt",
+            "190 Materials Mgmt", "191 Tools Mgmt", "192 Labor Mgmt",
+            "193 Safety Mgmt", "194 Quality Control", "195 Project Closeout",
+            "210 Pricing & Cost Control", "220 Materials & Installation Planning",
+            "230 Submittals", "240 Field Involvement/BIM", "250 Labor Planning"
+        )
+    }
+    "RolesRACI" = @{
+        Internal = "Roles_x0028_RACI_x0029_"
+        Type     = "MultiChoice"
+        Required = $false
+        Choices  = @(
+            "PM", "APM", "Foreman", "Purchasing", "QC", "Safety",
+            "Prefab Lead", "Accounting", "Project Coordinator",
+            "Branch Manager", "Engineer", "Scheduler",
+            "Business Manager", "General Superintendent"
+        )
+    }
+    "Appendix" = @{
+        Internal = "Appendix"
+        Type     = "MultiChoice"
+        Required = $false
+        AllowFillIn = $true
+    }
+    
+    # ===== MULTI-LINE TEXT =====
+    "Description" = @{
+        Internal = "Description"
+        Type     = "Note"
+        Required = $false
+    }
+    "TagsKeywords" = @{
+        Internal = "Tags_x002f_Keywords"
+        Type     = "Note"
+        Required = $false
+    }
+    
+    # ===== DATE FIELDS =====
+    "AssignedDate" = @{
+        Internal = "AssignedDate"
+        Type     = "DateTime"
+        Required = $false
+    }
+    "LastReviewedDate" = @{
+        Internal = "LastReviewedDate"
+        Type     = "DateTime"
+        Required = $false
+    }
+    
+    # ===== LOOKUP =====
+    "RelatedSOPs" = @{
+        Internal = "RelatedSOPs"
+        Type     = "LookupMulti"
+        Required = $false
+        Note     = "Links to other SOPs by Title"
+    }
+}
+
+# Template section markers
+$script:Sections = @{
+    "Purpose"             = "Purpose"
+    "Scope"               = "Scope"
+    "RolesResponsibilities" = "Roles & Responsibilities"
+    "Requirements"        = "Requirements"
+    "Procedure"           = "Procedure"
+    "Appendix"            = "Appendix"
+}
+
+#endregion
+
+#region ==================== HELPER FUNCTIONS ====================
+
+function Write-Banner {
+    Write-Host ""
+    Write-Host "╔════════════════════════════════════════════════════════════════╗" -ForegroundColor Cyan
+    Write-Host "║            GSL Electric - SOP Management Tool                  ║" -ForegroundColor Cyan
+    Write-Host "║                                                                ║" -ForegroundColor Cyan
+    Write-Host "║   Template • Create • Validate • Upload • Batch Processing     ║" -ForegroundColor Cyan
+    Write-Host "╚════════════════════════════════════════════════════════════════╝" -ForegroundColor Cyan
+    Write-Host ""
+}
+
+function Test-Prerequisites {
+    Write-Host "[1/3] Checking prerequisites..." -ForegroundColor White
+    
+    # Check PnP PowerShell
+    if (-not (Get-Module -ListAvailable -Name PnP.PowerShell)) {
+        Write-Host "      ✗ PnP.PowerShell module not found" -ForegroundColor Red
+        Write-Host "      → Install with: Install-Module PnP.PowerShell -Scope CurrentUser" -ForegroundColor Yellow
+        return $false
+    }
+    Import-Module PnP.PowerShell -ErrorAction Stop
+    Write-Host "      ✓ PnP.PowerShell module loaded" -ForegroundColor Green
+    
+    # Create folders
+    @($script:Config.WorkingFolder, $script:Config.TempFolder) | ForEach-Object {
+        if (-not (Test-Path $_)) {
+            New-Item -ItemType Directory -Path $_ -Force | Out-Null
+        }
+    }
+    Write-Host "      ✓ Working folders ready" -ForegroundColor Green
+    
+    return $true
+}
+
+function Connect-SharePoint {
+    Write-Host "[2/3] Connecting to SharePoint..." -ForegroundColor White
+    
+    try {
+        Connect-PnPOnline -Url $script:Config.SiteUrl -Interactive -ErrorAction Stop
+        Write-Host "      ✓ Connected to SharePoint" -ForegroundColor Green
+        return $true
+    }
+    catch {
+        Write-Host "      ✗ Connection failed: $_" -ForegroundColor Red
+        return $false
+    }
+}
+
+function Get-Template {
+    param([string]$DestinationPath)
+    
+    Write-Host "[3/3] Downloading template..." -ForegroundColor White
+    
+    $templateUrl = "/sites/StandardOperationProcedures/$($script:Config.TemplateLibrary)/$($script:Config.TemplateFolder)/$($script:Config.TemplateName)"
+    
+    try {
+        $destFolder = Split-Path $DestinationPath -Parent
+        $destFile = Split-Path $DestinationPath -Leaf
+        
+        Get-PnPFile -Url $templateUrl -Path $destFolder -Filename $destFile -AsFile -Force -ErrorAction Stop
+        Write-Host "      ✓ Template downloaded" -ForegroundColor Green
+        return $true
+    }
+    catch {
+        Write-Host "      ✗ Download failed: $_" -ForegroundColor Red
+        return $false
+    }
+}
+
+#endregion
+
+#region ==================== VALIDATION ====================
+
+function Test-Metadata {
+    param([PSCustomObject]$Metadata)
+    
+    Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    Write-Host "  VALIDATING METADATA" -ForegroundColor Cyan
+    Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    
+    $errors = @()
+    $warnings = @()
+    
+    foreach ($col in $script:Columns.GetEnumerator()) {
+        $name = $col.Key
+        $def = $col.Value
+        $value = $Metadata.$name
+        
+        # Check required
+        if ($def.Required -and (-not $value -or $value -eq "")) {
+            $errors += "REQUIRED: '$name' is missing"
+            continue
+        }
+        
+        # Skip empty optional
+        if (-not $value) { continue }
+        
+        # Validate choices
+        if ($def.Type -eq "Choice" -and $def.Choices) {
+            if ($value -notin $def.Choices) {
+                $errors += "'$name' value '$value' invalid. Must be: $($def.Choices -join ', ')"
+            }
+        }
+        
+        # Validate multi-choice
+        if ($def.Type -eq "MultiChoice" -and $def.Choices -and -not $def.AllowFillIn) {
+            $values = if ($value -is [array]) { $value } else { @($value) }
+            foreach ($v in $values) {
+                if ($v -notin $def.Choices) {
+                    $warnings += "'$name' value '$v' may not be valid"
+                }
+            }
+        }
+        
+        # Validate pattern
+        if ($def.Pattern -and $value -notmatch $def.Pattern) {
+            $warnings += "'$name' value '$value' doesn't match expected format. $($def.PatternHelp)"
+        }
+        
+        # Validate max length
+        if ($def.MaxLength -and $value.Length -gt $def.MaxLength) {
+            $errors += "'$name' exceeds max length of $($def.MaxLength) characters"
+        }
+    }
+    
+    # Report
+    if ($errors.Count -gt 0) {
+        Write-Host "`n  ERRORS ($($errors.Count)):" -ForegroundColor Red
+        $errors | ForEach-Object { Write-Host "    ✗ $_" -ForegroundColor Red }
+    }
+    
+    if ($warnings.Count -gt 0) {
+        Write-Host "`n  WARNINGS ($($warnings.Count)):" -ForegroundColor Yellow
+        $warnings | ForEach-Object { Write-Host "    ⚠ $_" -ForegroundColor Yellow }
+    }
+    
+    if ($errors.Count -eq 0 -and $warnings.Count -eq 0) {
+        Write-Host "`n  ✓ All validations passed" -ForegroundColor Green
+    }
+    elseif ($errors.Count -eq 0) {
+        Write-Host "`n  ✓ Valid (with warnings)" -ForegroundColor Green
+    }
+    
+    Write-Host ""
+    
+    return @{
+        IsValid  = $errors.Count -eq 0
+        Errors   = $errors
+        Warnings = $warnings
+    }
+}
+
+#endregion
+
+#region ==================== DOCUMENT PROCESSING ====================
+
+function Expand-Docx {
+    param([string]$DocxPath, [string]$ExtractPath)
+    
+    if (Test-Path $ExtractPath) { Remove-Item $ExtractPath -Recurse -Force }
+    
+    $zipPath = $DocxPath -replace '\.docx$', '.zip'
+    Copy-Item $DocxPath $zipPath -Force
+    Expand-Archive -Path $zipPath -DestinationPath $ExtractPath -Force
+    Remove-Item $zipPath -Force
+}
+
+function Compress-Docx {
+    param([string]$ExtractPath, [string]$DocxPath)
+    
+    $zipPath = $DocxPath -replace '\.docx$', '.zip'
+    
+    if (Test-Path $zipPath) { Remove-Item $zipPath -Force }
+    if (Test-Path $DocxPath) { Remove-Item $DocxPath -Force }
+    
+    Compress-Archive -Path "$ExtractPath\*" -DestinationPath $zipPath -Force
+    Rename-Item $zipPath $DocxPath -Force
+}
+
+function New-XmlNsManager {
+    param([xml]$Xml, [hashtable]$Namespaces)
+    
+    $nsManager = New-Object System.Xml.XmlNamespaceManager($Xml.NameTable)
+    foreach ($ns in $Namespaces.GetEnumerator()) {
+        $nsManager.AddNamespace($ns.Key, $ns.Value)
+    }
+    return $nsManager
+}
+
+function Update-TextPlaceholder {
+    param([xml]$Xml, [string]$Find, [string]$Replace)
+    
+    $ns = @{w = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+    $nsManager = New-XmlNsManager $Xml $ns
+    
+    $nodes = $Xml.SelectNodes("//w:t", $nsManager)
+    foreach ($node in $nodes) {
+        if ($node.InnerText -match [regex]::Escape($Find)) {
+            $node.InnerText = $node.InnerText -replace [regex]::Escape($Find), $Replace
+        }
+    }
+}
+
+function Set-CoreProperties {
+    param([string]$ExtractPath, [PSCustomObject]$Metadata)
+    
+    $corePath = Join-Path $ExtractPath "docProps\core.xml"
+    [xml]$xml = Get-Content $corePath -Raw -Encoding UTF8
+    
+    $ns = @{
+        cp = "http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+        dc = "http://purl.org/dc/elements/1.1/"
+    }
+    $nsManager = New-XmlNsManager $xml $ns
+    
+    # Title
+    if ($Metadata.Title) {
+        $node = $xml.SelectSingleNode("//dc:title", $nsManager)
+        if ($node) { $node.InnerText = $Metadata.Title }
+    }
+    
+    # Subject = Description
+    if ($Metadata.Description) {
+        $node = $xml.SelectSingleNode("//dc:subject", $nsManager)
+        if ($node) { $node.InnerText = $Metadata.Description }
+    }
+    
+    # Keywords
+    if ($Metadata.TagsKeywords) {
+        $node = $xml.SelectSingleNode("//cp:keywords", $nsManager)
+        if ($node) { $node.InnerText = $Metadata.TagsKeywords }
+    }
+    
+    $xml.Save($corePath)
+}
+
+function Set-CustomProperties {
+    param([string]$ExtractPath, [PSCustomObject]$Metadata)
+    
+    $customPath = Join-Path $ExtractPath "docProps\custom.xml"
+    [xml]$xml = Get-Content $customPath -Raw -Encoding UTF8
+    
+    $ns = "http://schemas.openxmlformats.org/officeDocument/2006/custom-properties"
+    $vtNs = "http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"
+    
+    $props = @{
+        "Status"              = $Metadata.Status
+        "DocumentType"        = $Metadata.DocumentType
+        "SOPID"               = $Metadata.SOPID
+        "SOPFileName"         = $Metadata.SOPFileName
+        "Description"         = $Metadata.Description
+        "Department/Division" = $Metadata.DepartmentDivision
+        "Tags/Keywords"       = $Metadata.TagsKeywords
+    }
+    
+    # Add Category as semicolon-separated if array
+    if ($Metadata.CategoryCCCTag) {
+        $props["Category(CCCTag)"] = if ($Metadata.CategoryCCCTag -is [array]) { 
+            $Metadata.CategoryCCCTag -join "; " 
+        } else { 
+            $Metadata.CategoryCCCTag 
+        }
+    }
+    
+    $pid = 3
+    foreach ($prop in $props.GetEnumerator()) {
+        if (-not $prop.Value) { continue }
+        
+        $existing = $xml.SelectSingleNode("//property[@name='$($prop.Key)']")
+        if (-not $existing) {
+            $elem = $xml.CreateElement("property", $ns)
+            $elem.SetAttribute("fmtid", "{D5CDD505-2E9C-101B-9397-08002B2CF9AE}")
+            $elem.SetAttribute("pid", $pid.ToString())
+            $elem.SetAttribute("name", $prop.Key)
+            
+            $val = $xml.CreateElement("vt", "lpwstr", $vtNs)
+            $val.InnerText = $prop.Value
+            $elem.AppendChild($val)
+            
+            $xml.DocumentElement.AppendChild($elem)
+            $pid++
+        }
+    }
+    
+    $xml.Save($customPath)
+}
+
+function Update-Footer {
+    param([string]$ExtractPath, [string]$SOPID, [string]$Title)
+    
+    $footerPath = Join-Path $ExtractPath "word\footer1.xml"
+    if (-not (Test-Path $footerPath)) { return }
+    
+    [xml]$xml = Get-Content $footerPath -Raw -Encoding UTF8
+    Update-TextPlaceholder -Xml $xml -Find "[SOP #] – [SOP Title]" -Replace "$SOPID – $Title"
+    $xml.Save($footerPath)
+}
+
+function Remove-DocumentSection {
+    param([xml]$Xml, [string]$SectionName)
+    
+    $marker = $script:Sections[$SectionName]
+    if (-not $marker) { return 0 }
+    
+    $ns = @{w = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+    $nsManager = New-XmlNsManager $Xml $ns
+    
+    $paragraphs = $Xml.SelectNodes("//w:p", $nsManager)
+    $inSection = $false
+    $toRemove = @()
+    $otherMarkers = $script:Sections.Values | Where-Object { $_ -ne $marker }
+    
+    foreach ($p in $paragraphs) {
+        $text = ($p.SelectNodes(".//w:t", $nsManager) | ForEach-Object { $_.InnerText }) -join ""
+        
+        if ($text -match [regex]::Escape($marker)) { $inSection = $true }
+        
+        if ($inSection) {
+            foreach ($m in $otherMarkers) {
+                if ($text -eq $m) { $inSection = $false; break }
+            }
+        }
+        
+        if ($inSection) { $toRemove += $p }
+    }
+    
+    foreach ($node in $toRemove) {
+        $node.ParentNode.RemoveChild($node) | Out-Null
+    }
+    
+    return $toRemove.Count
+}
+
+function Update-RACIMatrix {
+    param([xml]$Xml, [PSCustomObject]$Matrix)
+    
+    if (-not $Matrix) { return }
+    
+    $ns = @{w = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+    $nsManager = New-XmlNsManager $Xml $ns
+    
+    $tables = $Xml.SelectNodes("//w:tbl", $nsManager)
+    if ($tables.Count -eq 0) { return }
+    
+    $table = $tables[$tables.Count - 1]  # RACI is last table
+    $rows = $table.SelectNodes("w:tr", $nsManager)
+    
+    # Update role headers (row 0, skip column 0)
+    if ($Matrix.Roles) {
+        $headerCells = $rows[0].SelectNodes("w:tc", $nsManager)
+        for ($i = 0; $i -lt $Matrix.Roles.Count -and ($i + 1) -lt $headerCells.Count; $i++) {
+            $textNode = $headerCells[$i + 1].SelectSingleNode(".//w:t", $nsManager)
+            if ($textNode) { $textNode.InnerText = $Matrix.Roles[$i] }
+        }
+    }
+    
+    # Update responsibilities and RACI values
+    if ($Matrix.Responsibilities) {
+        for ($r = 0; $r -lt $Matrix.Responsibilities.Count -and ($r + 2) -lt $rows.Count; $r++) {
+            $resp = $Matrix.Responsibilities[$r]
+            $rowCells = $rows[$r + 2].SelectNodes("w:tc", $nsManager)
+            
+            # Set responsibility name (column 0)
+            $nameNode = $rowCells[0].SelectSingleNode(".//w:t", $nsManager)
+            if ($nameNode) { $nameNode.InnerText = $resp.Name }
+            
+            # Set R/A/C/I values
+            foreach ($type in @("R", "A", "C", "I")) {
+                $indices = $resp.$type
+                if ($indices) {
+                    foreach ($idx in $indices) {
+                        if (($idx + 1) -lt $rowCells.Count) {
+                            $cell = $rowCells[$idx + 1]
+                            $para = $cell.SelectSingleNode("w:p", $nsManager)
+                            if ($para) {
+                                $para.RemoveAll()
+                                
+                                $pPr = $Xml.CreateElement("w", "pPr", "http://schemas.openxmlformats.org/wordprocessingml/2006/main")
+                                $jc = $Xml.CreateElement("w", "jc", "http://schemas.openxmlformats.org/wordprocessingml/2006/main")
+                                $jc.SetAttribute("val", "http://schemas.openxmlformats.org/wordprocessingml/2006/main", "center")
+                                $pPr.AppendChild($jc)
+                                $para.AppendChild($pPr)
+                                
+                                $run = $Xml.CreateElement("w", "r", "http://schemas.openxmlformats.org/wordprocessingml/2006/main")
+                                $txt = $Xml.CreateElement("w", "t", "http://schemas.openxmlformats.org/wordprocessingml/2006/main")
+                                $txt.InnerText = $type
+                                $run.AppendChild($txt)
+                                $para.AppendChild($run)
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+#endregion
+
+#region ==================== SHAREPOINT UPLOAD ====================
+
+function Send-ToSharePoint {
+    param([string]$FilePath, [PSCustomObject]$Metadata)
+    
+    Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    Write-Host "  UPLOADING TO SHAREPOINT" -ForegroundColor Cyan
+    Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    
+    try {
+        # Upload file
+        Write-Host "  Uploading file..." -ForegroundColor White
+        $upload = Add-PnPFile -Path $FilePath -Folder $script:Config.LibraryName -ErrorAction Stop
+        Write-Host "    ✓ File uploaded" -ForegroundColor Green
+        
+        # Set metadata
+        Write-Host "  Setting metadata..." -ForegroundColor White
+        $item = Get-PnPFile -Url $upload.ServerRelativeUrl -AsListItem
+        
+        $values = @{}
+        
+        foreach ($col in $script:Columns.GetEnumerator()) {
+            $jsonName = $col.Key
+            $spName = $col.Value.Internal
+            $colType = $col.Value.Type
+            $value = $Metadata.$jsonName
+            
+            if (-not $value) { continue }
+            
+            switch ($colType) {
+                "MultiChoice" {
+                    $values[$spName] = if ($value -is [array]) { $value } else { @($value) }
+                }
+                "DateTime" {
+                    try { $values[$spName] = [DateTime]::Parse($value) } catch {}
+                }
+                "LookupMulti" {
+                    # Skip - requires special handling
+                    Write-Host "    ⚠ RelatedSOPs skipped (set manually)" -ForegroundColor Yellow
+                }
+                default {
+                    $values[$spName] = $value
+                }
+            }
+        }
+        
+        $successCount = 0
+        foreach ($field in $values.GetEnumerator()) {
+            try {
+                Set-PnPListItem -List $script:Config.LibraryName -Identity $item.Id -Values @{$field.Key = $field.Value} -ErrorAction Stop | Out-Null
+                $successCount++
+            }
+            catch {
+                Write-Host "    ⚠ $($field.Key): $($_.Exception.Message)" -ForegroundColor Yellow
+            }
+        }
+        
+        Write-Host "    ✓ $successCount metadata fields set" -ForegroundColor Green
+        
+        $url = "$($script:Config.SiteUrl)$($upload.ServerRelativeUrl)"
+        Write-Host "`n  ✓ SUCCESS: $url" -ForegroundColor Green
+        
+        return $url
+    }
+    catch {
+        Write-Host "  ✗ Upload failed: $_" -ForegroundColor Red
+        return $null
+    }
+}
+
+#endregion
+
+#region ==================== MAIN DOCUMENT CREATION ====================
+
+function New-SOPDocument {
+    param(
+        [string]$SOPName,
+        [PSCustomObject]$Metadata,
+        [string[]]$RemoveSections
+    )
+    
+    Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    Write-Host "  CREATING SOP: $SOPName" -ForegroundColor Cyan
+    Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    
+    $templatePath = Join-Path $script:Config.TempFolder "template.docx"
+    $extractPath = Join-Path $script:Config.TempFolder "work"
+    $outputPath = Join-Path $script:Config.WorkingFolder "$SOPName.docx"
+    
+    # Download template
+    if (-not (Get-Template -DestinationPath $templatePath)) {
+        return $null
+    }
+    
+    # Extract
+    Write-Host "  Processing document..." -ForegroundColor White
+    Expand-Docx -DocxPath $templatePath -ExtractPath $extractPath
+    
+    # Set document properties
+    Write-Host "  Setting properties..." -ForegroundColor White
+    Set-CoreProperties -ExtractPath $extractPath -Metadata $Metadata
+    Set-CustomProperties -ExtractPath $extractPath -Metadata $Metadata
+    Write-Host "    ✓ Document properties set" -ForegroundColor Green
+    
+    # Load main document
+    $docPath = Join-Path $extractPath "word\document.xml"
+    [xml]$xml = Get-Content $docPath -Raw -Encoding UTF8
+    
+    # Update placeholders
+    Write-Host "  Updating content..." -ForegroundColor White
+    
+    if ($Metadata.SOPID -and $Metadata.Title) {
+        Update-TextPlaceholder -Xml $xml -Find "[SOP #] – [SOP Title]" -Replace "$($Metadata.SOPID) – $($Metadata.Title)"
+        Update-TextPlaceholder -Xml $xml -Find "[SOP #]" -Replace $Metadata.SOPID
+        Write-Host "    ✓ Header updated" -ForegroundColor Green
+    }
+    
+    if ($Metadata.DepartmentDivision) {
+        Update-TextPlaceholder -Xml $xml -Find "[Department(s)]" -Replace $Metadata.DepartmentDivision
+        Write-Host "    ✓ Department updated" -ForegroundColor Green
+    }
+    
+    if ($Metadata.Purpose) {
+        Update-TextPlaceholder -Xml $xml -Find "[Describe the purpose of this SOP in 1–3 sentences.]" -Replace $Metadata.Purpose
+        Write-Host "    ✓ Purpose updated" -ForegroundColor Green
+    }
+    
+    # Update procedure steps
+    if ($Metadata.Steps) {
+        for ($i = 0; $i -lt $Metadata.Steps.Count -and $i -lt 7; $i++) {
+            $step = $Metadata.Steps[$i]
+            Update-TextPlaceholder -Xml $xml -Find "Step $($i+1) – [Step Name]" -Replace "Step $($i+1) – $($step.Name)"
+            if ($step.Description) {
+                Update-TextPlaceholder -Xml $xml -Find "[Describe what happens in this step. Include who does what and what gets documented.]" -Replace $step.Description
+            }
+        }
+        Write-Host "    ✓ $($Metadata.Steps.Count) procedure steps updated" -ForegroundColor Green
+    }
+    
+    # Remove sections if requested
+    if ($RemoveSections) {
+        Write-Host "  Removing sections..." -ForegroundColor White
+        foreach ($section in $RemoveSections) {
+            $count = Remove-DocumentSection -Xml $xml -SectionName $section
+            if ($count -gt 0) {
+                Write-Host "    ✓ Removed: $section ($count elements)" -ForegroundColor Green
+            }
+        }
+    }
+    
+    # Update RACI matrix
+    if ($Metadata.RACIMatrix) {
+        Write-Host "  Populating RACI matrix..." -ForegroundColor White
+        Update-RACIMatrix -Xml $xml -Matrix $Metadata.RACIMatrix
+        Write-Host "    ✓ RACI matrix populated" -ForegroundColor Green
+    }
+    
+    # Save document
+    $xml.Save($docPath)
+    
+    # Update footer
+    if ($Metadata.SOPID -and $Metadata.Title) {
+        Update-Footer -ExtractPath $extractPath -SOPID $Metadata.SOPID -Title $Metadata.Title
+        Write-Host "    ✓ Footer updated" -ForegroundColor Green
+    }
+    
+    # Repack
+    Compress-Docx -ExtractPath $extractPath -DocxPath $outputPath
+    
+    # Cleanup
+    Remove-Item $extractPath -Recurse -Force -ErrorAction SilentlyContinue
+    Remove-Item $templatePath -Force -ErrorAction SilentlyContinue
+    
+    Write-Host "`n  ✓ Document created: $outputPath" -ForegroundColor Green
+    
+    return $outputPath
+}
+
+#endregion
+
+#region ==================== SHOW COLUMNS ====================
+
+function Show-ColumnConfiguration {
+    Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    Write-Host "  SOP LIBRARY COLUMN CONFIGURATION" -ForegroundColor Cyan
+    Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+    
+    Write-Host "`n  REQUIRED FIELDS" -ForegroundColor Yellow
+    Write-Host "  ─────────────────────────────────────────────────────────────" -ForegroundColor Gray
+    
+    foreach ($col in ($script:Columns.GetEnumerator() | Where-Object { $_.Value.Required })) {
+        Write-Host "  $($col.Key)" -ForegroundColor White -NoNewline
+        Write-Host " ($($col.Value.Type))" -ForegroundColor Gray
+        if ($col.Value.Choices) {
+            Write-Host "    → $($col.Value.Choices -join ', ')" -ForegroundColor DarkGray
+        }
+    }
+    
+    Write-Host "`n  CHOICE FIELDS" -ForegroundColor Yellow
+    Write-Host "  ─────────────────────────────────────────────────────────────" -ForegroundColor Gray
+    
+    foreach ($col in ($script:Columns.GetEnumerator() | Where-Object { $_.Value.Type -match "Choice" -and -not $_.Value.Required })) {
+        $multi = if ($col.Value.Type -eq "MultiChoice") { " [multi]" } else { "" }
+        Write-Host "  $($col.Key)$multi" -ForegroundColor White
+        if ($col.Value.Choices -and $col.Value.Choices.Count -gt 0) {
+            $col.Value.Choices | ForEach-Object { Write-Host "    • $_" -ForegroundColor DarkGray }
+        }
+        elseif ($col.Value.AllowFillIn) {
+            Write-Host "    • (allows custom values)" -ForegroundColor DarkGray
+        }
+    }
+    
+    Write-Host "`n  OTHER FIELDS" -ForegroundColor Yellow
+    Write-Host "  ─────────────────────────────────────────────────────────────" -ForegroundColor Gray
+    
+    foreach ($col in ($script:Columns.GetEnumerator() | Where-Object { $_.Value.Type -notmatch "Choice" -and -not $_.Value.Required })) {
+        Write-Host "  $($col.Key)" -ForegroundColor White -NoNewline
+        Write-Host " ($($col.Value.Type))" -ForegroundColor Gray
+        if ($col.Value.PatternHelp) {
+            Write-Host "    → $($col.Value.PatternHelp)" -ForegroundColor DarkGray
+        }
+    }
+    
+    Write-Host ""
+}
+
+#endregion
+
+#region ==================== MAIN EXECUTION ====================
+
+# Show banner
+Write-Banner
+
+# Check prerequisites
+if (-not (Test-Prerequisites)) { exit 1 }
+
+# Connect to SharePoint
+if (-not (Connect-SharePoint)) { exit 1 }
+
+# Execute action
+switch ($Action) {
+    
+    "Columns" {
+        Show-ColumnConfiguration
+    }
+    
+    "Template" {
+        $destPath = Join-Path $script:Config.WorkingFolder "GSL_SOP_Template.docx"
+        
+        Write-Host ""
+        if (Get-Template -DestinationPath $destPath) {
+            Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+            Write-Host "  ✓ TEMPLATE SAVED" -ForegroundColor Green
+            Write-Host "    $destPath" -ForegroundColor White
+            Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+        }
+    }
+    
+    "Validate" {
+        if (-not $MetadataPath -or -not (Test-Path $MetadataPath)) {
+            Write-Host "`n  ✗ ERROR: Specify valid -MetadataPath" -ForegroundColor Red
+            exit 1
+        }
+        
+        $metadata = Get-Content $MetadataPath -Raw -Encoding UTF8 | ConvertFrom-Json
+        Test-Metadata -Metadata $metadata
+    }
+    
+    "New" {
+        if (-not $SOPName) {
+            Write-Host "`n  ✗ ERROR: Specify -SOPName" -ForegroundColor Red
+            exit 1
+        }
+        
+        # Load or create metadata
+        $metadata = $null
+        if ($MetadataPath -and (Test-Path $MetadataPath)) {
+            Write-Host "`n  Loading metadata: $MetadataPath" -ForegroundColor White
+            $metadata = Get-Content $MetadataPath -Raw -Encoding UTF8 | ConvertFrom-Json
+            
+            # Validate unless skipped
+            if (-not $SkipValidation) {
+                $result = Test-Metadata -Metadata $metadata
+                if (-not $result.IsValid) {
+                    Write-Host "`n  ✗ Fix validation errors or use -SkipValidation" -ForegroundColor Red
+                    exit 1
+                }
+            }
+        }
+        else {
+            # Create minimal metadata from name
+            $metadata = [PSCustomObject]@{
+                Title        = ($SOPName -replace '^\d+\.\d+\.\d+\s*[-–]\s*', '')
+                SOPID        = if ($SOPName -match '^(\d+\.\d+\.\d+)') { $Matches[1] } else { "" }
+                Status       = "Draft"
+                DocumentType = "SOP"
+            }
+            Write-Host "`n  Using minimal metadata (no JSON file provided)" -ForegroundColor Yellow
+        }
+        
+        # Ensure SOPFileName
+        if (-not $metadata.SOPFileName) {
+            $metadata | Add-Member -NotePropertyName "SOPFileName" -NotePropertyValue "$SOPName.docx" -Force
+        }
+        
+        # Create document
+        $outputPath = New-SOPDocument -SOPName $SOPName -Metadata $metadata -RemoveSections $RemoveSections
+        
+        # Upload if requested
+        if ($Upload -and $outputPath) {
+            $url = Send-ToSharePoint -FilePath $outputPath -Metadata $metadata
+        }
+    }
+    
+    "Batch" {
+        Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+        Write-Host "  BATCH PROCESSING" -ForegroundColor Cyan
+        Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+        
+        $jsonFiles = Get-ChildItem -Path $script:Config.WorkingFolder -Filter "*-metadata.json"
+        
+        if ($jsonFiles.Count -eq 0) {
+            Write-Host "`n  No metadata JSON files found in:" -ForegroundColor Yellow
+            Write-Host "  $($script:Config.WorkingFolder)" -ForegroundColor White
+            Write-Host "`n  Expected format: [SOPName]-metadata.json" -ForegroundColor Gray
+            exit 0
+        }
+        
+        Write-Host "`n  Found $($jsonFiles.Count) metadata file(s)" -ForegroundColor White
+        
+        $results = @()
+        
+        foreach ($jsonFile in $jsonFiles) {
+            $sopName = $jsonFile.BaseName -replace '-metadata$', ''
+            
+            Write-Host "`n  ────────────────────────────────────────────────────────────" -ForegroundColor Gray
+            Write-Host "  Processing: $sopName" -ForegroundColor White
+            
+            try {
+                $metadata = Get-Content $jsonFile.FullName -Raw -Encoding UTF8 | ConvertFrom-Json
+                
+                $outputPath = New-SOPDocument -SOPName $sopName -Metadata $metadata -RemoveSections $RemoveSections
+                
+                $url = $null
+                if ($Upload -and $outputPath) {
+                    $url = Send-ToSharePoint -FilePath $outputPath -Metadata $metadata
+                }
+                
+                $results += [PSCustomObject]@{
+                    SOPName = $sopName
+                    Status  = "Success"
+                    Output  = $outputPath
+                    URL     = $url
+                }
+            }
+            catch {
+                Write-Host "  ✗ Failed: $_" -ForegroundColor Red
+                $results += [PSCustomObject]@{
+                    SOPName = $sopName
+                    Status  = "Failed"
+                    Output  = $null
+                    URL     = $null
+                    Error   = $_.ToString()
+                }
+            }
+        }
+        
+        # Summary
+        Write-Host "`n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+        Write-Host "  BATCH SUMMARY" -ForegroundColor Cyan
+        Write-Host "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" -ForegroundColor Gray
+        
+        $success = ($results | Where-Object { $_.Status -eq "Success" }).Count
+        $failed = ($results | Where-Object { $_.Status -eq "Failed" }).Count
+        
+        Write-Host "  Total:   $($results.Count)" -ForegroundColor White
+        Write-Host "  Success: $success" -ForegroundColor Green
+        Write-Host "  Failed:  $failed" -ForegroundColor $(if ($failed -gt 0) { "Red" } else { "Green" })
+        
+        # Save log
+        $logPath = Join-Path $script:Config.WorkingFolder "batch-log-$(Get-Date -Format 'yyyyMMdd-HHmmss').csv"
+        $results | Export-Csv -Path $logPath -NoTypeInformation
+        Write-Host "`n  Log saved: $logPath" -ForegroundColor Gray
+    }
+}
+
+# Disconnect
+try { Disconnect-PnPOnline -ErrorAction SilentlyContinue } catch {}
+
+Write-Host ""
+#endregion

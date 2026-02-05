@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sop-search-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sopSearch/SopSearchWebPart.js",
+          "manifest": "./src/webparts/sopSearch/SopSearchWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SopSearchWebPartStrings": "lib/webparts/sopSearch/loc/{locale}.js"
+  }
+}

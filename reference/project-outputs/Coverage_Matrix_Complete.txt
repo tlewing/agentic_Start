@@ -1,0 +1,424 @@
+========================================================================================================================
+COVERAGE MATRIX - COMPLETE DATA DUMP
+Source: C:\Users\tewing\Desktop\Claude Projects\Key_SOP_Matrix_RACI_Updated.xlsx
+Sheet: Coverage Matrix
+Total data rows: 343
+Excel headers: ['SOP Title', 'SOP Action', 'Responsible Role', '(RACI) Responsible', '(RACI) Accountable', '(RACI) Consulted', '(RACI) Informed', 'Directive Section', 'Coverage Status', 'Gap Closure Recommendation', 'Category']
+========================================================================================================================
+
+Row# | SOP Title | SOP Action | Responsible Role | RACI-R | RACI-A | RACI-C | RACI-I | Directive Section | Coverage Status | Gap Recommendation | Category
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+1    | 9.2.010 – Team Selection | PM defines staffing needs | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (manpower plan) | ✔ Covered | No change required. | Team selection and turnover
+2    | 9.2.010 – Team Selection | GS assigns field supervisors | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS (manpower assignment) | ✔ Covered | No change required. | Team selection and turnover
+3    | 9.2.010 – Team Selection | Branch Manager approves staffing plan | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt (operations control) | ⚠ Gap – approval not explicit | Add approval language to Sec. 9.6. | Team selection and turnover
+4    | 9.2.010 – Team Selection | Safety Coordinator advises on assignments | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD (safety hazard identification) | ⚠ Gap – advisory role not explicit | Add cross-check with Safety Coordinator. | Team selection and turnover
+5    | 9.2.015 – Project Turnover Meeting | Conduct estimator-led turnover meeting | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating (turnover participation) | ✔ Covered | No change required. | Team selection and turnover
+6    | 9.2.015 – Project Turnover Meeting | Participate in turnover meeting | PM, Branch Mgr, GS, Field Leadership, Prefab, Safety | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (turnover), Sec. 9.13 BM, Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Team selection and turnover
+7    | 9.2.015 – Project Turnover Meeting | Prepare meeting agenda and minutes | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (meeting leadership) | ⚠ Gap – agenda/minutes not required | Add to Sec. 9.5: PM must issue minutes within 48 hrs. | Team selection and turnover
+8    | 9.2.020 - Procurement of Large Feeder Wire | Populate Feeder Wire Procurement & Release Log upon NOA/LOI and confirm feede... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (procurement planning); Sec. 9.16 Purchasing | ⚠ Gap – feeder log use not explicit | Add requirement for Feeder Wire Procurement & Release Log to Sec. 9.5 PM (pro... | Materials Management
+9    | 9.2.020 - Procurement of Large Feeder Wire | Issue RFQs and obtain 2+ documented vendor quotes for large feeder wire. | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing (pre-buyout procurement) | ⚠ Gap – competitive quote documentation not explicit | Update Sec. 9.16 Purchasing to require at least two documented quotes for lar... | Materials Management
+10   | 9.2.020 - Procurement of Large Feeder Wire | Select vendor and set PO terms including pricing lock, lead times, and delive... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (procurement planning); Sec. 9.16 Purchasing | ✔ Covered | No change required. | Materials Management
+11   | 9.2.020 - Procurement of Large Feeder Wire | Assemble and submit feeder wire submittals; hold releases until submittal app... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (submittals management) | ✔ Covered | No change required. | Materials Management
+12   | 9.2.020 - Procurement of Large Feeder Wire | Pre-plan logistics and conduit/wire pull schedule with Field Supervision usin... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (material handling plan); Sec. 9.3 Field Leadership (pre-planning) | ✔ Covered | No change required. | Materials Management
+13   | 9.2.020 - Procurement of Large Feeder Wire | Direct vendors to store wire until release, cut and bundle feeders per releas... | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing (commodities and wire procurement) | ⚠ Gap – storage, release, and billing conditions not defined | Update Sec. 9.16 Purchasing to define storage at vendor warehouse, release af... | Materials Management
+14   | 9.2.030 – Review Contract for High-Risk Clauses | Review contract for unfavorable clauses | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (contract review) | ✔ Covered | No change required. | Scope and contract review
+15   | 9.2.030 – Review Contract for High-Risk Clauses | Escalate risks and prepare mitigation plan | PM, Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.14 Contract Mgr (risk oversight), Sec. 9.13 BM (contracts) | ⚠ Gap – mitigation plan not explicit | Add checklist/mitigation step. | Scope and contract review
+16   | 9.2.040 – PM Reviews Plans, Specs & Schedule | Review drawings, specs, and schedules | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (scope & schedule review) | ✔ Covered | No change required. | Scope and contract review
+17   | 9.2.040 – PM Reviews Plans, Specs & Schedule | Complete Scope & Schedule Checklist | Project Manager | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – checklist requirement | Add checklist reference to Sec. 9.5. | Scope and contract review
+18   | 9.2.040 – PM Reviews Plans, Specs & Schedule | Integrate results into PEP | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 7.3.1 PM JD (planning & PEP) | ⚠ Gap – explicit PEP update not required | Add to PM JD/Directive 9.5. | Scope and contract review
+19   | 9.2.050 – FS Reviews Plans, Specs & Schedule | Review drawings/specs/schedules for constructability | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (pre-planning) | ✔ Covered | No change required. | Scope and contract review
+20   | 9.2.050 – FS Reviews Plans, Specs & Schedule | Submit findings to PM & GS | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (reporting to PM/GS) | ✔ Covered | No change required. | Scope and contract review
+21   | 9.2.050 – FS Reviews Plans, Specs & Schedule | Integrate findings into PEP | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (job planning) | ⚠ Gap – PEP update not explicit | Add to Sec. 9.5: PM integrates FS findings. | Scope and contract review
+22   | 9.2.060 – Create Issue List & RFI | Identify constructability/scope issues | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (report issues) | ✔ Covered | No change required. | Scope and contract review
+23   | 9.2.060 – Create Issue List & RFI | Maintain RFI log | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (document scope changes) | ✔ Covered | No change required. | Scope and contract review
+24   | 9.2.060 – Create Issue List & RFI | Escalate major issues to Branch Manager | PM & GS | (empty) | (empty) | (empty) | (empty) | Sec. 9.14 Contract Mgr (notice requirements) | ⚠ Gap – escalation step not explicit | Add escalation language to Sec. 9.5. | Scope and contract review
+25   | 9.2.070 – Conduct Site Visit | Perform site walk & complete checklist | Field Leadership (Project Superintendent/Foreman) | (empty) | (empty) | (empty) | (empty) | Management Directives for Field Leadership – Pre-planning | ✔ Covered | No change required. | Scope and contract review
+26   | 9.2.070 – Conduct Site Visit | Integrate findings into PEP | Project Manager | (empty) | (empty) | (empty) | (empty) | Project Manager JD – planning, meetings, and site visits | ✔ Covered | No change required (SOP updated to include PEP integration). | Scope and contract review
+27   | 9.2.070 – Conduct Site Visit | Identify site-specific hazards | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Management Directives – PPE mandatory; Field Leadership objectives (quality/s... | ✔ Covered | No change required. | Scope and contract review
+28   | 9.2.070 – Conduct Site Visit | Review manpower/logistics implications | General Superintendent | (empty) | (empty) | (empty) | (empty) | Management Directives – Pre-planning with PM | ✔ Covered | No change required. | Scope and contract review
+29   | 9.2.055 – Compare Est. vs. Planned | Provide bid documentation | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating (bid package review) | ✔ Covered | No change required. | Budget preparation
+30   | 9.2.055 – Compare Est. vs. Planned | Compare assumptions vs. execution plan | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (job plan updates) | ✔ Covered | No change required. | Budget preparation
+31   | 9.2.055 – Compare Est. vs. Planned | Validate manpower implications | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS (workforce oversight) | ✔ Covered | No change required. | Budget preparation
+32   | 9.2.055 – Compare Est. vs. Planned | Validate budget alignment | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt (budget alignment) | ✔ Covered | No change required. | Budget preparation
+33   | 9.2.057 – VE & Prefab | Facilitate identification of VE/prefab opportunities | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (prefabrication planning) | ✔ Covered | No change required. | Buyout process
+34   | 9.2.057 – VE & Prefab | Develop prefab strategy sheet | Prefabrication Lead | (empty) | (empty) | (empty) | (empty) | Sec. 7.3.7 Prefab JD (prefab strategy) | ✔ Covered | No change required. | Buyout process
+35   | 9.2.057 – VE & Prefab | Validate constructability/feasibility | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (field feasibility) | ✔ Covered | No change required. | Buyout process
+36   | 9.2.057 – VE & Prefab | Confirm VE proposals align with budget | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating (VE options) | ✔ Covered | No change required. | Buyout process
+37   | 9.2.057 – VE & Prefab | Record opportunities in VE log | Project Manager | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – VE log not required | Add VE log requirement in Sec. 9.5. | Buyout process
+38   | 9.1.050 – Construction Takeoff | Generate detailed material/labor quantities | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (buyout planning) | ✔ Covered | No change required. | Buyout process
+39   | 9.1.050 – Construction Takeoff | Provide bid takeoff for reference | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating (bid takeoff) | ✔ Covered | No change required. | Buyout process
+40   | 9.1.050 – Construction Takeoff | Review constructability & logistics accuracy | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (constructability review) | ✔ Covered | No change required. | Buyout process
+41   | 9.1.050 – Construction Takeoff | Use results for vendor negotiations & procurement | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing (pre-buyout procurement) | ✔ Covered | No change required. | Buyout process
+42   | 9.1.050 – Construction Takeoff | Finalize & upload takeoff results | Project Manager | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – upload requirement | Add takeoff upload requirement to Sec. 9.5. | Buyout process
+43   | 9.2.020 – Procurement of Large Feeder Wire | Prepare BOM & conduit/wire pull schedule | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (procurement planning); Sec. 9.16 Purchasing | ✔ Covered | No change required. | Buyout process
+44   | 9.2.020 – Procurement of Large Feeder Wire | Validate lengths and reel assignments | Foreman / Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (materials validation) | ✔ Covered | No change required. | Buyout process
+45   | 9.2.020 – Procurement of Large Feeder Wire | Confirm manpower/logistics feasibility | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS (manpower coordination) | ✔ Covered | No change required. | Buyout process
+46   | 9.2.020 – Procurement of Large Feeder Wire | Approve submittals before release | Project Manager | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – submittal approval requirement | Add to Sec. 9.5: PM must verify submittals before release. | Buyout process
+47   | 9.2.080 – Material Handling Plan | Develop logistics plan for delivery/staging | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (staging/logistics) | ✔ Covered | No change required. | Material handling plan
+48   | 9.2.080 – Material Handling Plan | Align with procurement & project schedule | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (logistics, procurement alignment) | ✔ Covered | No change required. | Material handling plan
+49   | 9.2.080 – Material Handling Plan | Review safety compliance of handling plan | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD (safety review) | ✔ Covered | No change required. | Material handling plan
+50   | 9.2.090 – Develop Labor Budget | Develop detailed labor forecast | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (labor planning) | ✔ Covered | No change required. | Budget preparation
+51   | 9.2.090 – Develop Labor Budget | Validate manpower feasibility | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS (workforce oversight) | ✔ Covered | No change required. | Budget preparation
+52   | 9.2.090 – Develop Labor Budget | Provide labor assumptions from bid | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating (labor assumptions) | ✔ Covered | No change required. | Budget preparation
+53   | 9.2.090 – Develop Labor Budget | Approve labor budget | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt (budget oversight) | ✔ Covered | No change required. | Budget preparation
+54   | 9.2.100 – Layout & Sequencing Plan | Develop sequencing plan & integrate into PEP | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (planning, scheduling) | ✔ Covered | No change required. | Layout and sequencing plan
+55   | 9.2.100 – Layout & Sequencing Plan | Review constructability & sequencing feasibility | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Layout and sequencing plan
+56   | 9.2.100 – Layout & Sequencing Plan | Confirm manpower allocations & critical path | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Layout and sequencing plan
+57   | 9.2.100 – Layout & Sequencing Plan | Identify safety risks in layout/sequencing | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Layout and sequencing plan
+58   | 9.2.110 – Develop Project Schedule | Develop baseline schedule | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (schedule ownership) | ✔ Covered | No change required. | Schedule development
+59   | 9.2.110 – Develop Project Schedule | Validate manpower phasing feasibility | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Schedule development
+60   | 9.2.110 – Develop Project Schedule | Confirm long-lead procurement dates | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing | ✔ Covered | No change required. | Schedule development
+61   | 9.2.110 – Develop Project Schedule | Approve baseline schedule | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Schedule development
+62   | 9.2.120 – Tracking & Control Systems | Establish tracking templates/logs | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (reporting systems) | ✔ Covered | No change required. | Tracking and control
+63   | 9.2.120 – Tracking & Control Systems | Report daily manpower/progress | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Tracking and control
+64   | 9.2.120 – Tracking & Control Systems | Maintain procurement log | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing | ✔ Covered | No change required. | Tracking and control
+65   | 9.2.120 – Tracking & Control Systems | Submit safety inspection reports | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Tracking and control
+66   | 9.2.120 – Tracking & Control Systems | Review weekly reports | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Tracking and control
+67   | 9.2.130 – Kickoff Meeting | Organize & lead kickoff | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (turnover/kickoff) | ✔ Covered | No change required. | Construction execution kickoff meeting
+68   | 9.2.130 – Kickoff Meeting | Confirm manpower/sequence feasibility | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Construction execution kickoff meeting
+69   | 9.2.130 – Kickoff Meeting | Review site logistics | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Construction execution kickoff meeting
+70   | 9.2.130 – Kickoff Meeting | Provide procurement/delivery updates | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing | ✔ Covered | No change required. | Construction execution kickoff meeting
+71   | 9.2.130 – Kickoff Meeting | Present safety plan | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Construction execution kickoff meeting
+72   | 9.2.130 – Kickoff Meeting | Provide branch-level oversight | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Construction execution kickoff meeting
+73   | 9.3.010 – Office Trailer | Secure trailer & utilities setup | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (site mobilization) | ✔ Covered | No change required. | Mobilization
+74   | 9.3.010 – Office Trailer | Setup furniture & documentation systems | Site Administrator | (empty) | (empty) | (empty) | (empty) | Sec. 7.4 Business Admin JD | ✔ Covered | No change required. | Mobilization
+75   | 9.3.010 – Office Trailer | Confirm location/logistics feasibility | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Mobilization
+76   | 9.3.010 – Office Trailer | Ensure phone/internet operational | IT/Communications | (empty) | (empty) | (empty) | (empty) | Sec. 7.4 Business Admin JD (IT) | ✔ Covered | No change required. | Mobilization
+77   | 9.3.020 – Storage Trailer | Approve trailer placement | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (site mobilization) | ✔ Covered | No change required. | Mobilization
+78   | 9.3.020 – Storage Trailer | Setup shelving & inventory control | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+79   | 9.3.020 – Storage Trailer | Verify compliance with fire/access standards | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+80   | 9.3.030 – Fencing & Access Control | Approve fencing & access plan | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (site mobilization) | ✔ Covered | No change required. | Mobilization
+81   | 9.3.030 – Fencing & Access Control | Oversee fence/gate installation | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+82   | 9.3.030 – Fencing & Access Control | Verify safety compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+83   | 9.3.030 – Fencing & Access Control | Monitor access control | Security Personnel | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – role not formalized | Add security monitoring responsibility to Sec. 9.5. | Mobilization
+84   | 9.3.040 – Setup Temporary Power | Coordinate power requirements with utility/owner | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (mobilization) | ✔ Covered | No change required. | Mobilization
+85   | 9.3.040 – Setup Temporary Power | Oversee installation & verify distribution | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+86   | 9.3.040 – Setup Temporary Power | Install panels/wiring/grounding | Electrical Subcontractor | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – subcontractor role not formalized | Add subcontractor accountability to Sec. 9.5. | Mobilization
+87   | 9.3.040 – Setup Temporary Power | Verify OSHA/NEC compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+88   | 9.3.050 – Setup Temporary Water | Coordinate utility connection | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (mobilization) | ✔ Covered | No change required. | Mobilization
+89   | 9.3.050 – Setup Temporary Water | Oversee installation/distribution | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+90   | 9.3.050 – Setup Temporary Water | Verify safety/environmental compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+91   | 9.3.060 – Setup Sanitary Facilities | Contract vendors for sanitary facilities | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (mobilization) | ✔ Covered | No change required. | Mobilization
+92   | 9.3.060 – Setup Sanitary Facilities | Determine placement & logistics | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+93   | 9.3.060 – Setup Sanitary Facilities | Maintain inspection log | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+94   | 9.3.070 – Setup Temporary Lighting | Approve lighting plan & budget | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Mobilization
+95   | 9.3.070 – Setup Temporary Lighting | Oversee installation & verify coverage | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+96   | 9.3.070 – Setup Temporary Lighting | Install temporary lighting | Electrical Subcontractor | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – subcontractor role not formalized | Add subcontractor accountability to Sec. 9.5. | Mobilization
+97   | 9.3.070 – Setup Temporary Lighting | Inspect OSHA compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+98   | 9.3.080 – Setup Signage | Determine signage requirements | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Mobilization
+99   | 9.3.080 – Setup Signage | Install signage | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+100  | 9.3.080 – Setup Signage | Ensure OSHA compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+101  | 9.3.090 – Setup Security | Approve security plan & vendors | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Mobilization
+102  | 9.3.090 – Setup Security | Implement physical security | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+103  | 9.3.090 – Setup Security | Daily monitoring of access points | Security Personnel | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – security personnel not formalized | Add security responsibilities to Sec. 9.5. | Mobilization
+104  | 9.3.090 – Setup Security | Ensure plan aligns with safety | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+105  | 9.3.100 – Setup Laydown Area | Approve laydown area location | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Mobilization
+106  | 9.3.100 – Setup Laydown Area | Setup & manage laydown area | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+107  | 9.3.100 – Setup Laydown Area | Verify safety compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+108  | 9.3.110 – Setup Equipment Staging | Approve staging location | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Mobilization
+109  | 9.3.110 – Setup Equipment Staging | Direct equipment setup | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+110  | 9.3.110 – Setup Equipment Staging | Position equipment safely | Equipment Operators | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – equipment operator role not formalized | Add operator role into mobilization directive. | Mobilization
+111  | 9.3.110 – Setup Equipment Staging | Verify OSHA compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+112  | 9.3.120 – Setup Parking | Approve parking plan | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Mobilization
+113  | 9.3.120 – Setup Parking | Establish parking areas | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Mobilization
+114  | 9.3.120 – Setup Parking | Verify traffic safety compliance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Mobilization
+115  | 9.4.010 – Coordination Meetings | Schedule & chair coordination meetings | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Coordination
+116  | 9.4.010 – Coordination Meetings | Provide field updates & issues | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Coordination
+117  | 9.4.010 – Coordination Meetings | Record minutes & action items | Site Administrator | (empty) | (empty) | (empty) | (empty) | Sec. 7.4 Business Admin JD | ✔ Covered | No change required. | Coordination
+118  | 9.4.010 – Coordination Meetings | Provide design clarifications | Design Team / Consultants | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap – design consultant role not formalized | Add consultant clarification role to Sec. 9.5. | Coordination
+119  | 9.4.020 – Subcontractor Meetings | Prepare and distribute subcontractor agenda | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (coordination) | ✔ Covered | No change required. | Coordination
+120  | 9.4.020 – Subcontractor Meetings | Provide progress/manpower updates | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add subcontractor reporting requirements. | Coordination
+121  | 9.4.020 – Subcontractor Meetings | Report logistics needs | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Coordination
+122  | 9.4.020 – Subcontractor Meetings | Review safety performance | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+123  | 9.4.030 – Client Meetings | Lead client/owner meetings | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Coordination
+124  | 9.4.030 – Client Meetings | Provide executive oversight | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Coordination
+125  | 9.4.030 – Client Meetings | Approve changes/raise concerns | Client/Owner | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Owner role external to GSL; clarify interface protocols. | Coordination
+126  | 9.4.040 – Safety Meetings | Prepare/lead safety meetings | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+127  | 9.4.040 – Safety Meetings | Ensure scheduling and attendance | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+128  | 9.4.040 – Safety Meetings | Reinforce safety in daily huddles | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+129  | 9.4.040 – Safety Meetings | Participate in meetings | All Employees | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Include participation expectation in JD handbook. | Safety Management
+130  | 9.4.050 – Prefab Meetings | Schedule/facilitate prefab meetings | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Coordination
+131  | 9.4.050 – Prefab Meetings | Provide prefab schedules/deliverables | Prefab Lead | (empty) | (empty) | (empty) | (empty) | Sec. 7.3.7 Prefab JD | ✔ Covered | No change required. | Coordination
+132  | 9.4.050 – Prefab Meetings | Validate constructability feasibility | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Coordination
+133  | 9.4.050 – Prefab Meetings | Confirm manpower sequencing | General Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Labor Management
+134  | 9.4.060 – Quality Meetings | Schedule/facilitate meetings, track actions | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Quality Control
+135  | 9.4.060 – Quality Meetings | Report quality issues | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Quality Control
+136  | 9.4.060 – Quality Meetings | Review quality inspections | Quality Inspector | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Add inspector responsibilities into QA directive. | Quality Control
+137  | 9.4.060 – Quality Meetings | Confirm overlap with safety | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+138  | 9.5.010 – Commissioning Meetings | Schedule/facilitate commissioning | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Coordination
+139  | 9.5.010 – Commissioning Meetings | Define testing requirements | Commissioning Agent | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Add commissioning agent scope reference. | Quality Control
+140  | 9.5.010 – Commissioning Meetings | Provide documentation/manpower | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Add subcontractor commissioning duties. | Coordination
+141  | 9.5.010 – Commissioning Meetings | Ensure commissioning compliance | Quality Inspector | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Add QA/QC commissioning accountability. | Quality Control
+142  | 9.6.010 – Closeout Meetings | Schedule and lead closeout meeting | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Project Closeout
+143  | 9.6.010 – Closeout Meetings | Verify completion of punch list | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Project Closeout
+144  | 9.6.010 – Closeout Meetings | Submit closeout docs | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Include subcontractor closeout requirements. | Project Closeout
+145  | 9.6.010 – Closeout Meetings | Confirm acceptance of deliverables | Client/Owner | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Owner external – clarify acceptance protocols. | Project Closeout
+146  | 9.4.190 – Document Filing Standards | Set up project folder structure using the standard template (Procore + Windows). | Site Administrator | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+147  | 9.4.190 – Document Filing Standards | Apply file/folder naming conventions and character rules consistently. | Project Engineer / APM | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+148  | 9.4.190 – Document Filing Standards | File incoming/outgoing project documents to the correct system and folder (by... | Field Foreman | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+149  | 9.4.190 – Document Filing Standards | Maintain version control: keep current docs current and move superseded versi... | Site Administrator | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+150  | 9.4.190 – Document Filing Standards | Issue updated drawings/submittals to field and confirm latest versions are ac... | Project Manager | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+151  | 9.4.190 – Document Filing Standards | Perform periodic audits of folder structure and fix noncompliance (weekly/mon... | Branch Manager | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+152  | 9.4.190 – Document Filing Standards | At closeout, compile and archive the final documentation package per closeout... | Project Manager | (empty) | (empty) | (empty) | (empty) | Project Closeout | ✔ Covered | (empty) | Documentation Management
+153  | 9.4.195 – Documentation System | Ensure compliance with filing standards | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Documentation Management
+154  | 9.4.195 – Documentation System | Organize folders & verify consistency | Site Administrator | (empty) | (empty) | (empty) | (empty) | Sec. 7.4 Business Admin JD | ✔ Covered | No change required. | Documentation Management
+155  | 9.4.195 – Documentation System | Audit system compliance | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Documentation Management
+156  | 9.4.200 – Submittals | Prepare submittal log & ensure timely submissions | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Documentation Management
+157  | 9.4.200 – Submittals | Coordinate vendor submittals | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing | ✔ Covered | No change required. | Documentation Management
+158  | 9.4.200 – Submittals | Provide shop drawings/product data | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not in directives | ⚠ Gap | Add subcontractor submittal duties. | Documentation Management
+159  | 9.4.300 – A/E Communications | Issue RFIs and receive design clarifications | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Communication
+160  | 9.4.300 – A/E Communications | Identify conflicts and escalate | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Communication
+161  | 9.4.300 – A/E Communications | Log A/E communications | Site Administrator | (empty) | (empty) | (empty) | (empty) | Sec. 7.4 Business Admin JD | ✔ Covered | No change required. | Documentation Management
+162  | 9.4.310 – GC Communications | Lead communications with GC | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Communication
+163  | 9.4.310 – GC Communications | Escalate field directives | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Communication
+164  | 9.4.310 – GC Communications | Log GC correspondence | Site Administrator | (empty) | (empty) | (empty) | (empty) | Sec. 7.4 Business Admin JD | ✔ Covered | No change required. | Documentation Management
+165  | 9.4.315 – Develop Project Schedule | Develop baseline schedule | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+166  | 9.4.320 – Update Project Schedule | Update project schedule with progress | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+167  | 9.4.320 – Update Project Schedule | Provide weekly progress | Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Scheduling
+168  | 9.4.325 – Monitor Schedule Performance | Prepare performance reports | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+169  | 9.4.325 – Monitor Schedule Performance | Verify progress in field | Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Labor Management
+170  | 9.4.330 – Recovery Plans | Develop recovery strategies | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+171  | 9.4.330 – Recovery Plans | Approve recovery plans | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control
+172  | 9.4.335 – Lookahead Schedules | Prepare weekly lookaheads | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+173  | 9.4.335 – Lookahead Schedules | Confirm sequencing | Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Labor Management
+174  | 9.4.335 – Lookahead Schedules | Use lookahead for crew planning | Field Foreman | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Labor Management
+175  | 9.4.340 – Resource-Loaded Schedules | Integrate resources into schedule | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+176  | 9.4.340 – Resource-Loaded Schedules | Confirm resource availability | Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Labor Management
+177  | 9.4.340 – Resource-Loaded Schedules | Review resource forecasts | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Materials Management
+178  | 9.4.345 – Schedule Review Meetings | Prepare agenda and lead meetings | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+179  | 9.4.345 – Schedule Review Meetings | Provide field updates | Superintendent | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS | ✔ Covered | No change required. | Scheduling
+180  | 9.4.345 – Schedule Review Meetings | Confirm crew availability | Field Foreman | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Labor Management
+181  | 9.4.345 – Schedule Review Meetings | Approve mitigation strategies | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Coordination
+182  | 9.4.205 – RFIs | Subcontractors required to draft/support RFIs | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add subcontractor RFI responsibilities to directives. | Scope & Change Control
+183  | 9.4.210 – Meeting Minutes | Minutes responsibility clarity | Site Administrator | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Explicitly assign Site Admin responsibility for meeting minutes. | Communication
+184  | 9.4.215 – Daily Reports | Foremen/Subcontractors required to submit daily reports | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add subcontractor daily report requirement. | Labor Management
+185  | 9.4.220 – Drawing Logs | Subcontractors to submit updated drawings | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add subcontractor drawing log submission. | Documentation Management
+186  | 9.4.225 – Specifications | Subcontractor input on spec compliance | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Require subcontractor compliance review of specs. | Documentation Management
+187  | 9.4.230 – Correspondence | Subcontractors required to provide written correspondence trail | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Include subcontractor correspondence duty. | Communication
+188  | 9.4.235 – Permits | Authority responsibility for inspections | Regulatory Authorities | (empty) | (empty) | (empty) | (empty) | External role | ⚠ Gap | Clarify external agency responsibility protocol. | Safety Management
+189  | 9.4.240 – Inspections | Subcontractors must close open deficiencies | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add subcontractor inspection compliance duties. | Quality Control
+190  | 9.6.020 – Punch Lists | Subcontractors provide completion evidence | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add subcontractor punch list responsibilities. | Project Closeout
+191  | 9.4.315 – Develop Schedule | Superintendent role not explicit in directives | Superintendent | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Clarify Superintendent role in directive 9.4 for schedule input. | Scheduling
+192  | 9.4.330 – Recovery Plans | Superintendent adjustments not explicit | Superintendent | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Superintendent labor/equipment adjustment duties. | Scheduling
+193  | 9.4.340 – Resource-Loaded | Foreman role missing for crew-level validation | Field Foreman | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Foreman resource feedback duty. | Labor Management
+194  | 9.4.345 – Schedule Review Meetings | Consultant participation not explicit | Consultants | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add consultant role in review meetings if applicable. | Coordination
+195  | 9.4.350 – Schedule Change Requests | Review schedule change requests | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scheduling
+196  | 9.4.350 – Schedule Change Requests | Approve/reject requests | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Scheduling
+197  | 9.4.350 – Schedule Change Requests | Log requests | Site Administrator | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Site Admin duty to maintain change request log. | Documentation Management
+198  | 9.4.355 – Project Scope | Define and control project scope | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+199  | 9.4.355 – Project Scope | Approve scope adjustments | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Scope & Change Control
+200  | 9.4.360 – Change Orders | Prepare CO documentation | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+201  | 9.4.360 – Change Orders | Review CO costs | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating | ✔ Covered | No change required. | Cost Control & Billing
+202  | 9.4.360 – Change Orders | Approve COs before submission | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Scope & Change Control
+203  | 9.4.360 – Change Orders | Maintain CO log | Site Administrator | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Site Admin duty for CO logs. | Documentation Management
+204  | 9.4.365 – PCOs | Identify and document potential COs | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+205  | 9.4.365 – PCOs | Provide cost backup | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating | ✔ Covered | No change required. | Cost Control & Billing
+206  | 9.4.370 – Owner Directives | Implement and log directives | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+207  | 9.4.370 – Owner Directives | Review directives for cost/schedule impact | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Scope & Change Control
+208  | 9.4.375 – Scope Clarifications | Identify and clarify scope gaps | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+209  | 9.4.375 – Scope Clarifications | Provide bid data for clarifications | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating | ✔ Covered | No change required. | Scope & Change Control
+210  | 9.4.380 – Backcharges | Approve backcharges | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+211  | 9.4.380 – Backcharges | Process financial impacts | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty for backcharge tracking. | Cost Control & Billing
+212  | 9.4.385 – Force Account Work | Authorize force account work | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+213  | 9.4.385 – Force Account Work | Track labor/equipment/materials | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Labor Management
+214  | 9.4.385 – Force Account Work | Process billing | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add explicit Accounting duty for force account billing. | Cost Control & Billing
+215  | 9.4.385 – Force Account Work | File and log records | Site Administrator | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Site Admin duty for FA logs. | Documentation Management
+216  | 9.4.390 – Claims | Identify/prepare claims | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Scope & Change Control
+217  | 9.4.390 – Claims | Provide cost/time analysis | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating | ✔ Covered | No change required. | Cost Control & Billing
+218  | 9.4.390 – Claims | Approve claims | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Scope & Change Control
+219  | 9.4.390 – Claims | Assist with disputes | Legal Counsel | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Legal Counsel advisory role. | Scope & Change Control
+220  | 9.4.390 – Claims | Maintain claim log | Site Administrator | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Site Admin duty for claim logs. | Documentation Management
+221  | 9.2.140 – Project Budget | Prepare project budget | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+222  | 9.2.140 – Project Budget | Provide bid/estimate backup | Estimator | (empty) | (empty) | (empty) | (empty) | Sec. 9.7 Estimating | ✔ Covered | No change required. | Cost Control & Billing
+223  | 9.2.140 – Project Budget | Review/input budget | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to record project budget. | Cost Control & Billing
+224  | 9.2.140 – Project Budget | Approve budget | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+225  | 9.4.400 – Monitor Project Costs | Monitor project costs vs. budget | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+226  | 9.4.400 – Monitor Project Costs | Validate cost reports | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+227  | 9.4.400 – Monitor Project Costs | Maintain detailed cost tracking | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add explicit Accounting duty for cost monitoring. | Cost Control & Billing
+228  | 9.4.405 – Manage Cost Forecasts | Prepare updated cost forecasts | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+229  | 9.4.405 – Manage Cost Forecasts | Provide backup and adjustments | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting responsibility for forecast inputs. | Cost Control & Billing
+230  | 9.4.410 – Manage Cost Codes | Assign and maintain cost codes | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+231  | 9.4.410 – Manage Cost Codes | Ensure alignment with company standards | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to align cost codes with financial systems. | Cost Control & Billing
+232  | 9.4.415 – Manage Committed Costs | Review purchase orders & contracts | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Materials Management
+233  | 9.4.415 – Manage Committed Costs | Approve commitments | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+234  | 9.4.415 – Manage Committed Costs | Maintain records | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add explicit Accounting duty for committed cost records. | Cost Control & Billing
+235  | 9.4.420 – Manage Actual Costs | Track invoices and payroll | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add explicit Accounting role for actual costs. | Cost Control & Billing
+236  | 9.4.420 – Manage Actual Costs | Validate costs against budget | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+237  | 9.4.425 – Manage Job Cost Reports | Prepare monthly job cost reports | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+238  | 9.4.425 – Manage Job Cost Reports | Validate reports | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+239  | 9.4.425 – Manage Job Cost Reports | Provide accounting input | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty for job cost reports. | Cost Control & Billing
+240  | 9.4.430 – Manage Profit Projections | Prepare profit projections | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+241  | 9.4.430 – Manage Profit Projections | Review projections | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+242  | 9.4.430 – Manage Profit Projections | Verify financial data | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to verify data for projections. | Cost Control & Billing
+243  | 9.4.435 – Manage Cost-to-Complete | Update cost-to-complete projections | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+244  | 9.4.435 – Manage Cost-to-Complete | Validate projections | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+245  | 9.4.435 – Manage Cost-to-Complete | Provide actual data input | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty for actuals in cost-to-complete. | Cost Control & Billing
+246  | 9.4.440 – Prepare Billing Schedule | Prepare billing schedule | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+247  | 9.4.440 – Prepare Billing Schedule | Review billing schedule | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+248  | 9.4.440 – Prepare Billing Schedule | Confirm owner agreement | Client/Owner | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add client approval protocol for billing schedule. | Communication
+249  | 9.4.445 – Monthly Pay Applications | Prepare pay application package | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+250  | 9.4.445 – Monthly Pay Applications | Review and approve pay apps | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+251  | 9.4.445 – Monthly Pay Applications | Provide invoices/payment records | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to provide records for pay apps. | Cost Control & Billing
+252  | 9.4.445 – Monthly Pay Applications | Approve payment | Client/Owner | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add client approval protocol for pay applications. | Communication
+253  | 9.4.450 – Track Accounts Receivable | Track AR aging and follow up on collections | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to maintain AR aging and collections follow-up. | Cost Control & Billing
+254  | 9.4.450 – Track Accounts Receivable | Review AR status and escalate non-payment | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+255  | 9.4.450 – Track Accounts Receivable | Approve escalation actions for delinquent accounts | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+256  | 9.4.455 – Manage Lien Waivers | Collect executed lien waivers from subs/vendors | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Documentation Management
+257  | 9.4.455 – Manage Lien Waivers | Track lien waivers and verify with pay apps | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to track lien waivers with pay apps. | Documentation Management
+258  | 9.4.455 – Manage Lien Waivers | Maintain lien waiver log | Site Administrator | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Assign Site Admin to maintain lien waiver log. | Documentation Management
+259  | 9.4.455 – Manage Lien Waivers | Provide executed lien waivers | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Require subcontractor submission of lien waivers before payment. | Documentation Management
+260  | 9.4.460 – Manage Retainage | Track retainage withheld and prepare release requests | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+261  | 9.4.460 – Manage Retainage | Verify amounts withheld and released | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to verify retainage withheld/released. | Cost Control & Billing
+262  | 9.4.460 – Manage Retainage | Approve final retainage release | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+263  | 9.4.465 – Manage Final Invoicing | Prepare final invoice and ensure supporting docs complete | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Cost Control & Billing
+264  | 9.4.465 – Manage Final Invoicing | Review final invoice and submit for payment | Accounting | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Accounting duty to review and submit final invoice. | Cost Control & Billing
+265  | 9.4.465 – Manage Final Invoicing | Approve final invoice prior to release | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Cost Control & Billing
+266  | 9.4.465 – Manage Final Invoicing | Submit final pay apps and lien waivers | Subcontractors | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Require subcontractor final pay apps and lien waivers. | Cost Control & Billing
+267  | 9.3.470 – Site-Specific Safety Plan | Draft and maintain SSSP | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+268  | 9.3.470 – Site-Specific Safety Plan | Review and approve SSSP | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+269  | 9.3.470 – Site-Specific Safety Plan | Audit SSSP for compliance | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Safety Management
+270  | 9.3.470 – Site-Specific Safety Plan | Implement SSSP in field operations | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+271  | 9.4.475 – Safety Orientation | Conduct orientation sessions and maintain records | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+272  | 9.4.475 – Safety Orientation | Ensure all personnel complete orientation before work | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+273  | 9.4.475 – Safety Orientation | Verify crew participation | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+274  | 9.4.480 – Safety Inspections | Conduct inspections and document findings | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+275  | 9.4.480 – Safety Inspections | Correct hazards identified during inspections | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+276  | 9.4.480 – Safety Inspections | Review reports and ensure corrective action | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+277  | 9.4.480 – Safety Inspections | Audit safety inspection process | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Safety Management
+278  | 9.4.485 – Safety Meetings | Prepare agenda and conduct meetings | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+279  | 9.4.485 – Safety Meetings | Ensure meetings are held as scheduled | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+280  | 9.4.485 – Safety Meetings | Reinforce safety policies with crews | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+281  | 9.4.490 – Report Safety Incidents | Complete official incident report and submit | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+282  | 9.4.490 – Report Safety Incidents | Document initial details and notify PM/Safety | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+283  | 9.4.490 – Report Safety Incidents | Review and escalate incidents as required | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+284  | 9.4.490 – Report Safety Incidents | Submit report to Branch Manager within 24 hrs | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+285  | 9.4.495 – Investigate Accidents | Lead investigation and document findings | Safety Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.2.6 JD | ✔ Covered | No change required. | Safety Management
+286  | 9.4.495 – Investigate Accidents | Support investigation and implement corrective actions | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM | ✔ Covered | No change required. | Safety Management
+287  | 9.4.495 – Investigate Accidents | Provide incident details and ensure crew cooperation | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership | ✔ Covered | No change required. | Safety Management
+288  | 9.4.495 – Investigate Accidents | Review investigation and approve corrective measures | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt | ✔ Covered | No change required. | Safety Management
+289  | 9.4.495 – Investigate Accidents | Advise on legal implications as needed | Legal Counsel | (empty) | (empty) | (empty) | (empty) | Not explicit in directives | ⚠ Gap | Add Legal Counsel advisory role in accident investigations. | Safety Management
+290  | 9.6.070 – Conduct Post-Project Review | Schedule post-project review and invite project and branch stakeholders. | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (project closeout) | ⚠ Gap – formal review meeting not defined | Add explicit requirement for a post-project review meeting in Sec. 9.5 PM clo... | Project Closeout
+291  | 9.6.070 – Conduct Post-Project Review | Prepare performance data (safety, schedule, cost, quality) and project docume... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (job monitoring and reporting) | ✔ Covered | No change required. | Project Closeout
+292  | 9.6.070 – Conduct Post-Project Review | Lead review discussion of outcomes, successes, and improvement opportunities. | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt (operations oversight) | ✔ Covered | No change required. | Project Closeout
+293  | 9.6.070 – Conduct Post-Project Review | Document post-project review outcomes in a summary report and file per SOP 9.... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (project documentation); SOP 9.4.190 | ✔ Covered | No change required. | Project Closeout
+294  | 9.6.080 – Capture Client Feedback | Issue client feedback survey and/or interview request at project completion. | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (client relations at closeout) | ⚠ Gap – structured client feedback not defined | Amend Sec. 9.5 PM to require a standard client feedback survey or interview a... | Project Closeout
+295  | 9.6.080 – Capture Client Feedback | Conduct client feedback interview and clarify satisfaction, issues, and impro... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (client relations at closeout) | ⚠ Gap – formal closeout interview not specified | Clarify in Sec. 9.5 PM that PM should conduct a closeout feedback interview w... | Project Closeout
+296  | 9.6.080 – Capture Client Feedback | Review client feedback, prepare summary, and share with Branch Manager and Bu... | Business Development | (empty) | (empty) | (empty) | (empty) | Business Development directives (client relationship management) | ⚠ Gap – BD feedback handling not documented | Create or update BD directives to assign responsibility for analyzing client ... | Project Closeout
+297  | 9.6.080 – Capture Client Feedback | Approve client feedback summary and incorporate into branch/market strategy. | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt (client relations and quality) | ✔ Covered | No change required. | Project Closeout
+298  | 9.6.085 – Document Lessons Learned | Collect lessons learned input from project team, subcontractors, and stakehol... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (project closeout and improvement) | ⚠ Gap – structured lessons-learned process not defined | Add requirement in Sec. 9.5 PM for the PM to gather lessons learned at projec... | Project Closeout
+299  | 9.6.085 – Document Lessons Learned | Review and validate lessons learned for accuracy, risk, and applicability. | Branch Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.6 Branch Mgmt (operations oversight) | ✔ Covered | No change required. | Project Closeout
+300  | 9.6.085 – Document Lessons Learned | Enter approved lessons learned into the company knowledge base or tracking sy... | Quality Coordinator | (empty) | (empty) | (empty) | (empty) | Quality / continuous improvement directives | ⚠ Gap – knowledge base ownership not documented | Create or update Quality/CI directives assigning responsibility for maintaini... | Project Closeout
+301  | 9.6.085 – Document Lessons Learned | Share key lessons learned with future project teams and leadership forums. | Quality Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 7.3 Operations Office Positions (knowledge sharing expectations) | ⚠ Gap – formal lessons sharing mechanism not defined | Define standard channels (PM meetings, training, communications) for distribu... | Project Closeout
+302  | 9.5.010 – Handling and/or Disposing of Excess Materials | Use 3-week lookahead to plan and request materials and order roughly 1–3 week... | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (pre-planning) | ⚠ Gap – explicit 3-week material planning not defined | Add guidance in Sec. 9.3 Field Leadership to use the 3-week lookahead to plan... | Materials Management
+303  | 9.5.010 – Handling and/or Disposing of Excess Materials | Maintain defined, labeled storage areas and perform weekly material walks to ... | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (staging/logistics) | ✔ Covered | No change required. | Materials Management
+304  | 9.5.010 – Handling and/or Disposing of Excess Materials | At demob/closeout, identify and stage excess materials, restore shelf conditi... | Field Supervisor | (empty) | (empty) | (empty) | (empty) | Sec. 9.3 Field Leadership (demobilization and closeout) | ⚠ Gap – systematic excess identification at closeout not defined | Add language in Sec. 9.3 Field Leadership requiring field leadership to ident... | Materials Management
+305  | 9.5.010 – Handling and/or Disposing of Excess Materials | Approve the material release and excess-material handling strategy using Opti... | Project Manager | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 PM (project closeout and improvement) | ✔ Covered | No change required. | Materials Management
+306  | 9.5.010 – Handling and/or Disposing of Excess Materials | Confirm vendor return rules and costs and assist PM in selecting the most cos... | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.16 Purchasing (vendor terms and returns) | ✔ Covered | No change required. | Materials Management
+307  | 9.5.010 – Handling and/or Disposing of Excess Materials | Accept only materials likely to be used within 6 months into the shop/warehou... | Shop/Warehouse | (empty) | (empty) | (empty) | (empty) | Sec. 7.3 Operations Office Positions (shop/warehouse expectations) | ⚠ Gap – warehouse acceptance rules not documented | Clarify in Sec. 7.3 Operations Office Positions that shop/warehouse will only... | Materials Management
+308  | 9.4.745 – Manage Field Rework | Identify & Log Rework | Foreman | (empty) | (empty) | (empty) | (empty) | Ch.9: Productivity- Foremen and Lead Men shall be accountable... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+309  | 9.4.745 – Manage Field Rework | Classify & Route | QA/QC | (empty) | (empty) | (empty) | (empty) | Ch.9: Changed Work or Changed Conditions – GSL’s Field Leadership... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+310  | 9.4.745 – Manage Field Rework | Authorize & Plan | Project Manager | (empty) | (empty) | (empty) | (empty) | Ch.9: Changed Work or Changed Conditions – GSL’s Field Leadership... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+311  | 9.4.745 – Manage Field Rework | Assign Corrective Work | Foreman | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+312  | 9.4.745 – Manage Field Rework | Execute & Track | Foreman | (empty) | (empty) | (empty) | (empty) | Ch.9: Productivity- Foremen and Lead Men shall be accountable... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+313  | 9.4.745 – Manage Field Rework | Verify & Close | QA/QC | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+314  | 9.4.745 – Manage Field Rework | File & Report | Project Manager | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+315  | 9.2.010 – Team Selection | Confirm early purchasing and prefabrication support needs for precon and mobi... | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Submittals and Purchasing; Sec. 9.5 – Prefabrication | ✔ Covered | (empty) | Precon / Mobilization
+316  | 9.2.010 – Team Selection | Confirm early purchasing and prefabrication support needs for precon and mobi... | Prefab Lead | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Submittals and Purchasing; Sec. 9.5 – Prefabrication | ✔ Covered | (empty) | Precon / Mobilization
+317  | 9.2.010 – Team Selection | Confirm early purchasing and prefabrication support needs for precon and mobi... | Purchasing | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Submittals and Purchasing; Sec. 9.5 – Prefabrication | ✔ Covered | (empty) | Precon / Mobilization
+318  | 9.2.010 – Team Selection | Confirm required attendees (BM, PM, GS, Foreman, Contract Manager and key sup... | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Project Turnover Meetings; Sec. 9.13 – Project Turnover Meetings –... | ✔ Covered | (empty) | Precon / Mobilization
+319  | 9.2.010 – Team Selection | Confirm safety coverage requirements based on project risk profile. | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Field Leadership and Manpower Requirements | ✔ Covered | (empty) | Precon / Mobilization
+320  | 9.2.010 – Team Selection | Confirm safety coverage requirements based on project risk profile. | Safety | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Field Leadership and Manpower Requirements | ✔ Covered | (empty) | Precon / Mobilization
+321  | 9.2.010 – Team Selection | Finalize staffing plan with assigned names, responsibilities, and start dates. | PM | (empty) | (empty) | (empty) | (empty) | Sec. 7.3.1 – Project Manager – Essential Job Functions | ✔ Covered | (empty) | Precon / Mobilization
+322  | 9.2.010 – Team Selection | GS assigns field supervisors | GS | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS (manpower assignment) | ✔ Covered | No change required. | Team selection and turnover
+323  | 9.2.010 – Team Selection | GS assigns field supervisors | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 GS (manpower assignment) | ✔ Covered | No change required. | Team selection and turnover
+324  | 9.2.010 – Team Selection | Revalidate and update staffing plan when material scope/schedule/contract cha... | GS | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Contract Changes; Sec. 9.13 – Upon receipt of any new documents… n... | ✔ Covered | (empty) | Precon / Mobilization
+325  | 9.2.010 – Team Selection | Revalidate and update staffing plan when material scope/schedule/contract cha... | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Contract Changes; Sec. 9.13 – Upon receipt of any new documents… n... | ✔ Covered | (empty) | Precon / Mobilization
+326  | 9.2.010 – Team Selection | Review award documents, scope, schedule, and risk profile; define required ro... | PM | (empty) | (empty) | (empty) | (empty) | Sec. 7.3.1 – Project Manager – Essential Job Functions; Sec. 9.5 – Project Pr... | ✔ Covered | (empty) | Precon / Mobilization
+327  | 9.2.010 – Team Selection | Schedule Project Turnover Meeting per SOP 9.2.015 and send invite to all assi... | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Project Turnover Meetings; Sec. 9.13 – Project Turnover Meetings –... | ✔ Covered | (empty) | Precon / Mobilization
+328  | 9.2.010 – Team Selection | Submit draft Project Staffing Plan for BM/Biz Mgr review and approval; resolv... | BM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Field Leadership and Manpower Requirements; Sec. 9.13 – GSL Electr... | ✔ Covered | (empty) | Precon / Mobilization
+329  | 9.2.010 – Team Selection | Submit draft Project Staffing Plan for BM/Biz Mgr review and approval; resolv... | Biz Mgr | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Field Leadership and Manpower Requirements; Sec. 9.13 – GSL Electr... | ✔ Covered | (empty) | Precon / Mobilization
+330  | 9.2.010 – Team Selection | Update Manpower Projections in Workforce Planning software consistent with st... | GS | (empty) | (empty) | (empty) | (empty) | Sec. 9.4 – Update Manpower Projections each week through Workforce Planning s... | ✔ Covered | (empty) | Precon / Mobilization
+331  | 9.2.010 – Team Selection | Upload staffing plan to the project folder and distribute to assigned team me... | PM | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Daily Reports and Project Administration Support (document control... | ⚠ Gap – partial coverage | Consider adding explicit 'Project Staffing Plan uploaded to project folder pr... | Precon / Mobilization
+332  | 9.2.010 – Team Selection | Upload staffing plan to the project folder and distribute to assigned team me... | Project Coordinator | (empty) | (empty) | (empty) | (empty) | Sec. 9.5 – Daily Reports and Project Administration Support (document control... | ⚠ Gap – partial coverage | Consider adding explicit 'Project Staffing Plan uploaded to project folder pr... | Precon / Mobilization
+333  | 9.4.190 – Document Filing Standards | File incoming/outgoing project documents to the correct system and folder (by... | Project Manager | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+334  | 9.4.190 – Document Filing Standards | Perform periodic audits of folder structure and fix noncompliance (weekly/mon... | Site Administrator | (empty) | (empty) | (empty) | (empty) | Document Control – | ✔ Covered | (empty) | Documentation Management
+335  | 9.4.745 – Manage Field Rework | Authorize & Plan | Foreman | (empty) | (empty) | (empty) | (empty) | Ch.9: Changed Work or Changed Conditions – GSL’s Field Leadership... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+336  | 9.4.745 – Manage Field Rework | Classify & Route | APM | (empty) | (empty) | (empty) | (empty) | Ch.9: Changed Work or Changed Conditions – GSL’s Field Leadership... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+337  | 9.4.745 – Manage Field Rework | Classify & Route | Project Engineer | (empty) | (empty) | (empty) | (empty) | Ch.9: Changed Work or Changed Conditions – GSL’s Field Leadership... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+338  | 9.4.745 – Manage Field Rework | Classify & Route | Project Manager | (empty) | (empty) | (empty) | (empty) | Ch.9: Changed Work or Changed Conditions – GSL’s Field Leadership... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+339  | 9.4.745 – Manage Field Rework | Execute & Track | General Superintendent | (empty) | (empty) | (empty) | (empty) | Ch.9: Productivity- Foremen and Lead Men shall be accountable... | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+340  | 9.4.745 – Manage Field Rework | File & Report | APM | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+341  | 9.4.745 – Manage Field Rework | File & Report | Project Engineer | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+342  | 9.4.745 – Manage Field Rework | Verify & Close | QA | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+343  | 9.4.745 – Manage Field Rework | Verify & Close | QC | (empty) | (empty) | (empty) | (empty) | Ch.7 JD (Foreman): Maintain all field records for the projects | ✔ Covered | No change required (SOP rewritten and aligned). | Quality / Rework Management
+
+========================================================================================================================
+SUMMARY STATISTICS
+========================================================================================================================
+Total data rows: 343
+
+RACI Column Population:
+  RACI-R (col D): 0 / 343 rows have data (0.0%)
+  RACI-A (col E): 0 / 343 rows have data (0.0%)
+  RACI-C (col F): 0 / 343 rows have data (0.0%)
+  RACI-I (col G): 0 / 343 rows have data (0.0%)
+
+Coverage Status Distribution:
+  ✔ Covered: 261 (76.1%)
+  ⚠ Gap: 50 (14.6%)
+  ⚠ Gap – subcontractor role not formalized: 2 (0.6%)
+  ⚠ Gap – partial coverage: 2 (0.6%)
+  ⚠ Gap – approval not explicit: 1 (0.3%)
+  ⚠ Gap – advisory role not explicit: 1 (0.3%)
+  ⚠ Gap – agenda/minutes not required: 1 (0.3%)
+  ⚠ Gap – feeder log use not explicit: 1 (0.3%)
+  ⚠ Gap – competitive quote documentation not explicit: 1 (0.3%)
+  ⚠ Gap – storage, release, and billing conditions not defined: 1 (0.3%)
+  ⚠ Gap – mitigation plan not explicit: 1 (0.3%)
+  ⚠ Gap – checklist requirement: 1 (0.3%)
+  ⚠ Gap – explicit PEP update not required: 1 (0.3%)
+  ⚠ Gap – PEP update not explicit: 1 (0.3%)
+  ⚠ Gap – escalation step not explicit: 1 (0.3%)
+  ⚠ Gap – VE log not required: 1 (0.3%)
+  ⚠ Gap – upload requirement: 1 (0.3%)
+  ⚠ Gap – submittal approval requirement: 1 (0.3%)
+  ⚠ Gap – role not formalized: 1 (0.3%)
+  ⚠ Gap – security personnel not formalized: 1 (0.3%)
+  ⚠ Gap – equipment operator role not formalized: 1 (0.3%)
+  ⚠ Gap – design consultant role not formalized: 1 (0.3%)
+  ⚠ Gap – formal review meeting not defined: 1 (0.3%)
+  ⚠ Gap – structured client feedback not defined: 1 (0.3%)
+  ⚠ Gap – formal closeout interview not specified: 1 (0.3%)
+  ⚠ Gap – BD feedback handling not documented: 1 (0.3%)
+  ⚠ Gap – structured lessons-learned process not defined: 1 (0.3%)
+  ⚠ Gap – knowledge base ownership not documented: 1 (0.3%)
+  ⚠ Gap – formal lessons sharing mechanism not defined: 1 (0.3%)
+  ⚠ Gap – explicit 3-week material planning not defined: 1 (0.3%)
+  ⚠ Gap – systematic excess identification at closeout not defined: 1 (0.3%)
+  ⚠ Gap – warehouse acceptance rules not documented: 1 (0.3%)
+
+Category Distribution:
+  Cost Control & Billing: 45 (13.1%)
+  Mobilization: 42 (12.2%)
+  Safety Management: 30 (8.7%)
+  Documentation Management: 27 (7.9%)
+  Coordination: 17 (5.0%)
+  Project Closeout: 17 (5.0%)
+  Quality / Rework Management: 16 (4.7%)
+  Precon / Mobilization: 16 (4.7%)
+  Scope and contract review: 15 (4.4%)
+  Materials Management: 14 (4.1%)
+  Buyout process: 14 (4.1%)
+  Scope & Change Control: 14 (4.1%)
+  Scheduling: 13 (3.8%)
+  Team selection and turnover: 9 (2.6%)
+  Labor Management: 9 (2.6%)
+  Budget preparation: 8 (2.3%)
+  Communication: 8 (2.3%)
+  Construction execution kickoff meeting: 6 (1.7%)
+  Quality Control: 6 (1.7%)
+  Tracking and control: 5 (1.5%)
+  Layout and sequencing plan: 4 (1.2%)
+  Schedule development: 4 (1.2%)
+  Material handling plan: 3 (0.9%)
+  Cost Control: 1 (0.3%)

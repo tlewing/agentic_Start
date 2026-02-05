@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?><ct:contentTypeSchema ct:_="" ma:_="" ma:contentTypeName="Document" ma:contentTypeID="0x010100833BF49B810F6D48A71C348926804DAC" ma:contentTypeVersion="3" ma:contentTypeDescription="Create a new document." ma:contentTypeScope="" ma:versionID="de9ab90cf104d307526f13335e1cad4d" xmlns:ct="http://schemas.microsoft.com/office/2006/metadata/contentType" xmlns:ma="http://schemas.microsoft.com/office/2006/metadata/properties/metaAttributes">
+<xsd:schema targetNamespace="http://schemas.microsoft.com/office/2006/metadata/properties" ma:root="true" ma:fieldsID="9a736c461c89975bf2220afb6b7b1878" ns2:_="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:p="http://schemas.microsoft.com/office/2006/metadata/properties" xmlns:ns2="b11c1c0a-1848-4118-b7cf-ce9450f86f68">
+<xsd:import namespace="b11c1c0a-1848-4118-b7cf-ce9450f86f68"/>
+<xsd:element name="properties">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="documentManagement">
+<xsd:complexType>
+<xsd:all>
+<xsd:element ref="ns2:Description" minOccurs="0"/>
+<xsd:element ref="ns2:AssignedDate" minOccurs="0"/>
+<xsd:element ref="ns2:SOPID" minOccurs="0"/>
+<xsd:element ref="ns2:Category_x0028_CCCTag_x0029_" minOccurs="0"/>
+<xsd:element ref="ns2:Roles_x0028_RACI_x0029_" minOccurs="0"/>
+<xsd:element ref="ns2:Status"/>
+<xsd:element ref="ns2:Tags_x002f_Keywords" minOccurs="0"/>
+<xsd:element ref="ns2:Department_x002f_Division" minOccurs="0"/>
+<xsd:element ref="ns2:DocumentType"/>
+<xsd:element ref="ns2:MediaServiceMetadata" minOccurs="0"/>
+<xsd:element ref="ns2:MediaServiceFastMetadata" minOccurs="0"/>
+<xsd:element ref="ns2:MediaServiceSearchProperties" minOccurs="0"/>
+<xsd:element ref="ns2:RelatedSOPs" minOccurs="0"/>
+<xsd:element ref="ns2:LastReviewedDate" minOccurs="0"/>
+<xsd:element ref="ns2:FileLink" minOccurs="0"/>
+<xsd:element ref="ns2:SOPFileName" minOccurs="0"/>
+<xsd:element ref="ns2:Appendix_x003a_" minOccurs="0"/>
+</xsd:all>
+</xsd:complexType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+<xsd:schema targetNamespace="b11c1c0a-1848-4118-b7cf-ce9450f86f68" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dms="http://schemas.microsoft.com/office/2006/documentManagement/types" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls">
+<xsd:import namespace="http://schemas.microsoft.com/office/2006/documentManagement/types"/>
+<xsd:import namespace="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"/>
+<xsd:element name="Description" ma:index="8" nillable="true" ma:displayName="Description" ma:format="Dropdown" ma:internalName="Description" ma:readOnly="false">
+<xsd:simpleType>
+<xsd:restriction base="dms:Note">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="AssignedDate" ma:index="9" nillable="true" ma:displayName="Effective Date" ma:description="Date when SOP becomes active or was last updated." ma:format="DateOnly" ma:internalName="AssignedDate">
+<xsd:simpleType>
+<xsd:restriction base="dms:DateTime"/>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="SOPID" ma:index="10" nillable="true" ma:displayName="SOP ID" ma:description="Unique identifier assigned to each SOP using the format 9.[Phase].[Sequential Number]. Provides a consistent, searchable reference across all documents" ma:format="Dropdown" ma:indexed="true" ma:internalName="SOPID">
+<xsd:simpleType>
+<xsd:restriction base="dms:Text">
+<xsd:maxLength value="20"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="Category_x0028_CCCTag_x0029_" ma:index="11" nillable="true" ma:displayName="Category (CCC Tag)" ma:description="Functional classification code from SOP numbering legend (e.g., 110 Mobilization, 190 Materials Management)." ma:format="Dropdown" ma:internalName="Category_x0028_CCCTag_x0029_">
+<xsd:complexType>
+<xsd:complexContent>
+<xsd:extension base="dms:MultiChoiceFillIn">
+<xsd:sequence>
+<xsd:element name="Value" maxOccurs="unbounded" minOccurs="0" nillable="true">
+<xsd:simpleType>
+<xsd:union memberTypes="dms:Text">
+<xsd:simpleType>
+<xsd:restriction base="dms:Choice">
+<xsd:enumeration value="110 Mobilization"/>
+<xsd:enumeration value="120 Coordination"/>
+<xsd:enumeration value="130 Documentation Mgmt"/>
+<xsd:enumeration value="140 Communication"/>
+<xsd:enumeration value="150 Scheduling"/>
+<xsd:enumeration value="160 Scope &amp; Change Control"/>
+<xsd:enumeration value="165 Accounting"/>
+<xsd:enumeration value="170 Cost Control &amp; Billing"/>
+<xsd:enumeration value="180 Subcontractor Mgmt"/>
+<xsd:enumeration value="190 Materials Mgmt"/>
+<xsd:enumeration value="191 Tools Mgmt"/>
+<xsd:enumeration value="192 Labor Mgmt"/>
+<xsd:enumeration value="193 Safety Mgmt"/>
+<xsd:enumeration value="194 Quality Control"/>
+<xsd:enumeration value="195 Project Closeout"/>
+<xsd:enumeration value="210 Pricing &amp; Cost Control"/>
+<xsd:enumeration value="220 Materials &amp; Installation Planning"/>
+<xsd:enumeration value="230 Submittals"/>
+<xsd:enumeration value="240 Field Involvement/BIM"/>
+<xsd:enumeration value="250 Labor Planning"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:extension>
+</xsd:complexContent>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="Roles_x0028_RACI_x0029_" ma:index="12" nillable="true" ma:displayName="Roles (RACI)" ma:description="Identifies all roles involved in the SOP (Responsible, Accountable, Consulted, Informed)." ma:format="Dropdown" ma:internalName="Roles_x0028_RACI_x0029_">
+<xsd:complexType>
+<xsd:complexContent>
+<xsd:extension base="dms:MultiChoiceFillIn">
+<xsd:sequence>
+<xsd:element name="Value" maxOccurs="unbounded" minOccurs="0" nillable="true">
+<xsd:simpleType>
+<xsd:union memberTypes="dms:Text">
+<xsd:simpleType>
+<xsd:restriction base="dms:Choice">
+<xsd:enumeration value="PM"/>
+<xsd:enumeration value="APM"/>
+<xsd:enumeration value="Foreman"/>
+<xsd:enumeration value="Purchasing"/>
+<xsd:enumeration value="QC"/>
+<xsd:enumeration value="Safety"/>
+<xsd:enumeration value="Prefab Lead"/>
+<xsd:enumeration value="Accounting"/>
+<xsd:enumeration value="Project Coordinator"/>
+<xsd:enumeration value="Branch Manager"/>
+<xsd:enumeration value="Engineer"/>
+<xsd:enumeration value="Scheduler"/>
+<xsd:enumeration value="Business Manager"/>
+<xsd:enumeration value="General Superintendent"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:extension>
+</xsd:complexContent>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="Status" ma:index="13" ma:displayName="Status" ma:default="Draft" ma:description="Indicates document lifecycle status." ma:format="Dropdown" ma:internalName="Status">
+<xsd:simpleType>
+<xsd:restriction base="dms:Choice">
+<xsd:enumeration value="Draft"/>
+<xsd:enumeration value="Under Review"/>
+<xsd:enumeration value="Approved"/>
+<xsd:enumeration value="Retired"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="Tags_x002f_Keywords" ma:index="14" nillable="true" ma:displayName="Tags / Keywords" ma:description="Search keywords to improve discoverability (topics, systems, standards)." ma:format="Dropdown" ma:internalName="Tags_x002f_Keywords">
+<xsd:simpleType>
+<xsd:restriction base="dms:Note"/>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="Department_x002f_Division" ma:index="15" nillable="true" ma:displayName="Department / Division" ma:description="Department or division responsible for the SOP." ma:format="Dropdown" ma:internalName="Department_x002f_Division">
+<xsd:simpleType>
+<xsd:restriction base="dms:Choice">
+<xsd:enumeration value="Operations"/>
+<xsd:enumeration value="Safety"/>
+<xsd:enumeration value="Prefab"/>
+<xsd:enumeration value="Accounting"/>
+<xsd:enumeration value="Engineering"/>
+<xsd:enumeration value="Administration"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="DocumentType" ma:index="16" ma:displayName="Document Type" ma:default="SOP" ma:description="Defines the type of document (SOP, Form, Checklist, Template)." ma:format="Dropdown" ma:internalName="DocumentType">
+<xsd:simpleType>
+<xsd:restriction base="dms:Choice">
+<xsd:enumeration value="SOP"/>
+<xsd:enumeration value="Form"/>
+<xsd:enumeration value="Checklist"/>
+<xsd:enumeration value="Template"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="MediaServiceMetadata" ma:index="17" nillable="true" ma:displayName="MediaServiceMetadata" ma:hidden="true" ma:internalName="MediaServiceMetadata" ma:readOnly="true">
+<xsd:simpleType>
+<xsd:restriction base="dms:Note"/>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="MediaServiceFastMetadata" ma:index="18" nillable="true" ma:displayName="MediaServiceFastMetadata" ma:hidden="true" ma:internalName="MediaServiceFastMetadata" ma:readOnly="true">
+<xsd:simpleType>
+<xsd:restriction base="dms:Note"/>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="MediaServiceSearchProperties" ma:index="19" nillable="true" ma:displayName="MediaServiceSearchProperties" ma:hidden="true" ma:internalName="MediaServiceSearchProperties" ma:readOnly="true">
+<xsd:simpleType>
+<xsd:restriction base="dms:Note"/>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="RelatedSOPs" ma:index="20" nillable="true" ma:displayName="Related SOPs" ma:format="Dropdown" ma:list="{b11c1c0a-1848-4118-b7cf-ce9450f86f68}" ma:internalName="RelatedSOPs" ma:readOnly="false" ma:showField="Title">
+<xsd:complexType>
+<xsd:complexContent>
+<xsd:extension base="dms:MultiChoiceLookup">
+<xsd:sequence>
+<xsd:element name="Value" type="dms:Lookup" maxOccurs="unbounded" minOccurs="0" nillable="true"/>
+</xsd:sequence>
+</xsd:extension>
+</xsd:complexContent>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="LastReviewedDate" ma:index="21" nillable="true" ma:displayName="Last Reviewed Date" ma:format="DateOnly" ma:internalName="LastReviewedDate">
+<xsd:simpleType>
+<xsd:restriction base="dms:DateTime"/>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="FileLink" ma:index="22" nillable="true" ma:displayName="File Link" ma:format="Hyperlink" ma:internalName="FileLink">
+<xsd:complexType>
+<xsd:complexContent>
+<xsd:extension base="dms:URL">
+<xsd:sequence>
+<xsd:element name="Url" type="dms:ValidUrl" minOccurs="0" nillable="true"/>
+<xsd:element name="Description" type="xsd:string" nillable="true"/>
+</xsd:sequence>
+</xsd:extension>
+</xsd:complexContent>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="SOPFileName" ma:index="23" nillable="true" ma:displayName="SOP File Name" ma:description="SOP File Name (includes .docx)" ma:format="Dropdown" ma:indexed="true" ma:internalName="SOPFileName">
+<xsd:simpleType>
+<xsd:restriction base="dms:Text">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="Appendix_x003a_" ma:index="24" nillable="true" ma:displayName="Appendix" ma:format="Dropdown" ma:internalName="Appendix_x003a_">
+<xsd:complexType>
+<xsd:complexContent>
+<xsd:extension base="dms:MultiChoiceFillIn">
+<xsd:sequence>
+<xsd:element name="Value" maxOccurs="unbounded" minOccurs="0" nillable="true">
+<xsd:simpleType>
+<xsd:union memberTypes="dms:Text">
+<xsd:simpleType>
+<xsd:restriction base="dms:Choice">
+<xsd:enumeration value="Choice 1"/>
+<xsd:enumeration value="Choice 2"/>
+<xsd:enumeration value="Choice 3"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:union>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:extension>
+</xsd:complexContent>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+<xsd:schema targetNamespace="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" elementFormDefault="qualified" attributeFormDefault="unqualified" blockDefault="#all" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:odoc="http://schemas.microsoft.com/internal/obd">
+<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd"/>
+<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/2003/04/02/dcterms.xsd"/>
+<xsd:element name="coreProperties" type="CT_coreProperties"/>
+<xsd:complexType name="CT_coreProperties">
+<xsd:all>
+<xsd:element ref="dc:creator" minOccurs="0" maxOccurs="1"/>
+<xsd:element ref="dcterms:created" minOccurs="0" maxOccurs="1"/>
+<xsd:element ref="dc:identifier" minOccurs="0" maxOccurs="1"/>
+<xsd:element name="contentType" minOccurs="0" maxOccurs="1" type="xsd:string" ma:index="0" ma:displayName="Content Type"/>
+<xsd:element ref="dc:title" minOccurs="0" maxOccurs="1" ma:index="4" ma:displayName="Title"/>
+<xsd:element ref="dc:subject" minOccurs="0" maxOccurs="1"/>
+<xsd:element ref="dc:description" minOccurs="0" maxOccurs="1"/>
+<xsd:element name="keywords" minOccurs="0" maxOccurs="1" type="xsd:string"/>
+<xsd:element ref="dc:language" minOccurs="0" maxOccurs="1"/>
+<xsd:element name="category" minOccurs="0" maxOccurs="1" type="xsd:string"/>
+<xsd:element name="version" minOccurs="0" maxOccurs="1" type="xsd:string"/>
+<xsd:element name="revision" minOccurs="0" maxOccurs="1" type="xsd:string">
+<xsd:annotation>
+<xsd:documentation>
+                        This value indicates the number of saves or revisions. The application is responsible for updating this value after each revision.
+                    </xsd:documentation>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="lastModifiedBy" minOccurs="0" maxOccurs="1" type="xsd:string"/>
+<xsd:element ref="dcterms:modified" minOccurs="0" maxOccurs="1"/>
+<xsd:element name="contentStatus" minOccurs="0" maxOccurs="1" type="xsd:string"/>
+</xsd:all>
+</xsd:complexType>
+</xsd:schema>
+<xs:schema targetNamespace="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" elementFormDefault="qualified" attributeFormDefault="unqualified" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Person">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="pc:DisplayName" minOccurs="0"></xs:element>
+<xs:element ref="pc:AccountId" minOccurs="0"></xs:element>
+<xs:element ref="pc:AccountType" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="DisplayName" type="xs:string"></xs:element>
+<xs:element name="AccountId" type="xs:string"></xs:element>
+<xs:element name="AccountType" type="xs:string"></xs:element>
+<xs:element name="BDCAssociatedEntity">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="pc:BDCEntity" minOccurs="0" maxOccurs="unbounded"></xs:element>
+</xs:sequence>
+<xs:attribute ref="pc:EntityNamespace"></xs:attribute>
+<xs:attribute ref="pc:EntityName"></xs:attribute>
+<xs:attribute ref="pc:SystemInstanceName"></xs:attribute>
+<xs:attribute ref="pc:AssociationName"></xs:attribute>
+</xs:complexType>
+</xs:element>
+<xs:attribute name="EntityNamespace" type="xs:string"></xs:attribute>
+<xs:attribute name="EntityName" type="xs:string"></xs:attribute>
+<xs:attribute name="SystemInstanceName" type="xs:string"></xs:attribute>
+<xs:attribute name="AssociationName" type="xs:string"></xs:attribute>
+<xs:element name="BDCEntity">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="pc:EntityDisplayName" minOccurs="0"></xs:element>
+<xs:element ref="pc:EntityInstanceReference" minOccurs="0"></xs:element>
+<xs:element ref="pc:EntityId1" minOccurs="0"></xs:element>
+<xs:element ref="pc:EntityId2" minOccurs="0"></xs:element>
+<xs:element ref="pc:EntityId3" minOccurs="0"></xs:element>
+<xs:element ref="pc:EntityId4" minOccurs="0"></xs:element>
+<xs:element ref="pc:EntityId5" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="EntityDisplayName" type="xs:string"></xs:element>
+<xs:element name="EntityInstanceReference" type="xs:string"></xs:element>
+<xs:element name="EntityId1" type="xs:string"></xs:element>
+<xs:element name="EntityId2" type="xs:string"></xs:element>
+<xs:element name="EntityId3" type="xs:string"></xs:element>
+<xs:element name="EntityId4" type="xs:string"></xs:element>
+<xs:element name="EntityId5" type="xs:string"></xs:element>
+<xs:element name="Terms">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="pc:TermInfo" minOccurs="0" maxOccurs="unbounded"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="TermInfo">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="pc:TermName" minOccurs="0"></xs:element>
+<xs:element ref="pc:TermId" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="TermName" type="xs:string"></xs:element>
+<xs:element name="TermId" type="xs:string"></xs:element>
+</xs:schema>
+</ct:contentTypeSchema>

@@ -1,123 +1,89 @@
-# Agents
+# GSL-Operations-Framework — Agent Status
 
-Source of truth for "where are we?" Agents read this at session start. Update it when finishing work.
-
----
-
-## Active Terminals
-
-| Terminal | Role | Working On | Files Touching | Last Update |
-|----------|------|------------|----------------|-------------|
-| 1 | Chief of Staff | Morning routine / status | docs/_AGENTS.md | Feb 3 |
-
-Update when starting a terminal. Clear your row on wrap.
+Last updated: 2026-05-20 (wrap — SCORM taxonomy complete)
 
 ---
 
-## Active
+## Workstream: SOPs (WS2)
 
-| Workstream | Working On | Status |
-|------------|------------|--------|
-| WS1: Learn365 | Skills Framework setup | Blocked — waiting on SharePoint MCP |
-| WS2: SOPs | Procedure extraction from Pre-Con manual | Ready to start |
-| WS3: AI Training | Architecture planning | Blocked — needs WS1 skills + WS2 SOPs |
+### Current State
+167 SOPs complete. Voice review workflow established. 3 phases reviewed, 8 new SOP drafts parked awaiting Tom's voice reviews.
 
----
+### Blockers
+- 8 SOP drafts need Tom's voice reviews before finalization
+- Voice reviews needed for remaining phases (9.1, 9.4A-K, 9.5, 9.6)
 
-## Cross-Agent Notes
+### Planner Tasks (Open)
+- Voice review 8 new SOP drafts (Important)
+- Revise 20 existing Phase 9.2 SOPs using milestone feedback (Medium)
+- Voice reviews for remaining phases (Important)
+- Execute OneDrive mirror scripts (Low)
 
-*Leave notes here for other agents. Check this section when you activate.*
-
-**For Operations Manager:**
-- Phase 1-4 deliverables complete in `deliverables/` folder
-- SOP metadata CSV ready at `deliverables/phase2/sop_metadata.csv`
-- Scripts for batch processing SOPs in `scripts/`
-
-**For Technical Writer:**
-- SOP template: `C:\Users\tewing\Documents\Projects\Templates\GSL_SOP_Master_Template_SHAREPOINT_ENABLED (v1).docx`
-- Naming convention: SOP-PC-### (Pre-Con), SOP-PM-### (Project Mgmt), SOP-SF-### (Safety)
+### Handoff Notes
+Tom reviews draft SOPs using ChatGPT voice mode, narrating how GSL actually does things. ChatGPT produces structured RACI/milestone spreadsheets with feedback. Voice narration is authoritative, not source docs. Tom will provide the full ChatGPT chat transcript alongside the spreadsheet so Jebidiah can cross-check ChatGPT's interpretation against what Tom actually said. Voice review outputs are filed to `GSL-Operations-Framework/evaluations/`.
 
 ---
 
-## Blockers
+## Workstream: Learn365 Skills Framework (WS1)
 
-| Blocker | Waiting On | Impact |
-|---------|------------|--------|
-| SharePoint MCP | IT (Chad) — Azure AD credentials | Can't access SharePoint lists programmatically |
-| Anthropic API key | Provisioning | Can't build WS3 grading system |
-| Learn365 user properties | Admin setup | Can't test Target Skill Rules |
+### Current State
+SCORM taxonomy pass COMPLETE. All 185 unique SCORM courses classified with category, tags, skills, difficulty, target roles, and descriptions. 55 existing skills mapped, 0 new skills proposed. Canonical output: `data/scorm_taxonomy_recommendations.json`. Summary report with appendices: `data/scorm_taxonomy_summary.md`.
 
----
+Key stats:
+- 185 courses, 55 skills, 40 categories, 9 roles
+- Confidence: 13 HIGH, 21 MEDIUM-HIGH, 53 MEDIUM, 97 LOW, 1 VERY LOW
+- 172 courses need transcript retrieval to upgrade descriptions
+- 71 duplicate SCORM packages need consolidation
+- 3 proposed Difficulty tags (Foundational/Intermediate/Advanced)
+- 2 NEEDS-REVIEW remaining (Untitled, TEST — both flagged for removal)
+- All 38 scale sets have 0 defined levels — skill levels pending Admin config
 
-## Handoffs
+### Blockers
+- 172 transcript gaps — need VTT retrieval from Learn365/Azure for accurate descriptions
+- Scale set levels need Admin Center UI configuration before skill levels can be assigned
+- 36 unused scale sets should be deleted in Admin Center
+- Tag data quality issues: leading space on ` lockout/tagout`, typos (Budgetting, Transparancy), trailing comma on `label,`
 
-### Feb 3 — Chief of Staff
-
-**Done:**
-- Phase 1-4 deliverables (Skills, SOPs, JD mapping, MD mapping, Training mapping)
-- Learn365 API scripts for skill level sets and target rules
-- Jebidiah morning routine documentation
-- Created _AGENTS.md for coordination
-
-**Why it's built this way:**
-- Three workstreams (WS1, WS2, WS3) are interdependent
-- WS3 can't start until WS1 skills and WS2 SOPs exist
-- SharePoint MCP will enable automation once credentials arrive
-
-**Next:**
-- WS2: Begin extracting procedures from Pre-Con Planning manual (can start now)
-- WS1: Wait for SharePoint MCP or work manually in browser
-
----
-
-## Decisions Needed
-
-| Question | Options | Blocking? |
-|----------|---------|-----------|
-| SharePoint access method | Manual browser vs wait for MCP | No — can use manual for now |
-| SOP extraction priority | Pre-Con first vs EPMP first | No |
+### Planner Tasks (Open)
+- Apply taxonomy recommendations to Learn365 Admin (descriptions, categories, tags, skills) (Important)
+- Retrieve transcripts for 172 courses to upgrade LOW/MEDIUM confidence descriptions (Medium)
+- Define scale set levels in Admin Center (Medium)
+- Delete 36 unused scale sets (Low)
+- Consolidate 71 duplicate SCORM packages (Medium)
+- Fix tag typos in Learn365 vocabulary (Low)
 
 ---
 
-## Recently Completed
+## Workstream: Pre-Planning App (WS4)
 
-| What | When | Notes |
-|------|------|-------|
-| Phase 5: Training-SOP mapping | Feb 3 | deliverables/phase5/ |
-| Phase 4: MD-SOP mapping | Feb 3 | deliverables/phase4/ |
-| Phase 3: JD-SOP mapping | Feb 3 | deliverables/phase3/ |
-| Phase 2: SOP analysis & numbering | Feb 3 | deliverables/phase2/ |
-| Phase 1: Skills framework | Feb 3 | deliverables/phase1/ |
-| Learn365 API integration | Feb 3 | scripts/ |
+### Current State
+Not started. Architecture planned (SharePoint lists + Canvas Power App).
 
----
+### Architecture (planned)
+- SharePoint list: `ProjectPrePlanning` -- one record per checklist item
+- SharePoint list: `Projects` -- project header info
+- Power App: Canvas app with collapsible sections, status toggles, SOP links
+- Power Automate: Notifications, overdue alerts, status rollups
 
-## Standing Decisions
+### Blockers
+- Depends on stable SOP IDs (voice reviews must be substantially complete first)
 
-Decisions already made. Agents should follow these.
+### Planner Tasks (Open)
+- Complete SOP voice reviews -- dependency (Important)
+- Design SharePoint list schema (Medium)
+- Build Power App (Medium)
+- Pilot with one real project (Medium)
 
-- **SOP Naming:** SOP-PC-### (Pre-Con), SOP-PM-### (Project Mgmt), SOP-SF-### (Safety)
-- **Cross-references:** SOP changes MUST update SOP-Training Cross-Reference list
-- **Skill changes:** Must reflect in SOPs, Target Skill Rules, and course configs
-- **JD changes:** Never modify without flagging for HR review
-- **Learn365:** Target Skill Rule changes take 15+ min to propagate
-
----
-
-## Key Resources
-
-| Resource | Location |
-|----------|----------|
-| Big Picture Strategy | `docs/GSL_Big_Picture_Strategy.md` |
-| Pre-Con Manual | `C:\Users\tewing\OneDrive - GSL Electric\TrainingAndResourceMaterials\PreConPlanning` |
-| EPMP Manual | `C:\Users\tewing\OneDrive - GSL Electric\TrainingAndResourceMaterials\ProjectManagement` |
-| GSL Academy | https://gslelectric8540.sharepoint.com/sites/GSLAcademy |
-| SOP Site | https://gslelectric8540.sharepoint.com/sites/StandardOperationProcedures |
+### Handoff Notes
+Source artifact: `evaluations/GSL_Turnover_PrePlanning_Template.xlsx` (original Smartsheet export with SOP cross-references added). Vision is to replace the 570-row Smartsheet-based "Template - GSL Turnover & Pre-Planning" checklist with a Power App providing role-based views (PM, Foreman, Estimator, GS), SOP links, mobile access, and Power Automate notifications.
 
 ---
 
-## Notes
+## Workstream: WS3 (Training Widgets/Grading)
 
-- SharePoint MCP server: [sekops-ch/sharepoint-mcp-server](https://github.com/sekops-ch/sharepoint-mcp-server)
-- IT contact for Azure AD credentials: Chad
-- CSV import format for Target Skill Rules: `CatalogName/SkillName/SkillLevel`
+Fully absorbed into training-template project. See `training-template/docs/_AGENTS.md` for current state. Activity classification decision (Feb 17): only capstone submissions (8) feed the Playbook; mid-module exercises are self-contained AI coaching.
+
+---
+
+## General Handoff Notes
+SCORM taxonomy pass completed 2026-05-20. All 185 courses have recommendations ready for Learn365 Admin application. Next priority: apply descriptions/categories/tags/skills via Learn365 API or Admin UI, then retrieve transcripts to upgrade 172 LOW/MEDIUM confidence descriptions. SOP voice reviews and WS4 Pre-Planning App remain paused pending Tom's availability.

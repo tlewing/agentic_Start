@@ -1,0 +1,4488 @@
+{
+  "generated": "2026-05-20",
+  "scorm_dir": "C:\\Users\\tewing\\OneDrive - GSL Electric\\Projects\\training-template\\reference\\scorm",
+  "total_packages": 256,
+  "parsed": 256,
+  "errors": 0,
+  "unique_titles": 185,
+  "duplicate_title_groups": {
+    "Values Driven Leadership : 10 Planning Your Next Play": [
+      "03fd4e80-b64f-439b-89c8-784b842c2691.zip",
+      "values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u.zip"
+    ],
+    "Lockout Tagout Procedures": [
+      "095abf5a-362f-42ef-8158-994ddd66e70e.zip",
+      "lockout-tagout-procedures-scorm12-l3swtzib.zip"
+    ],
+    "Values Driven Leadership: 11 Recruit and Retain All-Stars": [
+      "0c553a0f-d9af-40ab-9427-69df0143e71d.zip",
+      "values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj.zip"
+    ],
+    "Introduction to Field Leadership Part 2 - Anatomy of a Project": [
+      "13d9715d-6384-46be-8cf3-eccf3325481d.zip",
+      "introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus.zip"
+    ],
+    "Values Driven Leadership : 12 Improve Individual Performance": [
+      "1a8c5a7e-1d22-4d32-9dcc-ba401140474a.zip",
+      "values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9.zip"
+    ],
+    "Permit-Required Confined Spaces": [
+      "1bcd2f05-c0c3-4b2c-9f6e-baba0ac1bc61.zip",
+      "permit-required-confined-spaces-scorm12-Cq6_VtQw.zip",
+      "permit-required-confined-spaces-scorm12-druesm5q.zip"
+    ],
+    "Values Driven Leadership : 14 Develop Emerging Leaders": [
+      "21bd2729-7596-47c8-a379-721843310b5c.zip",
+      "values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv.zip"
+    ],
+    "Project Structure, Delegation, and Team Development": [
+      "2a3202a4-e80d-4659-bedc-532cd6a7838e.zip",
+      "project-structure-delegation-and-team-development-scorm12-saxubt58.zip"
+    ],
+    "Approving Change Orders in ViewPoint": [
+      "3354da97-5b41-4f64-97cd-9e3cf916414e.zip",
+      "approving-change-orders-in-view-point-scorm12-eorbjkg_.zip"
+    ],
+    "Preventing Slips, Trips and Falls": [
+      "35b692b7-23d3-4329-b781-9aa96ae455e8.zip",
+      "preventing-slips-trips-and-falls-scorm12-m2jqe-uu.zip"
+    ],
+    "Fall Protection In Industrial And Construction Environments": [
+      "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf (1).zip",
+      "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf.zip",
+      "fall-protection-in-industrial-and-construction-environments-scorm12-HtvRelsq.zip",
+      "fall-protection-in-industrial-and-construction-environments-scorm12-id8nmi54.zip"
+    ],
+    "A Commitment to Zero Broken Lives- New Hire Safety Orientation": [
+      "3c1c9fac-b95f-4fad-b859-fe5a6a84824e.zip",
+      "a-commitment-to-zero-broken-lives-new-hire-safety-orientation-scorm12-k9ggo4z0.zip"
+    ],
+    "Managing Sub-contractors": [
+      "3f5b3717-553b-4e66-96bc-faa72589fe5d.zip",
+      "managing-sub-contractors-scorm12-eprbazox.zip",
+      "managing-sub-contractors-scorm12-gfau4pat.zip"
+    ],
+    "Hazard Communication": [
+      "4896725b-5d88-4056-8a6e-4290ba8a5a5d.zip",
+      "hazard-communication-scorm12-hced66vt.zip"
+    ],
+    "Values Driven Leadership : 13 Give Feedback": [
+      "493823b2-6e7a-44e9-843a-990cd8f81814.zip",
+      "values-driven-leadership-13-give-feedback-scorm12-fslze9ua.zip"
+    ],
+    "Values Driven Leadership : 7 The Ultimate Motion Offense": [
+      "4c765778-8bd2-4452-866c-aec8e427dd4a.zip",
+      "values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj.zip"
+    ],
+    "Values Driven Leadership : 8 Effective Communication": [
+      "56ba7bcd-acc3-4ada-9d4c-179765442bbe.zip",
+      "values-driven-leadership-8-effective-communication-scorm12-neuqm88y.zip"
+    ],
+    "Types Of Chemical Hazards": [
+      "5a311cb4-586b-412a-88fb-0a50c800ba67.zip",
+      "types-of-chemical-hazards-scorm12-kwgkls-t.zip"
+    ],
+    "Commitment to Safety : A Shared Responsibility- New Hire Safety Orientation": [
+      "640d3a2d-f5d1-4131-bc2a-8acbb03cd182.zip",
+      "commitment-to-safety-a-shared-responsibility-new-hire-safety-orientation-scorm12-2jvergv-.zip"
+    ],
+    "Nevada's Employee Rights and Responsibilities - New Hire Safety Orientation": [
+      "64df4a34-c340-4ef1-8a94-9dddd55b3f0d.zip",
+      "nevadas-employee-rights-and-responsibilities-new-hire-safety-orientation-scorm12-sru8a0g6.zip"
+    ],
+    "Values Driven Leadership: 15 Create a Legacy of Leaders": [
+      "66943eda-fb62-4ad8-ba1e-d0ec6ff9b0ec.zip",
+      "values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0.zip"
+    ],
+    "Advanced Trimble Accubid Classic Pro": [
+      "6900d60b-d412-4bc1-aab7-d068f5c8eb0e (1).zip",
+      "6900d60b-d412-4bc1-aab7-d068f5c8eb0e.zip"
+    ],
+    "Information Found on Container Labels": [
+      "75a49409-e8aa-4ce3-b528-8ce05aef937f.zip",
+      "information-found-on-container-labels-scorm12-alpiibee.zip"
+    ],
+    "Values Driven Leadership : 17 Bounce Back from a Loss": [
+      "781af65a-e80f-43e7-9a6e-03781a978a09.zip",
+      "values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f.zip"
+    ],
+    "Safety Data Sheets": [
+      "7ba26b66-15c2-4272-937c-8c20a0b71e21.zip",
+      "safety-data-sheets-scorm12-ax_uklcf.zip",
+      "safety-data-sheets-scorm12-i8jupoxt.zip"
+    ],
+    "Using Portable and Fixed Ladders": [
+      "7eb6fa30-c8f4-4239-9186-9e9be0dcd045.zip",
+      "using-portable-and-fixed-ladders-scorm12-du3gq40l (1).zip",
+      "using-portable-and-fixed-ladders-scorm12-du3gq40l.zip"
+    ],
+    "GSL's New Hire Safety Orientation": [
+      "8d96dbf9-679c-4f00-b8a6-b62accb23d0d.zip",
+      "gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft.zip"
+    ],
+    "Critical Leadership Training": [
+      "92ea63ef-4606-43f5-a757-6fc60095cab4.zip",
+      "critical-leadership-training-scorm12-cgy5ZMn8.zip",
+      "critical-leadership-training-scorm12-x_04ikm8.zip"
+    ],
+    "Safely Accessing a Scaffold": [
+      "98b56719-5696-4c87-bc57-ee2143596b89.zip",
+      "safely-accessing-a-scaffold-scorm12-znfwpgv9.zip"
+    ],
+    "Copy of Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities": [
+      "9e098bfe-2470-4cfd-a8c8-83618f5534df.zip",
+      "copy-of-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-zplWh8hC.zip"
+    ],
+    "Values Driven Leadership : 1 Coach K Teaches Values-Driven Leadership": [
+      "ab06661d-8075-4ede-84eb-8fb88fd3d500.zip",
+      "values-driven-leadership-1-coach-k-teaches-values-driven-leadership-scorm12-TIbssfBQ (1).zip"
+    ],
+    "Values Driven Leadership : 9 Leading With Emotion": [
+      "ab28f5f2-7325-42e0-9bea-0851cc7478d7.zip",
+      "values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav.zip"
+    ],
+    "Values Driven Leadership: 16 Make a Habit of Motivation": [
+      "afc32b71-9f5d-432c-9ab9-80e79b9d98b1.zip",
+      "values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9.zip"
+    ],
+    "Arc Flash Personal Protective Equipment (PPE)": [
+      "arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64.zip",
+      "arc-flash-personal-protective-equipment-ppe-scorm12-y0-7bkwo.zip"
+    ],
+    "Simple Lockout-Tagout Procedures": [
+      "b792b1d9-a94f-49d5-ac01-4a211024faa0.zip",
+      "simple-lockout-tagout-procedures-scorm12-9lnzkite.zip"
+    ],
+    "The Written Hazard Communication Plan": [
+      "b9294f00-7631-4483-a177-9d75bcfa828d.zip",
+      "the-written-hazard-communication-plan-scorm12-ftnpzu8g.zip"
+    ],
+    "Complex Lockout-Tagout Procedures": [
+      "bc18133e-d61d-4b14-979b-7e7360f22583.zip",
+      "complex-lockout-tagout-procedures-scorm12-hn7-fup1.zip"
+    ],
+    "Introduction to planning and Controlling Hazards - T.R.A.C.K.": [
+      "c1fd58d5-f841-41c0-b15d-5e00a8415db9.zip",
+      "introduction-to-planning-and-controlling-hazards-t-r-a-c-k-scorm12-nrpeh-rf.zip"
+    ],
+    "Supported Scaffolding Safety in Industrial and Construction Environments": [
+      "c2ef003b-0aa1-40d0-8653-3cf6c5a31466.zip",
+      "supported-scaffolding-safety-in-industrial-and-construction-environments-scorm12-sy389sg8.zip"
+    ],
+    "Chapter 02 - What You Need to Know": [
+      "chapter-02-what-you-need-to-know-scorm12-n-qj69jo (1).zip",
+      "chapter-02-what-you-need-to-know-scorm12-n-qj69jo.zip"
+    ],
+    "Chapter 11 - Minimizing Waste at a Project Level": [
+      "chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief (1).zip",
+      "chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief.zip"
+    ],
+    "Chapter 3 - Coordinating with Other Trades-": [
+      "chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr.zip",
+      "chapter-3-coordinating-with-other-trades-scorm12-we3wxrro (1).zip",
+      "chapter-3-coordinating-with-other-trades-scorm12-we3wxrro.zip"
+    ],
+    "Chapter 8 Introduction to Effective Communication": [
+      "chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq (1).zip",
+      "chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq.zip"
+    ],
+    "Chapter 9 Time Management": [
+      "chapter-9-time-management-scorm12-gifb0r3z (1).zip",
+      "chapter-9-time-management-scorm12-gifb0r3z.zip"
+    ],
+    "Conducting Effective Performance Reviews": [
+      "conducting-effective-performance-reviews-scorm12-8ihyn2kz.zip",
+      "conducting-effective-performance-reviews-scorm12-jookiirb.zip",
+      "conducting-effective-performance-reviews-scorm12-yw_6kmun.zip"
+    ],
+    "Construction Management: Introduction to Lean Construction": [
+      "construction-management-introduction-to-lean-construction-scorm12-ix45_zjt.zip",
+      "d14b9f30-3d32-4987-9d34-8035e6471fd1.zip"
+    ],
+    "Copy of Introduction to Field Leadership Section 3 - Leadership": [
+      "copy-of-introduction-to-field-leadership-section-3-leadership-scorm12-ehy1h9md.zip",
+      "e5d16c11-b2f6-4343-b27b-158f4c028aeb.zip"
+    ],
+    "Creating a Pending Change Orders in ViewPoint": [
+      "creating-a-pending-change-orders-in-view-point-scorm12-cir_kuef.zip",
+      "creating-a-pending-change-orders-in-view-point-scorm12-qStQ1fs2.zip"
+    ],
+    "Leading With Emotional Intelligence": [
+      "f40629c8-0091-418e-9b45-cee6a5b3aa9c.zip",
+      "leading-with-emotional-intelligence-scorm12-ebhECLuM.zip",
+      "leading-with-emotional-intelligence-scorm12-zxi7fbqj.zip"
+    ],
+    "Return To Service Procedures": [
+      "fa99d337-0243-4b21-b9b7-a54215bbda0b.zip",
+      "return-to-service-procedures-scorm12-m0ufppq_.zip"
+    ],
+    "Introduction- Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities": [
+      "introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu.zip",
+      "introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-svnfmycr.zip"
+    ],
+    "Lockout Tagout Procedures - Abnormal Lockout Removal Procedures": [
+      "lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s (1).zip",
+      "lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s.zip"
+    ],
+    "Motivating Your Team": [
+      "motivating-your-team-scorm12-YgFh-1Vx.zip",
+      "motivating-your-team-scorm12-c3gfnv1x.zip"
+    ],
+    "On-Site Productivity": [
+      "on-site-productivity-scorm12-m7-7zmzj (1).zip",
+      "on-site-productivity-scorm12-m7-7zmzj.zip"
+    ],
+    "Safety Coordinator - 4.0 Task Training": [
+      "safety-coordinator-4-0-task-training-scorm12-1lqdglp (1).zip",
+      "safety-coordinator-4-0-task-training-scorm12-1lqdglp.zip"
+    ],
+    "The Art of Presenting - Chapter 7b: Delivering Your Presentation": [
+      "the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau (1).zip",
+      "the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau.zip"
+    ],
+    "The Art of Presenting - Chapter 7d: Delivering Your Presentation": [
+      "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (1).zip",
+      "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (2).zip",
+      "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog.zip"
+    ],
+    "The Eight Wastes of Construction": [
+      "the-eight-wastes-of-construction-scorm12-9_faca08.zip",
+      "the-eight-wastes-of-construction-scorm12-llqplzjk.zip",
+      "the-eight-wastes-of-construction-scorm12-vtitab0f.zip"
+    ],
+    "What is \"LEAN\"": [
+      "what-is-lean-scorm12-5l-lsg8r.zip",
+      "what-is-lean-scorm12-hzvv2z3g.zip"
+    ]
+  },
+  "courses": [
+    {
+      "file": "02d67ee1-0635-4e68-8128-ee32d9f6b657.zip",
+      "title": "Values Driven Leadership : 4 Own Your Team",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "03fd4e80-b64f-439b-89c8-784b842c2691.zip",
+      "title": "Values Driven Leadership : 10 Planning Your Next Play",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "095abf5a-362f-42ef-8158-994ddd66e70e.zip",
+      "title": "Lockout Tagout Procedures",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/2- Simple Lockout Tagout Procedures.mp4",
+        "scormcontent/assets/1- Introduction to Lockout Tagout.mp4",
+        "scormcontent/assets/3- Complex Lockout Tagout Procedures.mp4",
+        "scormcontent/assets/4- Verifying a De-Energized Condition.mp4",
+        "scormcontent/assets/5- Abnormal Lockout Removal Procedures.mp4",
+        "scormcontent/assets/6- Return to Service Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "0c553a0f-d9af-40ab-9427-69df0143e71d.zip",
+      "title": "Values Driven Leadership: 11 Recruit and Retain All-Stars",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "0e803e8d-e40a-47e1-b34c-48b387997be5.zip",
+      "title": "Values Driven Leadership : 2 Define Your Core Values",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "0fed7f77-3b20-43df-90c2-6c28b3ca4a5f.zip",
+      "title": "Supported Scaffolds and OSHA Regulations",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Supported Scaffolds & OSHA Regulations.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "1-0-coach-k-teaches-values-driven-leadership-scorm12-xpvxgbur.zip",
+      "title": "1.0 Coach K Teaches Values-Driven Leadership",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "11-1-recruit-retain-all-star-talent-scorm12-ap0eangm.zip",
+      "title": "11.1 Recruit & Retain All-Star Talent",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "13d9715d-6384-46be-8cf3-eccf3325481d.zip",
+      "title": "Introduction to Field Leadership Part 2 - Anatomy of a Project",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "1a8c5a7e-1d22-4d32-9dcc-ba401140474a.zip",
+      "title": "Values Driven Leadership : 12 Improve Individual Performance",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "1bcd2f05-c0c3-4b2c-9f6e-baba0ac1bc61.zip",
+      "title": "Permit-Required Confined Spaces",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Permit-Required Confined Spaces_finished.mp4",
+        "scormcontent/assets/The Entry Permit_finished.mp4",
+        "scormcontent/assets/Hazardous Atmospheres_finished.mp4",
+        "scormcontent/assets/Atmospheric Testing and Monitoring_finished.mp4",
+        "scormcontent/assets/Mechanical and Engulfment Hazards_finished.mp4",
+        "scormcontent/assets/The Entry Supervisor_finished.mp4",
+        "scormcontent/assets/The Attendant_finished.mp4",
+        "scormcontent/assets/The Entrant_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "2024-nfpa-70-e-required-boundaries-scorm12-dumyti56.zip",
+      "title": "2024 NFPA 70E Required Boundaries",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/13- 1.10 2024 NFPA 70E Required Bo.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 1,
+      "vtt_files": [
+        "scormcontent/assets/ai-captions-1766005893221.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "21bd2729-7596-47c8-a379-721843310b5c.zip",
+      "title": "Values Driven Leadership : 14 Develop Emerging Leaders",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "2a3202a4-e80d-4659-bedc-532cd6a7838e.zip",
+      "title": "Project Structure, Delegation, and Team Development",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1. The Difference Between Systemic and Personal Accountability.mp4",
+        "scormcontent/assets/2. How to Structure Your Crew and Create an Organizational Chart.mp4",
+        "scormcontent/assets/2.How to Balance Delegation and Empowerment.mp4",
+        "scormcontent/assets/4. Planning, Structuring, and Delegating for Field Success (2).mp4",
+        "scormcontent/assets/5. The Importance of Mentoring Your Team.mp4",
+        "scormcontent/assets/6.Mentoring Through Three-Week Look-Ahead Planning (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "3354da97-5b41-4f64-97cd-9e3cf916414e.zip",
+      "title": "Approving Change Orders in ViewPoint",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "35b692b7-23d3-4329-b781-9aa96ae455e8.zip",
+      "title": "Preventing Slips, Trips and Falls",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf (1).zip",
+      "title": "Fall Protection In Industrial And Construction Environments",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4",
+        "scormcontent/assets/Edges, Openings And Guarding (1).mp4",
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4",
+        "scormcontent/assets/Working Safely On Scaffolding (1).mp4",
+        "scormcontent/assets/Personal Fall Protection (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf.zip",
+      "title": "Fall Protection In Industrial And Construction Environments",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4",
+        "scormcontent/assets/Edges, Openings And Guarding (1).mp4",
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4",
+        "scormcontent/assets/Working Safely On Scaffolding (1).mp4",
+        "scormcontent/assets/Personal Fall Protection (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf (1).zip"
+    },
+    {
+      "file": "3c1c9fac-b95f-4fad-b859-fe5a6a84824e.zip",
+      "title": "A Commitment to Zero Broken Lives- New Hire Safety Orientation",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "3f5b3717-553b-4e66-96bc-faa72589fe5d.zip",
+      "title": "Managing Sub-contractors",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sub-Contractor Management Introduction (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Setting Clear Expectations (1).mp4",
+        "scormcontent/assets/Managing Sub-Contractors (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Problems (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Qualifying Sub Contractors (2).mp4",
+        "scormcontent/assets/Sub-Contractor Management Contracts and documentation (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Advanced Strategies (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "4896725b-5d88-4056-8a6e-4290ba8a5a5d.zip",
+      "title": "Hazard Communication",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Hazard Communication Overview (1).mp4",
+        "scormcontent/assets/The Written Hazard Communication Plan (1).mp4",
+        "scormcontent/assets/The Global Harmonizing System (1).mp4",
+        "scormcontent/assets/Types Of Chemical Hazards (1).mp4",
+        "scormcontent/assets/Information Found On Container Labels.mp4",
+        "scormcontent/assets/Hazard And Precautionary Statements (1).mp4",
+        "scormcontent/assets/Pictograms That Represent Physical Hazards (1).mp4",
+        "scormcontent/assets/Pictograms That Represent Health Hazards (1).mp4",
+        "scormcontent/assets/Safety Data Sheets.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "493823b2-6e7a-44e9-843a-990cd8f81814.zip",
+      "title": "Values Driven Leadership : 13 Give Feedback",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "4c765778-8bd2-4452-866c-aec8e427dd4a.zip",
+      "title": "Values Driven Leadership : 7 The Ultimate Motion Offense",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "56ba7bcd-acc3-4ada-9d4c-179765442bbe.zip",
+      "title": "Values Driven Leadership : 8 Effective Communication",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "5a311cb4-586b-412a-88fb-0a50c800ba67.zip",
+      "title": "Types Of Chemical Hazards",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Types Of Chemical Hazards (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "5c12a5da-7dc6-4649-84de-f3637bde375d.zip",
+      "title": "Permitted Energized Work & Required Energized Work Permit",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/9-16PE~1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 1,
+      "vtt_files": [
+        "scormcontent/assets/ai-captions-1765561562776.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "640d3a2d-f5d1-4131-bc2a-8acbb03cd182.zip",
+      "title": "Commitment to Safety : A Shared Responsibility- New Hire Safety Orientation",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "64df4a34-c340-4ef1-8a94-9dddd55b3f0d.zip",
+      "title": "Nevada's Employee Rights and Responsibilities - New Hire Safety Orientation",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "66943eda-fb62-4ad8-ba1e-d0ec6ff9b0ec.zip",
+      "title": "Values Driven Leadership: 15 Create a Legacy of Leaders",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "6900d60b-d412-4bc1-aab7-d068f5c8eb0e (1).zip",
+      "title": "Advanced Trimble Accubid Classic Pro",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1. Complete estimates with advanced features in Accubid.mp4",
+        "scormcontent/assets/2. What you should know.mp4",
+        "scormcontent/assets/3. Understanding and using audit trail breakdowns.mp4",
+        "scormcontent/assets/4. Audio and trial breakdownsTakeoff.mp4",
+        "scormcontent/assets/5. Copy and pasting from another estimate (1).mp4",
+        "scormcontent/assets/6. Switching between databases.mp4",
+        "scormcontent/assets/7. Creating temporary assemblies.mp4",
+        "scormcontent/assets/08. Creating and using typical takeoffs.mp4",
+        "scormcontent/assets/09. Using the sort and filter functions (1).mp4",
+        "scormcontent/assets/10. Using the alarm function.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "6900d60b-d412-4bc1-aab7-d068f5c8eb0e.zip",
+      "title": "Advanced Trimble Accubid Classic Pro",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1. Complete estimates with advanced features in Accubid.mp4",
+        "scormcontent/assets/2. What you should know.mp4",
+        "scormcontent/assets/3. Understanding and using audit trail breakdowns.mp4",
+        "scormcontent/assets/4. Audio and trial breakdownsTakeoff.mp4",
+        "scormcontent/assets/5. Copy and pasting from another estimate (1).mp4",
+        "scormcontent/assets/6. Switching between databases.mp4",
+        "scormcontent/assets/7. Creating temporary assemblies.mp4",
+        "scormcontent/assets/08. Creating and using typical takeoffs.mp4",
+        "scormcontent/assets/09. Using the sort and filter functions (1).mp4",
+        "scormcontent/assets/10. Using the alarm function.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "6900d60b-d412-4bc1-aab7-d068f5c8eb0e (1).zip"
+    },
+    {
+      "file": "7062beb5-44e6-4646-8344-d7a09c854b08.zip",
+      "title": "Values Driven Leadership : 6 Read Your People",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "75a49409-e8aa-4ce3-b528-8ce05aef937f.zip",
+      "title": "Information Found on Container Labels",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Information Found On Container Labels.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "781af65a-e80f-43e7-9a6e-03781a978a09.zip",
+      "title": "Values Driven Leadership : 17 Bounce Back from a Loss",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "7ba26b66-15c2-4272-937c-8c20a0b71e21.zip",
+      "title": "Safety Data Sheets",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "7eb6fa30-c8f4-4239-9186-9e9be0dcd045.zip",
+      "title": "Using Portable and Fixed Ladders",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "8d96dbf9-679c-4f00-b8a6-b62accb23d0d.zip",
+      "title": "GSL's New Hire Safety Orientation",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "92ea63ef-4606-43f5-a757-6fc60095cab4.zip",
+      "title": "Critical Leadership Training",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "98b56719-5696-4c87-bc57-ee2143596b89.zip",
+      "title": "Safely Accessing a Scaffold",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Safely Accessing a Scaffold_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "9e098bfe-2470-4cfd-a8c8-83618f5534df.zip",
+      "title": "Copy of Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sequence 01.mp4",
+        "scormcontent/assets/Sequence 06_1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "a-commitment-to-zero-broken-lives-new-hire-safety-orientation-scorm12-k9ggo4z0.zip",
+      "title": "A Commitment to Zero Broken Lives- New Hire Safety Orientation",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3c1c9fac-b95f-4fad-b859-fe5a6a84824e.zip"
+    },
+    {
+      "file": "ab06661d-8075-4ede-84eb-8fb88fd3d500.zip",
+      "title": "Values Driven Leadership : 1 Coach K Teaches Values-Driven Leadership",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Creating an Ownership Mindset.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "ab28f5f2-7325-42e0-9bea-0851cc7478d7.zip",
+      "title": "Values Driven Leadership : 9 Leading With Emotion",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "abnormal-lockout-removal-procedures-scorm12-nyjwgrko.zip",
+      "title": "Abnormal Lockout Removal Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/5- Abnormal Lockout Removal Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "afc32b71-9f5d-432c-9ab9-80e79b9d98b1.zip",
+      "title": "Values Driven Leadership: 16 Make a Habit of Motivation",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "approving-change-orders-in-view-point-scorm12-eorbjkg_.zip",
+      "title": "Approving Change Orders in ViewPoint",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3354da97-5b41-4f64-97cd-9e3cf916414e.zip"
+    },
+    {
+      "file": "arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64.zip",
+      "title": "Arc Flash Personal Protective Equipment (PPE)",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/10-17A~1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 1,
+      "vtt_files": [
+        "scormcontent/assets/ai-captions-1765573317301.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "arc-flash-personal-protective-equipment-ppe-scorm12-y0-7bkwo.zip",
+      "title": "Arc Flash Personal Protective Equipment (PPE)",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/10-17A~1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 1,
+      "vtt_files": [
+        "scormcontent/assets/ai-captions-1765573317301.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64.zip"
+    },
+    {
+      "file": "avoiding-common-time-wasters-introduction-to-field-leadership-section-1-scorm12-_pz4ofaz.zip",
+      "title": "Avoiding Common Time Wasters- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "b792b1d9-a94f-49d5-ac01-4a211024faa0.zip",
+      "title": "Simple Lockout-Tagout Procedures",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/2- Simple Lockout Tagout Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "b9294f00-7631-4483-a177-9d75bcfa828d.zip",
+      "title": "The Written Hazard Communication Plan",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/The Written Hazard Communication Plan (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "bc18133e-d61d-4b14-979b-7e7360f22583.zip",
+      "title": "Complex Lockout-Tagout Procedures",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3- Complex Lockout Tagout Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "boosting-self-regulation-scorm12-dmovz3bh.zip",
+      "title": "Boosting Self-Regulation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Boosting Self-Regulation (3).mp4",
+        "scormcontent/assets/rbc/Rl8lrGe1vKUbscIA_LDRSHP-EQ-03.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-03.vtt",
+        "scormcontent/assets/rbc/sHjZZH3MMZluQI_8_LDRSHP-EQ-03.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "building-and-maintaining-team-morale-introduction-to-field-leadership-section-1-scorm12-qbritjmd.zip",
+      "title": "Building and Maintaining Team Morale- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "c1fd58d5-f841-41c0-b15d-5e00a8415db9.zip",
+      "title": "Introduction to planning and Controlling Hazards - T.R.A.C.K.",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1- Introduction to Planning and Controlling Hazards.mp4",
+        "scormcontent/assets/2- Think Through the Task.mp4",
+        "scormcontent/assets/3- Recognizing the Hazards.mp4",
+        "scormcontent/assets/4- Assessing the Risks.mp4",
+        "scormcontent/assets/5- Controlling the Hazards.mp4",
+        "scormcontent/assets/6- Keep Safety as a Value in All Tasks.mp4",
+        "scormcontent/assets/7- Bring Everything Together.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "c2ef003b-0aa1-40d0-8653-3cf6c5a31466.zip",
+      "title": "Supported Scaffolding Safety in Industrial and Construction Environments",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Introduction to Scaffolding.mp4",
+        "scormcontent/assets/Supported Scaffolds & OSHA Regulations.mp4",
+        "scormcontent/assets/Building A Firm Foundation_finished.mp4",
+        "scormcontent/assets/Assembling A Secure Platform_finished.mp4",
+        "scormcontent/assets/Safely Accessing a Scaffold_finished.mp4",
+        "scormcontent/assets/Fall Protection_finished.mp4",
+        "scormcontent/assets/Conclusion_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv.zip",
+      "title": "Chapter 0 - Introduction to Critical Leadership Training",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-01-embracing-lean-productivity-scorm12-rrruldwd.zip",
+      "title": "Chapter 01 - Embracing Lean Productivity",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-01-what-is-emotional-intelligence-eq-scorm12-byirin-l.zip",
+      "title": "Chapter 01 - What Is Emotional Intelligence (EQ)?",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Leading with Emotional Intelligence (3).mp4",
+        "scormcontent/assets/rbc/MXP7aNiXXuCcsSXZ_LDRSHP-EQ-01.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-01.vtt",
+        "scormcontent/assets/rbc/Ty9uPK8Cr1_HdNak_LDRSHP-EQ-01.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-02-what-you-need-to-know-scorm12-n-qj69jo (1).zip",
+      "title": "Chapter 02 - What You Need to Know",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-02-what-you-need-to-know-scorm12-n-qj69jo.zip",
+      "title": "Chapter 02 - What You Need to Know",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "chapter-02-what-you-need-to-know-scorm12-n-qj69jo (1).zip"
+    },
+    {
+      "file": "chapter-03-productivity-in-construction-scorm12-imnm9mxy.zip",
+      "title": "Chapter 03 - Productivity in Construction",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-05-what-is-lean-scorm12-pvxdpabr.zip",
+      "title": "Chapter 05 - What is Lean?",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-06-a-brief-history-scorm12-d1yinukr.zip",
+      "title": "Chapter 06 - A Brief History",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej.zip",
+      "title": "Chapter 07 - How Does Lean Apply to Construction?",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-08-what-processes-need-to-change-scorm12-said6ikm.zip",
+      "title": "Chapter 08 - What Processes Need to Change?",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-09-the-adoption-of-a-new-production-theory-scorm12-ypg1zg6x.zip",
+      "title": "Chapter 09 - The Adoption of a New Production Theory",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-1-job-plan-theory-scorm12-lhuuftlp.zip",
+      "title": "Chapter 1 Job Plan Theory",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-1-what-makes-a-leader-scorm12-gkna64je.zip",
+      "title": "Chapter 1 - What Makes A Leader",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-10-avoiding-common-time-wasters-scorm12-rakckav4.zip",
+      "title": "Chapter 10 Avoiding Common Time Wasters",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-10-conclusion-leadership-is-the-most-important-skill-scorm12-2vctenpb.zip",
+      "title": "Chapter 10 - Conclusion: Leadership is the Most Important Skill",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-10-identifying-waste-in-construction-scorm12-rttb6txz.zip",
+      "title": "Chapter 10 - Identifying Waste in Construction",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph.zip",
+      "title": "Chapter 11 Building and Maintaining Team Morale",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief (1).zip",
+      "title": "Chapter 11 - Minimizing Waste at a Project Level",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief.zip",
+      "title": "Chapter 11 - Minimizing Waste at a Project Level",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief (1).zip"
+    },
+    {
+      "file": "chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9.zip",
+      "title": "Chapter 12 - Empowerment of Field Personnel",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-12-using-tool-and-technology-scorm12-jzhv6nfe.zip",
+      "title": "Chapter 12 Using Tool and Technology",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-13-pull-planning-scorm12-ne5la4rr.zip",
+      "title": "Chapter 13 - Pull Planning",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-14-the-sticky-note-format-scorm12-ipzawrxc.zip",
+      "title": "Chapter 14 - The Sticky Note Format",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-15-continuous-improvement-scorm12-s6uwlft8.zip",
+      "title": "Chapter 15 - Continuous Improvement",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-16-training-the-industry-scorm12-lnugtlxm.zip",
+      "title": "Chapter 16 - Training the Industry",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-17-reshaping-the-industry-scorm12-ltddpgc0.zip",
+      "title": "Chapter 17 - Reshaping the Industry",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-2-jobsite-efficiency-scorm12-gtwzkr7z.zip",
+      "title": "Chapter 2 - Jobsite Efficiency",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 3,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7.zip",
+      "title": "Chapter 2 - Leadership is About Human Interaction",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr.zip",
+      "title": "Chapter 3 - Coordinating with Other Trades-",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-3-coordinating-with-other-trades-scorm12-we3wxrro (1).zip",
+      "title": "Chapter 3 - Coordinating with Other Trades-",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr.zip"
+    },
+    {
+      "file": "chapter-3-coordinating-with-other-trades-scorm12-we3wxrro.zip",
+      "title": "Chapter 3 - Coordinating with Other Trades-",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr.zip"
+    },
+    {
+      "file": "chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox.zip",
+      "title": "Chapter 3 Introduction to Project Planning and Execution",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-3-new-manager-101-scorm12-yduvl08s.zip",
+      "title": "Chapter 3 - New Manager 101",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-4-building-an-effective-team-scorm12-lurfzpkv.zip",
+      "title": "Chapter 4 - Building an Effective Team",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-4-construction-vs-manufacturing-scorm12-atugxt47.zip",
+      "title": "Chapter 4 - Construction vs. Manufacturing",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-4-document-management-scorm12-tyrhbk9m.zip",
+      "title": "Chapter 4 - Document Management",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-4-introduction-to-safety-management-scorm12-jkruifsj.zip",
+      "title": "Chapter 4 Introduction to Safety Management",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sequence 01.mp4",
+        "scormcontent/assets/Sequence 06_1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-5-extreme-ownership-scorm12-ec9unjhp.zip",
+      "title": "Chapter 5 - Extreme Ownership",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-5-introduction-to-quality-control-scorm12-hzjpxur3.zip",
+      "title": "Chapter 5 - Introduction to Quality Control",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-5-manpower-projection-scorm12-nxcglu2o.zip",
+      "title": "Chapter 5 - Manpower Projection",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-6-enhancing-your-social-skills-scorm12-idczjurm.zip",
+      "title": "Chapter 6 - Enhancing Your Social Skills",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Enhancing Social Skills (2).mp4",
+        "scormcontent/assets/rbc/XIElSInQ4zO9Zesv_LDRSHP-EQ-06.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-06.vtt",
+        "scormcontent/assets/rbc/ZZwP9yE6SVkuda6L_LDRSHP-EQ-06.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-6-introduction-to-team-management-scorm12-ywlcwpmw.zip",
+      "title": "Chapter 6 - Introduction to Team Management",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-6-leadership-law-1-cover-and-move-scorm12-8ifufrcg.zip",
+      "title": "Chapter 6 - Leadership Law 1: Cover and Move",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r.zip",
+      "title": "Chapter 7 Introduction to Documentation and Reporting",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq (1).zip",
+      "title": "Chapter 8 Introduction to Effective Communication",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq.zip",
+      "title": "Chapter 8 Introduction to Effective Communication",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq (1).zip"
+    },
+    {
+      "file": "chapter-8-leadership-law-3-prioritize-and-execute-scorm12-t3uuyi2b.zip",
+      "title": "Chapter 8 - Leadership Law 3: Prioritize and Execute",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 4,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i.zip",
+      "title": "Chapter 9 - Leadership Law 4: Decentralize Command",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-9-time-management-scorm12-gifb0r3z (1).zip",
+      "title": "Chapter 9 Time Management",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "chapter-9-time-management-scorm12-gifb0r3z.zip",
+      "title": "Chapter 9 Time Management",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "chapter-9-time-management-scorm12-gifb0r3z (1).zip"
+    },
+    {
+      "file": "commitment-to-safety-a-shared-responsibility-new-hire-safety-orientation-scorm12-2jvergv-.zip",
+      "title": "Commitment to Safety : A Shared Responsibility- New Hire Safety Orientation",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "640d3a2d-f5d1-4131-bc2a-8acbb03cd182.zip"
+    },
+    {
+      "file": "complex-lockout-tagout-procedures-scorm12-hn7-fup1.zip",
+      "title": "Complex Lockout-Tagout Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3- Complex Lockout Tagout Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "bc18133e-d61d-4b14-979b-7e7360f22583.zip"
+    },
+    {
+      "file": "conducting effective performance reviews - scorm.zip",
+      "title": "Conducting effective Performance Reviews - AI video generated with Synthesia",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "conducting-effective-performance-reviews-scorm12-8ihyn2kz.zip",
+      "title": "Conducting Effective Performance Reviews",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "conducting-effective-performance-reviews-scorm12-jookiirb.zip",
+      "title": "Conducting Effective Performance Reviews",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Conducting effective Performance Reviews (2).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "conducting-effective-performance-reviews-scorm12-8ihyn2kz.zip"
+    },
+    {
+      "file": "conducting-effective-performance-reviews-scorm12-yw_6kmun.zip",
+      "title": "Conducting Effective Performance Reviews",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Conducting effective Performance Reviews.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "conducting-effective-performance-reviews-scorm12-8ihyn2kz.zip"
+    },
+    {
+      "file": "construction-management-introduction-to-lean-construction-scorm12-ix45_zjt.zip",
+      "title": "Construction Management: Introduction to Lean Construction",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72.zip",
+      "title": "Coordinating with Other Trades- Introduction to Field Leadership Section 2",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "copy-of-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-zplWh8hC.zip",
+      "title": "Copy of Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sequence 01.mp4",
+        "scormcontent/assets/Sequence 06_1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "9e098bfe-2470-4cfd-a8c8-83618f5534df.zip"
+    },
+    {
+      "file": "copy-of-introduction-to-field-leadership-section-3-leadership-scorm12-ehy1h9md.zip",
+      "title": "Copy of Introduction to Field Leadership Section 3 - Leadership",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3 Leadership (1).mp4",
+        "scormcontent/assets/3 techniques for better communication (1).mp4",
+        "scormcontent/assets/3 Ethics at Work (1).mp4",
+        "scormcontent/assets/Time management for leadership (1).mp4",
+        "scormcontent/assets/3 - Outlook management.mp4",
+        "scormcontent/assets/3- Common email mistakes.mp4",
+        "scormcontent/assets/3 Winning Techniques for Motivating Employees.mp4",
+        "scormcontent/assets/Conflict Resolution.mp4",
+        "scormcontent/assets/3 Progressive Discipline (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "corrective-counseling-and-performance-reviews-d-scorm12-dgptjd8r.zip",
+      "title": "Corrective Counseling and Performance Reviews (d)",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Glen 1 (4).mp4",
+        "scormcontent/assets/Glen 2 (1).mp4",
+        "scormcontent/assets/Glen 3 (2).mp4",
+        "scormcontent/assets/Glen 4 (1).mp4",
+        "scormcontent/assets/Glen 5 (1).mp4",
+        "scormcontent/assets/Glen 6 (1).mp4",
+        "scormcontent/assets/Glen 7 (3).mp4",
+        "scormcontent/assets/Glen 8 (1).mp4",
+        "scormcontent/assets/Glen 9 (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "creating-a-pending-change-orders-in-view-point-scorm12-cir_kuef.zip",
+      "title": "Creating a Pending Change Orders in ViewPoint",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "creating-a-pending-change-orders-in-view-point-scorm12-qStQ1fs2.zip",
+      "title": "Creating a Pending Change Orders in ViewPoint",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "creating-a-pending-change-orders-in-view-point-scorm12-cir_kuef.zip"
+    },
+    {
+      "file": "critical-leadership-training-scorm12-cgy5ZMn8.zip",
+      "title": "Critical Leadership Training",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "92ea63ef-4606-43f5-a757-6fc60095cab4.zip"
+    },
+    {
+      "file": "critical-leadership-training-scorm12-x_04ikm8.zip",
+      "title": "Critical Leadership Training",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "92ea63ef-4606-43f5-a757-6fc60095cab4.zip"
+    },
+    {
+      "file": "d14b9f30-3d32-4987-9d34-8035e6471fd1.zip",
+      "title": "Construction Management: Introduction to Lean Construction",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "construction-management-introduction-to-lean-construction-scorm12-ix45_zjt.zip"
+    },
+    {
+      "file": "d226d1a8-172f-41c2-94bb-0a8dce777c94.zip",
+      "title": "Values Driven Leadership : 3 Cultivate a Winning Team",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "d4544a6e-93d6-4241-8c0a-15c45ba89e7a.zip",
+      "title": "Values Driven Leadership : 5 Making Reads",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "developing-empathy-scorm12-vhcmzfyl.zip",
+      "title": "Developing Empathy",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Developing Empathy (2).mp4",
+        "scormcontent/assets/rbc/8IWFomFdWAEGkbCa_LDRSHP-EQ-05.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-05.vtt",
+        "scormcontent/assets/rbc/Ke8tKX4-DRO2I8yK_LDRSHP-EQ-05.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse.zip",
+      "title": "Document Management- Introduction to Field Leadership Section 2",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 5,
+      "parse_error": null
+    },
+    {
+      "file": "e5d16c11-b2f6-4343-b27b-158f4c028aeb.zip",
+      "title": "Copy of Introduction to Field Leadership Section 3 - Leadership",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3 Leadership (1).mp4",
+        "scormcontent/assets/3 techniques for better communication (1).mp4",
+        "scormcontent/assets/3 Ethics at Work (1).mp4",
+        "scormcontent/assets/Time management for leadership (1).mp4",
+        "scormcontent/assets/3 - Outlook management.mp4",
+        "scormcontent/assets/3- Common email mistakes.mp4",
+        "scormcontent/assets/3 Winning Techniques for Motivating Employees.mp4",
+        "scormcontent/assets/Conflict Resolution.mp4",
+        "scormcontent/assets/3 Progressive Discipline (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "copy-of-introduction-to-field-leadership-section-3-leadership-scorm12-ehy1h9md.zip"
+    },
+    {
+      "file": "electrical-shock-arc-flash-risk-assessments-safety-related-work-practices-scorm12-2z6u87fa.zip",
+      "title": "Electrical Shock & Arc Flash Risk Assessments (Safety-Related Work Practices)",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/8- 1.5 Electrical Shock & Arc Flash Risk Assessments.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5.zip",
+      "title": "Employee Assistance Program (EAP) and Mental Health Awareness- field leadership -4",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "enhancing-social-skills-scorm12-prqpfyxi.zip",
+      "title": "Enhancing Social Skills",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Enhancing Social Skills (2).mp4",
+        "scormcontent/assets/rbc/ssAXRcoSppxMMqla_LDRSHP-EQ-06.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-06.vtt",
+        "scormcontent/assets/rbc/j67MBpRfEIPbtHoV_LDRSHP-EQ-06.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "f40629c8-0091-418e-9b45-cee6a5b3aa9c.zip",
+      "title": "Leading With Emotional Intelligence",
+      "is_guid_filename": true,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "fa99d337-0243-4b21-b9b7-a54215bbda0b.zip",
+      "title": "Return To Service Procedures",
+      "is_guid_filename": true,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/6- Return to Service Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "fall-protection-in-industrial-and-construction-environments-edges-openings-and-guarding-scorm12-ulhh_oba.zip",
+      "title": "Fall Protection In Industrial And Construction Environments: Edges, Openings And Guarding",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Edges, Openings And Guarding (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "fall-protection-in-industrial-and-construction-environments-scorm12-HtvRelsq.zip",
+      "title": "Fall Protection In Industrial And Construction Environments",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4",
+        "scormcontent/assets/Edges, Openings And Guarding (1).mp4",
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4",
+        "scormcontent/assets/Working Safely On Scaffolding (1).mp4",
+        "scormcontent/assets/Personal Fall Protection (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf (1).zip"
+    },
+    {
+      "file": "fall-protection-in-industrial-and-construction-environments-scorm12-id8nmi54.zip",
+      "title": "Fall Protection In Industrial And Construction Environments",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4",
+        "scormcontent/assets/Edges, Openings And Guarding (1).mp4",
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4",
+        "scormcontent/assets/Working Safely On Scaffolding (1).mp4",
+        "scormcontent/assets/Personal Fall Protection (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf (1).zip"
+    },
+    {
+      "file": "fmla-introduction-to-field-leadership-part-4-policy-scorm12-wvlpmgbx.zip",
+      "title": "FMLA Introduction to Field Leadership Part - 4 Policy",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft.zip",
+      "title": "GSL's New Hire Safety Orientation",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "8d96dbf9-679c-4f00-b8a6-b62accb23d0d.zip"
+    },
+    {
+      "file": "harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz.zip",
+      "title": "Harassment, Discrimination, and Retaliation Prevention -Introduction to Field Leadership Part - 4",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "hazard-communication-scorm12-hced66vt.zip",
+      "title": "Hazard Communication",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Hazard Communication Overview (1).mp4",
+        "scormcontent/assets/The Written Hazard Communication Plan (1).mp4",
+        "scormcontent/assets/The Global Harmonizing System (1).mp4",
+        "scormcontent/assets/Types Of Chemical Hazards (1).mp4",
+        "scormcontent/assets/Information Found On Container Labels.mp4",
+        "scormcontent/assets/Hazard And Precautionary Statements (1).mp4",
+        "scormcontent/assets/Pictograms That Represent Physical Hazards (1).mp4",
+        "scormcontent/assets/Pictograms That Represent Health Hazards (1).mp4",
+        "scormcontent/assets/Safety Data Sheets.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "4896725b-5d88-4056-8a6e-4290ba8a5a5d.zip"
+    },
+    {
+      "file": "improving-self-awareness-scorm12-nv0knu1a.zip",
+      "title": "Improving Self-Awareness",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Improving Self-Awareness (4).mp4",
+        "scormcontent/assets/rbc/Wc2w8z6Nv75AKWgQ_LDRSHP-EQ-02.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-02.vtt",
+        "scormcontent/assets/rbc/XW4vkrUXeEsDsxs3_LDRSHP-EQ-02.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "increasing-self-motivation-scorm12-npmiqa6h.zip",
+      "title": "Increasing Self-Motivation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Increasing Self-Motivation (3).mp4",
+        "scormcontent/assets/rbc/5M3LVEglqt86pRMu_LDRSHP-EQ-04.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-04.vtt",
+        "scormcontent/assets/rbc/6l2IpemYlioWrV0u_LDRSHP-EQ-04.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "increasing-your-self-motivation-scorm12-s0eqm439.zip",
+      "title": "Increasing Your Self-Motivation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Increasing Self-Motivation (4).mp4",
+        "scormcontent/assets/rbc/ToytO80BV7yNvdWu_LDRSHP-EQ-04.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-04.vtt",
+        "scormcontent/assets/rbc/oX28fOGHx8ne8KAY_LDRSHP-EQ-04.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "information-found-on-container-labels-scorm12-alpiibee.zip",
+      "title": "Information Found on Container Labels",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Information Found On Container Labels.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "75a49409-e8aa-4ce3-b528-8ce05aef937f.zip"
+    },
+    {
+      "file": "introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu.zip",
+      "title": "Introduction- Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-svnfmycr.zip",
+      "title": "Introduction- Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu.zip"
+    },
+    {
+      "file": "introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x.zip",
+      "title": "Introduction to Documentation and Reporting- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6.zip",
+      "title": "Introduction to Effective Communication- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 6,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus.zip",
+      "title": "Introduction to Field Leadership Part 2 - Anatomy of a Project",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "13d9715d-6384-46be-8cf3-eccf3325481d.zip"
+    },
+    {
+      "file": "introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b.zip",
+      "title": "Introduction to Field Leadership Part - 4 Policy",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4.zip",
+      "title": "Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sequence 01.mp4",
+        "scormcontent/assets/Sequence 06_1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-planning-and-controlling-hazards-t-r-a-c-k-scorm12-nrpeh-rf.zip",
+      "title": "Introduction to planning and Controlling Hazards - T.R.A.C.K.",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1- Introduction to Planning and Controlling Hazards.mp4",
+        "scormcontent/assets/2- Think Through the Task.mp4",
+        "scormcontent/assets/3- Recognizing the Hazards.mp4",
+        "scormcontent/assets/4- Assessing the Risks.mp4",
+        "scormcontent/assets/5- Controlling the Hazards.mp4",
+        "scormcontent/assets/6- Keep Safety as a Value in All Tasks.mp4",
+        "scormcontent/assets/7- Bring Everything Together.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "c1fd58d5-f841-41c0-b15d-5e00a8415db9.zip"
+    },
+    {
+      "file": "introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll.zip",
+      "title": "Introduction to Project Planning and Execution- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-quality-control-introduction-to-field-leadership-section-1-scorm12-gxmgfvvz.zip",
+      "title": "Introduction to Quality Control- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb.zip",
+      "title": "Introduction to Safety Management- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sequence 01.mp4",
+        "scormcontent/assets/Sequence 06_1.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66.zip",
+      "title": "Introduction to Team Management- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "job-closeout-introduction-to-field-leadership-section-2-scorm12-n6l4pbci.zip",
+      "title": "Job Closeout- Introduction to Field Leadership Section 2",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2.zip",
+      "title": "Job Plan Theory - Introduction to Field Leadership Section 2",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn.zip",
+      "title": "Jobsite Efficiency Introduction to Field Leadership Section 2",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "leadership-decision-making-under-pressure-scorm12-AIhn49zc.zip",
+      "title": "Leadership & Decision-Making Under Pressure",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm.zip",
+      "title": "Leadership Essentials- Introduction to Field Leadership Section 3",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3 Leadership (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "leadership-law-2-keep-it-simple-scorm12-dsimqrvx.zip",
+      "title": "Leadership Law 2: Keep it Simple",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 7,
+      "parse_error": null
+    },
+    {
+      "file": "leading-with-emotional-intelligence-scorm12-ebhECLuM.zip",
+      "title": "Leading With Emotional Intelligence",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "f40629c8-0091-418e-9b45-cee6a5b3aa9c.zip"
+    },
+    {
+      "file": "leading-with-emotional-intelligence-scorm12-zxi7fbqj.zip",
+      "title": "Leading With Emotional Intelligence",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "f40629c8-0091-418e-9b45-cee6a5b3aa9c.zip"
+    },
+    {
+      "file": "learning-accubid-pro-scorm12-c6av2ijj.zip",
+      "title": "Learning Accubid Pro",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1. Introduction.mp4",
+        "scormcontent/assets/2. User Interface.mp4",
+        "scormcontent/assets/3. Database Directories and Job Directories.mp4",
+        "scormcontent/assets/4. The job schedule.mp4",
+        "scormcontent/assets/5. Creating a job file.mp4",
+        "scormcontent/assets/6. Takeoff Screen Setup.mp4",
+        "scormcontent/assets/7. Setting report and screen views.mp4",
+        "scormcontent/assets/8. Item Database.mp4",
+        "scormcontent/assets/9. Common assemblies.mp4",
+        "scormcontent/assets/10. Temporary Items.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s (1).zip",
+      "title": "Lockout Tagout Procedures - Abnormal Lockout Removal Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/5- Abnormal Lockout Removal Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s.zip",
+      "title": "Lockout Tagout Procedures - Abnormal Lockout Removal Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/5- Abnormal Lockout Removal Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s (1).zip"
+    },
+    {
+      "file": "lockout-tagout-procedures-complex-lockout-tagout-procedures-scorm12-r6juiurw.zip",
+      "title": "Lockout Tagout Procedures - Complex Lockout-Tagout Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3- Complex Lockout Tagout Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "lockout-tagout-procedures-hazardous-energy-control-lockout-tagout-scorm12-berhmiwr.zip",
+      "title": "Lockout Tagout Procedures - Hazardous Energy Control (Lockout Tagout)",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1- Introduction to Lockout Tagout.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "lockout-tagout-procedures-return-to-service-procedures-scorm12-_dkqhcuy.zip",
+      "title": "Lockout Tagout Procedures - Return To Service Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/6- Return to Service Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "lockout-tagout-procedures-scorm12-l3swtzib.zip",
+      "title": "Lockout Tagout Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/2- Simple Lockout Tagout Procedures.mp4",
+        "scormcontent/assets/1- Introduction to Lockout Tagout.mp4",
+        "scormcontent/assets/3- Complex Lockout Tagout Procedures.mp4",
+        "scormcontent/assets/4- Verifying a De-Energized Condition.mp4",
+        "scormcontent/assets/5- Abnormal Lockout Removal Procedures.mp4",
+        "scormcontent/assets/6- Return to Service Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "095abf5a-362f-42ef-8158-994ddd66e70e.zip"
+    },
+    {
+      "file": "lockout-tagout-procedures-simple-lockout-tagout-procedures-scorm12-rj5zpfvf.zip",
+      "title": "Lockout Tagout Procedures - Simple Lockout-Tagout Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/2- Simple Lockout Tagout Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "lockout-tagout-procedures-verifying-a-de-energized-condition-scorm12-ukdghbg_.zip",
+      "title": "Lockout Tagout Procedures - Verifying a De-Energized Condition",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/4- Verifying a De-Energized Condition.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "managing-sub-contractors-scorm12-eprbazox.zip",
+      "title": "Managing Sub-contractors",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sub-Contractor Management Introduction (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Qualifying Sub Contractors (2).mp4",
+        "scormcontent/assets/Sub-Contractor Management Setting Clear Expectations (1).mp4",
+        "scormcontent/assets/Managing Sub-Contractors (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Problems (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Contracts and documentation (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Advanced Strategies (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3f5b3717-553b-4e66-96bc-faa72589fe5d.zip"
+    },
+    {
+      "file": "managing-sub-contractors-scorm12-gfau4pat.zip",
+      "title": "Managing Sub-contractors",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Sub-Contractor Management Introduction (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Setting Clear Expectations (1).mp4",
+        "scormcontent/assets/Managing Sub-Contractors (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Problems (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Qualifying Sub Contractors (2).mp4",
+        "scormcontent/assets/Sub-Contractor Management Contracts and documentation (1).mp4",
+        "scormcontent/assets/Sub-Contractor Management Advanced Strategies (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "3f5b3717-553b-4e66-96bc-faa72589fe5d.zip"
+    },
+    {
+      "file": "manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_.zip",
+      "title": "Manpower Projection - Introduction to Field Leadership Section 2 -",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "motivating-your-team-scorm12-YgFh-1Vx.zip",
+      "title": "Motivating Your Team",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "motivating-your-team-scorm12-c3gfnv1x.zip",
+      "title": "Motivating Your Team",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "motivating-your-team-scorm12-YgFh-1Vx.zip"
+    },
+    {
+      "file": "nevadas-employee-rights-and-responsibilities-new-hire-safety-orientation-scorm12-sru8a0g6.zip",
+      "title": "Nevada's Employee Rights and Responsibilities - New Hire Safety Orientation",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "64df4a34-c340-4ef1-8a94-9dddd55b3f0d.zip"
+    },
+    {
+      "file": "new-hire-safety-orientation-scorm12-n-zkxxau.zip",
+      "title": "New Hire Safety Orientation",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "on-site-productivity-scorm12-m7-7zmzj (1).zip",
+      "title": "On-Site Productivity",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 8,
+      "parse_error": null
+    },
+    {
+      "file": "on-site-productivity-scorm12-m7-7zmzj.zip",
+      "title": "On-Site Productivity",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "on-site-productivity-scorm12-m7-7zmzj (1).zip"
+    },
+    {
+      "file": "osh-as-focus-four-workplace-hazards-scorm12-_eefrmuc.zip",
+      "title": "OSHA’s Focus Four Workplace Hazards",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "performance-management-scorm12-yNAMmSEg.zip",
+      "title": "Performance Management",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/What is Performance Management (2).mp4",
+        "scormcontent/assets/Conducting effective Performance Reviews (1).mp4",
+        "scormcontent/assets/Continuous Performance Management (2).mp4",
+        "scormcontent/assets/Tips for Improving Poor Performance (1).mp4",
+        "scormcontent/assets/How to Develop a Performance Improvement Plan.mp4",
+        "scormcontent/assets/Managing High Performers.mp4",
+        "scormcontent/assets/rbc/zwOwq4RBuL97RpNp_TMMGT-PM-03.mp4",
+        "scormcontent/assets/rbc/sFTykEuWpU6idRwu_TMMGT-PM-04.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 4,
+      "vtt_files": [
+        "scormcontent/assets/TMMGT-PM-03.vtt",
+        "scormcontent/assets/TMMGT-PM-04.vtt",
+        "scormcontent/assets/rbc/SPNIxLEHGW2Q1ZoM_TMMGT-PM-03.vtt",
+        "scormcontent/assets/rbc/5Jk8VDGAqZvuKgsm_TMMGT-PM-04.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "permit-required-confined-spaces-scorm12-Cq6_VtQw.zip",
+      "title": "Permit-Required Confined Spaces",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Permit-Required Confined Spaces_finished.mp4",
+        "scormcontent/assets/The Entry Permit_finished.mp4",
+        "scormcontent/assets/Hazardous Atmospheres_finished.mp4",
+        "scormcontent/assets/Atmospheric Testing and Monitoring_finished.mp4",
+        "scormcontent/assets/The Entry Supervisor_finished.mp4",
+        "scormcontent/assets/Mechanical and Engulfment Hazards_finished.mp4",
+        "scormcontent/assets/The Attendant_finished.mp4",
+        "scormcontent/assets/The Entrant_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "1bcd2f05-c0c3-4b2c-9f6e-baba0ac1bc61.zip"
+    },
+    {
+      "file": "permit-required-confined-spaces-scorm12-druesm5q.zip",
+      "title": "Permit-Required Confined Spaces",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Permit-Required Confined Spaces_finished.mp4",
+        "scormcontent/assets/The Entry Permit_finished.mp4",
+        "scormcontent/assets/Hazardous Atmospheres_finished.mp4",
+        "scormcontent/assets/Atmospheric Testing and Monitoring_finished.mp4",
+        "scormcontent/assets/Mechanical and Engulfment Hazards_finished.mp4",
+        "scormcontent/assets/The Entry Supervisor_finished.mp4",
+        "scormcontent/assets/The Attendant_finished.mp4",
+        "scormcontent/assets/The Entrant_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "1bcd2f05-c0c3-4b2c-9f6e-baba0ac1bc61.zip"
+    },
+    {
+      "file": "preventing-slips-trips-and-falls-scorm12-m2jqe-uu.zip",
+      "title": "Preventing Slips, Trips and Falls",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Fall Protection and Slips, Trips and Falls.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "35b692b7-23d3-4329-b781-9aa96ae455e8.zip"
+    },
+    {
+      "file": "project-structure-delegation-and-team-development-scorm12-saxubt58.zip",
+      "title": "Project Structure, Delegation, and Team Development",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1. The Difference Between Systemic and Personal Accountability.mp4",
+        "scormcontent/assets/2. How to Structure Your Crew and Create an Organizational Chart.mp4",
+        "scormcontent/assets/3. How to Balance Delegation and Empowerment.mp4",
+        "scormcontent/assets/4. Planning, Structuring, and Delegating for Field Success (2).mp4",
+        "scormcontent/assets/5. The Importance of Mentoring Your Team.mp4",
+        "scormcontent/assets/6.Mentoring Through Three-Week Look-Ahead Planning.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "2a3202a4-e80d-4659-bedc-532cd6a7838e.zip"
+    },
+    {
+      "file": "required-precautions-practices-energized-work-scorm12-pfsg-qmp.zip",
+      "title": "Required Precautions & Practices - Energized Work",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/6- 1.3 Required Precautions & Practices Energized Work.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "required-precautions-practices-testing-troubleshooting-scorm12-ixvxs06l.zip",
+      "title": "Required Precautions & Practices - Testing & Troubleshooting",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/X---GSLA~2.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "return-to-service-procedures-scorm12-m0ufppq_.zip",
+      "title": "Return To Service Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/6- Return to Service Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "fa99d337-0243-4b21-b9b7-a54215bbda0b.zip"
+    },
+    {
+      "file": "roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep.zip",
+      "title": "Roles and Responsibilities of a Foreman",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme.zip",
+      "title": "Roles and Responsibilties of a Foreman Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "safe-electrical-work-practices-and-the-2024-nfpa-70-e-for-electrical-workers-scorm12-o1fsru32.zip",
+      "title": "Safe Electrical Work Practices And The 2024 NFPA 70E For Electrical Workers",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Two Hazards Of Electricity.mp4",
+        "scormcontent/assets/Qualified Person.mp4",
+        "scormcontent/assets/Arc Flash Boundary And PPE.mp4",
+        "scormcontent/assets/Approach Boundaries.mp4",
+        "scormcontent/assets/Job Safety Plan And Job Briefing.mp4",
+        "scormcontent/assets/Hazard Elimination Electrically Safe Work Condition.mp4",
+        "scormcontent/assets/Shock Risk Assessment Approach Boundaries.mp4",
+        "scormcontent/assets/Energized Work.mp4",
+        "scormcontent/assets/Arc Flash Risk Assessment  _ Arc Flash Boundary _ Arc Flash PPE.mp4",
+        "scormcontent/assets/Table Method_ Arc Flash Boundary And PPE Categories.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "safely-accessing-a-scaffold-scorm12-znfwpgv9.zip",
+      "title": "Safely Accessing a Scaffold",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Safely Accessing a Scaffold_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "98b56719-5696-4c87-bc57-ee2143596b89.zip"
+    },
+    {
+      "file": "safety-coordinator-10-0-injury-case-management-scorm12-bhn-skit.zip",
+      "title": "Safety Coordinator - 10.0 Injury & Case Management",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/11- 10.0 Injury & Case Management.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-11-0-osha-msha-inspections-scorm12-1cfxq7kp.zip",
+      "title": "Safety Coordinator - 11.0 OSHA & MSHA Inspections",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/12- 11.0 OSHA & MSHA Inspections.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-3-0-employee-safety-orientation-scorm12-wwdhs8xs.zip",
+      "title": "Safety Coordinator - 3.0 Employee Safety Orientation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/4- 3.0 Employee Safety Orientation.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 9,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-4-0-task-training-scorm12-1lqdglp (1).zip",
+      "title": "Safety Coordinator - 4.0 Task Training",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/5- 4.0 Task Training.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-4-0-task-training-scorm12-1lqdglp.zip",
+      "title": "Safety Coordinator - 4.0 Task Training",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/5- 4.0 Task Training.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "safety-coordinator-4-0-task-training-scorm12-1lqdglp (1).zip"
+    },
+    {
+      "file": "safety-coordinator-5-0-safety-meetings-scorm12--kplybaq.zip",
+      "title": "Safety Coordinator - 5.0 Safety Meetings",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/6- 5.0 Safety Meetings.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-6-0-project-planning-identifying-hazards-scorm12-pa7utguc.zip",
+      "title": "Safety Coordinator - 6.0 Project Planning & Identifying Hazards",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/7- 6.0 Project Planning & Identifying Hazards.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-7-0-safety-inspections-scorm12-dsf-btet.zip",
+      "title": "Safety Coordinator - 7.0 Safety Inspections",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/8- 7.0 Safety Inspections.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-8-0-disciplinary-action-scorm12-efm1bzaa.zip",
+      "title": "Safety Coordinator - 8.0 Disciplinary Action",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/9- 8.0 Disciplinary Action.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "safety-coordinator-9-0-accident-incident-investigations-scorm12-viiehqfz.zip",
+      "title": "Safety Coordinator - 9.0 Accident & Incident Investigations",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/10- 9.0 Accident & Incident Investigations.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "safety-data-sheets-scorm12-ax_uklcf.zip",
+      "title": "Safety Data Sheets",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Safety Data Sheets.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "7ba26b66-15c2-4272-937c-8c20a0b71e21.zip"
+    },
+    {
+      "file": "safety-data-sheets-scorm12-i8jupoxt.zip",
+      "title": "Safety Data Sheets",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "7ba26b66-15c2-4272-937c-8c20a0b71e21.zip"
+    },
+    {
+      "file": "simple-lockout-tagout-procedures-scorm12-9lnzkite.zip",
+      "title": "Simple Lockout-Tagout Procedures",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/2- Simple Lockout Tagout Procedures.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "b792b1d9-a94f-49d5-ac01-4a211024faa0.zip"
+    },
+    {
+      "file": "substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h.zip",
+      "title": "Substance Abuse- Introduction to Field Leadership Part - 4 Policy",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "supported-scaffolding-safety-in-industrial-and-construction-environments-scorm12-sy389sg8.zip",
+      "title": "Supported Scaffolding Safety in Industrial and Construction Environments",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Introduction to Scaffolding.mp4",
+        "scormcontent/assets/Supported Scaffolds & OSHA Regulations.mp4",
+        "scormcontent/assets/Building A Firm Foundation_finished.mp4",
+        "scormcontent/assets/Assembling A Secure Platform_finished.mp4",
+        "scormcontent/assets/Safely Accessing a Scaffold_finished.mp4",
+        "scormcontent/assets/Fall Protection_finished.mp4",
+        "scormcontent/assets/Conclusion_finished.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "c2ef003b-0aa1-40d0-8653-3cf6c5a31466.zip"
+    },
+    {
+      "file": "techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm.zip",
+      "title": "Techniques for Better Communication and Feedback Introduction to Field Leadership Section 3 -",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/3 techniques for better communication (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "test-scorm12-2n9lhzco.zip",
+      "title": "TEST",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Glen 1 (2).mp4",
+        "scormcontent/assets/Glen 2 (3).mp4",
+        "scormcontent/assets/Glen 3 (2).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-1-of-3-scorm12-8zxc6t4x.zip",
+      "title": "The Art of Presenting - 1 of 3",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/The Power of Great Presenting2.mp4",
+        "scormcontent/assets/Show up to give2.mp4",
+        "scormcontent/assets/Start With WHY2.mp4",
+        "scormcontent/assets/The Benefit Of Giving2.mp4",
+        "scormcontent/assets/Putting Together the Jigsaw Puzzle2.mp4",
+        "scormcontent/assets/Example_ Putting Together the Jigsaw Puzzle2.mp4",
+        "scormcontent/assets/Tell a Story2.mp4",
+        "scormcontent/assets/Example_ Tell a Story2.mp4",
+        "scormcontent/assets/Simple, Understandable, Repeatable2.mp4",
+        "scormcontent/assets/Using PowerPoint Properly2.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-2-of-3-scorm12-l_ebmf_n.zip",
+      "title": "The Art of Presenting - 2 of 3",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Tools of the Trade.mp4",
+        "scormcontent/assets/Example_ Tools of the Trade2.mp4",
+        "scormcontent/assets/I Love You2.mp4",
+        "scormcontent/assets/Holding Hands2.mp4",
+        "scormcontent/assets/Example_ Holding Hands2.mp4",
+        "scormcontent/assets/The Eyes Have It2.mp4",
+        "scormcontent/assets/Example_ The Eyes Have It2.mp4",
+        "scormcontent/assets/Match Your Message2.mp4",
+        "scormcontent/assets/Example_ Match Your Message2.mp4",
+        "scormcontent/assets/Pace Your Words, Not the Stage2.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 10,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-3-of-3-scorm12-medonbco.zip",
+      "title": "The Art of Presenting - 3 of 3",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Example_ Keep Calm and Carry On2.mp4",
+        "scormcontent/assets/Keep Calm and Carry On2.mp4",
+        "scormcontent/assets/Go Quiet2.mp4",
+        "scormcontent/assets/Expect the Unexpected2.mp4",
+        "scormcontent/assets/Example_ Expect the Unexpected2.mp4",
+        "scormcontent/assets/Connect Through Q&A2.mp4",
+        "scormcontent/assets/Tips and Tricks2.mp4",
+        "scormcontent/assets/It's a Wrap2.mp4",
+        "scormcontent/assets/Presenting for a Virtual Audience2.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-1-the-power-of-great-presenting-scorm12-vamagq-w.zip",
+      "title": "The Art of Presenting - Chapter 1: The Power of Great Presenting",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/The Power of Great Presenting.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-2-the-givers-mindset-scorm12-ku2y7zgl.zip",
+      "title": "The Art of Presenting - Chapter 2: The Giver's Mindset",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Show up to give.mp4",
+        "scormcontent/assets/Start With WHY.mp4",
+        "scormcontent/assets/The Benefit Of Giving.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-3-building-your-outline-scorm12-c-q6adkv.zip",
+      "title": "The Art of Presenting - Chapter 3: Building Your Outline",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Putting Together the Jigsaw Puzzle.mp4",
+        "scormcontent/assets/Example_ Putting Together the Jigsaw Puzzle.mp4",
+        "scormcontent/assets/Example_ Tell a Story.mp4",
+        "scormcontent/assets/Tell a Story.mp4",
+        "scormcontent/assets/Simple, Understandable, Repeatable.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-4-creating-your-slides-scorm12-0sloaxu1.zip",
+      "title": "The Art of Presenting -Chapter 4: Creating Your Slides",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Using PowerPoint Properly.mp4",
+        "scormcontent/assets/Slides Set the Scene.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-5-a-preparing-to-present-scorm12-1s5yhlrb.zip",
+      "title": "The Art of Presenting - Chapter 5a: Preparing to Present",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Practice and Prep.mp4",
+        "scormcontent/assets/Prepare for A_V Issues.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-6-making-a-first-impression-scorm12-wmxcgy5v.zip",
+      "title": "The Art of Presenting - Chapter 6: Making a First Impression",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Make an Entrance.mp4",
+        "scormcontent/assets/Make a Statement.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-a-1-delivering-your-presentation-scorm12-bz_habq9.zip",
+      "title": "The Art of Presenting - Chapter 7a.1: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/I Love You.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-a-delivering-your-presentation-scorm12-mda1rlln.zip",
+      "title": "The Art of Presenting - Chapter 7a: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Tools of the Trade.mp4",
+        "scormcontent/assets/Example_ Tools of the Trade.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau (1).zip",
+      "title": "The Art of Presenting - Chapter 7b: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Holding Hands.mp4",
+        "scormcontent/assets/Example_ Holding Hands.mp4",
+        "scormcontent/assets/The Eyes Have It.mp4",
+        "scormcontent/assets/Example_ The Eyes Have It.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau.zip",
+      "title": "The Art of Presenting - Chapter 7b: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Holding Hands.mp4",
+        "scormcontent/assets/Example_ Holding Hands.mp4",
+        "scormcontent/assets/The Eyes Have It.mp4",
+        "scormcontent/assets/Example_ The Eyes Have It.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau (1).zip"
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-c-delivering-your-presentation-scorm12-omhngorm (1).zip",
+      "title": "The Art of Presenting - Chapter 7c: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Match Your Message.mp4",
+        "scormcontent/assets/Example_ Match Your Message.mp4",
+        "scormcontent/assets/Pace Your Words, Not the Stage.mp4",
+        "scormcontent/assets/Example_ Pace Your Words, Not the Stage.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (1).zip",
+      "title": "The Art of Presenting - Chapter 7d: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Understanding Audience Energy.mp4",
+        "scormcontent/assets/Accept the Applause.mp4",
+        "scormcontent/assets/Example_ Accept the Applause.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (2).zip",
+      "title": "The Art of Presenting - Chapter 7d: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Understanding Audience Energy.mp4",
+        "scormcontent/assets/Accept the Applause.mp4",
+        "scormcontent/assets/Example_ Accept the Applause.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (1).zip"
+    },
+    {
+      "file": "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog.zip",
+      "title": "The Art of Presenting - Chapter 7d: Delivering Your Presentation",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Understanding Audience Energy.mp4",
+        "scormcontent/assets/Accept the Applause.mp4",
+        "scormcontent/assets/Example_ Accept the Applause.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (1).zip"
+    },
+    {
+      "file": "the-eight-wastes-of-construction-scorm12-9_faca08.zip",
+      "title": "The Eight Wastes of Construction",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Exploring 8 Wastes Tom J.mp4",
+        "scormcontent/assets/Defects Tom J.mp4",
+        "scormcontent/assets/Over _ Under Production Tom J.mp4",
+        "scormcontent/assets/Waiting (1).mp4",
+        "scormcontent/assets/Unused Creativity of Team Memebers (1).mp4",
+        "scormcontent/assets/Transporttion Waste Tom J.mp4",
+        "scormcontent/assets/Excess inventory Tom J.mp4",
+        "scormcontent/assets/Waste Motion- Tom J.mp4",
+        "scormcontent/assets/Waste of Extra Processing-Tom J.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 1,
+      "parse_error": null
+    },
+    {
+      "file": "the-eight-wastes-of-construction-scorm12-llqplzjk.zip",
+      "title": "The Eight Wastes of Construction",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Exploring 8 Wastes Tom J.mp4",
+        "scormcontent/assets/Defects Tom J.mp4",
+        "scormcontent/assets/Over _ Under Production Tom J.mp4",
+        "scormcontent/assets/Waiting (1).mp4",
+        "scormcontent/assets/Unused Creativity of Team Memebers (1).mp4",
+        "scormcontent/assets/Transporttion Waste Tom J.mp4",
+        "scormcontent/assets/Excess inventory Tom J.mp4",
+        "scormcontent/assets/Waste Motion- Tom J.mp4",
+        "scormcontent/assets/Waste of Extra Processing-Tom J.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "the-eight-wastes-of-construction-scorm12-9_faca08.zip"
+    },
+    {
+      "file": "the-eight-wastes-of-construction-scorm12-vtitab0f.zip",
+      "title": "The Eight Wastes of Construction",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Exploring 8 Wastes Tom J.mp4",
+        "scormcontent/assets/Defects Tom J.mp4",
+        "scormcontent/assets/Over _ Under Production Tom J.mp4",
+        "scormcontent/assets/Waiting (1).mp4",
+        "scormcontent/assets/Unused Creativity of Team Memebers (1).mp4",
+        "scormcontent/assets/Transporttion Waste Tom J.mp4",
+        "scormcontent/assets/Excess inventory Tom J.mp4",
+        "scormcontent/assets/Waste Motion- Tom J.mp4",
+        "scormcontent/assets/Waste of Extra Processing-Tom J.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "the-eight-wastes-of-construction-scorm12-9_faca08.zip"
+    },
+    {
+      "file": "the-written-hazard-communication-plan-scorm12-ftnpzu8g.zip",
+      "title": "The Written Hazard Communication Plan",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/The Written Hazard Communication Plan (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "b9294f00-7631-4483-a177-9d75bcfa828d.zip"
+    },
+    {
+      "file": "time-management-introduction-to-field-leadership-section-1-scorm12-ecy9z7j1.zip",
+      "title": "Time Management - Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 11,
+      "parse_error": null
+    },
+    {
+      "file": "types-of-chemical-hazards-scorm12-kwgkls-t.zip",
+      "title": "Types Of Chemical Hazards",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Types Of Chemical Hazards (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "5a311cb4-586b-412a-88fb-0a50c800ba67.zip"
+    },
+    {
+      "file": "untitled-scorm12-xrofbisj.zip",
+      "title": "[FROM FILENAME] Untitled",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Glen 7 (2).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 2,
+      "parse_error": "title not found in manifest"
+    },
+    {
+      "file": "using-portable-and-fixed-ladders-scorm12-du3gq40l (1).zip",
+      "title": "Using Portable and Fixed Ladders",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "7eb6fa30-c8f4-4239-9186-9e9be0dcd045.zip"
+    },
+    {
+      "file": "using-portable-and-fixed-ladders-scorm12-du3gq40l.zip",
+      "title": "Using Portable and Fixed Ladders",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Using Portable And Fixed Ladders (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "7eb6fa30-c8f4-4239-9186-9e9be0dcd045.zip"
+    },
+    {
+      "file": "using-tool-and-technology-introduction-to-field-leadership-section-1-scorm12-q5xzm9rq.zip",
+      "title": "Using Tool and Technology- Introduction to Field Leadership Section - 1",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 12,
+      "parse_error": null
+    },
+    {
+      "file": "values-driven-leadership-1-coach-k-teaches-values-driven-leadership-scorm12-TIbssfBQ (1).zip",
+      "title": "Values Driven Leadership : 1 Coach K Teaches Values-Driven Leadership",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Creating an Ownership Mindset.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "ab06661d-8075-4ede-84eb-8fb88fd3d500.zip"
+    },
+    {
+      "file": "values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u.zip",
+      "title": "Values Driven Leadership : 10 Planning Your Next Play",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "03fd4e80-b64f-439b-89c8-784b842c2691.zip"
+    },
+    {
+      "file": "values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj.zip",
+      "title": "Values Driven Leadership: 11 Recruit and Retain All-Stars",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "0c553a0f-d9af-40ab-9427-69df0143e71d.zip"
+    },
+    {
+      "file": "values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9.zip",
+      "title": "Values Driven Leadership : 12 Improve Individual Performance",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "1a8c5a7e-1d22-4d32-9dcc-ba401140474a.zip"
+    },
+    {
+      "file": "values-driven-leadership-13-give-feedback-scorm12-fslze9ua.zip",
+      "title": "Values Driven Leadership : 13 Give Feedback",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "493823b2-6e7a-44e9-843a-990cd8f81814.zip"
+    },
+    {
+      "file": "values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv.zip",
+      "title": "Values Driven Leadership : 14 Develop Emerging Leaders",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "21bd2729-7596-47c8-a379-721843310b5c.zip"
+    },
+    {
+      "file": "values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0.zip",
+      "title": "Values Driven Leadership: 15 Create a Legacy of Leaders",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "66943eda-fb62-4ad8-ba1e-d0ec6ff9b0ec.zip"
+    },
+    {
+      "file": "values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9.zip",
+      "title": "Values Driven Leadership: 16 Make a Habit of Motivation",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "afc32b71-9f5d-432c-9ab9-80e79b9d98b1.zip"
+    },
+    {
+      "file": "values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f.zip",
+      "title": "Values Driven Leadership : 17 Bounce Back from a Loss",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "781af65a-e80f-43e7-9a6e-03781a978a09.zip"
+    },
+    {
+      "file": "values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj.zip",
+      "title": "Values Driven Leadership : 7 The Ultimate Motion Offense",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "4c765778-8bd2-4452-866c-aec8e427dd4a.zip"
+    },
+    {
+      "file": "values-driven-leadership-8-effective-communication-scorm12-neuqm88y.zip",
+      "title": "Values Driven Leadership : 8 Effective Communication",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "56ba7bcd-acc3-4ada-9d4c-179765442bbe.zip"
+    },
+    {
+      "file": "values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav.zip",
+      "title": "Values Driven Leadership : 9 Leading With Emotion",
+      "is_guid_filename": false,
+      "media_location": "none",
+      "bundled_videos": [],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "ab28f5f2-7325-42e0-9bea-0851cc7478d7.zip"
+    },
+    {
+      "file": "verifying-a-de-energized-condition-scorm12-tl-lwmmj.zip",
+      "title": "Verifying a De-Energized Condition",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/4- Verifying a De-Energized Condition.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "what-is-emotional-intelligence-scorm12-2b6hr7hq.zip",
+      "title": "What Is Emotional Intelligence?",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Leading with Emotional Intelligence (4).mp4",
+        "scormcontent/assets/rbc/7H7ulNjRcrFsjVi9_LDRSHP-EQ-01.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 2,
+      "vtt_files": [
+        "scormcontent/assets/LDRSHP-EQ-01.vtt",
+        "scormcontent/assets/rbc/XDMznqmQh4Q4SdQW_LDRSHP-EQ-01.vtt"
+      ],
+      "transcript_status": "found-in-package",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "what-is-lean-scorm12-5l-lsg8r.zip",
+      "title": "What is \"LEAN\"",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1 Introduction (2).mp4",
+        "scormcontent/assets/2 History of Lean.mp4",
+        "scormcontent/assets/3 Definitions of Lean (1).mp4",
+        "scormcontent/assets/4 Lean Culture (1).mp4",
+        "scormcontent/assets/5 Principles of Lean (2).mp4",
+        "scormcontent/assets/6 Lean Culture - People (2).mp4",
+        "scormcontent/assets/7 Lean Culture - Systems.mp4",
+        "scormcontent/assets/8 Final Takeaways (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "what-is-lean-scorm12-hzvv2z3g.zip",
+      "title": "What is \"LEAN\"",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/1 Introduction (2).mp4",
+        "scormcontent/assets/2 History of Lean.mp4",
+        "scormcontent/assets/3 Definitions of Lean (1).mp4",
+        "scormcontent/assets/4 Lean Culture (1).mp4",
+        "scormcontent/assets/5 Principles of Lean (2).mp4",
+        "scormcontent/assets/6 Lean Culture - People (2).mp4",
+        "scormcontent/assets/7 Lean Culture - Systems.mp4",
+        "scormcontent/assets/8 Final Takeaways (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "duplicate",
+      "batch": null,
+      "parse_error": null,
+      "duplicate_of": "what-is-lean-scorm12-5l-lsg8r.zip"
+    },
+    {
+      "file": "working-safely-on-scaffolding-scorm12-0txrzw9l.zip",
+      "title": "Working Safely on Scaffolding",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/Working Safely On Scaffolding (1).mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    },
+    {
+      "file": "workplace-inspections-pre-task-assessments-briefings-scorm12-mpjt1kbi.zip",
+      "title": "Workplace Inspections, Pre-Task Assessments, Briefings",
+      "is_guid_filename": false,
+      "media_location": "bundled",
+      "bundled_videos": [
+        "scormcontent/assets/7- 1.4 Workplace Inspections, Pre-Task Assessments, Briefings.mp4"
+      ],
+      "external_refs": [],
+      "vtt_count": 0,
+      "vtt_files": [],
+      "transcript_status": "needs-investigation",
+      "status": "done",
+      "batch": 13,
+      "parse_error": null
+    }
+  ]
+}

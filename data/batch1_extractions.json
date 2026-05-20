@@ -1,0 +1,261 @@
+[
+  {
+    "file": "2024-nfpa-70-e-required-boundaries-scorm12-dumyti56.zip",
+    "title": "2024 NFPA 70E Required Boundaries",
+    "manifest_items": [
+      "2024 NFPA 70E Required Boundaries"
+    ],
+    "vtt_transcripts": [
+      {
+        "file": "scormcontent/assets/ai-captions-1766005893221.vtt",
+        "text": "A shock risk assessment shall be used and determine the voltage to which qualified and authorized personnel will be exposed, the boundary requirements and the personal protective equipment necessary in order to minimize the possibility of electric shock to personnel. The shock protection boundaries identified as limited approach boundary and restricted approach boundary shall be applicable where approaching personnel are approaching exposed energized electrical conductors or circuit parts. Table 130.4 EA in the 2024 NFPA 70E shall be used for the distances associated with various AC system voltages. Table 130.4 EB shall be used for the distances associated with various DC system voltages. Unless permitted by 130.4 F3 in the 2024 NFPA 70E, no unqualified person shall be permitted to approach nearer than the limited approach boundary of energized conductors and circuit parts. Where one or more unqualified persons are working at or close to the limited approach boundary, the alerting methods in 130.80 of the 2024 NFPA 70E shall be applied to warn the unqualified persons of the electrical hazard and to stay outside of the limited approach boundary. Where there is a need for an unqualified person to cross the limited approach boundary, a qualified person shall advise the unqualified person of the possible hazards and continuously escort the unqualified person while inside the limited approach boundary. Under no circumstance shall the escorted unqualified person be permitted to cross the restricted approach boundary. No qualified person shall approach or take any conductive object closer to exposed energized electrical conductors or circuit parts than the restricted approach boundaries set forth in table 130.4 EA. And table 130.4 EB of the 2024 NFPA 70E unless one of the following conditions applies. The qualified and authorized person is insulated or guarded from the energized electrical conductors or circuit parts operating at 50 volts or more. Insulating gloves or insulating gloves and sleeves are considered insulation only with regard to the energized parts upon which work is performed. The energized electrical conductors or circuit parts are insulated from the qualified and authorized person and from any other conductive object at a different potential.",
+        "cue_count": 41
+      }
+    ],
+    "video_files": [
+      "13- 1.10 2024 NFPA 70E Required Bo.mp4"
+    ],
+    "asset_files": [
+      "yvjsipsYgIz6Z6y5.jpg",
+      "1a-.jpg",
+      "2-.jpg",
+      "4-.jpg",
+      "3-.jpg",
+      "13- 1.10 2024 NFPA 70E Required Bo.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 74
+  },
+  {
+    "file": "arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64.zip",
+    "title": "Arc Flash Personal Protective Equipment (PPE)",
+    "manifest_items": [
+      "Arc Flash Personal Protective Equipment (PPE)"
+    ],
+    "vtt_transcripts": [
+      {
+        "file": "scormcontent/assets/ai-captions-1765573317301.vtt",
+        "text": "The incident energy analysis method in accordance with 130.5G of the 2024 NFPA 70E shall be used for the selection of PPE. The incident energy exposure level shall be based on the working distance of the employee's face and chest areas from a prospective arc source for the specific task to be performed. Arc. clothing and other PPE shall be used by the employee based on the incident energy exposure associated with the specific task, recognizing that incident energy increases as the distance from the arc flash decreases. Additional PPE shall be used for any parts of the body that are closer than the working distance at which the incident energy was determined. The incident energy analysis shall take into consideration the characteristics of the overcurrent protective device. And its fault clearing time, including its condition of maintenance. The NFPA 70E requires the incident energy analysis shall be updated when changes occur in the electrical distribution system that could affect the results of the analysis. The incident energy analysis shall also be reviewed for accuracy at intervals not to exceed 5 years. Please note changes that could affect the results of the incident energy analysis include changes made by utilities or other entities such as transformer sizing, as well as modifications to protective devices or changes to protective settings. The NFPA 70E requires the owner of the electrical equipment shall be responsible for the documentation, installation, and maintenance of the mark label. Qualified persons exposed to electrical hazards when the risk associated with that hazard is not adequately reduced by the applicable electrical installation requirements shall be provided with and shall use protective equipment that is designed and constructed for the specific part of the body to be protected and for the work to be performed. Please note that the PPE requirements of 130.7 are intended to protect a person from arc flash and electrical shock hazards. While some situations could result in burns to the skin, even with the protection selected, burn injury should be. Reduced and survivable due to the explosive effect of some arc events, physical trauma injuries could occur. The PPE requirements of 130.7 do not address protection against physical trauma other than exposure to the thermal effects of an arc flash. When an employee is working within the restricted approach boundary, the worker shall wear PPE in accordance with section 130.4 of the 2024 NFPA 70E. When an employee is working within the ARC flash boundary, he or she shall wear protective clothing and other PPE in accordance with 130.5 of the 2024 NFPA 70E. All parts of the body inside the arc flash boundary shall be protected. Please note where the estimated incident energy exposure is greater than the arc rating of commercially available arc rated PPE. Then for the purpose of testing for the absence of voltage, the following examples of risk reduction methods could be used to reduce the likelihood of occurrence of an arcing event or the severity of exposure, use of non-contact capacitive test instruments, or permanently installed metering devices in the equipment for indication. Before using the contact type test instrument to test for the absence of voltage, if equipment design allows, observe visible gaps between the equipment conductors and circuit parts and the electrical sources of supply. Increase the working distance or consider system design options to reduce the incident energy level. As part of this program, GSL will provide two separate R graded kits as follows. Arc rated apparel shall be inspected before each use. Work clothing or arc flash suits that are contaminated or damaged to the extent that their protective qualities are impaired shall not be used. Protective items that become contaminated with grease, oil, or flammable liquids or combustible materials shall not be used. Arc Flash PPE inspections shall include but is not limited to the following inspect the face shield for excessive scratches that could affect visibility. Inspect the face shield assembly for damaged or missing components such as broken or cracked face shield, torn fabric on 40 calorie hoods, missing nonconductive guards on the left side, right side, and chin guard and hardware that holds the face shield to the hard hat bracket in 8 calorie kits. Inspect coveralls or jackets and pants and 40 calorie kits for cleanliness, tears, rips, and frays in fabric. Ensure the manufacturer PPE category tag is present and legible and inspect insulated gloves visually for cracks, holes, tears, and sun damage. An air test shall be conducted on insulated gloves and leather protectors shall be used with insulated gloves. Insulated gloves shall also be stored in a protective bag with their assigned arc flash kit. When issuing arc flash kits to projects or returning arc flash kits back to the main office, an inspection for defects and cleanliness shall be conducted. Defects found that could affect the integrity of our personal protective equipment or kits that require cleaning and laundering must be tagged, taken out of service, and arrangements made with the office for such repairs, replacements, and laundering. Arc rated apparel shall be stored in a manner that prevents physical damage, damage from moisture, dust, or other deteriorating agents or contamination from flammable or combustible materials. When arc rated clothing is cleaned, manufacturer's instructions shall be followed to avoid loss of protection. When arc rated clothing is repaired, the same arc rated materials used to manufacture the RC rated clothing shall be used to provide repairs. Please note the purpose of following manufacturers' instructions is to avoid the loss of protection and to remove contaminants such as hydrocarbons and metallic and disease causing contaminants that could compromise safety.",
+        "cue_count": 128
+      }
+    ],
+    "video_files": [
+      "10-17A~1.mp4"
+    ],
+    "asset_files": [
+      "yvjsipsYgIz6Z6y5.jpg",
+      "10-17A~1.jpg",
+      "4-.jpg",
+      "5-.jpg",
+      "6-.jpg",
+      "9-.jpg",
+      "8-.jpg",
+      "7-.jpg",
+      "Arc Rated Kits.jpg",
+      "Untitled.jpg",
+      "10-.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 78
+  },
+  {
+    "file": "boosting-self-regulation-scorm12-dmovz3bh.zip",
+    "title": "Boosting Self-Regulation",
+    "manifest_items": [
+      "Boosting Self-Regulation"
+    ],
+    "vtt_transcripts": [
+      {
+        "file": "scormcontent/assets/LDRSHP-EQ-03.vtt",
+        "text": "Regulating our emotions isn't always easy. It's hard not to be overwhelmed when we're stressed, lash out when we're angry, or feel defeated when we fail. But by boosting your self-regulation, you can control your emotions, rather than letting them control you. It's a useful skill, so let's take a look at the elements of self-regulation and how you can improve your self-regulation skills. First, self-regulation is made up of five elements. To start, there's self-control, which is your ability to control your feelings. With high self-control, you can remain rational and levelheaded, even when your emotions are running high. Second, there's trustworthiness. When you regulate your emotions, you're less likely to act impulsively. You act consistently and according to your values, and that helps others trust your behavior. Third, there's conscientiousness, which is about being disciplined and responsible. Rather than blaming external factors for your actions, you take responsibility for your performance. Fourth, there's a adaptability, which refers to how well you handle change and unexpected stress. Without this quality, you may crack under pressure or express high anxiety, stress, and worry. And finally, there's innovation. With strong self-regulation, you're more likely to see challenges as opportunities, and be open to new, innovative ideas. So, how can you improve your self-regulation? Rather than avoiding your feelings, you'll need to confront them head-on. Here are five tips. The first tip for improving your self-regulation is to prepare for the emotion. If you need to walk into a tough conversation, or you know you have a challenging day ahead, think about how you can calm yourself down before that event. Prepare for your emotional reactions, and you'll be less likely to get caught off-guard. Second, practice mindful observation. Rather than burying your feelings, mindfully accept them. Recognize why you're feeling the way you are, and don't judge that emotion. Third, take time to STOPP, which is an acronym that stands for stop, take a breath, observe, pull back, and proceed. When your emotions are spinning, pause, breathe in, observe how you're feeling, and take a step back before responding. Then, once you've evaluated that bigger picture, proceed with the most appropriate action. Fourth, practice letting go. When we hold onto negative emotions, we often escalate our sensitivity to them. So, instead, try to recognize that something happened, feel grateful for what you've learned, and then think toward the future. Finally, reframe your thoughts through cognitive reappraisal, which involves readjusting your mindset. Whether you're stuck in traffic, dealing with an unfocused employee, or feeling disrespected, there are a lot of ways to interpret the same situation. And with cognitive reappraisal, you can choose the healthiest interpretation by changing your thought patterns. So, the next time your emotions are running high, remind yourself that you're in control. Remember these tips, and you can improve your self-regulation skills and stay in the emotional driver's seat.",
+        "cue_count": 81
+      },
+      {
+        "file": "scormcontent/assets/rbc/sHjZZH3MMZluQI_8_LDRSHP-EQ-03.vtt",
+        "text": "Regulating our emotions isn't always easy. It's hard not to be overwhelmed when we're stressed, lash out when we're angry, or feel defeated when we fail. But by boosting your self-regulation, you can control your emotions, rather than letting them control you. It's a useful skill, so let's take a look at the elements of self-regulation and how you can improve your self-regulation skills. First, self-regulation is made up of five elements. To start, there's self-control, which is your ability to control your feelings. With high self-control, you can remain rational and levelheaded, even when your emotions are running high. Second, there's trustworthiness. When you regulate your emotions, you're less likely to act impulsively. You act consistently and according to your values, and that helps others trust your behavior. Third, there's conscientiousness, which is about being disciplined and responsible. Rather than blaming external factors for your actions, you take responsibility for your performance. Fourth, there's a adaptability, which refers to how well you handle change and unexpected stress. Without this quality, you may crack under pressure or express high anxiety, stress, and worry. And finally, there's innovation. With strong self-regulation, you're more likely to see challenges as opportunities, and be open to new, innovative ideas. So, how can you improve your self-regulation? Rather than avoiding your feelings, you'll need to confront them head-on. Here are five tips. The first tip for improving your self-regulation is to prepare for the emotion. If you need to walk into a tough conversation, or you know you have a challenging day ahead, think about how you can calm yourself down before that event. Prepare for your emotional reactions, and you'll be less likely to get caught off-guard. Second, practice mindful observation. Rather than burying your feelings, mindfully accept them. Recognize why you're feeling the way you are, and don't judge that emotion. Third, take time to STOPP, which is an acronym that stands for stop, take a breath, observe, pull back, and proceed. When your emotions are spinning, pause, breathe in, observe how you're feeling, and take a step back before responding. Then, once you've evaluated that bigger picture, proceed with the most appropriate action. Fourth, practice letting go. When we hold onto negative emotions, we often escalate our sensitivity to them. So, instead, try to recognize that something happened, feel grateful for what you've learned, and then think toward the future. Finally, reframe your thoughts through cognitive reappraisal, which involves readjusting your mindset. Whether you're stuck in traffic, dealing with an unfocused employee, or feeling disrespected, there are a lot of ways to interpret the same situation. And with cognitive reappraisal, you can choose the healthiest interpretation by changing your thought patterns. So, the next time your emotions are running high, remind yourself that you're in control. Remember these tips, and you can improve your self-regulation skills and stay in the emotional driver's seat.",
+        "cue_count": 81
+      }
+    ],
+    "video_files": [
+      "Boosting Self-Regulation (3).mp4",
+      "Rl8lrGe1vKUbscIA_LDRSHP-EQ-03.mp4"
+    ],
+    "asset_files": [
+      "TLLM89yDnnITQh-H.jpg",
+      "Boosting Self-Regulation (3).jpg",
+      "mountains.jpg",
+      "quote_background.jpg",
+      "LDRSHP-EQ-03.jpg",
+      "9pQa9kpLla5JOISF.png",
+      "Nb9Fz_g7bieZpFt-_LDRSHP-EQ-03.jpg",
+      "NBIC_logo_light_bulb.png"
+    ],
+    "format": "rise360",
+    "file_count": 68
+  },
+  {
+    "file": "chapter-01-embracing-lean-productivity-scorm12-rrruldwd.zip",
+    "title": "Chapter 01 - Embracing Lean Productivity",
+    "manifest_items": [
+      "Chapter 01 - Embracing Lean Productivity"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [],
+    "asset_files": [
+      "0IZGQVI8ZscpLKGc.jpg",
+      "Screenshot (33).jpg",
+      "GSL Handshake_1.1.5 1.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 62
+  },
+  {
+    "file": "abnormal-lockout-removal-procedures-scorm12-nyjwgrko.zip",
+    "title": "Abnormal Lockout Removal Procedures",
+    "manifest_items": [
+      "Abnormal Lockout Removal Procedures"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [
+      "5- Abnormal Lockout Removal Procedures.mp4"
+    ],
+    "asset_files": [
+      "UDdzPEVER9ZIiREM.jpg",
+      "Abnormal Lock Removal Form.png",
+      "5- Abnormal Lockout Removal Procedures.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 60
+  },
+  {
+    "file": "3354da97-5b41-4f64-97cd-9e3cf916414e.zip",
+    "title": "Approving Change Orders in ViewPoint",
+    "manifest_items": [
+      "Approving Change Orders in ViewPoint"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [],
+    "asset_files": [
+      "small_1720024120.jpg",
+      "GRDSyRKpYbpuVz7z.jpg",
+      "Picture2.jpg",
+      "Picture2.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 66
+  },
+  {
+    "file": "avoiding-common-time-wasters-introduction-to-field-leadership-section-1-scorm12-_pz4ofaz.zip",
+    "title": "Avoiding Common Time Wasters- Introduction to Field Leadership Section - 1",
+    "manifest_items": [
+      "Avoiding Common Time Wasters- Introduction to Field Leadership Section - 1"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [],
+    "asset_files": [
+      "small_1720024120.jpg",
+      "mountains.jpg",
+      "B-g2BCSZRrFMVZRd.png",
+      "4YuicFsFMyAfhf3Z.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 65
+  },
+  {
+    "file": "conducting-effective-performance-reviews-scorm12-8ihyn2kz.zip",
+    "title": "Conducting Effective Performance Reviews",
+    "manifest_items": [
+      "Conducting Effective Performance Reviews"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [],
+    "asset_files": [
+      "small_1720024120.jpg",
+      "mountains.jpg",
+      "Screenshot 2025-07-23 165027.jpg",
+      "HallTalk.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 66
+  },
+  {
+    "file": "chapter-4-building-an-effective-team-scorm12-lurfzpkv.zip",
+    "title": "Chapter 4 - Building an Effective Team",
+    "manifest_items": [
+      "Chapter 4 - Building an Effective Team"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [],
+    "asset_files": [
+      "small_1720024120.jpg",
+      "XhTKIH_iKgNJPskd.jpg",
+      "GNBenHqOCOOOqku-.jpg",
+      "mountains.jpg",
+      "paraglide.jpg",
+      "l3gry27bweqvGvd8.png",
+      "HighConveyor (1).jpg",
+      "NBIC_logo_light_bulb.png"
+    ],
+    "format": "rise360",
+    "file_count": 70
+  },
+  {
+    "file": "roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep.zip",
+    "title": "Roles and Responsibilities of a Foreman",
+    "manifest_items": [
+      "Roles and Responsibilities of a Foreman"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [],
+    "asset_files": [
+      "small_1720024120.jpg",
+      "quote_background.jpg",
+      "4YuicFsFMyAfhf3Z.jpg",
+      "Rebar Convo.jpg",
+      "B-g2BCSZRrFMVZRd.png",
+      "stock-image.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 65
+  },
+  {
+    "file": "the-eight-wastes-of-construction-scorm12-9_faca08.zip",
+    "title": "The Eight Wastes of Construction",
+    "manifest_items": [
+      "The Eight Wastes of Construction"
+    ],
+    "vtt_transcripts": [],
+    "video_files": [
+      "Exploring 8 Wastes Tom J.mp4",
+      "Defects Tom J.mp4",
+      "Over _ Under Production Tom J.mp4",
+      "Waiting (1).mp4",
+      "Unused Creativity of Team Memebers (1).mp4",
+      "Transporttion Waste Tom J.mp4",
+      "Excess inventory Tom J.mp4",
+      "Waste Motion- Tom J.mp4",
+      "Waste of Extra Processing-Tom J.mp4"
+    ],
+    "asset_files": [
+      "u2415T4OZmZxogrO.jpg",
+      "LCI 8 Wastes poster_REV_PRINT.pdf",
+      "LCI 8 Wastes poster_SPANISH.pdf",
+      "LCI 6 Tenets poster_SPANISH.pdf",
+      "LCI 6 Tenets poster_PRINT.pdf",
+      "Exploring 8 Wastes Tom J.jpg",
+      "IMG_6981.jpg",
+      "Defects Tom J.jpg",
+      "Site Walk_2.1.1.jpg",
+      "Waiting (1).jpg",
+      "Over _ Under Production Tom J.jpg",
+      "Unused Creativity of Team Memebers (1).jpg",
+      "Transporttion Waste Tom J.jpg",
+      "Conduit Wall.jpg",
+      "Excess inventory Tom J.jpg",
+      "Waste Motion- Tom J.jpg",
+      "Waste of Extra Processing-Tom J.jpg"
+    ],
+    "format": "rise360",
+    "file_count": 92
+  }
+]

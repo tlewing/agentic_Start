@@ -1,0 +1,1302 @@
+{
+  "pulled_at": "2026-05-20",
+  "catalog_id": "b1670146-674a-4730-9e9d-d7d29ba52385",
+  "course_categories": [
+    {
+      "id": "d46e8144-6574-46e6-872b-f7f7257e30e0",
+      "name": "Accountability",
+      "parent": "Leadership"
+    },
+    {
+      "id": "ad7516a1-f4df-4b2f-b32b-c4868a86ed00",
+      "name": "Accubid",
+      "parent": "Estimating"
+    },
+    {
+      "id": "ce06fd30-6ca5-4db8-82d5-8a6bc25fdb95",
+      "name": "Artificial Intelligence",
+      "parent": null
+    },
+    {
+      "id": "8045d91b-6cf8-46d2-a64c-b48d74345fb5",
+      "name": "Assured Grounding",
+      "parent": null
+    },
+    {
+      "id": "09b3195e-4a72-444d-a5ad-628ee6975792",
+      "name": "Change Orders",
+      "parent": "Project Management"
+    },
+    {
+      "id": "f730178a-15a1-4cb4-9c44-99926cfda02f",
+      "name": "Communication",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "55afd43b-427a-4756-8835-0af04fb76564",
+      "name": "Continuous Improvement",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "3e2ee9e9-4ea5-46f8-b4fd-56a27a4d6303",
+      "name": "Culture",
+      "parent": null
+    },
+    {
+      "id": "a10ab5aa-12b5-42f0-b6d0-5eb0044cd26e",
+      "name": "Customer Service",
+      "parent": null
+    },
+    {
+      "id": "7a9e2144-34a7-4836-a536-73e1f90f09e6",
+      "name": "Delegation",
+      "parent": "Leadership"
+    },
+    {
+      "id": "e97ab22f-6dc5-4761-b971-b11ef2ba1dad",
+      "name": "Document Control",
+      "parent": "Leadership"
+    },
+    {
+      "id": "b3f5658e-8d1c-4b6d-92c6-2d9a51547648",
+      "name": "Electrical Safety",
+      "parent": "Safety"
+    },
+    {
+      "id": "6e98492b-4391-4cf3-8118-1ffaa67bbc71",
+      "name": "Emotional Intelligence",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "1963d4e1-1b70-4793-80cc-fac4e5ed2b92",
+      "name": "Empathy",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "1915ec65-ef3c-4341-9a7f-00a397734e72",
+      "name": "Employee Orientation",
+      "parent": null
+    },
+    {
+      "id": "c3798891-d375-4f68-a903-7b415160f9c5",
+      "name": "Estimating",
+      "parent": null
+    },
+    {
+      "id": "72270429-cd93-489f-86b6-6880adc7c938",
+      "name": "Estimating Fundamentals",
+      "parent": "Estimating"
+    },
+    {
+      "id": "addce331-c865-49f1-b413-7719ae3e44ac",
+      "name": "Extreme Ownership",
+      "parent": "Leadership"
+    },
+    {
+      "id": "4b122eba-b413-488c-8350-b82361243d67",
+      "name": "Feedback",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "6ad3ce2b-8663-4b95-9e73-a591c7b03e73",
+      "name": "Field Empowerment",
+      "parent": "Leadership"
+    },
+    {
+      "id": "8eff639d-f02b-4a48-b7d6-7d7dd94f9503",
+      "name": "First Aid / CPR / AED",
+      "parent": "Safety"
+    },
+    {
+      "id": "e51af090-c9bf-4e4b-a0d0-468c22357098",
+      "name": "General Personal Development",
+      "parent": null
+    },
+    {
+      "id": "d04cd3cb-1e8b-4de1-9ea3-49fb07ec1623",
+      "name": "Hazard Awareness",
+      "parent": "Safety"
+    },
+    {
+      "id": "5e97f03d-5500-447b-a03a-52ccbe82e63f",
+      "name": "Hazard Communication",
+      "parent": "Safety"
+    },
+    {
+      "id": "9a6a038b-76b5-4743-a65c-8cd08d988f83",
+      "name": "Industry Transformation",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "20331e89-2f33-4523-8019-d1e6d68ffffb",
+      "name": "Labor Planning",
+      "parent": "Leadership"
+    },
+    {
+      "id": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d",
+      "name": "Leadership",
+      "parent": null
+    },
+    {
+      "id": "2d9e4984-996a-4724-8836-f59dc445fdbc",
+      "name": "Leadership Fundamentals",
+      "parent": "Leadership"
+    },
+    {
+      "id": "f449071f-df55-4fea-b35e-5481cff9456b",
+      "name": "Lean Fundamentals",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "02396841-12c7-4242-ad14-fe02ab3d7c62",
+      "name": "Lean Principals",
+      "parent": null
+    },
+    {
+      "id": "5ad5da44-6302-42b8-a2ad-2f6d151b02f6",
+      "name": "Lockout / Tagout",
+      "parent": "Safety"
+    },
+    {
+      "id": "0b021a05-5fd8-42ea-9b37-b293019d2100",
+      "name": "Mentor \\ Teaching",
+      "parent": "Leadership"
+    },
+    {
+      "id": "d69e9e1c-2a09-4f41-9d1e-556a53bc529e",
+      "name": "Motivation",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "996ed3a7-0193-4229-9a89-df5b64f12085",
+      "name": "OSHA & MSHA Inspections",
+      "parent": null
+    },
+    {
+      "id": "4360a397-e6f2-4250-afad-fd61510144de",
+      "name": "People and Communication Skills",
+      "parent": null
+    },
+    {
+      "id": "a2c33965-b334-4ddc-8021-81bd5cf8cc3f",
+      "name": "Performance",
+      "parent": "Leadership"
+    },
+    {
+      "id": "d516498a-4f32-47d5-892b-42c4d446189a",
+      "name": "Personal Development",
+      "parent": null
+    },
+    {
+      "id": "a1ba0731-425a-4a37-b59c-13896cfa1af1",
+      "name": "Policy",
+      "parent": null
+    },
+    {
+      "id": "c2b2c6d8-66c3-4d9a-bb66-10bd5896ef12",
+      "name": "Presentation Skills",
+      "parent": null
+    },
+    {
+      "id": "f12632bc-d903-4f1c-b8c9-436a2e6f662e",
+      "name": "Presenting",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "0cb43629-2503-493b-a418-ad0916b4d924",
+      "name": "Procedure",
+      "parent": null
+    },
+    {
+      "id": "dc6847a4-93b4-452e-bde8-e20f55a454b7",
+      "name": "Process Management",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "14a2478b-a404-4364-9b65-5789b3068939",
+      "name": "Professional Development",
+      "parent": null
+    },
+    {
+      "id": "487f6317-1cec-4a9e-bb26-e9aa3a8a6f17",
+      "name": "Project Closeout",
+      "parent": "Procedure"
+    },
+    {
+      "id": "0d020aba-281e-4486-9c8c-b74c1be067a8",
+      "name": "Project Management",
+      "parent": null
+    },
+    {
+      "id": "e3894194-98d5-4c3e-8d16-c1ce9473a729",
+      "name": "Project Planning & Scheduling",
+      "parent": "Leadership"
+    },
+    {
+      "id": "449cba81-5be4-4d0d-8abc-8e64fd9f2d04",
+      "name": "Pull Planning",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "9be92977-875a-4139-bb6f-b0790a114eea",
+      "name": "Qualified Person",
+      "parent": null
+    },
+    {
+      "id": "13f7dae1-d19e-4e5b-be70-89685f49d87c",
+      "name": "Resource Planning",
+      "parent": "Leadership"
+    },
+    {
+      "id": "79cf9149-66d1-4318-b135-f8d6b90b4885",
+      "name": "Respect For People",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "ad488c6a-c057-45aa-813b-ca96f978347f",
+      "name": "Risk Assessment",
+      "parent": null
+    },
+    {
+      "id": "b1428e36-13cf-4f55-b398-a7afcac63303",
+      "name": "Safety",
+      "parent": null
+    },
+    {
+      "id": "b9034c97-d120-4568-8eb0-0916ea224665",
+      "name": "Safety Coordinator",
+      "parent": null
+    },
+    {
+      "id": "fb252bbf-b22c-4013-8eba-c712adb70be5",
+      "name": "Safety Culture",
+      "parent": "Culture"
+    },
+    {
+      "id": "9a8bf3a0-9ef8-4cd1-975f-afdc4bab485e",
+      "name": "Safety Planning",
+      "parent": null
+    },
+    {
+      "id": "a239a00b-4c5d-461b-9bae-490ca9bdfa99",
+      "name": "Safety Procedure",
+      "parent": "Procedure"
+    },
+    {
+      "id": "563a4951-d3bd-4f5b-bf4b-65383695c9c5",
+      "name": "Sales and Customer Service",
+      "parent": null
+    },
+    {
+      "id": "dd477064-6d41-4b93-9b7c-b43c6d5c3fd2",
+      "name": "Self-Awareness",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "a44162b9-272a-486b-a58b-5547e1ee432d",
+      "name": "Self-Regulation",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "ef6bb972-c78a-471d-9e5d-94a508c3acee",
+      "name": "Skills, Traits, & Responsibilities",
+      "parent": "Leadership"
+    },
+    {
+      "id": "25f7d11a-3e9c-43a8-8b17-a3b897b53c0a",
+      "name": "Slips, Trips, & Falls",
+      "parent": "Safety"
+    },
+    {
+      "id": "e0baf010-7750-4132-b5cf-3d5e79c861fc",
+      "name": "Social Skills",
+      "parent": "Soft Skills"
+    },
+    {
+      "id": "0556915b-3cfc-4065-807b-b54435886180",
+      "name": "Soft Skills",
+      "parent": null
+    },
+    {
+      "id": "02a48afa-117b-4868-9d9f-224fa633b531",
+      "name": "Strategy",
+      "parent": "Leadership"
+    },
+    {
+      "id": "042ad96e-7033-4350-a4d5-f7cfc166137d",
+      "name": "Stress Management",
+      "parent": null
+    },
+    {
+      "id": "6ceddfae-bcda-4a1c-be6a-3d64ee714a89",
+      "name": "Task Training",
+      "parent": null
+    },
+    {
+      "id": "564401cb-1e82-4841-a8a0-80b6e434d19d",
+      "name": "Team Building & Teamwork",
+      "parent": null
+    },
+    {
+      "id": "cd9c892d-2124-46e1-8e70-3a5520bdeeae",
+      "name": "Technology Skills",
+      "parent": null
+    },
+    {
+      "id": "0bb07ff3-6cd4-4f32-9735-cec24ba194b5",
+      "name": "Test",
+      "parent": null
+    },
+    {
+      "id": "d389664a-c8ed-4460-806a-6798225d2877",
+      "name": "Tools & Technology",
+      "parent": "Leadership"
+    },
+    {
+      "id": "f30e893c-9e4e-483e-9a5f-d08bdd9c373a",
+      "name": "Vehicle/Equipment Inspections",
+      "parent": null
+    },
+    {
+      "id": "c5304c97-090e-42e2-91d2-104314963c77",
+      "name": "Waste Management",
+      "parent": "Lean Principals"
+    },
+    {
+      "id": "84246d57-89ad-40e4-b2f0-26c129b1648e",
+      "name": "Work Area Inspections",
+      "parent": null
+    },
+    {
+      "id": "1d5581db-7c92-4456-bc35-7b689905cf93",
+      "name": "Workforce Management",
+      "parent": "Leadership"
+    }
+  ],
+  "skills": [
+    {
+      "id": "3c835d6d-fe00-41d2-ab11-090d5e21ac0c",
+      "title": "Accessing Pending Change Orders",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "d2fc861d-4077-45d5-94d1-c4268ec21ef9",
+      "title": "Accountability & Ownership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a2975e35-865c-4ec1-abda-b66606c1d743",
+      "title": "Accountability and Ownership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "21297fac-f462-425b-833b-4b3df3186f58",
+      "title": "Accountability in Leadership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a5d985d1-a47b-4c19-af4b-fbe130e49293",
+      "title": "Accubid Sort Code 5 Export",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "d27c446d-3e1a-422a-b342-ba2f95bc4e5e",
+      "title": "Approach Boundary Management",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "5408f71f-4efb-43db-9097-07f1d93fb586",
+      "title": "Arc Flash Awareness",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "5ab47f7b-e582-4544-99ae-fde9e6eb0dbe",
+      "title": "Building Relationships",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "6994d7ad-8fad-4be7-a362-4bc8110e3a5b",
+      "title": "Chemical Hazard Identification",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "9d054b2f-2380-4d41-a413-472f674d8a5b",
+      "title": "Communication",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "91107604-b7db-42cb-b34f-09a6dc24b363",
+      "title": "Complex LOTO Procedures",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "11f8659e-923e-4d82-babc-1fa838f86daf",
+      "title": "Conducting Evaluations",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b28eb756-819c-4c16-bd3c-1262ec15f15a",
+      "title": "Conducting Field Evaluations",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "90a0fe0f-8100-46c1-bc31-fe5d62e9a146",
+      "title": "Confined Space Program",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "37e51228-13b8-4c29-a55a-5038933cc372",
+      "title": "Container Label Use",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "521b61ab-6841-4781-9742-7826396f9597",
+      "title": "Continuous Improvement",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "44a5436e-9b63-446f-bc1f-9ec4851230f5",
+      "title": "Corrective Counseling",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b70b5e6b-5f96-4901-bdae-5c72e5dd0d0e",
+      "title": "Creating Job Plans",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "3e3e3a8a-67b2-4a98-beec-d1741869597d",
+      "title": "Crew Planning",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "78fd773a-9ebc-43c5-ba4e-c64ce6479eda",
+      "title": "Culture",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "d2c76ad0-389d-4743-9885-f99a40b223b0",
+      "title": "Delegation & Empowerment",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "cba1f787-daaa-420a-a64f-566700dd910f",
+      "title": "Documentation & Reporting",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "c8caaf11-be70-40e2-9dfc-68fcee6da325",
+      "title": "Documentation Practices",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "36e9b3ce-c9b6-4ca8-a962-190cedb5a440",
+      "title": "Effective Communication",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "67f73dd1-cc10-4c97-8486-a5ce307ba0de",
+      "title": "Eight Wastes Recognition",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "847e4a1c-c081-4030-b9ca-f9181c3ed078",
+      "title": "Electrical Hazard Recognition",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a5e9aa47-7ee1-4407-ab46-a6534d087dba",
+      "title": "Electrical Risk Assessment",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "4dfd5bfb-afba-4915-9091-3ff21a071754",
+      "title": "Electrical Safety Fundamentals",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "c1211f38-3295-47fe-abd5-04bb04805e68",
+      "title": "Eliminate Waste",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "007bb983-4ced-4a20-8792-bc2fd29449eb",
+      "title": "Emergency Response Decision Making",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "0a90cd74-937e-4f02-9307-d4d846ee8a16",
+      "title": "Empathy",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8f49ea12-91d9-4b8b-989d-4fcdb9f428c1",
+      "title": "Employee Recognition",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "902a03bf-93c1-4dd3-8565-77c5820a4970",
+      "title": "Empowering Teams",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "7290e4bb-096f-4518-b8d2-0566e73802ce",
+      "title": "Energized Work Practices",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "60095be5-87bf-42ce-a179-1a6594b8ce9a",
+      "title": "EQ Fundamentals",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "47a911a4-4ae0-4920-8cb8-cf487e3e5018",
+      "title": "EQ Leadership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "171a423d-4023-446c-ae6c-6067f41ff9f4",
+      "title": "Estimating",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "1eb5ead6-ce61-4e91-aa97-2a59b6c15eb0",
+      "title": "Extreme Ownership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "be191c67-8ea7-4f25-b3e9-df29718093df",
+      "title": "Fall Hazard Recognition",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8e85c0ac-3222-4ca3-98f0-6cac3f40aed3",
+      "title": "Field Supervision",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "37fb0531-5751-49fc-8b91-8e239866df7b",
+      "title": "Field Team Empowerment",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+      "title": "First / CPR/ AED",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "6a4ae612-f825-4788-9370-c62e5038e6ca",
+      "title": "Focus on Flow",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "7dafca91-9354-42e5-b233-576038a76d3c",
+      "title": "Foreman Role & Responsibilities",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "bf6c808b-978d-4efd-a88c-05595639043d",
+      "title": "Handling Resistance in Counseling",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "aaf234cf-10a3-46ed-a259-29e73a9625cb",
+      "title": "Hazard & Precautionary Statement Use",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b6a87613-f658-4ee3-9a1a-3c115608fb7a",
+      "title": "Hazardous Atmosphere Recognition",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "2c1b0d50-ec77-470d-a8ec-8fb3125f7a51",
+      "title": "Hazardous Energy Control",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "520252f6-1783-4006-92d2-1f6d3301dd95",
+      "title": "Identifying Strengths & Values",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "d55e74dc-9a42-466e-91d5-8e3bfa8e69df",
+      "title": "Incident Investigation",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "ca95a16f-f8de-4e07-9131-a69eabdb4fa5",
+      "title": "Injury Management",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "3f55a285-c1d5-457c-ae4e-981b9910b1f8",
+      "title": "Job Plan Analysis",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "cdf85a36-c1bf-488f-b4e4-a3ff47f9a28a",
+      "title": "L",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "82082cd0-3bdc-4e18-9a28-c6e02d523ef7",
+      "title": "Ladder Safety",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b1cd74e7-b9b0-4b5f-9cc0-7acdb7b92d77",
+      "title": "Leadership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "615096c1-9afd-497f-90a7-da16971884a2",
+      "title": "Lean Fundamentals",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "1e0a096a-587e-4321-9e62-1195a0cdad63",
+      "title": "Lean History Understanding",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a684b0f5-7de1-4a7a-a897-ea2a5d6a46f7",
+      "title": "Lean Mindset",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "75b43b2f-f54b-49e3-aec6-c162fed6f8c6",
+      "title": "LOTO Fundamentals",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a001f764-267c-4ff3-aa38-305ad2cc0ccf",
+      "title": "LOTO Mastery",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8e4ddfd5-3db7-4df1-9d7d-0646da72387b",
+      "title": "Maintaining Job Plans",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8a2cf41f-41eb-4bfc-8447-29b924c8b54e",
+      "title": "Manpower Projection",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "39bd6daf-4d55-49d2-a286-0cc35f845782",
+      "title": "Materials Handling Planning",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a3eb7d65-b597-453f-9f4f-79ea0497924e",
+      "title": "Nevada Employee Rights",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "3796c38b-82ad-4a9c-83aa-1a828580ac2c",
+      "title": "Performance Reviews",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "6cc0deca-9a57-4f94-84bd-021d42bebd9f",
+      "title": "Personal Fall Arrest Systems",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "818269a8-c860-47a1-a965-1abf6ac39d75",
+      "title": "Personal Safety",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "846bc4bc-2cf5-44df-8c80-d6bdb70b9130",
+      "title": "Planning & Scheduling",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "80753959-e52d-4bbb-9110-5b07cd2aa0b7",
+      "title": "ProCore Job Setup",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8b92da9d-d2bc-41d2-91c4-5313fe31ac50",
+      "title": "Productivity Benefits",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "0a8c23ef-4559-413c-bf3c-2b85fa3778d0",
+      "title": "Productivity Execution",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "7466b75f-f76c-488d-aca1-758d49370ba1",
+      "title": "Project Planning",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "2555cdf0-bb75-4476-bd20-5081ce751abe",
+      "title": "Project Planning & Execution",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "2764dd41-2f54-43ab-9c41-5c72bd0f9c7a",
+      "title": "Project Team Leadership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "9d2e7693-ca75-4027-a659-abe82370313b",
+      "title": "Pull Planning",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "040459dc-248e-457d-bc27-0e6cdfbcf0b5",
+      "title": "Regulatory Inspections",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "23aa64fa-ca2d-4558-a2f3-05f51eb87a34",
+      "title": "Respect for People",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8b4a01fd-a97a-41b2-8071-c848db5739fd",
+      "title": "Return to Service",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "8b2f0134-9b3e-411f-9331-8475c491543d",
+      "title": "Safety Culture & Documentation",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b96b0f18-ea52-4d19-81ef-35c7dfe8d256",
+      "title": "Safety Inspections",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "6b722963-aae2-496b-af4a-f3eb13526c4d",
+      "title": "Safety Responsibility",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "82b44993-f290-4b87-9659-1919fdefb594",
+      "title": "Scaffold Fundamentals",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "9dd98f84-59f5-4b22-914d-edb811a48705",
+      "title": "Self-Regulation",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b3cc48fd-e78a-4451-8919-0e9c2da6793a",
+      "title": "Simple LOTO Procedures",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "a5b6c6d8-f5fd-453c-a774-5cece82fcb1c",
+      "title": "Slide Preparation",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "432a9c14-717e-4b46-8006-aebbb838af0d",
+      "title": "Social Skills",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "41d6e1b5-7aa6-4199-8478-52138666fee3",
+      "title": "Strategic Thinking",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "2079381a-ab70-4497-9286-f5b4feefd2bf",
+      "title": "Task Planning",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "b9484b20-77be-436b-800c-54ced0c808d8",
+      "title": "Team Communication Practices",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "719046e0-7866-42c2-ae42-0a2e266f9bd7",
+      "title": "Team Motivation Fundamentals",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "517ea882-ee66-497e-a001-8b2560c7f57e",
+      "title": "Time Management",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "c50592dc-75a1-4a33-916c-dc432a161b79",
+      "title": "Tool & Equipment Management",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "17c4c99a-800a-4752-b0a5-9231f127254a",
+      "title": "Trade Coordination",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "91ef9ca2-6060-4d83-b560-77e59423cb37",
+      "title": "Values-Driven Leadership",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "99572fdb-7fdc-47ec-826a-81063c315f4c",
+      "title": "ViewPoint Change Orders",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    },
+    {
+      "id": "081ac734-fd69-408b-ba5f-15a650b1938c",
+      "title": "Written Program & Employee Rights",
+      "scaleSetId": "dc10f982-86fa-4a5b-8869-6d5e4dde769b"
+    }
+  ],
+  "skill_categories": [],
+  "skill_level_sets": [],
+  "tags": [
+    " Evaluation",
+    " authorization",
+    " labor tracking",
+    " lockout/tagout",
+    "AED",
+    "Accounting",
+    "Accubid",
+    "Active Listening",
+    "Adaptability",
+    "Alignment",
+    "Assessment",
+    "Attendant",
+    "Budgeting",
+    "Budgetting",
+    "Certidication",
+    "Change Orders",
+    "Clear Messaging",
+    "Coaching",
+    "Collaboration",
+    "Communication",
+    "Company Mission",
+    "Conflict",
+    "Conflict Resolution",
+    "Connection",
+    "Construction",
+    "Continuous Improvement",
+    "Counseling",
+    "Culture",
+    "Decision-Making",
+    "Defensiveness",
+    "Delegation",
+    "Development",
+    "Discipline",
+    "Document Control",
+    "Documentation",
+    "E-mail",
+    "Efficiency",
+    "Eliminate Waste",
+    "Emotional Intelligence",
+    "Emotional Management",
+    "Emotional Regulation",
+    "Emotional Understanding",
+    "Empathy",
+    "Empowerment",
+    "Energize",
+    "Engagement",
+    "Estimating",
+    "Excel",
+    "Excel import",
+    "Extreme Ownership",
+    "Feedback",
+    "Field Leadership",
+    "First Aid",
+    "Flow",
+    "Follow-through",
+    "Follow-up",
+    "Foreman Training",
+    "Frontline Leadership",
+    "GHS",
+    "Global harmonized system",
+    "Goal-setting",
+    "Handoffs",
+    "Hazard Elimination",
+    "IDLH",
+    "Improvement",
+    "Industry Change",
+    "Inspection",
+    "Integrity",
+    "Kaizen",
+    "LOTO",
+    "Leadership",
+    "Leadership Basics",
+    "Lean",
+    "Lean Adoption",
+    "Lean Construction",
+    "Lean Principles ",
+    "Lean Skills",
+    "Listening",
+    "Lump Sum",
+    "Meaningful Work",
+    "Mentoring",
+    "Mission",
+    "Mission-Focused",
+    "Motivation",
+    "NFPA 70E",
+    "Negotiation",
+    "OSHA",
+    "Office",
+    "Outlook",
+    "Ownership",
+    "PFAS",
+    "Personal Development",
+    "Personal Protection",
+    "Planning",
+    "Positive Mindset",
+    "Prevention",
+    "Pricing",
+    "ProCore",
+    "ProCore export",
+    "Process",
+    "Process Improvement",
+    "Progressive Discipline",
+    "Quality Check",
+    "Railings",
+    "Rapport",
+    "Re-Cert",
+    "Recognition",
+    "Record-Keeping",
+    "Reflective Practices",
+    "Reliability",
+    "Resistance",
+    "Resolution",
+    "Respect",
+    "Respect For People",
+    "Responsibility",
+    "Return to Service",
+    "SDS",
+    "Safety",
+    "Scaffold",
+    "Scheduling",
+    "Self-Control",
+    "Self-Management",
+    "Self-awareness",
+    "Social Skills",
+    "Spreadsheet",
+    "Structured Crews",
+    "Succession Planning",
+    "TRACK",
+    "Takeoff",
+    "Team Building",
+    "Team Dynamics",
+    "Teams",
+    "Teamwork",
+    "Trade Coordination",
+    "Transparancy",
+    "Trust",
+    "Values",
+    "Values-Driven",
+    "Viewpoint",
+    "Vision",
+    "Vista",
+    "Waste",
+    "Word",
+    "Workflow",
+    "abnormal removal",
+    "access",
+    "accountability",
+    "accuracy",
+    "advancement",
+    "analysis",
+    "anchorage",
+    "approach",
+    "approach boundary",
+    "arc flash",
+    "assembly",
+    "assignment",
+    "atmospheric hazard",
+    "attitudes",
+    "autonomy",
+    "barricades",
+    "barriers",
+    "basics",
+    "benchmarking",
+    "benefits",
+    "boundaries",
+    "boundary",
+    "briefing",
+    "budgets",
+    "categories",
+    "celebration",
+    "checklist",
+    "chemical hazard",
+    "clarity",
+    "closeout",
+    "competent person",
+    "complex lockout",
+    "compliance",
+    "confined space",
+    "consequence",
+    "control",
+    "controls",
+    "conversations",
+    "coordination",
+    "cost",
+    "cost codes",
+    "cost control",
+    "counseling form",
+    "cpr",
+    "data collection",
+    "de-escalation",
+    "decisions",
+    "delivery",
+    "diagnostics",
+    "difficult",
+    "dispute",
+    "documentation & compliance",
+    "edges",
+    "effective teams",
+    "egress",
+    "electrical hazard",
+    "electrical safety",
+    "employee rights",
+    "energized work",
+    "energy control",
+    "engulfment",
+    "entrant",
+    "entrapment",
+    "entry",
+    "entry permit",
+    "entry restriction",
+    "equipment",
+    "escalation",
+    "evaluation process",
+    "evaluations",
+    "examples",
+    "exceptions",
+    "exclusive control",
+    "execution",
+    "expectations",
+    "expectations & onboarding",
+    "extrinsic",
+    "fall arrest",
+    "fall protection",
+    "falls",
+    "field data",
+    "file naming",
+    "finalize",
+    "five-point scale",
+    "footwear",
+    "forecasting",
+    "foreman",
+    "foundation",
+    "fundamentals",
+    "guarding",
+    "guardrail",
+    "handover",
+    "handrail",
+    "harness",
+    "hazard",
+    "hazard communication",
+    "hazard control",
+    "hazard identification",
+    "hazard statement",
+    "hazardous atmosphere",
+    "hazardous energy",
+    "health hazard",
+    "hide tabs",
+    "hoisting",
+    "honesty",
+    "hours per unit",
+    "housekeeping",
+    "identification",
+    "incident energy",
+    "insulated tools",
+    "intrinsic",
+    "isolation",
+    "issue",
+    "job analysis",
+    "job info",
+    "job plan",
+    "job satisfaction",
+    "job structure",
+    "jobsite efficiency",
+    "just-in-time",
+    "kickoff",
+    "label",
+    "label,",
+    "labor",
+    "labor projection",
+    "ladder",
+    "ladder safety",
+    "ladders",
+    "lanyard",
+    "leadership roles",
+    "lifecycle",
+    "limited",
+    "load",
+    "lockout",
+    "logistics",
+    "maintenance",
+    "materials handling",
+    "mechanical hazard",
+    "meetings",
+    "monitoring",
+    "morale",
+    "mud sill",
+    "multitasking",
+    "net",
+    "nets",
+    "notification",
+    "occupational safety",
+    "openings",
+    "organizational chart",
+    "oversight & supervision,",
+    "partnership",
+    "performance",
+    "performance management",
+    "permit",
+    "permit-required",
+    "permits",
+    "physical hazard",
+    "pictogram",
+    "plank",
+    "platform",
+    "policy",
+    "ppe",
+    "pre-planning",
+    "pre-task",
+    "pre-task forms",
+    "precautionary statement",
+    "prioritization",
+    "productivity",
+    "program",
+    "program compliance",
+    "project folder",
+    "project management",
+    "project planning",
+    "project teams",
+    "punch list",
+    "qualification/selection/evaluation",
+    "qualified",
+    "qualified person",
+    "quality",
+    "rails",
+    "red master lock",
+    "regulation",
+    "reporting",
+    "resource planning",
+    "restricted",
+    "review",
+    "reward",
+    "risk",
+    "risk assessment",
+    "risk documentation",
+    "risk evaluation",
+    "risk rating",
+    "roles",
+    "safe work practices",
+    "safety apps",
+    "safety culture",
+    "safety data sheet",
+    "safety plan",
+    "safety process",
+    "safety protocols",
+    "save",
+    "scaffolding",
+    "screw jack",
+    "setup",
+    "setup report",
+    "severe violations",
+    "shared goals",
+    "shock",
+    "shock risk",
+    "signage",
+    "simple lockout",
+    "site layout",
+    "slips",
+    "software",
+    "staging",
+    "step planning",
+    "strategy",
+    "strategy & improvement",
+    "structure",
+    "sub-jobs",
+    "supervision",
+    "supervisor",
+    "supported",
+    "systems",
+    "table method",
+    "tagout",
+    "task assignment",
+    "task lists",
+    "task sequence",
+    "team development",
+    "team management",
+    "team oversight",
+    "technology",
+    "template",
+    "termination",
+    "testing",
+    "three-point rule",
+    "time wasters",
+    "timing",
+    "toxic",
+    "training",
+    "trips",
+    "unit-quantity-based-budget",
+    "verification",
+    "voltage tester",
+    "walkthrough",
+    "work environment",
+    "written plan",
+    "written program"
+  ],
+  "difficulty_scale": [
+    "Foundational",
+    "Intermediate",
+    "Advanced"
+  ],
+  "roles": {
+    "field_career_track": [
+      "Apprentice",
+      "Journeyman",
+      "Leadman",
+      "Foreman",
+      "Superintendent"
+    ],
+    "safety": [
+      "Project Safety Coordinator"
+    ],
+    "project_management": [
+      "Project Manager",
+      "General Superintendent",
+      "Branch Manager"
+    ],
+    "admin": [
+      "Business Manager",
+      "Administrative Assistant",
+      "Purchasing Manager"
+    ],
+    "executive": [
+      "CEO",
+      "COO",
+      "CFO",
+      "Vice President of Operations"
+    ],
+    "source": "_field_operations_package.md, LEARNERPROFILES_SCHEMA_V2.md, _corporate_officers_package.md",
+    "verified_roles": [
+      "Apprentice",
+      "Journeyman",
+      "Leadman",
+      "Foreman",
+      "Superintendent",
+      "Project Safety Coordinator",
+      "Project Manager",
+      "General Superintendent",
+      "Branch Manager",
+      "Business Manager"
+    ],
+    "note": "Field career track (5 roles) is primary for Learn365 targeting. Others are ROLE-UNVERIFIED for training targets."
+  }
+}

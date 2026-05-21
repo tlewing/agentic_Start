@@ -24,33 +24,58 @@ Tom reviews draft SOPs using ChatGPT voice mode, narrating how GSL actually does
 
 ---
 
-## Workstream: Learn365 Skills Framework (WS1)
+## Workstream: Learn365 Skills & Catalog (WS1) — Job 01
 
 ### Current State
-SCORM taxonomy pass COMPLETE. All 185 unique SCORM courses classified with category, tags, skills, difficulty, target roles, and descriptions. 55 existing skills mapped, 0 new skills proposed. Canonical output: `data/scorm_taxonomy_recommendations.json`. Summary report with appendices: `data/scorm_taxonomy_summary.md`.
+JOB 01 COMPLETE through Phase 4. Skill assignment guide ready. Pick up at Learn365 Admin skill entry.
 
-Key stats:
-- 185 courses, 55 skills, 40 categories, 9 roles
-- Confidence: 13 HIGH, 21 MEDIUM-HIGH, 53 MEDIUM, 97 LOW, 1 VERY LOW
-- 172 courses need transcript retrieval to upgrade descriptions
-- 71 duplicate SCORM packages need consolidation
-- 3 proposed Difficulty tags (Foundational/Intermediate/Advanced)
-- 2 NEEDS-REVIEW remaining (Untitled, TEST — both flagged for removal)
-- All 38 scale sets have 0 defined levels — skill levels pending Admin config
+**Completed 2026-05-21 (Job 01 — SCORM Skills Extraction):**
+- Extracted all 241 SCORM packages via `scripts/extract_all_scorm.py`
+- Classified 180 canonical courses into 20 series (0 unclassified)
+- Resolved 49 duplicate groups (57 alternates removed, 2 junk removed, 2 "Copy of" editing copies removed)
+- Mapped 91 of 124 S5 skills (73%) to courses via keyword matching
+- Built 674-row skill-course crosswalk with awarded levels and confidence ratings
+- Approved code convention: `SERIES-##` (e.g., CLT-00, VDL-14)
+- Approved catalog taxonomy: 5 categories (Safety & Compliance, Leadership Development, Operations & Productivity, Communication & Soft Skills, Technical Skills)
+- Cross-referenced CODE_REGISTRY against live Learn365 catalog: 50 courses matched, 130 not yet uploaded
+- Generated `LEARN365_SKILL_ASSIGNMENT_GUIDE.md` — checklist for assigning skills to the 50 courses already in Learn365
+
+**Key artifacts (all in `docs/skills/`):**
+- `CODE_REGISTRY.csv` — 180 canonical courses (slug, code, title, series, type, skills)
+- `skill_course_crosswalk_full.csv` — 674 skill-to-course mappings
+- `LEARN365_SKILL_ASSIGNMENT_GUIDE.md` — step-by-step skill assignment checklist (50 courses ready)
+- `_DUPLICATES.md` — resolved duplicate groups (APPROVED)
+- `_COVERAGE.md` — coverage analysis and gap report
+- `_EXCEPTIONS.md` — overlap and edge case notes
+- `CODE_CONVENTION_PROPOSAL.md` — SERIES-## format (APPROVED)
+- `level_sets.md` — measurement and award level set definitions
+- `per_course/` — 10 pilot extraction sheets
+
+**Key artifacts (in `docs/catalog/`):**
+- `category_scheme.md` — 5-category taxonomy (APPROVED)
+
+**Scripts:**
+- `scripts/extract_all_scorm.py` — bulk SCORM extraction (output in `%TEMP%\scorm_full_extract\`)
+- `scripts/build_full_registry.py` — registry builder + dedup + classification + crosswalk
+
+### RESUME HERE
+**Pick up at: Learn365 skill assignment for the 50 courses already in the LMS.**
+- Open `docs/skills/LEARN365_SKILL_ASSIGNMENT_GUIDE.md`
+- Work through the checklist: open each course in Learn365 Admin > Skills, add skills with awarded levels
+- Decision needed: assign skills to 50 existing courses first, OR upload 130 missing courses first?
+- 2 unmatched Learn365 courses (FL01 typo, FL04 omnibus) need manual matching
+- 33 S5 skills untouched by keyword matching — fill during manual per-course review
 
 ### Blockers
-- 172 transcript gaps — need VTT retrieval from Learn365/Azure for accurate descriptions
-- Scale set levels need Admin Center UI configuration before skill levels can be assigned
-- 36 unused scale sets should be deleted in Admin Center
-- Tag data quality issues: leading space on ` lockout/tagout`, typos (Budgetting, Transparancy), trailing comma on `label,`
+- 130 courses not yet in Learn365 — need SCORM upload before skills can be assigned
+- 33 skills not matched by automated keyword pass — need content-level review
+- FL01 ("Field Leaderaship" — typo) and FL04 (omnibus) need manual CODE_REGISTRY match
 
 ### Planner Tasks (Open)
-- Apply taxonomy recommendations to Learn365 Admin (descriptions, categories, tags, skills) (Important)
-- Retrieve transcripts for 172 courses to upgrade LOW/MEDIUM confidence descriptions (Medium)
-- Define scale set levels in Admin Center (Medium)
-- Delete 36 unused scale sets (Low)
-- Consolidate 71 duplicate SCORM packages (Medium)
-- Fix tag typos in Learn365 vocabulary (Low)
+- Assign skills to 50 courses in Learn365 Admin using guide (Important)
+- Upload 130 missing SCORM courses to Learn365 (Important)
+- Fill 33 untouched skills via content-level review (Medium)
+- Retrieve VTT transcripts for deeper skill extraction (Medium)
 
 ---
 
@@ -86,4 +111,4 @@ Fully absorbed into training-template project. See `training-template/docs/_AGEN
 ---
 
 ## General Handoff Notes
-SCORM taxonomy pass completed 2026-05-20. All 185 courses have recommendations ready for Learn365 Admin application. Next priority: apply descriptions/categories/tags/skills via Learn365 API or Admin UI, then retrieve transcripts to upgrade 172 LOW/MEDIUM confidence descriptions. SOP voice reviews and WS4 Pre-Planning App remain paused pending Tom's availability.
+Job 01 (SCORM Skills Extraction) complete 2026-05-21. 180 canonical courses registered, 50 matched to live Learn365 catalog with skill assignment guide ready. Next priority: assign skills in Learn365 Admin for the 50 ready courses, then upload remaining 130. SOP voice reviews and WS4 Pre-Planning App remain paused pending Tom's availability.

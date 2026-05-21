@@ -1,0 +1,36 @@
+Skill ID;Skill (S5 Original);Course Key (Slug);Proposed Code;Awarded Level;Course Type;Paired Ch1;Confidence
+SK-011;Leadership;chapter-0-introduction-to-critical-leadership-training;CLT-I0;Learning;INTRO;CLT-C1;A
+SK-010;Extreme Ownership;chapter-0-introduction-to-critical-leadership-training;CLT-I0;Learning;INTRO;CLT-C1;A
+SK-012;Leadership Fundamentals;chapter-0-introduction-to-critical-leadership-training;CLT-I0;Learning;INTRO;CLT-C1;B
+SK-011;Leadership;chapter-1-what-makes-a-leader;CLT-C1;Working;SKILLS;intro:CLT-I0;A
+SK-012;Leadership Fundamentals;chapter-1-what-makes-a-leader;CLT-C1;Working;SKILLS;intro:CLT-I0;A
+SK-014;Self-Awareness;chapter-1-what-makes-a-leader;CLT-C1;Learning;SKILLS;intro:CLT-I0;B
+SK-037;Empowering Teams;chapter-1-what-makes-a-leader;CLT-C1;Learning;SKILLS;intro:CLT-I0;B
+SK-112;Building Relationships;chapter-1-what-makes-a-leader;CLT-C1;Learning;SKILLS;intro:CLT-I0;B
+SK-007;Values-Driven Leadership;1-0-coach-k-teaches-values-driven-leadership;VDL-C1;Working;SKILLS;intro:none;A
+SK-006;Values Alignment;1-0-coach-k-teaches-values-driven-leadership;VDL-C1;Working;SKILLS;intro:none;B
+SK-008;Accountability;1-0-coach-k-teaches-values-driven-leadership;VDL-C1;Learning;SKILLS;intro:none;C
+SK-100;Effective Communication;values-driven-leadership-8-effective-communication;VDL-C8;Working;SKILLS;intro:none;A
+SK-099;Communication;values-driven-leadership-8-effective-communication;VDL-C8;Working;SKILLS;intro:none;B
+SK-104;Team Communication Practices;values-driven-leadership-8-effective-communication;VDL-C8;Working;SKILLS;intro:none;A
+SK-007;Values-Driven Leadership;values-driven-leadership-8-effective-communication;VDL-C8;Learning;SKILLS;intro:none;C
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-hazardous-energy-control-lockout-tagout;LOTO-I1;Learning;INTRO;LOTO-C1;A
+SK-095;Hazardous Energy Control;lockout-tagout-procedures-hazardous-energy-control-lockout-tagout;LOTO-I1;Learning;INTRO;LOTO-C1;A
+SK-098;Simple LOTO Procedures;simple-lockout-tagout-procedures;LOTO-C1;Working;SKILLS;intro:LOTO-I1;A
+SK-096;LOTO Fundamentals;simple-lockout-tagout-procedures;LOTO-C1;Working;SKILLS;intro:LOTO-I1;B
+SK-095;Hazardous Energy Control;simple-lockout-tagout-procedures;LOTO-C1;Working;SKILLS;intro:LOTO-I1;B
+SK-094;Complex LOTO Procedures;complex-lockout-tagout-procedures;LOTO-C2;Working;SKILLS;intro:none;A
+SK-095;Hazardous Energy Control;complex-lockout-tagout-procedures;LOTO-C2;Working;SKILLS;intro:none;A
+SK-096;LOTO Fundamentals;complex-lockout-tagout-procedures;LOTO-C2;Working;SKILLS;intro:none;B
+SK-075;Ladder Safety;using-portable-and-fixed-ladders;FP-C4;Working;SKILLS;intro:none;A
+SK-074;Fall Hazard Recognition;using-portable-and-fixed-ladders;FP-C4;Learning;SKILLS;intro:none;C
+SK-044;Lean Fundamentals;chapter-01-embracing-lean-productivity;LEAN-C1;Working;SKILLS;intro:none;B
+SK-043;Lean Application;chapter-01-embracing-lean-productivity;LEAN-C1;Learning;SKILLS;intro:none;B
+SK-051;Eliminate Waste;chapter-01-embracing-lean-productivity;LEAN-C1;Learning;SKILLS;intro:none;C
+SK-042;Pull Planning;chapter-01-embracing-lean-productivity;LEAN-C1;Learning;SKILLS;intro:none;C
+SK-040;Continuous Improvement;chapter-01-embracing-lean-productivity;LEAN-C1;Learning;SKILLS;intro:none;C
+SK-083;Safety;new-hire-safety-orientation;SO-C1;Working;SKILLS;intro:none;A
+SK-084;Safety Awareness & Culture;new-hire-safety-orientation;SO-C1;Working;SKILLS;intro:none;A
+SK-087;Safety Responsibility;new-hire-safety-orientation;SO-C1;Working;SKILLS;intro:none;A
+SK-079;Personal Safety;new-hire-safety-orientation;SO-C1;Working;SKILLS;intro:none;B
+SK-078;Hazard Recognition;new-hire-safety-orientation;SO-C1;Working;SKILLS;intro:none;B

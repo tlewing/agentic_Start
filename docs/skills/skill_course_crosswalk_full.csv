@@ -1,0 +1,642 @@
+Skill ID;Skill Name;Course Slug;Code;Series;Course Type;Awarded Level;Confidence
+SK-113;Accubid;6900d60b-d412-4bc1-aab7-d068f5c8eb0e;ACC-00;ACC;SKILLS;Working;A
+SK-006;Values Alignment;6900d60b-d412-4bc1-aab7-d068f5c8eb0e;ACC-00;ACC;SKILLS;Working;A
+SK-055;Estimating;6900d60b-d412-4bc1-aab7-d068f5c8eb0e;ACC-00;ACC;SKILLS;Learning;B
+SK-113;Accubid;learning-accubid-pro-scorm12-c6av2ijj;ACC-01;ACC;SKILLS;Working;A
+SK-115;Accubid Fundamentals;learning-accubid-pro-scorm12-c6av2ijj;ACC-01;ACC;SKILLS;Working;A
+SK-055;Estimating;learning-accubid-pro-scorm12-c6av2ijj;ACC-01;ACC;SKILLS;Learning;B
+SK-102;Public Speaking;the-art-of-presenting-1-of-3-scorm12-8zxc6t4x;AOP-00;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-2-of-3-scorm12-l_ebmf_n;AOP-01;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-3-of-3-scorm12-medonbco;AOP-02;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-1-the-power-of-great-presenting-scorm12-vamagq-w;AOP-03;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-2-the-givers-mindset-scorm12-ku2y7zgl;AOP-04;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-3-building-your-outline-scorm12-c-q6adkv;AOP-05;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-5-a-preparing-to-present-scorm12-1s5yhlrb;AOP-06;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-6-making-a-first-impression-scorm12-wmxcgy5v;AOP-07;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-7-a-1-delivering-your-presentation-scorm12-bz_habq9;AOP-08;AOP;SKILLS;Working;C
+SK-103;Slide Preparation;the-art-of-presenting-chapter-7-a-1-delivering-your-presentation-scorm12-bz_habq9;AOP-08;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-7-a-delivering-your-presentation-scorm12-mda1rlln;AOP-09;AOP;SKILLS;Working;C
+SK-103;Slide Preparation;the-art-of-presenting-chapter-7-a-delivering-your-presentation-scorm12-mda1rlln;AOP-09;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau;AOP-10;AOP;SKILLS;Working;C
+SK-103;Slide Preparation;the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau;AOP-10;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog;AOP-11;AOP;SKILLS;Working;C
+SK-103;Slide Preparation;the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog;AOP-11;AOP;SKILLS;Working;C
+SK-102;Public Speaking;the-art-of-presenting-chapter-4-creating-your-slides-scorm12-0sloaxu1;AOP-12;AOP;SKILLS;Working;C
+SK-103;Slide Preparation;the-art-of-presenting-chapter-4-creating-your-slides-scorm12-0sloaxu1;AOP-12;AOP;SKILLS;Working;C
+SK-011;Leadership;chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv;CLT-00;CLT;INTRO;Learning;B
+SK-008;Accountability;chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv;CLT-00;CLT;INTRO;Learning;B
+SK-009;Accountability in Leadership;chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv;CLT-00;CLT;INTRO;Learning;B
+SK-010;Extreme Ownership;chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv;CLT-00;CLT;INTRO;Learning;B
+SK-037;Empowering Teams;chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv;CLT-00;CLT;INTRO;Learning;B
+SK-011;Leadership;chapter-1-what-makes-a-leader-scorm12-gkna64je;CLT-01;CLT;SKILLS;Working;A
+SK-012;Leadership Fundamentals;chapter-1-what-makes-a-leader-scorm12-gkna64je;CLT-01;CLT;SKILLS;Working;A
+SK-036;Delegation & Empowerment;chapter-1-what-makes-a-leader-scorm12-gkna64je;CLT-01;CLT;SKILLS;Learning;B
+SK-037;Empowering Teams;chapter-1-what-makes-a-leader-scorm12-gkna64je;CLT-01;CLT;SKILLS;Learning;B
+SK-099;Communication;chapter-1-what-makes-a-leader-scorm12-gkna64je;CLT-01;CLT;SKILLS;Learning;B
+SK-011;Leadership;chapter-10-conclusion-leadership-is-the-most-important-skill-scorm12-2vctenpb;CLT-02;CLT;SKILLS;Working;B
+SK-008;Accountability;chapter-10-conclusion-leadership-is-the-most-important-skill-scorm12-2vctenpb;CLT-02;CLT;SKILLS;Working;B
+SK-009;Accountability in Leadership;chapter-10-conclusion-leadership-is-the-most-important-skill-scorm12-2vctenpb;CLT-02;CLT;SKILLS;Learning;B
+SK-037;Empowering Teams;chapter-10-conclusion-leadership-is-the-most-important-skill-scorm12-2vctenpb;CLT-02;CLT;SKILLS;Learning;B
+SK-011;Leadership;chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7;CLT-03;CLT;SKILLS;Working;A
+SK-112;Building Relationships;chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7;CLT-03;CLT;SKILLS;Working;A
+SK-008;Accountability;chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7;CLT-03;CLT;SKILLS;Learning;B
+SK-009;Accountability in Leadership;chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7;CLT-03;CLT;SKILLS;Learning;B
+SK-037;Empowering Teams;chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7;CLT-03;CLT;SKILLS;Learning;B
+SK-010;Extreme Ownership;chapter-5-extreme-ownership-scorm12-ec9unjhp;CLT-04;CLT;SKILLS;Working;A
+SK-011;Leadership;chapter-5-extreme-ownership-scorm12-ec9unjhp;CLT-04;CLT;SKILLS;Working;A
+SK-008;Accountability;chapter-5-extreme-ownership-scorm12-ec9unjhp;CLT-04;CLT;SKILLS;Learning;B
+SK-009;Accountability in Leadership;chapter-5-extreme-ownership-scorm12-ec9unjhp;CLT-04;CLT;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-5-extreme-ownership-scorm12-ec9unjhp;CLT-04;CLT;SKILLS;Learning;B
+SK-011;Leadership;chapter-6-leadership-law-1-cover-and-move-scorm12-8ifufrcg;CLT-05;CLT;SKILLS;Working;A
+SK-037;Empowering Teams;chapter-6-leadership-law-1-cover-and-move-scorm12-8ifufrcg;CLT-05;CLT;SKILLS;Working;A
+SK-099;Communication;chapter-6-leadership-law-1-cover-and-move-scorm12-8ifufrcg;CLT-05;CLT;SKILLS;Learning;B
+SK-011;Leadership;chapter-8-leadership-law-3-prioritize-and-execute-scorm12-t3uuyi2b;CLT-06;CLT;SKILLS;Working;A
+SK-036;Delegation & Empowerment;chapter-8-leadership-law-3-prioritize-and-execute-scorm12-t3uuyi2b;CLT-06;CLT;SKILLS;Working;A
+SK-037;Empowering Teams;chapter-8-leadership-law-3-prioritize-and-execute-scorm12-t3uuyi2b;CLT-06;CLT;SKILLS;Learning;B
+SK-112;Building Relationships;chapter-8-leadership-law-3-prioritize-and-execute-scorm12-t3uuyi2b;CLT-06;CLT;SKILLS;Learning;B
+SK-011;Leadership;chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i;CLT-07;CLT;SKILLS;Working;A
+SK-005;Culture;chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i;CLT-07;CLT;SKILLS;Working;A
+SK-008;Accountability;chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i;CLT-07;CLT;SKILLS;Learning;B
+SK-009;Accountability in Leadership;chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i;CLT-07;CLT;SKILLS;Learning;B
+SK-031;Strategic Thinking;chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i;CLT-07;CLT;SKILLS;Learning;B
+SK-011;Leadership;critical-leadership-training-scorm12-cgy5ZMn8;CLT-08;CLT;SKILLS;Working;A
+SK-008;Accountability;critical-leadership-training-scorm12-cgy5ZMn8;CLT-08;CLT;SKILLS;Working;A
+SK-009;Accountability in Leadership;critical-leadership-training-scorm12-cgy5ZMn8;CLT-08;CLT;SKILLS;Learning;B
+SK-010;Extreme Ownership;critical-leadership-training-scorm12-cgy5ZMn8;CLT-08;CLT;SKILLS;Learning;B
+SK-037;Empowering Teams;critical-leadership-training-scorm12-cgy5ZMn8;CLT-08;CLT;SKILLS;Learning;B
+SK-011;Leadership;leadership-decision-making-under-pressure-scorm12-AIhn49zc;CLT-09;CLT;SKILLS;Working;C
+SK-011;Leadership;leadership-law-2-keep-it-simple-scorm12-dsimqrvx;CLT-10;CLT;SKILLS;Working;A
+SK-030;Project Planning & Execution;leadership-law-2-keep-it-simple-scorm12-dsimqrvx;CLT-10;CLT;SKILLS;Working;A
+SK-037;Empowering Teams;leadership-law-2-keep-it-simple-scorm12-dsimqrvx;CLT-10;CLT;SKILLS;Learning;B
+SK-099;Communication;leadership-law-2-keep-it-simple-scorm12-dsimqrvx;CLT-10;CLT;SKILLS;Learning;B
+SK-099;Communication;chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq;COMM-00;COMM;SKILLS;Working;A
+SK-100;Effective Communication;chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq;COMM-00;COMM;SKILLS;Working;A
+SK-011;Leadership;chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq;COMM-00;COMM;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq;COMM-00;COMM;SKILLS;Learning;B
+SK-034;Team Morale;chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq;COMM-00;COMM;SKILLS;Learning;B
+SK-057;Confined Space Program;permit-required-confined-spaces-scorm12-Cq6_VtQw;CS-00;CS;SKILLS;Working;B
+SK-081;Regulatory Inspections;permit-required-confined-spaces-scorm12-Cq6_VtQw;CS-00;CS;SKILLS;Working;B
+SK-058;Hazardous Atmosphere Recognition;permit-required-confined-spaces-scorm12-Cq6_VtQw;CS-00;CS;SKILLS;Learning;B
+SK-083;Safety;permit-required-confined-spaces-scorm12-Cq6_VtQw;CS-00;CS;SKILLS;Learning;B
+SK-109;Self-Regulation;boosting-self-regulation-scorm12-dmovz3bh;EQ-00;EQ;SKILLS;Working;A
+SK-006;Values Alignment;boosting-self-regulation-scorm12-dmovz3bh;EQ-00;EQ;SKILLS;Working;A
+SK-106;EQ Leadership;boosting-self-regulation-scorm12-dmovz3bh;EQ-00;EQ;SKILLS;Learning;B
+SK-107;Emotional Intelligence (EQ);boosting-self-regulation-scorm12-dmovz3bh;EQ-00;EQ;SKILLS;Learning;B
+SK-107;Emotional Intelligence (EQ);chapter-01-what-is-emotional-intelligence-eq-scorm12-byirin-l;EQ-01;EQ;SKILLS;Working;A
+SK-011;Leadership;chapter-01-what-is-emotional-intelligence-eq-scorm12-byirin-l;EQ-01;EQ;SKILLS;Working;A
+SK-079;Personal Safety;chapter-01-what-is-emotional-intelligence-eq-scorm12-byirin-l;EQ-01;EQ;SKILLS;Learning;B
+SK-110;Social Skills;chapter-6-enhancing-your-social-skills-scorm12-idczjurm;EQ-02;EQ;SKILLS;Working;A
+SK-011;Leadership;chapter-6-enhancing-your-social-skills-scorm12-idczjurm;EQ-02;EQ;SKILLS;Working;A
+SK-014;Self-Awareness;chapter-6-enhancing-your-social-skills-scorm12-idczjurm;EQ-02;EQ;SKILLS;Learning;B
+SK-023;Employee Motivation;chapter-6-enhancing-your-social-skills-scorm12-idczjurm;EQ-02;EQ;SKILLS;Learning;B
+SK-079;Personal Safety;chapter-6-enhancing-your-social-skills-scorm12-idczjurm;EQ-02;EQ;SKILLS;Learning;B
+SK-108;Empathy;developing-empathy-scorm12-vhcmzfyl;EQ-03;EQ;SKILLS;Working;B
+SK-106;EQ Leadership;developing-empathy-scorm12-vhcmzfyl;EQ-03;EQ;SKILLS;Working;B
+SK-107;Emotional Intelligence (EQ);developing-empathy-scorm12-vhcmzfyl;EQ-03;EQ;SKILLS;Learning;B
+SK-110;Social Skills;enhancing-social-skills-scorm12-prqpfyxi;EQ-04;EQ;SKILLS;Working;A
+SK-106;EQ Leadership;enhancing-social-skills-scorm12-prqpfyxi;EQ-04;EQ;SKILLS;Working;A
+SK-107;Emotional Intelligence (EQ);enhancing-social-skills-scorm12-prqpfyxi;EQ-04;EQ;SKILLS;Learning;B
+SK-112;Building Relationships;enhancing-social-skills-scorm12-prqpfyxi;EQ-04;EQ;SKILLS;Learning;B
+SK-014;Self-Awareness;improving-self-awareness-scorm12-nv0knu1a;EQ-05;EQ;SKILLS;Working;A
+SK-106;EQ Leadership;improving-self-awareness-scorm12-nv0knu1a;EQ-05;EQ;SKILLS;Working;A
+SK-107;Emotional Intelligence (EQ);improving-self-awareness-scorm12-nv0knu1a;EQ-05;EQ;SKILLS;Learning;B
+SK-112;Building Relationships;improving-self-awareness-scorm12-nv0knu1a;EQ-05;EQ;SKILLS;Learning;B
+SK-106;EQ Leadership;leading-with-emotional-intelligence-scorm12-ebhECLuM;EQ-06;EQ;SKILLS;Working;A
+SK-107;Emotional Intelligence (EQ);leading-with-emotional-intelligence-scorm12-ebhECLuM;EQ-06;EQ;SKILLS;Working;A
+SK-079;Personal Safety;leading-with-emotional-intelligence-scorm12-ebhECLuM;EQ-06;EQ;SKILLS;Learning;B
+SK-107;Emotional Intelligence (EQ);what-is-emotional-intelligence-scorm12-2b6hr7hq;EQ-07;EQ;SKILLS;Working;A
+SK-106;EQ Leadership;what-is-emotional-intelligence-scorm12-2b6hr7hq;EQ-07;EQ;SKILLS;Working;A
+SK-112;Building Relationships;what-is-emotional-intelligence-scorm12-2b6hr7hq;EQ-07;EQ;SKILLS;Learning;B
+SK-060;Arc Flash Awareness;arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64;ES-01;ES;SKILLS;Working;C
+SK-079;Personal Safety;arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64;ES-01;ES;SKILLS;Working;C
+SK-061;Arc Flash Risk Assessment;electrical-shock-arc-flash-risk-assessments-safety-related-work-practices-scorm12-2z6u87fa;ES-02;ES;SKILLS;Working;C
+SK-060;Arc Flash Awareness;electrical-shock-arc-flash-risk-assessments-safety-related-work-practices-scorm12-2z6u87fa;ES-02;ES;SKILLS;Working;C
+SK-083;Safety;electrical-shock-arc-flash-risk-assessments-safety-related-work-practices-scorm12-2z6u87fa;ES-02;ES;SKILLS;Learning;C
+SK-068;Energized Work Practices;5c12a5da-7dc6-4649-84de-f3637bde375d;ES-03;ES;SKILLS;Working;C
+SK-068;Energized Work Practices;required-precautions-practices-energized-work-scorm12-pfsg-qmp;ES-04;ES;SKILLS;Working;C
+SK-066;Electrical Work Safety;safe-electrical-work-practices-and-the-2024-nfpa-70-e-for-electrical-workers-scorm12-o1fsru32;ES-06;ES;SKILLS;Working;B
+SK-063;Electrical Hazard Recognition;safe-electrical-work-practices-and-the-2024-nfpa-70-e-for-electrical-workers-scorm12-o1fsru32;ES-06;ES;SKILLS;Working;B
+SK-065;Electrical Safety Fundamentals;safe-electrical-work-practices-and-the-2024-nfpa-70-e-for-electrical-workers-scorm12-o1fsru32;ES-06;ES;SKILLS;Learning;B
+SK-083;Safety;safe-electrical-work-practices-and-the-2024-nfpa-70-e-for-electrical-workers-scorm12-o1fsru32;ES-06;ES;SKILLS;Learning;B
+SK-074;Fall Hazard Recognition;fall-protection-in-industrial-and-construction-environments-scorm12-HtvRelsq;FP-00;FP;SKILLS;Working;B
+SK-081;Regulatory Inspections;fall-protection-in-industrial-and-construction-environments-scorm12-HtvRelsq;FP-00;FP;SKILLS;Working;B
+SK-074;Fall Hazard Recognition;fall-protection-in-industrial-and-construction-environments-edges-openings-and-guarding-scorm12-ulhh_oba;FP-01;FP;SKILLS;Working;B
+SK-023;Employee Motivation;fall-protection-in-industrial-and-construction-environments-edges-openings-and-guarding-scorm12-ulhh_oba;FP-01;FP;SKILLS;Working;B
+SK-083;Safety;preventing-slips-trips-and-falls-scorm12-m2jqe-uu;FP-02;FP;SKILLS;Working;B
+SK-099;Communication;preventing-slips-trips-and-falls-scorm12-m2jqe-uu;FP-02;FP;SKILLS;Working;B
+SK-077;Scaffold Fundamentals;safely-accessing-a-scaffold-scorm12-znfwpgv9;FP-03;FP;SKILLS;Working;B
+SK-075;Ladder Safety;safely-accessing-a-scaffold-scorm12-znfwpgv9;FP-03;FP;SKILLS;Working;B
+SK-076;Personal Fall Arrest Systems;safely-accessing-a-scaffold-scorm12-znfwpgv9;FP-03;FP;SKILLS;Learning;B
+SK-083;Safety;safely-accessing-a-scaffold-scorm12-znfwpgv9;FP-03;FP;SKILLS;Learning;B
+SK-077;Scaffold Fundamentals;supported-scaffolding-safety-in-industrial-and-construction-environments-scorm12-sy389sg8;FP-04;FP;SKILLS;Working;B
+SK-083;Safety;supported-scaffolding-safety-in-industrial-and-construction-environments-scorm12-sy389sg8;FP-04;FP;SKILLS;Working;B
+SK-081;Regulatory Inspections;0fed7f77-3b20-43df-90c2-6c28b3ca4a5f;FP-05;FP;SKILLS;Working;B
+SK-077;Scaffold Fundamentals;0fed7f77-3b20-43df-90c2-6c28b3ca4a5f;FP-05;FP;SKILLS;Working;B
+SK-054;Quality Control;0fed7f77-3b20-43df-90c2-6c28b3ca4a5f;FP-05;FP;SKILLS;Learning;B
+SK-066;Electrical Work Safety;0fed7f77-3b20-43df-90c2-6c28b3ca4a5f;FP-05;FP;SKILLS;Learning;B
+SK-083;Safety;0fed7f77-3b20-43df-90c2-6c28b3ca4a5f;FP-05;FP;SKILLS;Learning;B
+SK-075;Ladder Safety;using-portable-and-fixed-ladders-scorm12-du3gq40l;FP-06;FP;SKILLS;Working;B
+SK-054;Quality Control;using-portable-and-fixed-ladders-scorm12-du3gq40l;FP-06;FP;SKILLS;Working;B
+SK-081;Regulatory Inspections;using-portable-and-fixed-ladders-scorm12-du3gq40l;FP-06;FP;SKILLS;Learning;B
+SK-083;Safety;using-portable-and-fixed-ladders-scorm12-du3gq40l;FP-06;FP;SKILLS;Learning;B
+SK-077;Scaffold Fundamentals;working-safely-on-scaffolding-scorm12-0txrzw9l;FP-07;FP;SKILLS;Working;B
+SK-054;Quality Control;working-safely-on-scaffolding-scorm12-0txrzw9l;FP-07;FP;SKILLS;Working;B
+SK-076;Personal Fall Arrest Systems;working-safely-on-scaffolding-scorm12-0txrzw9l;FP-07;FP;SKILLS;Learning;B
+SK-079;Personal Safety;working-safely-on-scaffolding-scorm12-0txrzw9l;FP-07;FP;SKILLS;Learning;B
+SK-081;Regulatory Inspections;working-safely-on-scaffolding-scorm12-0txrzw9l;FP-07;FP;SKILLS;Learning;B
+SK-018;Foreman Role & Responsibilities;roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep;FTM-00;FTM;SKILLS;Working;B
+SK-011;Leadership;roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep;FTM-00;FTM;SKILLS;Working;B
+SK-016;Field Leadership;roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep;FTM-00;FTM;SKILLS;Learning;B
+SK-030;Project Planning & Execution;roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep;FTM-00;FTM;SKILLS;Learning;B
+SK-079;Personal Safety;roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep;FTM-00;FTM;SKILLS;Learning;B
+SK-090;HazCom Program Fundamentals;hazard-communication-scorm12-hced66vt;HAZCOM-00;HAZCOM;SKILLS;Working;B
+SK-099;Communication;hazard-communication-scorm12-hced66vt;HAZCOM-00;HAZCOM;SKILLS;Working;B
+SK-081;Regulatory Inspections;hazard-communication-scorm12-hced66vt;HAZCOM-00;HAZCOM;SKILLS;Learning;B
+SK-083;Safety;hazard-communication-scorm12-hced66vt;HAZCOM-00;HAZCOM;SKILLS;Learning;B
+SK-089;Container Label Use;information-found-on-container-labels-scorm12-alpiibee;HAZCOM-01;HAZCOM;SKILLS;Working;B
+SK-083;Safety;information-found-on-container-labels-scorm12-alpiibee;HAZCOM-01;HAZCOM;SKILLS;Working;B
+SK-092;SDS Use & Access;safety-data-sheets-scorm12-ax_uklcf;HAZCOM-02;HAZCOM;SKILLS;Working;B
+SK-083;Safety;safety-data-sheets-scorm12-ax_uklcf;HAZCOM-02;HAZCOM;SKILLS;Working;B
+SK-013;Leading with Purpose;safety-data-sheets-scorm12-ax_uklcf;HAZCOM-02;HAZCOM;SKILLS;Learning;B
+SK-081;Regulatory Inspections;safety-data-sheets-scorm12-ax_uklcf;HAZCOM-02;HAZCOM;SKILLS;Learning;B
+SK-088;Chemical Hazard Identification;safety-data-sheets-scorm12-ax_uklcf;HAZCOM-02;HAZCOM;SKILLS;Learning;B
+SK-090;HazCom Program Fundamentals;the-written-hazard-communication-plan-scorm12-ftnpzu8g;HAZCOM-03;HAZCOM;SKILLS;Working;B
+SK-099;Communication;the-written-hazard-communication-plan-scorm12-ftnpzu8g;HAZCOM-03;HAZCOM;SKILLS;Working;B
+SK-024;Employee Recognition;the-written-hazard-communication-plan-scorm12-ftnpzu8g;HAZCOM-03;HAZCOM;SKILLS;Learning;B
+SK-083;Safety;the-written-hazard-communication-plan-scorm12-ftnpzu8g;HAZCOM-03;HAZCOM;SKILLS;Learning;B
+SK-089;Container Label Use;the-written-hazard-communication-plan-scorm12-ftnpzu8g;HAZCOM-03;HAZCOM;SKILLS;Learning;B
+SK-088;Chemical Hazard Identification;types-of-chemical-hazards-scorm12-kwgkls-t;HAZCOM-04;HAZCOM;SKILLS;Working;B
+SK-083;Safety;types-of-chemical-hazards-scorm12-kwgkls-t;HAZCOM-04;HAZCOM;SKILLS;Working;B
+SK-011;Leadership;avoiding-common-time-wasters-introduction-to-field-leadership-section-1-scorm12-_pz4ofaz;IFL-00;IFL;SKILLS;Working;A
+SK-016;Field Leadership;avoiding-common-time-wasters-introduction-to-field-leadership-section-1-scorm12-_pz4ofaz;IFL-00;IFL;SKILLS;Working;A
+SK-050;Eight Wastes Recognition;avoiding-common-time-wasters-introduction-to-field-leadership-section-1-scorm12-_pz4ofaz;IFL-00;IFL;SKILLS;Learning;B
+SK-011;Leadership;building-and-maintaining-team-morale-introduction-to-field-leadership-section-1-scorm12-qbritjmd;IFL-01;IFL;SKILLS;Working;A
+SK-034;Team Morale;building-and-maintaining-team-morale-introduction-to-field-leadership-section-1-scorm12-qbritjmd;IFL-01;IFL;SKILLS;Working;A
+SK-016;Field Leadership;building-and-maintaining-team-morale-introduction-to-field-leadership-section-1-scorm12-qbritjmd;IFL-01;IFL;SKILLS;Learning;B
+SK-023;Employee Motivation;building-and-maintaining-team-morale-introduction-to-field-leadership-section-1-scorm12-qbritjmd;IFL-01;IFL;SKILLS;Learning;B
+SK-117;Creating Job Plans;chapter-1-job-plan-theory-scorm12-lhuuftlp;IFL-02;IFL;SKILLS;Working;A
+SK-011;Leadership;chapter-1-job-plan-theory-scorm12-lhuuftlp;IFL-02;IFL;SKILLS;Working;A
+SK-013;Leading with Purpose;chapter-1-job-plan-theory-scorm12-lhuuftlp;IFL-02;IFL;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-1-job-plan-theory-scorm12-lhuuftlp;IFL-02;IFL;SKILLS;Learning;B
+SK-019;Conducting Evaluations;chapter-1-job-plan-theory-scorm12-lhuuftlp;IFL-02;IFL;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-10-avoiding-common-time-wasters-scorm12-rakckav4;IFL-03;IFL;SKILLS;Working;A
+SK-011;Leadership;chapter-10-avoiding-common-time-wasters-scorm12-rakckav4;IFL-03;IFL;SKILLS;Working;A
+SK-016;Field Leadership;chapter-10-avoiding-common-time-wasters-scorm12-rakckav4;IFL-03;IFL;SKILLS;Learning;B
+SK-011;Leadership;chapter-12-using-tool-and-technology-scorm12-jzhv6nfe;IFL-04;IFL;SKILLS;Working;B
+SK-016;Field Leadership;chapter-12-using-tool-and-technology-scorm12-jzhv6nfe;IFL-04;IFL;SKILLS;Working;B
+SK-030;Project Planning & Execution;chapter-12-using-tool-and-technology-scorm12-jzhv6nfe;IFL-04;IFL;SKILLS;Learning;B
+SK-041;Focus on Flow;chapter-12-using-tool-and-technology-scorm12-jzhv6nfe;IFL-04;IFL;SKILLS;Learning;B
+SK-083;Safety;chapter-12-using-tool-and-technology-scorm12-jzhv6nfe;IFL-04;IFL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-2-jobsite-efficiency-scorm12-gtwzkr7z;IFL-05;IFL;SKILLS;Working;A
+SK-041;Focus on Flow;chapter-2-jobsite-efficiency-scorm12-gtwzkr7z;IFL-05;IFL;SKILLS;Working;A
+SK-050;Eight Wastes Recognition;chapter-2-jobsite-efficiency-scorm12-gtwzkr7z;IFL-05;IFL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr;IFL-06;IFL;SKILLS;Working;B
+SK-030;Project Planning & Execution;chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr;IFL-06;IFL;SKILLS;Working;B
+SK-099;Communication;chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr;IFL-06;IFL;SKILLS;Learning;B
+SK-011;Leadership;chapter-3-new-manager-101-scorm12-yduvl08s;IFL-07;IFL;SKILLS;Working;A
+SK-034;Team Morale;chapter-3-new-manager-101-scorm12-yduvl08s;IFL-07;IFL;SKILLS;Working;A
+SK-037;Empowering Teams;chapter-3-new-manager-101-scorm12-yduvl08s;IFL-07;IFL;SKILLS;Learning;B
+SK-099;Communication;chapter-3-new-manager-101-scorm12-yduvl08s;IFL-07;IFL;SKILLS;Learning;B
+SK-112;Building Relationships;chapter-3-new-manager-101-scorm12-yduvl08s;IFL-07;IFL;SKILLS;Learning;B
+SK-030;Project Planning & Execution;chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox;IFL-08;IFL;SKILLS;Working;A
+SK-028;Planning & Scheduling;chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox;IFL-08;IFL;SKILLS;Working;A
+SK-029;Project Planning;chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox;IFL-08;IFL;SKILLS;Learning;B
+SK-011;Leadership;chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox;IFL-08;IFL;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox;IFL-08;IFL;SKILLS;Learning;B
+SK-011;Leadership;chapter-4-building-an-effective-team-scorm12-lurfzpkv;IFL-09;IFL;SKILLS;Working;A
+SK-008;Accountability;chapter-4-building-an-effective-team-scorm12-lurfzpkv;IFL-09;IFL;SKILLS;Working;A
+SK-009;Accountability in Leadership;chapter-4-building-an-effective-team-scorm12-lurfzpkv;IFL-09;IFL;SKILLS;Learning;B
+SK-014;Self-Awareness;chapter-4-building-an-effective-team-scorm12-lurfzpkv;IFL-09;IFL;SKILLS;Learning;B
+SK-021;Corrective Counseling;chapter-4-building-an-effective-team-scorm12-lurfzpkv;IFL-09;IFL;SKILLS;Learning;B
+SK-053;Documentation Practices;chapter-4-document-management-scorm12-tyrhbk9m;IFL-10;IFL;SKILLS;Working;A
+SK-018;Foreman Role & Responsibilities;chapter-4-document-management-scorm12-tyrhbk9m;IFL-10;IFL;SKILLS;Working;A
+SK-052;Documentation & Reporting;chapter-4-document-management-scorm12-tyrhbk9m;IFL-10;IFL;SKILLS;Learning;B
+SK-117;Creating Job Plans;chapter-4-document-management-scorm12-tyrhbk9m;IFL-10;IFL;SKILLS;Learning;B
+SK-083;Safety;chapter-4-introduction-to-safety-management-scorm12-jkruifsj;IFL-11;IFL;SKILLS;Working;A
+SK-011;Leadership;chapter-4-introduction-to-safety-management-scorm12-jkruifsj;IFL-11;IFL;SKILLS;Working;A
+SK-005;Culture;chapter-4-introduction-to-safety-management-scorm12-jkruifsj;IFL-11;IFL;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-4-introduction-to-safety-management-scorm12-jkruifsj;IFL-11;IFL;SKILLS;Learning;B
+SK-054;Quality Control;chapter-4-introduction-to-safety-management-scorm12-jkruifsj;IFL-11;IFL;SKILLS;Learning;B
+SK-054;Quality Control;chapter-5-introduction-to-quality-control-scorm12-hzjpxur3;IFL-12;IFL;SKILLS;Working;B
+SK-011;Leadership;chapter-5-introduction-to-quality-control-scorm12-hzjpxur3;IFL-12;IFL;SKILLS;Working;B
+SK-008;Accountability;chapter-5-introduction-to-quality-control-scorm12-hzjpxur3;IFL-12;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;chapter-5-introduction-to-quality-control-scorm12-hzjpxur3;IFL-12;IFL;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-5-introduction-to-quality-control-scorm12-hzjpxur3;IFL-12;IFL;SKILLS;Learning;B
+SK-032;Crew Planning;chapter-5-manpower-projection-scorm12-nxcglu2o;IFL-13;IFL;SKILLS;Working;A
+SK-018;Foreman Role & Responsibilities;chapter-5-manpower-projection-scorm12-nxcglu2o;IFL-13;IFL;SKILLS;Working;A
+SK-028;Planning & Scheduling;chapter-5-manpower-projection-scorm12-nxcglu2o;IFL-13;IFL;SKILLS;Learning;B
+SK-030;Project Planning & Execution;chapter-5-manpower-projection-scorm12-nxcglu2o;IFL-13;IFL;SKILLS;Learning;B
+SK-052;Documentation & Reporting;chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r;IFL-14;IFL;SKILLS;Working;A
+SK-011;Leadership;chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r;IFL-14;IFL;SKILLS;Working;A
+SK-008;Accountability;chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r;IFL-14;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r;IFL-14;IFL;SKILLS;Learning;B
+SK-013;Leading with Purpose;chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r;IFL-14;IFL;SKILLS;Learning;B
+SK-011;Leadership;chapter-9-time-management-scorm12-gifb0r3z;IFL-15;IFL;SKILLS;Working;A
+SK-008;Accountability;chapter-9-time-management-scorm12-gifb0r3z;IFL-15;IFL;SKILLS;Working;A
+SK-009;Accountability in Leadership;chapter-9-time-management-scorm12-gifb0r3z;IFL-15;IFL;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-9-time-management-scorm12-gifb0r3z;IFL-15;IFL;SKILLS;Learning;B
+SK-027;Identifying Strengths & Values;chapter-9-time-management-scorm12-gifb0r3z;IFL-15;IFL;SKILLS;Learning;B
+SK-011;Leadership;coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72;IFL-16;IFL;SKILLS;Working;B
+SK-016;Field Leadership;coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72;IFL-16;IFL;SKILLS;Working;B
+SK-028;Planning & Scheduling;coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72;IFL-16;IFL;SKILLS;Learning;B
+SK-030;Project Planning & Execution;coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72;IFL-16;IFL;SKILLS;Learning;B
+SK-099;Communication;coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72;IFL-16;IFL;SKILLS;Learning;B
+SK-011;Leadership;document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse;IFL-17;IFL;SKILLS;Working;A
+SK-016;Field Leadership;document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse;IFL-17;IFL;SKILLS;Working;A
+SK-053;Documentation Practices;document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse;IFL-17;IFL;SKILLS;Learning;B
+SK-018;Foreman Role & Responsibilities;document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse;IFL-17;IFL;SKILLS;Learning;B
+SK-052;Documentation & Reporting;document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse;IFL-17;IFL;SKILLS;Learning;B
+SK-011;Leadership;employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5;IFL-18;IFL;SKILLS;Working;A
+SK-016;Field Leadership;employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5;IFL-18;IFL;SKILLS;Working;A
+SK-021;Corrective Counseling;employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5;IFL-18;IFL;SKILLS;Learning;B
+SK-101;Handling Resistance in Counseling;employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5;IFL-18;IFL;SKILLS;Learning;B
+SK-112;Building Relationships;employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5;IFL-18;IFL;SKILLS;Learning;B
+SK-011;Leadership;fmla-introduction-to-field-leadership-part-4-policy-scorm12-wvlpmgbx;IFL-19;IFL;SKILLS;Working;A
+SK-016;Field Leadership;fmla-introduction-to-field-leadership-part-4-policy-scorm12-wvlpmgbx;IFL-19;IFL;SKILLS;Working;A
+SK-025;Nevada Employee Rights;fmla-introduction-to-field-leadership-part-4-policy-scorm12-wvlpmgbx;IFL-19;IFL;SKILLS;Learning;B
+SK-093;Written Program & Employee Rights;fmla-introduction-to-field-leadership-part-4-policy-scorm12-wvlpmgbx;IFL-19;IFL;SKILLS;Learning;B
+SK-011;Leadership;harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz;IFL-20;IFL;SKILLS;Working;A
+SK-016;Field Leadership;harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz;IFL-20;IFL;SKILLS;Working;A
+SK-005;Culture;harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz;IFL-20;IFL;SKILLS;Learning;B
+SK-052;Documentation & Reporting;harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz;IFL-20;IFL;SKILLS;Learning;B
+SK-066;Electrical Work Safety;harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz;IFL-20;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x;IFL-21;IFL;SKILLS;Working;A
+SK-052;Documentation & Reporting;introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x;IFL-21;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x;IFL-21;IFL;SKILLS;Learning;B
+SK-008;Accountability;introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x;IFL-21;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x;IFL-21;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6;IFL-22;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6;IFL-22;IFL;SKILLS;Working;A
+SK-099;Communication;introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6;IFL-22;IFL;SKILLS;Learning;B
+SK-100;Effective Communication;introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6;IFL-22;IFL;SKILLS;Learning;B
+SK-034;Team Morale;introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6;IFL-22;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b;IFL-23;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b;IFL-23;IFL;SKILLS;Working;A
+SK-008;Accountability;introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b;IFL-23;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b;IFL-23;IFL;SKILLS;Learning;B
+SK-014;Self-Awareness;introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b;IFL-23;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus;IFL-24;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus;IFL-24;IFL;SKILLS;Working;A
+SK-013;Leading with Purpose;introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus;IFL-24;IFL;SKILLS;Learning;B
+SK-019;Conducting Evaluations;introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus;IFL-24;IFL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;introduction-to-field-leadership-part-2-anatomy-of-a-project-scorm12-vus2qvus;IFL-24;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4;IFL-25;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4;IFL-25;IFL;SKILLS;Working;A
+SK-018;Foreman Role & Responsibilities;introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4;IFL-25;IFL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4;IFL-25;IFL;SKILLS;Learning;B
+SK-030;Project Planning & Execution;introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4;IFL-25;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll;IFL-26;IFL;SKILLS;Working;A
+SK-030;Project Planning & Execution;introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll;IFL-26;IFL;SKILLS;Working;A
+SK-028;Planning & Scheduling;introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll;IFL-26;IFL;SKILLS;Learning;B
+SK-016;Field Leadership;introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll;IFL-26;IFL;SKILLS;Learning;B
+SK-029;Project Planning;introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll;IFL-26;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-quality-control-introduction-to-field-leadership-section-1-scorm12-gxmgfvvz;IFL-27;IFL;SKILLS;Working;B
+SK-016;Field Leadership;introduction-to-quality-control-introduction-to-field-leadership-section-1-scorm12-gxmgfvvz;IFL-27;IFL;SKILLS;Working;B
+SK-054;Quality Control;introduction-to-quality-control-introduction-to-field-leadership-section-1-scorm12-gxmgfvvz;IFL-27;IFL;SKILLS;Learning;B
+SK-023;Employee Motivation;introduction-to-quality-control-introduction-to-field-leadership-section-1-scorm12-gxmgfvvz;IFL-27;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb;IFL-28;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb;IFL-28;IFL;SKILLS;Working;A
+SK-083;Safety;introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb;IFL-28;IFL;SKILLS;Learning;B
+SK-005;Culture;introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb;IFL-28;IFL;SKILLS;Learning;B
+SK-061;Arc Flash Risk Assessment;introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb;IFL-28;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66;IFL-29;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66;IFL-29;IFL;SKILLS;Working;A
+SK-033;Team Management;introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66;IFL-29;IFL;SKILLS;Learning;B
+SK-018;Foreman Role & Responsibilities;introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66;IFL-29;IFL;SKILLS;Learning;B
+SK-036;Delegation & Empowerment;introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66;IFL-29;IFL;SKILLS;Learning;B
+SK-011;Leadership;introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu;IFL-30;IFL;SKILLS;Working;A
+SK-016;Field Leadership;introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu;IFL-30;IFL;SKILLS;Working;A
+SK-018;Foreman Role & Responsibilities;introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu;IFL-30;IFL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu;IFL-30;IFL;SKILLS;Learning;B
+SK-030;Project Planning & Execution;introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu;IFL-30;IFL;SKILLS;Learning;B
+SK-011;Leadership;job-closeout-introduction-to-field-leadership-section-2-scorm12-n6l4pbci;IFL-31;IFL;SKILLS;Working;A
+SK-016;Field Leadership;job-closeout-introduction-to-field-leadership-section-2-scorm12-n6l4pbci;IFL-31;IFL;SKILLS;Working;A
+SK-112;Building Relationships;job-closeout-introduction-to-field-leadership-section-2-scorm12-n6l4pbci;IFL-31;IFL;SKILLS;Learning;B
+SK-011;Leadership;job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2;IFL-32;IFL;SKILLS;Working;A
+SK-016;Field Leadership;job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2;IFL-32;IFL;SKILLS;Working;A
+SK-117;Creating Job Plans;job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2;IFL-32;IFL;SKILLS;Learning;B
+SK-013;Leading with Purpose;job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2;IFL-32;IFL;SKILLS;Learning;B
+SK-019;Conducting Evaluations;job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2;IFL-32;IFL;SKILLS;Learning;B
+SK-011;Leadership;jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn;IFL-33;IFL;SKILLS;Working;A
+SK-016;Field Leadership;jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn;IFL-33;IFL;SKILLS;Working;A
+SK-028;Planning & Scheduling;jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn;IFL-33;IFL;SKILLS;Learning;B
+SK-041;Focus on Flow;jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn;IFL-33;IFL;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn;IFL-33;IFL;SKILLS;Learning;B
+SK-011;Leadership;leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm;IFL-34;IFL;SKILLS;Working;A
+SK-016;Field Leadership;leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm;IFL-34;IFL;SKILLS;Working;A
+SK-008;Accountability;leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm;IFL-34;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm;IFL-34;IFL;SKILLS;Learning;B
+SK-012;Leadership Fundamentals;leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm;IFL-34;IFL;SKILLS;Learning;B
+SK-052;Documentation & Reporting;managing-sub-contractors-scorm12-eprbazox;IFL-35;IFL;SKILLS;Working;A
+SK-083;Safety;managing-sub-contractors-scorm12-eprbazox;IFL-35;IFL;SKILLS;Working;A
+SK-099;Communication;managing-sub-contractors-scorm12-eprbazox;IFL-35;IFL;SKILLS;Learning;B
+SK-112;Building Relationships;managing-sub-contractors-scorm12-eprbazox;IFL-35;IFL;SKILLS;Learning;B
+SK-011;Leadership;manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_;IFL-36;IFL;SKILLS;Working;A
+SK-016;Field Leadership;manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_;IFL-36;IFL;SKILLS;Working;A
+SK-032;Crew Planning;manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_;IFL-36;IFL;SKILLS;Learning;B
+SK-018;Foreman Role & Responsibilities;manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_;IFL-36;IFL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_;IFL-36;IFL;SKILLS;Learning;B
+SK-036;Delegation & Empowerment;project-structure-delegation-and-team-development-scorm12-saxubt58;IFL-37;IFL;SKILLS;Working;A
+SK-011;Leadership;project-structure-delegation-and-team-development-scorm12-saxubt58;IFL-37;IFL;SKILLS;Working;A
+SK-008;Accountability;project-structure-delegation-and-team-development-scorm12-saxubt58;IFL-37;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;project-structure-delegation-and-team-development-scorm12-saxubt58;IFL-37;IFL;SKILLS;Learning;B
+SK-018;Foreman Role & Responsibilities;project-structure-delegation-and-team-development-scorm12-saxubt58;IFL-37;IFL;SKILLS;Learning;B
+SK-011;Leadership;roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme;IFL-38;IFL;SKILLS;Working;B
+SK-018;Foreman Role & Responsibilities;roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme;IFL-38;IFL;SKILLS;Working;B
+SK-016;Field Leadership;roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme;IFL-38;IFL;SKILLS;Learning;B
+SK-034;Team Morale;roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme;IFL-38;IFL;SKILLS;Learning;B
+SK-030;Project Planning & Execution;roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme;IFL-38;IFL;SKILLS;Learning;B
+SK-011;Leadership;substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h;IFL-39;IFL;SKILLS;Working;A
+SK-016;Field Leadership;substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h;IFL-39;IFL;SKILLS;Working;A
+SK-008;Accountability;substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h;IFL-39;IFL;SKILLS;Learning;B
+SK-009;Accountability in Leadership;substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h;IFL-39;IFL;SKILLS;Learning;B
+SK-014;Self-Awareness;substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h;IFL-39;IFL;SKILLS;Learning;B
+SK-011;Leadership;techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm;IFL-40;IFL;SKILLS;Working;A
+SK-016;Field Leadership;techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm;IFL-40;IFL;SKILLS;Working;A
+SK-099;Communication;techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm;IFL-40;IFL;SKILLS;Learning;B
+SK-023;Employee Motivation;techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm;IFL-40;IFL;SKILLS;Learning;B
+SK-005;Culture;techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm;IFL-40;IFL;SKILLS;Learning;B
+SK-011;Leadership;time-management-introduction-to-field-leadership-section-1-scorm12-ecy9z7j1;IFL-41;IFL;SKILLS;Working;A
+SK-016;Field Leadership;time-management-introduction-to-field-leadership-section-1-scorm12-ecy9z7j1;IFL-41;IFL;SKILLS;Working;A
+SK-036;Delegation & Empowerment;time-management-introduction-to-field-leadership-section-1-scorm12-ecy9z7j1;IFL-41;IFL;SKILLS;Learning;B
+SK-011;Leadership;using-tool-and-technology-introduction-to-field-leadership-section-1-scorm12-q5xzm9rq;IFL-42;IFL;SKILLS;Working;B
+SK-016;Field Leadership;using-tool-and-technology-introduction-to-field-leadership-section-1-scorm12-q5xzm9rq;IFL-42;IFL;SKILLS;Working;B
+SK-099;Communication;using-tool-and-technology-introduction-to-field-leadership-section-1-scorm12-q5xzm9rq;IFL-42;IFL;SKILLS;Learning;B
+SK-044;Lean Fundamentals;chapter-01-embracing-lean-productivity-scorm12-rrruldwd;LEAN-00;LEAN;INTRO;Learning;B
+SK-028;Planning & Scheduling;chapter-01-embracing-lean-productivity-scorm12-rrruldwd;LEAN-00;LEAN;INTRO;Learning;B
+SK-037;Empowering Teams;chapter-01-embracing-lean-productivity-scorm12-rrruldwd;LEAN-00;LEAN;INTRO;Learning;B
+SK-040;Continuous Improvement;chapter-01-embracing-lean-productivity-scorm12-rrruldwd;LEAN-00;LEAN;INTRO;Learning;B
+SK-042;Pull Planning;chapter-01-embracing-lean-productivity-scorm12-rrruldwd;LEAN-00;LEAN;INTRO;Learning;B
+SK-005;Culture;chapter-02-what-you-need-to-know-scorm12-n-qj69jo;LEAN-01;LEAN;INTRO;Learning;B
+SK-040;Continuous Improvement;chapter-02-what-you-need-to-know-scorm12-n-qj69jo;LEAN-01;LEAN;INTRO;Learning;B
+SK-050;Eight Wastes Recognition;chapter-02-what-you-need-to-know-scorm12-n-qj69jo;LEAN-01;LEAN;INTRO;Learning;B
+SK-044;Lean Fundamentals;chapter-05-what-is-lean-scorm12-pvxdpabr;LEAN-03;LEAN;SKILLS;Working;A
+SK-050;Eight Wastes Recognition;chapter-05-what-is-lean-scorm12-pvxdpabr;LEAN-03;LEAN;SKILLS;Working;A
+SK-041;Focus on Flow;chapter-06-a-brief-history-scorm12-d1yinukr;LEAN-04;LEAN;SKILLS;Working;A
+SK-037;Empowering Teams;chapter-06-a-brief-history-scorm12-d1yinukr;LEAN-04;LEAN;SKILLS;Working;A
+SK-040;Continuous Improvement;chapter-06-a-brief-history-scorm12-d1yinukr;LEAN-04;LEAN;SKILLS;Learning;B
+SK-045;Lean History Understanding;chapter-06-a-brief-history-scorm12-d1yinukr;LEAN-04;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-06-a-brief-history-scorm12-d1yinukr;LEAN-04;LEAN;SKILLS;Learning;B
+SK-043;Lean Application;chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej;LEAN-05;LEAN;SKILLS;Working;A
+SK-051;Eliminate Waste;chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej;LEAN-05;LEAN;SKILLS;Working;A
+SK-041;Focus on Flow;chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej;LEAN-05;LEAN;SKILLS;Learning;B
+SK-044;Lean Fundamentals;chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej;LEAN-05;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej;LEAN-05;LEAN;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-08-what-processes-need-to-change-scorm12-said6ikm;LEAN-06;LEAN;SKILLS;Working;A
+SK-041;Focus on Flow;chapter-08-what-processes-need-to-change-scorm12-said6ikm;LEAN-06;LEAN;SKILLS;Working;A
+SK-042;Pull Planning;chapter-08-what-processes-need-to-change-scorm12-said6ikm;LEAN-06;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-08-what-processes-need-to-change-scorm12-said6ikm;LEAN-06;LEAN;SKILLS;Learning;B
+SK-099;Communication;chapter-08-what-processes-need-to-change-scorm12-said6ikm;LEAN-06;LEAN;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-09-the-adoption-of-a-new-production-theory-scorm12-ypg1zg6x;LEAN-07;LEAN;SKILLS;Working;A
+SK-050;Eight Wastes Recognition;chapter-09-the-adoption-of-a-new-production-theory-scorm12-ypg1zg6x;LEAN-07;LEAN;SKILLS;Working;A
+SK-101;Handling Resistance in Counseling;chapter-09-the-adoption-of-a-new-production-theory-scorm12-ypg1zg6x;LEAN-07;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-10-identifying-waste-in-construction-scorm12-rttb6txz;LEAN-08;LEAN;SKILLS;Working;A
+SK-028;Planning & Scheduling;chapter-10-identifying-waste-in-construction-scorm12-rttb6txz;LEAN-08;LEAN;SKILLS;Working;A
+SK-040;Continuous Improvement;chapter-10-identifying-waste-in-construction-scorm12-rttb6txz;LEAN-08;LEAN;SKILLS;Learning;B
+SK-045;Lean History Understanding;chapter-10-identifying-waste-in-construction-scorm12-rttb6txz;LEAN-08;LEAN;SKILLS;Learning;B
+SK-099;Communication;chapter-10-identifying-waste-in-construction-scorm12-rttb6txz;LEAN-08;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief;LEAN-09;LEAN;SKILLS;Working;A
+SK-051;Eliminate Waste;chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief;LEAN-09;LEAN;SKILLS;Working;A
+SK-028;Planning & Scheduling;chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief;LEAN-09;LEAN;SKILLS;Learning;B
+SK-038;Project Team Leadership;chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief;LEAN-09;LEAN;SKILLS;Learning;B
+SK-099;Communication;chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief;LEAN-09;LEAN;SKILLS;Learning;B
+SK-036;Delegation & Empowerment;chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9;LEAN-10;LEAN;SKILLS;Working;A
+SK-037;Empowering Teams;chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9;LEAN-10;LEAN;SKILLS;Working;A
+SK-028;Planning & Scheduling;chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9;LEAN-10;LEAN;SKILLS;Learning;B
+SK-041;Focus on Flow;chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9;LEAN-10;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9;LEAN-10;LEAN;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-13-pull-planning-scorm12-ne5la4rr;LEAN-11;LEAN;SKILLS;Working;A
+SK-042;Pull Planning;chapter-13-pull-planning-scorm12-ne5la4rr;LEAN-11;LEAN;SKILLS;Working;A
+SK-011;Leadership;chapter-13-pull-planning-scorm12-ne5la4rr;LEAN-11;LEAN;SKILLS;Learning;B
+SK-008;Accountability;chapter-13-pull-planning-scorm12-ne5la4rr;LEAN-11;LEAN;SKILLS;Learning;B
+SK-009;Accountability in Leadership;chapter-13-pull-planning-scorm12-ne5la4rr;LEAN-11;LEAN;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-14-the-sticky-note-format-scorm12-ipzawrxc;LEAN-12;LEAN;SKILLS;Working;A
+SK-008;Accountability;chapter-14-the-sticky-note-format-scorm12-ipzawrxc;LEAN-12;LEAN;SKILLS;Working;A
+SK-009;Accountability in Leadership;chapter-14-the-sticky-note-format-scorm12-ipzawrxc;LEAN-12;LEAN;SKILLS;Learning;B
+SK-041;Focus on Flow;chapter-14-the-sticky-note-format-scorm12-ipzawrxc;LEAN-12;LEAN;SKILLS;Learning;B
+SK-042;Pull Planning;chapter-14-the-sticky-note-format-scorm12-ipzawrxc;LEAN-12;LEAN;SKILLS;Learning;B
+SK-040;Continuous Improvement;chapter-15-continuous-improvement-scorm12-s6uwlft8;LEAN-13;LEAN;SKILLS;Working;A
+SK-019;Conducting Evaluations;chapter-15-continuous-improvement-scorm12-s6uwlft8;LEAN-13;LEAN;SKILLS;Working;A
+SK-041;Focus on Flow;chapter-15-continuous-improvement-scorm12-s6uwlft8;LEAN-13;LEAN;SKILLS;Learning;B
+SK-050;Eight Wastes Recognition;chapter-15-continuous-improvement-scorm12-s6uwlft8;LEAN-13;LEAN;SKILLS;Learning;B
+SK-051;Eliminate Waste;chapter-15-continuous-improvement-scorm12-s6uwlft8;LEAN-13;LEAN;SKILLS;Learning;B
+SK-041;Focus on Flow;chapter-16-training-the-industry-scorm12-lnugtlxm;LEAN-14;LEAN;SKILLS;Working;A
+SK-046;Lean Mindset;chapter-16-training-the-industry-scorm12-lnugtlxm;LEAN-14;LEAN;SKILLS;Working;A
+SK-050;Eight Wastes Recognition;chapter-16-training-the-industry-scorm12-lnugtlxm;LEAN-14;LEAN;SKILLS;Learning;B
+SK-028;Planning & Scheduling;chapter-17-reshaping-the-industry-scorm12-ltddpgc0;LEAN-15;LEAN;SKILLS;Working;B
+SK-044;Lean Fundamentals;chapter-17-reshaping-the-industry-scorm12-ltddpgc0;LEAN-15;LEAN;SKILLS;Working;B
+SK-050;Eight Wastes Recognition;chapter-17-reshaping-the-industry-scorm12-ltddpgc0;LEAN-15;LEAN;SKILLS;Learning;B
+SK-051;Eliminate Waste;chapter-17-reshaping-the-industry-scorm12-ltddpgc0;LEAN-15;LEAN;SKILLS;Learning;B
+SK-044;Lean Fundamentals;construction-management-introduction-to-lean-construction-scorm12-ix45_zjt;LEAN-17;LEAN;SKILLS;Working;A
+SK-028;Planning & Scheduling;construction-management-introduction-to-lean-construction-scorm12-ix45_zjt;LEAN-17;LEAN;SKILLS;Working;A
+SK-037;Empowering Teams;construction-management-introduction-to-lean-construction-scorm12-ix45_zjt;LEAN-17;LEAN;SKILLS;Learning;B
+SK-040;Continuous Improvement;construction-management-introduction-to-lean-construction-scorm12-ix45_zjt;LEAN-17;LEAN;SKILLS;Learning;B
+SK-042;Pull Planning;construction-management-introduction-to-lean-construction-scorm12-ix45_zjt;LEAN-17;LEAN;SKILLS;Learning;B
+SK-049;Productivity Execution;on-site-productivity-scorm12-m7-7zmzj;LEAN-18;LEAN;SKILLS;Working;C
+SK-050;Eight Wastes Recognition;the-eight-wastes-of-construction-scorm12-9_faca08;LEAN-19;LEAN;SKILLS;Working;C
+SK-018;Foreman Role & Responsibilities;abnormal-lockout-removal-procedures-scorm12-nyjwgrko;LOTO-00;LOTO;SKILLS;Working;B
+SK-096;LOTO Fundamentals;abnormal-lockout-removal-procedures-scorm12-nyjwgrko;LOTO-00;LOTO;SKILLS;Working;B
+SK-008;Accountability;abnormal-lockout-removal-procedures-scorm12-nyjwgrko;LOTO-00;LOTO;SKILLS;Learning;B
+SK-009;Accountability in Leadership;abnormal-lockout-removal-procedures-scorm12-nyjwgrko;LOTO-00;LOTO;SKILLS;Learning;B
+SK-052;Documentation & Reporting;abnormal-lockout-removal-procedures-scorm12-nyjwgrko;LOTO-00;LOTO;SKILLS;Learning;B
+SK-094;Complex LOTO Procedures;complex-lockout-tagout-procedures-scorm12-hn7-fup1;LOTO-01;LOTO;SKILLS;Working;B
+SK-096;LOTO Fundamentals;complex-lockout-tagout-procedures-scorm12-hn7-fup1;LOTO-01;LOTO;SKILLS;Working;B
+SK-083;Safety;complex-lockout-tagout-procedures-scorm12-hn7-fup1;LOTO-01;LOTO;SKILLS;Learning;B
+SK-095;Hazardous Energy Control;complex-lockout-tagout-procedures-scorm12-hn7-fup1;LOTO-01;LOTO;SKILLS;Learning;B
+SK-098;Simple LOTO Procedures;complex-lockout-tagout-procedures-scorm12-hn7-fup1;LOTO-01;LOTO;SKILLS;Learning;B
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-scorm12-l3swtzib;LOTO-02;LOTO;SKILLS;Working;B
+SK-005;Culture;lockout-tagout-procedures-scorm12-l3swtzib;LOTO-02;LOTO;SKILLS;Working;B
+SK-065;Electrical Safety Fundamentals;lockout-tagout-procedures-scorm12-l3swtzib;LOTO-02;LOTO;SKILLS;Learning;B
+SK-079;Personal Safety;lockout-tagout-procedures-scorm12-l3swtzib;LOTO-02;LOTO;SKILLS;Learning;B
+SK-083;Safety;lockout-tagout-procedures-scorm12-l3swtzib;LOTO-02;LOTO;SKILLS;Learning;B
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s;LOTO-03;LOTO;SKILLS;Working;C
+SK-094;Complex LOTO Procedures;lockout-tagout-procedures-complex-lockout-tagout-procedures-scorm12-r6juiurw;LOTO-04;LOTO;SKILLS;Working;C
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-complex-lockout-tagout-procedures-scorm12-r6juiurw;LOTO-04;LOTO;SKILLS;Working;C
+SK-095;Hazardous Energy Control;lockout-tagout-procedures-hazardous-energy-control-lockout-tagout-scorm12-berhmiwr;LOTO-05;LOTO;SKILLS;Working;C
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-hazardous-energy-control-lockout-tagout-scorm12-berhmiwr;LOTO-05;LOTO;SKILLS;Working;C
+SK-082;Return to Service;lockout-tagout-procedures-return-to-service-procedures-scorm12-_dkqhcuy;LOTO-06;LOTO;SKILLS;Working;C
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-return-to-service-procedures-scorm12-_dkqhcuy;LOTO-06;LOTO;SKILLS;Working;C
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-simple-lockout-tagout-procedures-scorm12-rj5zpfvf;LOTO-07;LOTO;SKILLS;Working;C
+SK-098;Simple LOTO Procedures;lockout-tagout-procedures-simple-lockout-tagout-procedures-scorm12-rj5zpfvf;LOTO-07;LOTO;SKILLS;Working;C
+SK-096;LOTO Fundamentals;lockout-tagout-procedures-verifying-a-de-energized-condition-scorm12-ukdghbg_;LOTO-08;LOTO;SKILLS;Working;C
+SK-082;Return to Service;return-to-service-procedures-scorm12-m0ufppq_;LOTO-09;LOTO;SKILLS;Working;B
+SK-054;Quality Control;return-to-service-procedures-scorm12-m0ufppq_;LOTO-09;LOTO;SKILLS;Working;B
+SK-065;Electrical Safety Fundamentals;return-to-service-procedures-scorm12-m0ufppq_;LOTO-09;LOTO;SKILLS;Learning;B
+SK-083;Safety;return-to-service-procedures-scorm12-m0ufppq_;LOTO-09;LOTO;SKILLS;Learning;B
+SK-098;Simple LOTO Procedures;simple-lockout-tagout-procedures-scorm12-9lnzkite;LOTO-10;LOTO;SKILLS;Working;B
+SK-096;LOTO Fundamentals;simple-lockout-tagout-procedures-scorm12-9lnzkite;LOTO-10;LOTO;SKILLS;Working;B
+SK-013;Leading with Purpose;simple-lockout-tagout-procedures-scorm12-9lnzkite;LOTO-10;LOTO;SKILLS;Learning;B
+SK-030;Project Planning & Execution;simple-lockout-tagout-procedures-scorm12-9lnzkite;LOTO-10;LOTO;SKILLS;Learning;B
+SK-066;Electrical Work Safety;simple-lockout-tagout-procedures-scorm12-9lnzkite;LOTO-10;LOTO;SKILLS;Learning;B
+SK-096;LOTO Fundamentals;verifying-a-de-energized-condition-scorm12-tl-lwmmj;LOTO-11;LOTO;SKILLS;Working;B
+SK-063;Electrical Hazard Recognition;verifying-a-de-energized-condition-scorm12-tl-lwmmj;LOTO-11;LOTO;SKILLS;Working;B
+SK-079;Personal Safety;verifying-a-de-energized-condition-scorm12-tl-lwmmj;LOTO-11;LOTO;SKILLS;Learning;B
+SK-083;Safety;verifying-a-de-energized-condition-scorm12-tl-lwmmj;LOTO-11;LOTO;SKILLS;Learning;B
+SK-123;ViewPoint Change Orders;approving-change-orders-in-view-point-scorm12-eorbjkg_;PC-00;PC;SKILLS;Working;A
+SK-121;Accessing Pending Change Orders;approving-change-orders-in-view-point-scorm12-eorbjkg_;PC-00;PC;SKILLS;Working;A
+SK-123;ViewPoint Change Orders;creating-a-pending-change-orders-in-view-point-scorm12-cir_kuef;PC-01;PC;SKILLS;Working;A
+SK-121;Accessing Pending Change Orders;creating-a-pending-change-orders-in-view-point-scorm12-cir_kuef;PC-01;PC;SKILLS;Working;A
+SK-026;Performance Reviews;conducting-effective-performance-reviews-scorm12-8ihyn2kz;PERF-00;PERF;SKILLS;Working;A
+SK-019;Conducting Evaluations;conducting-effective-performance-reviews-scorm12-8ihyn2kz;PERF-00;PERF;SKILLS;Working;A
+SK-027;Identifying Strengths & Values;conducting-effective-performance-reviews-scorm12-8ihyn2kz;PERF-00;PERF;SKILLS;Learning;B
+SK-031;Strategic Thinking;conducting-effective-performance-reviews-scorm12-8ihyn2kz;PERF-00;PERF;SKILLS;Learning;B
+SK-035;Team Motivation Fundamentals;conducting-effective-performance-reviews-scorm12-8ihyn2kz;PERF-00;PERF;SKILLS;Learning;B
+SK-026;Performance Reviews;conducting effective performance reviews - scorm;PERF-01;PERF;SKILLS;Working;C
+SK-021;Corrective Counseling;corrective-counseling-and-performance-reviews-d-scorm12-dgptjd8r;PERF-02;PERF;SKILLS;Working;C
+SK-026;Performance Reviews;corrective-counseling-and-performance-reviews-d-scorm12-dgptjd8r;PERF-02;PERF;SKILLS;Working;C
+SK-101;Handling Resistance in Counseling;corrective-counseling-and-performance-reviews-d-scorm12-dgptjd8r;PERF-02;PERF;SKILLS;Learning;C
+SK-011;Leadership;performance-management-scorm12-yNAMmSEg;PERF-03;PERF;SKILLS;Working;A
+SK-028;Planning & Scheduling;performance-management-scorm12-yNAMmSEg;PERF-03;PERF;SKILLS;Working;A
+SK-079;Personal Safety;performance-management-scorm12-yNAMmSEg;PERF-03;PERF;SKILLS;Learning;B
+SK-028;Planning & Scheduling;introduction-to-planning-and-controlling-hazards-t-r-a-c-k-scorm12-nrpeh-rf;SAFE-00;SAFE;SKILLS;Working;B
+SK-030;Project Planning & Execution;introduction-to-planning-and-controlling-hazards-t-r-a-c-k-scorm12-nrpeh-rf;SAFE-00;SAFE;SKILLS;Working;B
+SK-080;Pre-Task Safety Planning;introduction-to-planning-and-controlling-hazards-t-r-a-c-k-scorm12-nrpeh-rf;SAFE-00;SAFE;SKILLS;Learning;B
+SK-083;Safety;introduction-to-planning-and-controlling-hazards-t-r-a-c-k-scorm12-nrpeh-rf;SAFE-00;SAFE;SKILLS;Learning;B
+SK-081;Regulatory Inspections;osh-as-focus-four-workplace-hazards-scorm12-_eefrmuc;SAFE-01;SAFE;SKILLS;Working;C
+SK-054;Quality Control;workplace-inspections-pre-task-assessments-briefings-scorm12-mpjt1kbi;SAFE-02;SAFE;SKILLS;Working;C
+SK-080;Pre-Task Safety Planning;workplace-inspections-pre-task-assessments-briefings-scorm12-mpjt1kbi;SAFE-02;SAFE;SKILLS;Working;C
+SK-081;Regulatory Inspections;workplace-inspections-pre-task-assessments-briefings-scorm12-mpjt1kbi;SAFE-02;SAFE;SKILLS;Learning;C
+SK-086;Safety Inspections;workplace-inspections-pre-task-assessments-briefings-scorm12-mpjt1kbi;SAFE-02;SAFE;SKILLS;Learning;C
+SK-073;Injury Management;safety-coordinator-10-0-injury-case-management-scorm12-bhn-skit;SC-00;SC;SKILLS;Working;C
+SK-083;Safety;safety-coordinator-10-0-injury-case-management-scorm12-bhn-skit;SC-00;SC;SKILLS;Working;C
+SK-081;Regulatory Inspections;safety-coordinator-11-0-osha-msha-inspections-scorm12-1cfxq7kp;SC-01;SC;SKILLS;Working;C
+SK-054;Quality Control;safety-coordinator-11-0-osha-msha-inspections-scorm12-1cfxq7kp;SC-01;SC;SKILLS;Working;C
+SK-083;Safety;safety-coordinator-11-0-osha-msha-inspections-scorm12-1cfxq7kp;SC-01;SC;SKILLS;Learning;C
+SK-083;Safety;safety-coordinator-4-0-task-training-scorm12-1lqdglp;SC-02;SC;SKILLS;Working;C
+SK-083;Safety;safety-coordinator-5-0-safety-meetings-scorm12--kplybaq;SC-03;SC;SKILLS;Working;C
+SK-028;Planning & Scheduling;safety-coordinator-6-0-project-planning-identifying-hazards-scorm12-pa7utguc;SC-04;SC;SKILLS;Working;C
+SK-029;Project Planning;safety-coordinator-6-0-project-planning-identifying-hazards-scorm12-pa7utguc;SC-04;SC;SKILLS;Working;C
+SK-030;Project Planning & Execution;safety-coordinator-6-0-project-planning-identifying-hazards-scorm12-pa7utguc;SC-04;SC;SKILLS;Learning;C
+SK-083;Safety;safety-coordinator-6-0-project-planning-identifying-hazards-scorm12-pa7utguc;SC-04;SC;SKILLS;Learning;C
+SK-054;Quality Control;safety-coordinator-7-0-safety-inspections-scorm12-dsf-btet;SC-05;SC;SKILLS;Working;C
+SK-081;Regulatory Inspections;safety-coordinator-7-0-safety-inspections-scorm12-dsf-btet;SC-05;SC;SKILLS;Working;C
+SK-083;Safety;safety-coordinator-7-0-safety-inspections-scorm12-dsf-btet;SC-05;SC;SKILLS;Learning;C
+SK-086;Safety Inspections;safety-coordinator-7-0-safety-inspections-scorm12-dsf-btet;SC-05;SC;SKILLS;Learning;C
+SK-083;Safety;safety-coordinator-8-0-disciplinary-action-scorm12-efm1bzaa;SC-06;SC;SKILLS;Working;C
+SK-072;Incident Investigation;safety-coordinator-9-0-accident-incident-investigations-scorm12-viiehqfz;SC-07;SC;SKILLS;Working;C
+SK-083;Safety;safety-coordinator-9-0-accident-incident-investigations-scorm12-viiehqfz;SC-07;SC;SKILLS;Working;C
+SK-083;Safety;a-commitment-to-zero-broken-lives-new-hire-safety-orientation-scorm12-k9ggo4z0;SO-00;SO;SKILLS;Working;B
+SK-019;Conducting Evaluations;a-commitment-to-zero-broken-lives-new-hire-safety-orientation-scorm12-k9ggo4z0;SO-00;SO;SKILLS;Working;B
+SK-083;Safety;commitment-to-safety-a-shared-responsibility-new-hire-safety-orientation-scorm12-2jvergv-;SO-01;SO;SKILLS;Working;B
+SK-040;Continuous Improvement;commitment-to-safety-a-shared-responsibility-new-hire-safety-orientation-scorm12-2jvergv-;SO-01;SO;SKILLS;Working;B
+SK-083;Safety;gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft;SO-02;SO;SKILLS;Working;A
+SK-005;Culture;gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft;SO-02;SO;SKILLS;Working;A
+SK-006;Values Alignment;gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft;SO-02;SO;SKILLS;Learning;B
+SK-028;Planning & Scheduling;gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft;SO-02;SO;SKILLS;Learning;B
+SK-084;Safety Awareness & Culture;gs-ls-new-hire-safety-orientation-scorm12-l1evm0ft;SO-02;SO;SKILLS;Learning;B
+SK-025;Nevada Employee Rights;nevadas-employee-rights-and-responsibilities-new-hire-safety-orientation-scorm12-sru8a0g6;SO-03;SO;SKILLS;Working;B
+SK-083;Safety;nevadas-employee-rights-and-responsibilities-new-hire-safety-orientation-scorm12-sru8a0g6;SO-03;SO;SKILLS;Working;B
+SK-093;Written Program & Employee Rights;nevadas-employee-rights-and-responsibilities-new-hire-safety-orientation-scorm12-sru8a0g6;SO-03;SO;SKILLS;Learning;B
+SK-079;Personal Safety;nevadas-employee-rights-and-responsibilities-new-hire-safety-orientation-scorm12-sru8a0g6;SO-03;SO;SKILLS;Learning;B
+SK-083;Safety;new-hire-safety-orientation-scorm12-n-zkxxau;SO-04;SO;SKILLS;Working;B
+SK-040;Continuous Improvement;new-hire-safety-orientation-scorm12-n-zkxxau;SO-04;SO;SKILLS;Working;B
+SK-066;Electrical Work Safety;new-hire-safety-orientation-scorm12-n-zkxxau;SO-04;SO;SKILLS;Learning;B
+SK-079;Personal Safety;new-hire-safety-orientation-scorm12-n-zkxxau;SO-04;SO;SKILLS;Learning;B
+SK-083;Safety;safety-coordinator-3-0-employee-safety-orientation-scorm12-wwdhs8xs;SO-05;SO;SKILLS;Working;C
+SK-034;Team Morale;chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph;TEAM-00;TEAM;SKILLS;Working;A
+SK-011;Leadership;chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph;TEAM-00;TEAM;SKILLS;Working;A
+SK-013;Leading with Purpose;chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph;TEAM-00;TEAM;SKILLS;Learning;B
+SK-016;Field Leadership;chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph;TEAM-00;TEAM;SKILLS;Learning;B
+SK-023;Employee Motivation;chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph;TEAM-00;TEAM;SKILLS;Learning;B
+SK-033;Team Management;chapter-6-introduction-to-team-management-scorm12-ywlcwpmw;TEAM-01;TEAM;SKILLS;Working;A
+SK-011;Leadership;chapter-6-introduction-to-team-management-scorm12-ywlcwpmw;TEAM-01;TEAM;SKILLS;Working;A
+SK-016;Field Leadership;chapter-6-introduction-to-team-management-scorm12-ywlcwpmw;TEAM-01;TEAM;SKILLS;Learning;B
+SK-018;Foreman Role & Responsibilities;chapter-6-introduction-to-team-management-scorm12-ywlcwpmw;TEAM-01;TEAM;SKILLS;Learning;B
+SK-027;Identifying Strengths & Values;chapter-6-introduction-to-team-management-scorm12-ywlcwpmw;TEAM-01;TEAM;SKILLS;Learning;B
+SK-023;Employee Motivation;increasing-self-motivation-scorm12-npmiqa6h;TEAM-02;TEAM;SKILLS;Working;A
+SK-106;EQ Leadership;increasing-self-motivation-scorm12-npmiqa6h;TEAM-02;TEAM;SKILLS;Working;A
+SK-107;Emotional Intelligence (EQ);increasing-self-motivation-scorm12-npmiqa6h;TEAM-02;TEAM;SKILLS;Learning;B
+SK-112;Building Relationships;increasing-self-motivation-scorm12-npmiqa6h;TEAM-02;TEAM;SKILLS;Learning;B
+SK-023;Employee Motivation;increasing-your-self-motivation-scorm12-s0eqm439;TEAM-03;TEAM;SKILLS;Working;A
+SK-035;Team Motivation Fundamentals;motivating-your-team-scorm12-c3gfnv1x;TEAM-04;TEAM;SKILLS;Working;A
+SK-011;Leadership;motivating-your-team-scorm12-c3gfnv1x;TEAM-04;TEAM;SKILLS;Working;A
+SK-023;Employee Motivation;motivating-your-team-scorm12-c3gfnv1x;TEAM-04;TEAM;SKILLS;Learning;B
+SK-038;Project Team Leadership;motivating-your-team-scorm12-c3gfnv1x;TEAM-04;TEAM;SKILLS;Learning;B
+SK-007;Values-Driven Leadership;1-0-coach-k-teaches-values-driven-leadership-scorm12-xpvxgbur;VDL-00;VDL;SKILLS;Working;A
+SK-011;Leadership;1-0-coach-k-teaches-values-driven-leadership-scorm12-xpvxgbur;VDL-00;VDL;SKILLS;Working;A
+SK-006;Values Alignment;1-0-coach-k-teaches-values-driven-leadership-scorm12-xpvxgbur;VDL-00;VDL;SKILLS;Learning;B
+SK-007;Values-Driven Leadership;ab06661d-8075-4ede-84eb-8fb88fd3d500;VDL-02;VDL;SKILLS;Working;A
+SK-011;Leadership;ab06661d-8075-4ede-84eb-8fb88fd3d500;VDL-02;VDL;SKILLS;Working;A
+SK-006;Values Alignment;ab06661d-8075-4ede-84eb-8fb88fd3d500;VDL-02;VDL;SKILLS;Learning;B
+SK-005;Culture;ab06661d-8075-4ede-84eb-8fb88fd3d500;VDL-02;VDL;SKILLS;Learning;B
+SK-008;Accountability;ab06661d-8075-4ede-84eb-8fb88fd3d500;VDL-02;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u;VDL-03;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u;VDL-03;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u;VDL-03;VDL;SKILLS;Learning;B
+SK-028;Planning & Scheduling;values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u;VDL-03;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-10-planning-your-next-play-scorm12-znlyq13u;VDL-03;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9;VDL-04;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9;VDL-04;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9;VDL-04;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9;VDL-04;VDL;SKILLS;Learning;B
+SK-014;Self-Awareness;values-driven-leadership-12-improve-individual-performance-scorm12-nz5spqu9;VDL-04;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-13-give-feedback-scorm12-fslze9ua;VDL-05;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-13-give-feedback-scorm12-fslze9ua;VDL-05;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-13-give-feedback-scorm12-fslze9ua;VDL-05;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-13-give-feedback-scorm12-fslze9ua;VDL-05;VDL;SKILLS;Learning;B
+SK-013;Leading with Purpose;values-driven-leadership-13-give-feedback-scorm12-fslze9ua;VDL-05;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv;VDL-06;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv;VDL-06;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv;VDL-06;VDL;SKILLS;Learning;B
+SK-111;Mentoring and Development;values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv;VDL-06;VDL;SKILLS;Learning;B
+SK-112;Building Relationships;values-driven-leadership-14-develop-emerging-leaders-scorm12-dsn2azbv;VDL-06;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f;VDL-07;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f;VDL-07;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f;VDL-07;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f;VDL-07;VDL;SKILLS;Learning;B
+SK-040;Continuous Improvement;values-driven-leadership-17-bounce-back-from-a-loss-scorm12-1zsyje6f;VDL-07;VDL;SKILLS;Learning;B
+SK-011;Leadership;0e803e8d-e40a-47e1-b34c-48b387997be5;VDL-08;VDL;SKILLS;Working;A
+SK-006;Values Alignment;0e803e8d-e40a-47e1-b34c-48b387997be5;VDL-08;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;0e803e8d-e40a-47e1-b34c-48b387997be5;VDL-08;VDL;SKILLS;Learning;B
+SK-005;Culture;0e803e8d-e40a-47e1-b34c-48b387997be5;VDL-08;VDL;SKILLS;Learning;B
+SK-008;Accountability;0e803e8d-e40a-47e1-b34c-48b387997be5;VDL-08;VDL;SKILLS;Learning;B
+SK-011;Leadership;d226d1a8-172f-41c2-94bb-0a8dce777c94;VDL-09;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;d226d1a8-172f-41c2-94bb-0a8dce777c94;VDL-09;VDL;SKILLS;Working;A
+SK-006;Values Alignment;d226d1a8-172f-41c2-94bb-0a8dce777c94;VDL-09;VDL;SKILLS;Learning;B
+SK-005;Culture;d226d1a8-172f-41c2-94bb-0a8dce777c94;VDL-09;VDL;SKILLS;Learning;B
+SK-013;Leading with Purpose;d226d1a8-172f-41c2-94bb-0a8dce777c94;VDL-09;VDL;SKILLS;Learning;B
+SK-011;Leadership;02d67ee1-0635-4e68-8128-ee32d9f6b657;VDL-10;VDL;SKILLS;Working;B
+SK-006;Values Alignment;02d67ee1-0635-4e68-8128-ee32d9f6b657;VDL-10;VDL;SKILLS;Working;B
+SK-007;Values-Driven Leadership;02d67ee1-0635-4e68-8128-ee32d9f6b657;VDL-10;VDL;SKILLS;Learning;B
+SK-005;Culture;02d67ee1-0635-4e68-8128-ee32d9f6b657;VDL-10;VDL;SKILLS;Learning;B
+SK-008;Accountability;02d67ee1-0635-4e68-8128-ee32d9f6b657;VDL-10;VDL;SKILLS;Learning;B
+SK-011;Leadership;d4544a6e-93d6-4241-8c0a-15c45ba89e7a;VDL-11;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;d4544a6e-93d6-4241-8c0a-15c45ba89e7a;VDL-11;VDL;SKILLS;Working;A
+SK-006;Values Alignment;d4544a6e-93d6-4241-8c0a-15c45ba89e7a;VDL-11;VDL;SKILLS;Learning;B
+SK-005;Culture;d4544a6e-93d6-4241-8c0a-15c45ba89e7a;VDL-11;VDL;SKILLS;Learning;B
+SK-037;Empowering Teams;d4544a6e-93d6-4241-8c0a-15c45ba89e7a;VDL-11;VDL;SKILLS;Learning;B
+SK-011;Leadership;7062beb5-44e6-4646-8344-d7a09c854b08;VDL-12;VDL;SKILLS;Working;A
+SK-006;Values Alignment;7062beb5-44e6-4646-8344-d7a09c854b08;VDL-12;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;7062beb5-44e6-4646-8344-d7a09c854b08;VDL-12;VDL;SKILLS;Learning;B
+SK-005;Culture;7062beb5-44e6-4646-8344-d7a09c854b08;VDL-12;VDL;SKILLS;Learning;B
+SK-013;Leading with Purpose;7062beb5-44e6-4646-8344-d7a09c854b08;VDL-12;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj;VDL-13;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj;VDL-13;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj;VDL-13;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj;VDL-13;VDL;SKILLS;Learning;B
+SK-037;Empowering Teams;values-driven-leadership-7-the-ultimate-motion-offense-scorm12-5bpb44hj;VDL-13;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-8-effective-communication-scorm12-neuqm88y;VDL-14;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-8-effective-communication-scorm12-neuqm88y;VDL-14;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-8-effective-communication-scorm12-neuqm88y;VDL-14;VDL;SKILLS;Learning;B
+SK-099;Communication;values-driven-leadership-8-effective-communication-scorm12-neuqm88y;VDL-14;VDL;SKILLS;Learning;B
+SK-100;Effective Communication;values-driven-leadership-8-effective-communication-scorm12-neuqm88y;VDL-14;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav;VDL-15;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav;VDL-15;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav;VDL-15;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav;VDL-15;VDL;SKILLS;Learning;B
+SK-008;Accountability;values-driven-leadership-9-leading-with-emotion-scorm12-grnz0lav;VDL-15;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj;VDL-16;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj;VDL-16;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj;VDL-16;VDL;SKILLS;Learning;B
+SK-112;Building Relationships;values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj;VDL-16;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj;VDL-16;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0;VDL-17;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0;VDL-17;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0;VDL-17;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0;VDL-17;VDL;SKILLS;Learning;B
+SK-037;Empowering Teams;values-driven-leadership-15-create-a-legacy-of-leaders-scorm12-2ilihfl0;VDL-17;VDL;SKILLS;Learning;B
+SK-011;Leadership;values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9;VDL-18;VDL;SKILLS;Working;A
+SK-007;Values-Driven Leadership;values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9;VDL-18;VDL;SKILLS;Working;A
+SK-006;Values Alignment;values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9;VDL-18;VDL;SKILLS;Learning;B
+SK-023;Employee Motivation;values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9;VDL-18;VDL;SKILLS;Learning;B
+SK-005;Culture;values-driven-leadership-16-make-a-habit-of-motivation-scorm12-cbzbbrc9;VDL-18;VDL;SKILLS;Learning;B

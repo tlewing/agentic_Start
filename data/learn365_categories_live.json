@@ -1,0 +1,1634 @@
+[
+  {
+    "Id": "ae4c37e6-0ba5-44af-b9b8-003d82243367",
+    "Name": "Safety Orientation \\ OnBoarding",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "1915ec65-ef3c-4341-9a7f-00a397734e72",
+    "Name": "Employee Orientation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6d8dae79-036c-498e-8265-03098564aa80",
+    "Name": "Document Control",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "8ca61abd-7228-49c7-83ec-03ac5a21bfbf",
+    "Name": "Mentor \\ Teaching",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "c14c9015-bae0-40d5-b0ab-03c90daf304c",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c6784837-57f6-402d-b9a9-056e6a913124",
+    "Name": "Presenting",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "539f1a71-01df-4494-8633-2924d4034e6a"
+  },
+  {
+    "Id": "44c62280-540c-49e3-84a7-08daf45eb8ff",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "9d7ebe7c-e58a-407d-ae2e-09ffe5fa24ad",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "55afd43b-427a-4756-8835-0af04fb76564",
+    "Name": "Continuous Improvement",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "3ebc9ecf-bb2e-4c09-b255-0afb00177537",
+    "Name": "Value Added Leadership",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": "082b6be8-d71a-4edd-97fa-a502f7e26bf9"
+  },
+  {
+    "Id": "2b466ec6-987f-48ff-ae6e-0b4eef22c175",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6dd3a2e8-b4fb-4c27-abb1-0c60dc51c36c",
+    "Name": "Leadership Fundamentals",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "8a30b00d-ed8a-4a66-8697-0e5a9d09d9d6",
+    "Name": "Electrical Safety",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "95e3d681-5276-40e6-8019-6d7432b83281"
+  },
+  {
+    "Id": "0e827089-1869-4ea3-9de9-0f8bad8e1d9b",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c5304c97-090e-42e2-91d2-104314963c77",
+    "Name": "Waste Management",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "c2b2c6d8-66c3-4d9a-bb66-10bd5896ef12",
+    "Name": "Presentation Skills",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f4a1d255-00fd-49a5-a72d-1131863de1d2",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "fb601fff-34fd-47f8-a3de-121d5654455e",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "5b8962f4-1bc9-4b6e-a729-127a9c8299ba",
+    "Name": "Mentor \\ Teaching",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "4d8bf758-139f-487a-be96-12f84ab0cd45",
+    "Name": "Learn365",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "5cdf7531-11d3-4640-845c-13375a07e97a",
+    "Name": "Document Control",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "a1ba0731-425a-4a37-b59c-13896cfa1af1",
+    "Name": "Policy",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "9c690dcf-c4a3-4baa-9bea-14ae582d47cb",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b1b04c7f-44a7-4396-b94f-16984510ad04",
+    "Name": "Values Driven Leadership",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "f785cb55-8e3c-408c-8c49-177f435ff13a",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "3ca002b3-ca61-4ec2-be43-17e663064914",
+    "Name": "First Aid / CPR / AED",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "95e3d681-5276-40e6-8019-6d7432b83281"
+  },
+  {
+    "Id": "9572147d-eaf7-4a4d-a082-18cae375cff5",
+    "Name": "Electrical Safety",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3900a6ba-e68d-4499-907c-4fb91a8449fb"
+  },
+  {
+    "Id": "25e1b39b-d228-4299-b21b-1b8d8ada4784",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "4d86bf7e-228f-48cc-b3bc-1ca10c90a947",
+    "Name": "Safety",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ba40c6b8-1dfa-4698-a442-1d36d6bf44bc",
+    "Name": "Safety - Procedure",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "acc33780-fb6f-4d4a-875f-1d6eed61dce0",
+    "Name": "Learn365",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "315f69ec-f858-4b16-a7b5-1de3b023c688",
+    "Name": "Culture",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "2d85687d-a977-48e6-87c2-1e2fb72ac1ef",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7336cd79-74ed-48ac-bef1-1e819c6b334e",
+    "Name": "Slips, Trips, & Falls",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3900a6ba-e68d-4499-907c-4fb91a8449fb"
+  },
+  {
+    "Id": "6303d6f7-3093-462d-a6b1-1f503c330bf4",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6e98492b-4391-4cf3-8118-1ffaa67bbc71",
+    "Name": "Emotional Intelligence",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f",
+    "Name": "Leadership",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "3958d43a-b91e-4f0b-b7bd-2167e5d5e536",
+    "Name": "Technology & Reporting",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7e2dff77-b69e-4957-ac75-21d84c10553f",
+    "Name": "Leadership",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a650f9b5-6141-4996-b369-21f1bac089be",
+    "Name": "Engage365",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "02a48afa-117b-4868-9d9f-224fa633b531",
+    "Name": "Strategy",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "727da35d-0886-4b7a-8e68-227c8e10c251",
+    "Name": "Safety Orientation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "0d5c70a5-910c-4346-b5eb-2358d91723b0",
+    "Name": "Engage365",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "1f1f206e-2f33-4a43-86e7-23f0799240f0",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f39a25ae-41ab-43e2-9f51-2489da72a0ba",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ffe155f6-eaee-4509-a9dd-250217c75e8e",
+    "Name": "Engage365",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "08924e5c-b74a-441a-aaa6-25472611bd45",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "84246d57-89ad-40e4-b2f0-26c129b1648e",
+    "Name": "Work Area Inspections",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "65261b95-8af0-4ea8-9d42-274fe8ed4a9b",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0327e242-d294-4388-b689-29095056240e",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "539f1a71-01df-4494-8633-2924d4034e6a",
+    "Name": "Soft Skills",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "87622b0f-5cbe-4a11-ad64-2c66e099f3f2",
+    "Name": "Workforce Management",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "a8b36f1e-6d0f-4cec-a8c4-6361b0dfc358"
+  },
+  {
+    "Id": "de802637-7e42-4978-a3e9-2cdc3d6f9f81",
+    "Name": "Vehicle/Equipment Inspections",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "576e1f67-4383-48d7-88a6-2d0f20b55019",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b3f5658e-8d1c-4b6d-92c6-2d9a51547648",
+    "Name": "Electrical Safety",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "bfd1d5be-2410-4700-9933-2db28835ae8e",
+    "Name": "Hazard Awareness",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3900a6ba-e68d-4499-907c-4fb91a8449fb"
+  },
+  {
+    "Id": "a08dde83-526a-4af7-9596-2e6367639a37",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "5ad5da44-6302-42b8-a2ad-2f6d151b02f6",
+    "Name": "Lockout / Tagout",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "f327df6c-c483-46ec-87c8-2fc6e51da425",
+    "Name": "Engage365",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e6063eca-e010-4060-8957-3023eb1ff0d1",
+    "Name": "Communication",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "62dd2e89-9e2b-4d88-bc07-762710ae6e5d"
+  },
+  {
+    "Id": "58a33718-cdbf-408a-b09b-30f27a560034",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "fc8bd655-b694-48ad-8ed4-316951c6f3fe",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "9ffd392b-1869-4c85-a920-32824a8a5f66",
+    "Name": "Lockout / Tagout",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3900a6ba-e68d-4499-907c-4fb91a8449fb"
+  },
+  {
+    "Id": "136462e0-0d42-4be4-b377-32c944c60296",
+    "Name": "Communication",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "aa0772a2-e611-46d5-b031-399374b6dd4c"
+  },
+  {
+    "Id": "f3da1db5-d819-43fb-818d-3738d8fcdfc3",
+    "Name": "Lean Fundamentals",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "fab3983c-ee30-4604-8477-b78babeef375"
+  },
+  {
+    "Id": "1f40b256-7cf4-4b40-a309-3973491410c8",
+    "Name": "Leadership Fundamentals",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "aa0772a2-e611-46d5-b031-399374b6dd4c",
+    "Name": "Soft Skills",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "fb0cd1c4-41e6-41a2-9363-39e8fabe35f7",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "cd9c892d-2124-46e1-8e70-3a5520bdeeae",
+    "Name": "Technology Skills",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a35e179a-8bb5-43e8-9c41-3b93b8cc0b5d",
+    "Name": "Project Planning & Scheduling",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "30c718c9-ccb5-417a-9f12-3cb119bb25e0",
+    "Name": "Skills, Traits, & Responsibilities",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "8478cede-a8ef-4b63-aeb7-3cf5a3f213ab",
+    "Name": "Extreme Ownership",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "e0baf010-7750-4132-b5cf-3d5e79c861fc",
+    "Name": "Social Skills",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "6ceddfae-bcda-4a1c-be6a-3d64ee714a89",
+    "Name": "Task Training",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7aefb83b-11c9-4f61-b9a2-40d8fa00f3fa",
+    "Name": "Learn365",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f08a4f7f-6825-4ef6-bbfb-40f2d5d85f3e",
+    "Name": "Emotional Intelligence",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "4012a8bd-dfdb-4ecf-a1c2-4127ad86de9c",
+    "Name": "Learn365",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c88fe8e5-2ec8-4a16-82a2-42bb0cceca69",
+    "Name": "Communication",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "ea3f8285-4df7-4f62-a3c7-54195957144f"
+  },
+  {
+    "Id": "d516498a-4f32-47d5-892b-42c4d446189a",
+    "Name": "Personal Development",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f12632bc-d903-4f1c-b8c9-436a2e6f662e",
+    "Name": "Presenting",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "694720eb-f9fd-47da-9c7f-442f02b8a8d2",
+    "Name": "Safety Culture",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "315f69ec-f858-4b16-a7b5-1de3b023c688"
+  },
+  {
+    "Id": "26b2cd89-eca4-4e8e-86ac-4437e2d7dea6",
+    "Name": "Accountability",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "9ccd63aa-deda-4873-a359-464ce6ce993b",
+    "Name": "Culture",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e51af090-c9bf-4e4b-a0d0-468c22357098",
+    "Name": "General Personal Development",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ba9bfeb0-0aff-4412-9d94-48e2499de322",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a239a00b-4c5d-461b-9bae-490ca9bdfa99",
+    "Name": "Safety Procedure",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0cb43629-2503-493b-a418-ad0916b4d924"
+  },
+  {
+    "Id": "d04cd3cb-1e8b-4de1-9ea3-49fb07ec1623",
+    "Name": "Hazard Awareness",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "70375877-3c8a-4c4d-b3c3-4a30bce17d0a",
+    "Name": "Performance",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "954888eb-b311-45ec-a3bb-5e1ba6e78294"
+  },
+  {
+    "Id": "02b9a260-d155-472e-9a69-4de4b1235ebd",
+    "Name": "Foreman Training",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "3900a6ba-e68d-4499-907c-4fb91a8449fb",
+    "Name": "Safety",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "86a091ce-28e9-48c3-9186-51a1d6a47b40",
+    "Name": "GSL Academy",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "5e97f03d-5500-447b-a03a-52ccbe82e63f",
+    "Name": "Hazard Communication",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "ea3f8285-4df7-4f62-a3c7-54195957144f",
+    "Name": "Soft Skills",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f449071f-df55-4fea-b35e-5481cff9456b",
+    "Name": "Lean Fundamentals",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "a44162b9-272a-486b-a58b-5547e1ee432d",
+    "Name": "Self-Regulation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "a23760ad-b287-4425-9171-555b9958acb5",
+    "Name": "Communication",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "d69e9e1c-2a09-4f41-9d1e-556a53bc529e",
+    "Name": "Motivation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "5143c387-5901-455d-a39d-55b723e3847d",
+    "Name": "MSHA",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c9a376e0-d867-4fea-a53c-55d7d869a669",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "125d48c0-60af-487b-9a0b-5606587c7312",
+    "Name": "Learn365",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d",
+    "Name": "Leadership",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "3e2ee9e9-4ea5-46f8-b4fd-56a27a4d6303",
+    "Name": "Culture",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7eead3e9-da16-4a10-989c-57adad69ff8c",
+    "Name": "Estimating",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "d3d3a0f1-0b3e-40fa-8d79-59f516551d7b",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59",
+    "Name": "Leadership",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "954888eb-b311-45ec-a3bb-5e1ba6e78294",
+    "Name": "Leadership",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e23200ee-d99d-4505-a29c-5e400f33e430",
+    "Name": "Engage365",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a10ab5aa-12b5-42f0-b6d0-5eb0044cd26e",
+    "Name": "Customer Service",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6f28b239-b6ef-4fad-9679-5f806c99e139",
+    "Name": "Engage365",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7a115b15-c2ea-4800-b09e-5ffb6458f7d6",
+    "Name": "Hazard Communication",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3900a6ba-e68d-4499-907c-4fb91a8449fb"
+  },
+  {
+    "Id": "41e04150-8898-4bef-b4ee-61943e18b793",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "09b3195e-4a72-444d-a5ad-628ee6975792",
+    "Name": "Change Orders",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0d020aba-281e-4486-9c8c-b74c1be067a8"
+  },
+  {
+    "Id": "abe75f6d-10bd-4ff0-b02a-62df3b42ec10",
+    "Name": "Learn365",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a8b36f1e-6d0f-4cec-a8c4-6361b0dfc358",
+    "Name": "Leadership",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "563a4951-d3bd-4f5b-bf4b-65383695c9c5",
+    "Name": "Sales and Customer Service",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "236d0307-38e9-4587-a703-656fe50801be",
+    "Name": "Testing & Troubleshooting",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "d389664a-c8ed-4460-806a-6798225d2877",
+    "Name": "Tools & Technology",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "72270429-cd93-489f-86b6-6880adc7c938",
+    "Name": "Estimating Fundamentals",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "c3798891-d375-4f68-a903-7b415160f9c5"
+  },
+  {
+    "Id": "b5d2ddcf-8170-46b7-9e12-68ba5d71228e",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "38c1ffa7-da1c-4263-b3e8-69925ea1c023",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "44d00d92-b7ea-455f-95b7-6b273a592c0b",
+    "Name": "Safety Culture",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "4d86bf7e-228f-48cc-b3bc-1ca10c90a947"
+  },
+  {
+    "Id": "67e1c818-7e4f-4c8c-a0fb-6c9668ed7a55",
+    "Name": "Performance",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "5f9c4d99-ae85-4fe5-98cb-6caf9914a18b",
+    "Name": "Engage365",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "95e3d681-5276-40e6-8019-6d7432b83281",
+    "Name": "Safety",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "368eebf4-f04d-4d12-9526-722c711bc366",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "4cbf3577-5c12-457f-b3ff-7258decfb3ba",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "34ebad45-1d10-48b3-a723-72c8a2e83ea7",
+    "Name": "Learn365",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7a9e2144-34a7-4836-a536-73e1f90f09e6",
+    "Name": "Delegation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "4e1090fd-3b13-45e0-8328-752809bf7c78",
+    "Name": "Engage365",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "735831de-6a69-442c-8227-7621f6c927c6",
+    "Name": "Leadership Fundamentals",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "a8b36f1e-6d0f-4cec-a8c4-6361b0dfc358"
+  },
+  {
+    "Id": "62dd2e89-9e2b-4d88-bc07-762710ae6e5d",
+    "Name": "Soft Skills",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "506c997e-6e6c-4391-af81-76afc16ee6f1",
+    "Name": "Communication",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "539f1a71-01df-4494-8633-2924d4034e6a"
+  },
+  {
+    "Id": "addce331-c865-49f1-b413-7719ae3e44ac",
+    "Name": "Extreme Ownership",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "75ff6223-2d86-4a0f-afdb-7864b7150240",
+    "Name": "Learn365",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a02716b6-94bb-4156-8bde-79326bdc00fa",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "34df25b8-8f15-4230-b819-793d65a641e5",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c3798891-d375-4f68-a903-7b415160f9c5",
+    "Name": "Estimating",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "1d5581db-7c92-4456-bc35-7b689905cf93",
+    "Name": "Workforce Management",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "ed2b9bd8-5327-4cbe-a9cb-7b78389a90f4",
+    "Name": "Feedback",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "aa0772a2-e611-46d5-b031-399374b6dd4c"
+  },
+  {
+    "Id": "673098a7-4a64-4bd0-81d2-7c4ea8c8aed1",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "29b08b34-7068-4ff0-b054-7c537d2ce588",
+    "Name": "Estimating",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "735be670-3e09-4335-a768-7cf8b0424f3f",
+    "Name": "Continuous Improvement",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "fab3983c-ee30-4604-8477-b78babeef375"
+  },
+  {
+    "Id": "8eff639d-f02b-4a48-b7d6-7d7dd94f9503",
+    "Name": "First Aid / CPR / AED",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "a2dd52eb-a092-4e5d-b7d3-7f58eb52a346",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "d1854ff8-30bf-4c6a-85e7-7f9a14a9d225",
+    "Name": "Learn365",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6887f32c-4a19-44ba-8858-7fc155ad42ac",
+    "Name": "Risk Assessment",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b79b0bfd-a67f-44f9-ba77-80460c1eb3c0",
+    "Name": "Engage365",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "564401cb-1e82-4841-a8a0-80b6e434d19d",
+    "Name": "Team Building & Teamwork",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a2c33965-b334-4ddc-8021-81bd5cf8cc3f",
+    "Name": "Performance",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "0c0d7992-2c60-4a77-bddb-81da9eca8703",
+    "Name": "Workforce Management",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "cdd2d2ca-2b06-461c-a1bd-5ba00cf52f59"
+  },
+  {
+    "Id": "984bc41a-96ac-4789-92a6-83a169615473",
+    "Name": "Workforce Management",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "2d83d441-90ff-4d21-8010-8474eded6fa6",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c954f0be-b84d-41d3-8967-8498820d8c4d",
+    "Name": "GSL Micro-Learning",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a92f3c7c-e129-49e7-ba80-85658bd4d017",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0a77a56d-0878-4dcf-9835-86cfeab8209e",
+    "Name": "Soft Skills",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "773ff840-900f-4cd9-ba4c-88072f10fced",
+    "Name": "First Aid / CPR / AED",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3900a6ba-e68d-4499-907c-4fb91a8449fb"
+  },
+  {
+    "Id": "106e7426-fc4d-418a-a528-88d4404fc3f2",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "070e3f2e-79cc-43ff-b0bb-1952a69cfc08",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a1e28621-985d-44e6-b08e-890db64c819a",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "13f7dae1-d19e-4e5b-be70-89685f49d87c",
+    "Name": "Resource Planning",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "8553b32b-00c8-44ad-bfe5-89a0a0923c29",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a92c26f4-4962-4c5f-bd47-89d85db2e33d",
+    "Name": "Safety Coordinator",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ce06fd30-6ca5-4db8-82d5-8a6bc25fdb95",
+    "Name": "Artificial Intelligence",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "58a9bcff-379c-47de-a375-8b8b34db324d",
+    "Name": "Safety Culture",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "9ccd63aa-deda-4873-a359-464ce6ce993b"
+  },
+  {
+    "Id": "9a6a038b-76b5-4743-a65c-8cd08d988f83",
+    "Name": "Industry Transformation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "9caa6c88-18ea-4d5f-90d2-8d253973da91",
+    "Name": "Safety Planning",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "73503f82-4c8c-435d-8bf6-8d8c83d0d360",
+    "Name": "Learn365",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "449cba81-5be4-4d0d-8abc-8e64fd9f2d04",
+    "Name": "Pull Planning",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "b9b7d618-1a96-463c-95ce-8f3eaafea39c",
+    "Name": "Planning \\ Scheduling \\ Adjusting",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "54a87dd1-2b30-4885-baed-90e96df4f1e0",
+    "Name": "Change Orders",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "68e8e814-269d-4d73-84ca-dacf3ed99084"
+  },
+  {
+    "Id": "a2fae2aa-da85-4c15-8178-91f4b8468982",
+    "Name": "Engage365",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e466e881-bed0-4b02-8cb8-93c3bc8b0946",
+    "Name": "Learn365",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ef6bb972-c78a-471d-9e5d-94a508c3acee",
+    "Name": "Skills, Traits, & Responsibilities",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "f730178a-15a1-4cb4-9c44-99926cfda02f",
+    "Name": "Communication",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "63d9acca-1453-4839-9475-9c7eaa5db856",
+    "Name": "Leadership Fundamentals",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "954888eb-b311-45ec-a3bb-5e1ba6e78294"
+  },
+  {
+    "Id": "88db6a8d-8a8d-4445-b787-9d2cffa92c11",
+    "Name": "Performance",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "5ffedf21-d16c-4b94-b9c6-9dbed7b992f3",
+    "Name": "Mentor \\ Teaching",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "754848e7-f30a-43ed-bb59-a0bc4bac5ee7",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "25f7d11a-3e9c-43a8-8b17-a3b897b53c0a",
+    "Name": "Slips, Trips, & Falls",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "b1428e36-13cf-4f55-b398-a7afcac63303"
+  },
+  {
+    "Id": "07adc6cd-a58b-4639-8377-a418ee5a27a0",
+    "Name": "Workforce Management",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "954888eb-b311-45ec-a3bb-5e1ba6e78294"
+  },
+  {
+    "Id": "082b6be8-d71a-4edd-97fa-a502f7e26bf9",
+    "Name": "Micro-Learning",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6ad3ce2b-8663-4b95-9e73-a591c7b03e73",
+    "Name": "Field Empowerment",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "73785fee-e698-4382-96bd-a5e93f78df5b",
+    "Name": "Motivation",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "ea3f8285-4df7-4f62-a3c7-54195957144f"
+  },
+  {
+    "Id": "b1428e36-13cf-4f55-b398-a7afcac63303",
+    "Name": "Safety",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "a27f87e3-6749-48fd-888f-aadfff424473",
+    "Name": "Leadership",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b10976d8-2e5f-4331-8be5-ab4838a11b7c",
+    "Name": "Discipline",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6afcfb69-a766-4f5a-966d-ac540f8d8a0c",
+    "Name": "Feedback",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "ea3f8285-4df7-4f62-a3c7-54195957144f"
+  },
+  {
+    "Id": "70addc4c-9f1d-4b9d-a697-acf60175caef",
+    "Name": "Delegation",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "0cb43629-2503-493b-a418-ad0916b4d924",
+    "Name": "Procedure",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0a55ab0e-5802-4a26-a7fa-ad138d392d48",
+    "Name": "Motivation",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "62dd2e89-9e2b-4d88-bc07-762710ae6e5d"
+  },
+  {
+    "Id": "74342c08-51d3-49eb-bed0-af7d668aae87",
+    "Name": "Feedback",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "539f1a71-01df-4494-8633-2924d4034e6a"
+  },
+  {
+    "Id": "9a8bf3a0-9ef8-4cd1-975f-afdc4bab485e",
+    "Name": "Safety Planning",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "9be92977-875a-4139-bb6f-b0790a114eea",
+    "Name": "Qualified Person",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "9bad2fdb-7ca9-4381-bf9b-b0e13aa7aeb5",
+    "Name": "Safety Procedure",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "3c73068d-344e-40a9-82e3-d16398e7945a"
+  },
+  {
+    "Id": "d9a2b87e-2f51-4ad3-b9fa-b0ebf30785dd",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e97ab22f-6dc5-4761-b971-b11ef2ba1dad",
+    "Name": "Document Control",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "ea742d91-9780-49c2-9238-b28e9af07ad8",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0b021a05-5fd8-42ea-9b37-b293019d2100",
+    "Name": "Mentor \\ Teaching",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "1216759f-ecab-4269-a617-b3f341be6bf8",
+    "Name": "Performance",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "a8b36f1e-6d0f-4cec-a8c4-6361b0dfc358"
+  },
+  {
+    "Id": "d5cff08c-f446-4e15-9aa8-b42f3c58af90",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "dd477064-6d41-4b93-9b7c-b43c6d5c3fd2",
+    "Name": "Self-Awareness",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "8045d91b-6cf8-46d2-a64c-b48d74345fb5",
+    "Name": "Assured Grounding",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0556915b-3cfc-4065-807b-b54435886180",
+    "Name": "Soft Skills",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "83349d2a-7cee-46a5-aaa1-b57156b138ff",
+    "Name": "Task Training",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "50242a41-9c0d-4d6b-a022-b66711419ef6",
+    "Name": "OSHA & MSHA Inspections",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0d020aba-281e-4486-9c8c-b74c1be067a8",
+    "Name": "Project Management",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "fab3983c-ee30-4604-8477-b78babeef375",
+    "Name": "Lean Principals",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "dadb5579-f222-4d10-8a73-b7c68beaf64b",
+    "Name": "Feedback",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "62dd2e89-9e2b-4d88-bc07-762710ae6e5d"
+  },
+  {
+    "Id": "4b122eba-b413-488c-8350-b82361243d67",
+    "Name": "Feedback",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "94eed4e4-fb1f-4330-aeb5-b90eee82910f",
+    "Name": "The Anatomy of a Project",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": "34ca13f9-1dd1-4ba4-bd22-215dfa5b789f"
+  },
+  {
+    "Id": "e5d474af-cdee-4f38-a171-b99fb7877926",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "d78b34ef-921d-4e76-b8dc-ba6649e56eac",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "46cf7e34-5f82-4b41-8b2b-bab145cebb40",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ab27d70b-208c-4a94-bee1-bac93efa4c98",
+    "Name": "Learn365",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e9395ed7-7aee-4d54-abf4-bd76a29e4688",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "6edd7cb0-6b1b-427e-82a1-c171ae8a3552",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "29b4ad47-e262-4a58-ab3f-c1b121d63cff",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "e3894194-98d5-4c3e-8d16-c1ce9473a729",
+    "Name": "Project Planning & Scheduling",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "17504ff6-344e-418a-8987-c2e20eb838a0",
+    "Name": "Safety Coordinator",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f258b35b-c5c7-417e-a210-c32f04af93d6",
+    "Name": "Motivation",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": "539f1a71-01df-4494-8633-2924d4034e6a"
+  },
+  {
+    "Id": "35feb303-7338-4869-b564-c3604d30d354",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "502d6951-a4ff-409f-9221-c42e78dee190",
+    "Name": "8 Types of Waste",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "fab3983c-ee30-4604-8477-b78babeef375"
+  },
+  {
+    "Id": "ad7516a1-f4df-4b2f-b32b-c4868a86ed00",
+    "Name": "Accubid",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "c3798891-d375-4f68-a903-7b415160f9c5"
+  },
+  {
+    "Id": "79fee235-2d43-490d-98e7-c49a92b59e96",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b3f64c00-a057-4c65-b0ac-c5277502b753",
+    "Name": "Assured Grounding",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "612845c8-7597-4ab5-a0bb-c570318b14dc",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "fb252bbf-b22c-4013-8eba-c712adb70be5",
+    "Name": "Safety Culture",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "3e2ee9e9-4ea5-46f8-b4fd-56a27a4d6303"
+  },
+  {
+    "Id": "04602f4e-c28d-4676-a79c-c755c739ef41",
+    "Name": "Work Area Inspections",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0126cb62-7a79-431e-90e4-c806044a56fc",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "cf4c5203-5e9b-47b9-a33f-c8bb6bb6f019",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "ce7a91a7-101f-4498-b225-58a499357262",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "ad488c6a-c057-45aa-813b-ca96f978347f",
+    "Name": "Risk Assessment",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "85877ed1-92f8-4d2d-9185-cb6387342392",
+    "Name": "Document Control",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": "a8b36f1e-6d0f-4cec-a8c4-6361b0dfc358"
+  },
+  {
+    "Id": "e05fb5a4-99dd-488d-b5da-cb6ee243220b",
+    "Name": "Onboarding/Safety Orientation",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "c8345532-6857-4509-8533-cc16a1262219",
+    "Name": "Field Leadership",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "36fb58b5-a6d1-4c21-aadd-ce463a52bebf",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "0bb07ff3-6cd4-4f32-9735-cec24ba194b5",
+    "Name": "Test",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f30e893c-9e4e-483e-9a5f-d08bdd9c373a",
+    "Name": "Vehicle/Equipment Inspections",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "3c73068d-344e-40a9-82e3-d16398e7945a",
+    "Name": "Procedure",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "20331e89-2f33-4523-8019-d1e6d68ffffb",
+    "Name": "Labor Planning",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "68e8e814-269d-4d73-84ca-dacf3ed99084",
+    "Name": "Project Management",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "bb260b26-28f0-4d78-824e-db2624f9e145",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "5b6a13be-bc64-43cf-ad5d-db37d0152b5a",
+    "Name": "Qualified Person",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b0b381b6-0bf7-4ca0-8ab8-dc019df6669a",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "7b25ef43-9cec-4cdf-90c3-dc99835b9c41",
+    "Name": "Policy",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "92dae9d0-84c7-45c3-b702-dcc39ddef571",
+    "Name": "Lean Principals",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "d67e5c33-5fea-40ef-9360-dce62f001d6b",
+    "Name": "Motivation",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "aa0772a2-e611-46d5-b031-399374b6dd4c"
+  },
+  {
+    "Id": "505c4848-4159-432f-9153-dd651b52ad43",
+    "Name": "Engage365 for Managers",
+    "CourseCatalogId": "408ea575-9e11-43aa-9a6f-d44ff083fa2d",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "996ed3a7-0193-4229-9a89-df5b64f12085",
+    "Name": "OSHA & MSHA Inspections",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "dc6847a4-93b4-452e-bde8-e20f55a454b7",
+    "Name": "Process Management",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "ccb32012-b5bd-4ebf-aa7d-e41fffe414e5",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "322aeea0-c0ba-439e-87de-e553672195e8",
+    "Name": "Document Control",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": "954888eb-b311-45ec-a3bb-5e1ba6e78294"
+  },
+  {
+    "Id": "a36914f1-9080-44f5-bc83-e60a04e128b5",
+    "Name": "Leadership",
+    "CourseCatalogId": "e6eeedce-5092-416a-b16c-d1ca971f4587",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "477bc2e2-3076-4c02-a044-e66be371dbfb",
+    "Name": "Employee Orientation",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "4f911e25-6608-425c-9db8-e6a1c78b80fb",
+    "Name": "Learn365 Navigation",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "5de8bc93-8925-4eed-b3b3-e7135dcda653",
+    "Name": "Digital leadership",
+    "CourseCatalogId": "02c2baf6-0827-4011-b42f-af9b5f008865",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "487f6317-1cec-4a9e-bb26-e9aa3a8a6f17",
+    "Name": "Project Closeout",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0cb43629-2503-493b-a418-ad0916b4d924"
+  },
+  {
+    "Id": "e36ddae3-b449-4914-99c5-edcf91cddbe6",
+    "Name": "Engage365",
+    "CourseCatalogId": "b991794d-c125-426f-a47d-ebcdd2bb50ae",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "1bf6a8f1-2d13-4bf7-8b54-ee90f86d0506",
+    "Name": "Engage365",
+    "CourseCatalogId": "e77bfcda-bb0f-4de5-a75b-6b66ac48ae11",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "f1d623e2-4292-4099-85db-efa27611f772",
+    "Name": "Engage365 for Users",
+    "CourseCatalogId": "2a3aa9cc-06d1-4e31-98dc-ddf6bd4f0dac",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "b2e9ff34-ac34-4624-8b60-f0f364705f1d",
+    "Name": "Qualified Person",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "95e3d681-5276-40e6-8019-6d7432b83281"
+  },
+  {
+    "Id": "f14955cd-fce9-4fe0-9db2-f18411dc8b12",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "9d17b60f-29a5-4648-bc85-d6fb22b912af",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "aa8d58ee-1f0c-4db8-8173-f1aa1f9390a5",
+    "Name": "Extreme Ownership",
+    "CourseCatalogId": "6dec10c7-41f0-4bdc-8305-75171ac3de04",
+    "ParentCategoryId": "a27f87e3-6749-48fd-888f-aadfff424473"
+  },
+  {
+    "Id": "6bfb7979-2943-4b56-a83e-f202ae497d98",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "2d9e4984-996a-4724-8836-f59dc445fdbc",
+    "Name": "Leadership Fundamentals",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "9392df70-1d3f-4dfe-a590-f71ba30ad70e",
+    "Name": "Learn365",
+    "CourseCatalogId": "9f5877ba-9b6b-44fd-9d3c-963dee1f4201",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "042ad96e-7033-4350-a4d5-f7cfc166137d",
+    "Name": "Stress Management",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "d46e8144-6574-46e6-872b-f7f7257e30e0",
+    "Name": "Accountability",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "7aa1b7b6-bb17-4570-b3ad-568ebc3c121d"
+  },
+  {
+    "Id": "79cf9149-66d1-4318-b135-f8d6b90b4885",
+    "Name": "Respect For People",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "02396841-12c7-4242-ad14-fe02ab3d7c62"
+  },
+  {
+    "Id": "5e5bab12-d00c-4a78-9058-f8e4b8e1564d",
+    "Name": "Engage365",
+    "CourseCatalogId": "89070086-3c58-45e4-9b52-678ac9704c36",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "1963d4e1-1b70-4793-80cc-fac4e5ed2b92",
+    "Name": "Empathy",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": "0556915b-3cfc-4065-807b-b54435886180"
+  },
+  {
+    "Id": "4360a397-e6f2-4250-afad-fd61510144de",
+    "Name": "People and Communication Skills",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "02396841-12c7-4242-ad14-fe02ab3d7c62",
+    "Name": "Lean Principals",
+    "CourseCatalogId": "b1670146-674a-4730-9e9d-d7d29ba52385",
+    "ParentCategoryId": null
+  },
+  {
+    "Id": "122ea783-d1d2-4137-9af9-fe8cc27a13a5",
+    "Name": "Learn365 Product Training",
+    "CourseCatalogId": "d3c56e4d-aa58-4581-a523-1c39f0d62619",
+    "ParentCategoryId": null
+  }
+]

@@ -1,0 +1,13 @@
+Position Group,Safety,Leadership,Soft Skills,Lean Principles,Software,AI & Tech,Culture & Values,Management,Procurement
+A. Field Entry (Apprentice),M,R,M,R,R,-,M,-,-
+B. Field Journeyman,M,R,M,R,R,-,M,-,-
+C. Field Leadership (Leadman/Foreman),M,M,M,M,M,R,M,R,-
+D. Superintendents,M,M,M,M,M,R,M,M,-
+E. Project Management,M,M,M,M,M,R,M,M,R
+F. General Superintendent,M,M,M,M,M,R,M,M,-
+G. Safety,M,M,M,R,R,-,M,M,-
+H. Estimating,R,R,M,R,M,R,R,R,R
+I. Engineering,R,-,R,-,M,R,R,-,-
+J. Administration,R,-,M,-,M,R,R,-,-
+K. Executive,R,M,M,R,R,R,M,M,-
+L. Other/Specialized,R,R,M,R,M,R,R,-,R

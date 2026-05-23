@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "00503a41-1463-4a72-8246-e5da6bd01394",
+    "userId": "1f08b445-3e0a-4c45-9031-8303959300c9",
+    "skillId": "c8caaf11-be70-40e2-9dfc-68fcee6da325",
+    "levelId": "b52b3b48-1675-4741-b8b4-87778993c2e0",
+    "enrollmentId": "fd6c7aeb-5530-4611-aec5-fba3823beb26",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:08:46.793"
+  },
+  {
+    "id": "01101ca9-7d21-4431-8593-2cc44cfe6976",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "615096c1-9afd-497f-90a7-da16971884a2",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "c886f194-dff7-4561-acf6-f71cff0d15ca",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-09-23T13:40:46.953"
+  },
+  {
+    "id": "01a553bf-00f6-45ce-88ba-ed1f0b38e8a2",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "a5d985d1-a47b-4c19-af4b-fbe130e49293",
+    "levelId": "09bfce79-1e2b-42b5-bcb5-2a96b888d751",
+    "enrollmentId": "c42141d4-3413-40d3-bf31-0464ade74b2f",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:58:37.203"
+  },
+  {
+    "id": "020a93ef-c5a6-434a-89a8-a56839280e3b",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "bf6c808b-978d-4efd-a88c-05595639043d",
+    "levelId": "5feebb45-5de6-4598-b744-61ac93e289fc",
+    "enrollmentId": "dcfff1a5-f516-4dba-ab16-f3e6c1e7f8ab",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:59:00.5"
+  },
+  {
+    "id": "02303c59-534f-4910-ae7f-0a07a3e5aa02",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "78fd773a-9ebc-43c5-ba4e-c64ce6479eda",
+    "levelId": "d4e430c4-9b79-47c8-8a50-f23bf04c2685",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:49:22.377"
+  },
+  {
+    "id": "02b5bd5d-4c24-442b-951d-f3cd4ead771e",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "b70b5e6b-5f96-4901-bdae-5c72e5dd0d0e",
+    "levelId": "09bfce79-1e2b-42b5-bcb5-2a96b888d751",
+    "enrollmentId": "dabf1eb2-03db-424e-892b-28d1548134a8",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:00:08.003"
+  },
+  {
+    "id": "02bfe6e6-e404-4e42-81e3-38c8965e11fd",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "f4d42740-3341-4b79-923e-b89030d6a7b3",
+    "levelId": "4ff5bb8c-e1f6-489a-8868-ace85e1d6ce9",
+    "enrollmentId": "27402084-573a-4fb4-899b-75a38b75ec44",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:04:15.477"
+  },
+  {
+    "id": "02d2dd7a-ddeb-4615-8cc7-72b0b93787b4",
+    "userId": "1f08b445-3e0a-4c45-9031-8303959300c9",
+    "skillId": "b6a87613-f658-4ee3-9a1a-3c115608fb7a",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "e2c09eba-2f42-4aa7-b091-be84f58a415d",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:12.63"
+  },
+  {
+    "id": "04ccd8dc-8ff2-4752-bba7-67b4fbfc6059",
+    "userId": "04ba7f44-0468-4883-a54d-9f8e0378f376",
+    "skillId": "bd45c365-2dc1-4467-9571-8c05b98bd8c3",
+    "levelId": "4049aa94-1af4-4488-8100-4f11b74825c8",
+    "enrollmentId": "ce98cda6-7447-47b7-be6d-e0df1343f0f6",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-10T23:32:09.137"
+  },
+  {
+    "id": "065578c7-02f9-4504-8d43-cabc15bfbd10",
+    "userId": "12864c0f-96f9-4d6f-bdad-48888f79672f",
+    "skillId": "fd57fe61-c346-4c79-8ca5-6bea33cb9b73",
+    "levelId": "29eba2e6-8761-4a07-9805-537bed0c9e37",
+    "enrollmentId": "3cdec2b8-57bc-494a-94be-7c2d288b20a1",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:54:18.267"
+  },
+  {
+    "id": "0664e48e-108b-414c-96f9-479d39858d30",
+    "userId": "2de7c0d7-454b-431a-a898-c1a56870c567",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-10-03T21:30:00",
+    "modifiedAt": "2025-12-09T16:39:54.33"
+  },
+  {
+    "id": "08830261-efe9-4dce-9fec-ebfb4982149f",
+    "userId": "caf54bdd-5a44-49ed-9f02-40401a8d4485",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-10-03T21:30:00",
+    "modifiedAt": "2025-12-09T16:39:47.22"
+  },
+  {
+    "id": "0898bd42-7977-4db7-a634-3705ef739f96",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "36e9b3ce-c9b6-4ca8-a962-190cedb5a440",
+    "levelId": "af3940dc-d9b2-47ca-bd1c-494893e38701",
+    "enrollmentId": "0e1e64a0-35bf-4124-9c73-840401f1760f",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:06:45.687"
+  },
+  {
+    "id": "097dc77c-f225-4704-aa4d-a1288e42d2cd",
+    "userId": "32ec5338-cc2c-4d11-96e3-d59c38294168",
+    "skillId": "e4315731-7c53-4b32-ac54-5b2186d2bd5a",
+    "levelId": "04b009b9-5c96-4399-93d2-ebf0eb61fb06",
+    "enrollmentId": "5bf537bd-30ea-4881-9512-90d613ab8323",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:35:06.313"
+  },
+  {
+    "id": "0a2c0d8b-f694-4509-903d-50be13b7e3bb",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "3c835d6d-fe00-41d2-ab11-090d5e21ac0c",
+    "levelId": "3169266c-c7e3-4e49-8641-9fac53ebe531",
+    "enrollmentId": "b42fe112-49b8-41a1-8c5a-d7a7f8734291",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:04:47.15"
+  },
+  {
+    "id": "0ac0ca04-1509-4e01-8ed1-880ba21c056f",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "21297fac-f462-425b-833b-4b3df3186f58",
+    "levelId": "2790c37d-d0f0-4f59-bbc1-616599616f29",
+    "enrollmentId": "27402084-573a-4fb4-899b-75a38b75ec44",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:04:15.4"
+  },
+  {
+    "id": "0acec09b-12a0-4712-afae-81d1dd6a7c21",
+    "userId": "4cd00ae6-770f-4744-bfbd-778a36de7052",
+    "skillId": "902a03bf-93c1-4dd3-8565-77c5820a4970",
+    "levelId": "4ff5bb8c-e1f6-489a-8868-ace85e1d6ce9",
+    "enrollmentId": "3026a832-c2a8-4020-bc48-e83873edbf0c",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:45.027"
+  },
+  {
+    "id": "0b2c1869-c59f-49e6-8479-5cddadf76d93",
+    "userId": "fb2c3195-7656-4003-8de1-3a5c7cc404f2",
+    "skillId": "bd45c365-2dc1-4467-9571-8c05b98bd8c3",
+    "levelId": "4049aa94-1af4-4488-8100-4f11b74825c8",
+    "enrollmentId": "ab03990a-8f2c-4560-aec1-0dc1689d512d",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-10T23:31:23.193"
+  },
+  {
+    "id": "0b48aae2-92c5-4e76-a937-0f46861ffb44",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "a5b6c6d8-f5fd-453c-a774-5cece82fcb1c",
+    "levelId": "15f19d07-ce05-436a-9d58-0e56c664c53e",
+    "enrollmentId": "821dafa3-70ac-4a33-bff0-56a79722bcf1",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:19:12.407"
+  },
+  {
+    "id": "0c3161ce-3ec7-4594-b6c6-ae6c1d5d98c5",
+    "userId": "75a8370c-f0ad-40f4-846b-2b4da3ce4b54",
+    "skillId": "081ac734-fd69-408b-ba5f-15a650b1938c",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "25de4b9c-0073-4188-9b58-471976267eb7",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:44.407"
+  },
+  {
+    "id": "0cb59c83-4232-4ac8-93ca-31b7c69feee4",
+    "userId": "0fa822c3-ea9b-4154-8ade-a4314471a237",
+    "skillId": "9d054b2f-2380-4d41-a413-472f674d8a5b",
+    "levelId": "6c7b7be0-622e-4dcd-a6bd-95ee9a5c3f2c",
+    "enrollmentId": "b3854483-0353-46e9-9637-9a19ff8c6404",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:19.563"
+  },
+  {
+    "id": "0cdaf8e5-c62e-43fd-9cb3-4d3e4d24b512",
+    "userId": "33edf1d9-0f5d-420c-bcb5-cb9dc4a10f40",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "9521a779-978a-416b-a3c0-1d0446f4e04b",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:40:08.88"
+  },
+  {
+    "id": "0dac1ae2-a505-462a-b765-31d09c5587d0",
+    "userId": "74453ef2-466e-43f4-9ab5-79e8d9bb0a2e",
+    "skillId": "f9abbfa8-ff39-442b-a1cd-00b4a58bc513",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "d2e2140e-2160-4648-b3d8-0fc752decad2",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:40:02.993"
+  },
+  {
+    "id": "0e5a65d4-9338-446a-97b9-a61f92bce06d",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "f4d42740-3341-4b79-923e-b89030d6a7b3",
+    "levelId": "4ff5bb8c-e1f6-489a-8868-ace85e1d6ce9",
+    "enrollmentId": "1fa0ea7e-5aa6-4c40-bcec-2e9994a140a0",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:08:17.207"
+  },
+  {
+    "id": "0ed00ec3-dd58-4331-a48e-882d65bae6c6",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "f3793467-fa4b-4e1a-82e6-0575f0e6f842",
+    "levelId": "0f22a79f-0b29-4159-bb35-b69fd60d872f",
+    "enrollmentId": "dcfff1a5-f516-4dba-ab16-f3e6c1e7f8ab",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:59:00.61"
+  },
+  {
+    "id": "0fff289d-7fab-43e7-99d9-a3df70c7537e",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "171a423d-4023-446c-ae6c-6067f41ff9f4",
+    "levelId": "b0d8dbea-a29f-45a8-a850-f70c681f5783",
+    "enrollmentId": "b42fe112-49b8-41a1-8c5a-d7a7f8734291",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:04:47.353"
+  },
+  {
+    "id": "11624fab-0009-4bea-b2a5-a4a8c0ecfe8c",
+    "userId": "0fa822c3-ea9b-4154-8ade-a4314471a237",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "7fbfe61a-4f7a-4e5d-bee5-a6e2f3e3bf7a",
+    "enrollmentId": "b3854483-0353-46e9-9637-9a19ff8c6404",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:19.813"
+  },
+  {
+    "id": "11fc550a-c0e2-4d33-8d32-b093709c6016",
+    "userId": "55bea526-3b31-43cc-ac00-53abaf65f224",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "cbfced3c-fed1-4ad9-9cd7-24af2fc2411b",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:39.69"
+  },
+  {
+    "id": "122863b3-9c4c-44f8-8c9d-5ea513d1091a",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "e4315731-7c53-4b32-ac54-5b2186d2bd5a",
+    "levelId": "04b009b9-5c96-4399-93d2-ebf0eb61fb06",
+    "enrollmentId": "12324bf1-ccee-4f6a-9c28-38f8cdecce30",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:21:41.56"
+  },
+  {
+    "id": "153c9499-3c2a-40a1-86f6-78e2bb50261a",
+    "userId": "4cd00ae6-770f-4744-bfbd-778a36de7052",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "7fbfe61a-4f7a-4e5d-bee5-a6e2f3e3bf7a",
+    "enrollmentId": "3026a832-c2a8-4020-bc48-e83873edbf0c",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:45.103"
+  },
+  {
+    "id": "1550d1e1-f072-4ad7-bea7-b692a42a7521",
+    "userId": "fadada97-9dc6-4863-9269-c08db68ba455",
+    "skillId": "df4abc9c-25de-47e1-803d-c63203d1db50",
+    "levelId": "d062c2a7-a375-4795-985a-963a8c659ac0",
+    "enrollmentId": "6de85c7e-7d0f-44a7-a797-895b7da29e68",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:41:49.677"
+  },
+  {
+    "id": "1589b53d-5dcd-425e-8f89-434d48b190fc",
+    "userId": "5e16d244-75ee-4f79-b42b-21aa8792d47d",
+    "skillId": "41d6e1b5-7aa6-4199-8478-52138666fee3",
+    "levelId": "fdaa6620-f238-43a5-a409-c4e9812323a4",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:53:15.653"
+  },
+  {
+    "id": "15c4966a-72fa-4fb8-b664-3a48952eef0d",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "a001f764-267c-4ff3-aa38-305ad2cc0ccf",
+    "levelId": "67e5835c-663a-4674-9131-ae6e69611151",
+    "enrollmentId": "8549dc4a-1998-4a74-9273-8c90f925ec4e",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:50:18.893"
+  },
+  {
+    "id": "1715688d-d926-4e3c-9301-5ee6e46d91fb",
+    "userId": "0fa822c3-ea9b-4154-8ade-a4314471a237",
+    "skillId": "bd45c365-2dc1-4467-9571-8c05b98bd8c3",
+    "levelId": "4049aa94-1af4-4488-8100-4f11b74825c8",
+    "enrollmentId": "33d149c9-15f7-41f6-8c23-ee43930071a6",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-10T23:29:18.313"
+  },
+  {
+    "id": "1a00e86a-ba52-427c-bb4a-43f006d19045",
+    "userId": "9da7f12c-f3ee-4870-a854-b54ee68b42e8",
+    "skillId": "b6a87613-f658-4ee3-9a1a-3c115608fb7a",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "b2078e5f-7d7c-45ec-9250-be645b3d7c1e",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:38:37.137"
+  },
+  {
+    "id": "1a14b124-080d-435a-95ad-abbe5144c206",
+    "userId": "8d8c238c-ef8b-453e-84f4-9ff899900346",
+    "skillId": "902a03bf-93c1-4dd3-8565-77c5820a4970",
+    "levelId": "4ff5bb8c-e1f6-489a-8868-ace85e1d6ce9",
+    "enrollmentId": "1d553e7a-20bc-468e-835c-22f57d8d59d5",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:59.157"
+  },
+  {
+    "id": "1aa3766f-9e49-4e8c-b175-8834db1e0b1f",
+    "userId": "fadada97-9dc6-4863-9269-c08db68ba455",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "c958f145-ea6c-4b05-9f47-68d0c391a96a",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:35:11.217"
+  },
+  {
+    "id": "1c918147-46ff-4067-b8a7-5fcdd0d6798a",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "f33697e5-8cce-4004-a20e-4af881edb252",
+    "levelId": "f5556aba-2933-4701-9d78-9d2081669572",
+    "enrollmentId": "1fa0ea7e-5aa6-4c40-bcec-2e9994a140a0",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:08:17.033"
+  },
+  {
+    "id": "1d9d549c-723b-4f51-b1ea-3df66bd014d5",
+    "userId": "bc232f2b-1cc4-4034-bd5d-e5bdefab9e73",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "e2ead7e4-e01b-4f4c-8db7-e3e7a6e8cb11",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:36:21.437"
+  },
+  {
+    "id": "1dac54b1-217e-46e9-90ab-dbdbb74cf771",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "520252f6-1783-4006-92d2-1f6d3301dd95",
+    "levelId": "c2d5a1e2-2125-4e25-bb77-ac747f8893a2",
+    "enrollmentId": "b2081e9b-1363-49fc-b9b7-0787fbe85777",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:09:12.36"
+  },
+  {
+    "id": "1db773de-b1e9-4eab-a1ea-2a33663fd264",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "4dfd5bfb-afba-4915-9091-3ff21a071754",
+    "levelId": "c51d8d4a-32da-473c-b2bd-5307424bb865",
+    "enrollmentId": "8549dc4a-1998-4a74-9273-8c90f925ec4e",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:50:18.97"
+  },
+  {
+    "id": "1f66e273-9962-49cd-81a6-b460fd5f5355",
+    "userId": "f700f892-ff3a-4f9a-a1b5-ab46553f0649",
+    "skillId": "9d054b2f-2380-4d41-a413-472f674d8a5b",
+    "levelId": "eee7b118-9a00-4aea-b27e-a10a8b5548b2",
+    "enrollmentId": "4305cef4-bc1c-47d6-968a-c82f83c36721",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-18T22:08:16.313"
+  },
+  {
+    "id": "201a8443-90fa-4d70-83ea-9bed0f0149ad",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "171a423d-4023-446c-ae6c-6067f41ff9f4",
+    "levelId": "3af7b913-67d7-4426-90a6-5778dd8d8563",
+    "enrollmentId": "c42141d4-3413-40d3-bf31-0464ade74b2f",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:58:37"
+  },
+  {
+    "id": "207f0bdf-1c5a-41e7-b4f0-f2e6d1a7e35a",
+    "userId": "954db4b0-ae36-4a6a-9e7f-05cc313d3070",
+    "skillId": "f9abbfa8-ff39-442b-a1cd-00b4a58bc513",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "1a7d7d63-2756-4846-898a-dee3b8b48221",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:40:14.787"
+  },
+  {
+    "id": "2097d96a-402a-4c44-9b26-4b4657b2c71e",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "e18b61f4-f1b0-45f2-9d82-d8a0cbd2ce4e",
+    "levelId": "09bfce79-1e2b-42b5-bcb5-2a96b888d751",
+    "enrollmentId": "c42141d4-3413-40d3-bf31-0464ade74b2f",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:58:37.157"
+  },
+  {
+    "id": "22409153-1be9-4ea8-b066-8ee1f92f4966",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "847e4a1c-c081-4030-b9ca-f9181c3ed078",
+    "levelId": "d062c2a7-a375-4795-985a-963a8c659ac0",
+    "enrollmentId": "8549dc4a-1998-4a74-9273-8c90f925ec4e",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:50:19.283"
+  },
+  {
+    "id": "22c4d45d-0731-4225-8a19-3ca2f0a368b1",
+    "userId": "62cd2a0b-d471-408b-bdb7-f2a95252f5cd",
+    "skillId": "c1211f38-3295-47fe-abd5-04bb04805e68",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "39da19b2-b30e-4468-8a95-79b6fd9832f4",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:55:12.97"
+  },
+  {
+    "id": "23f6ef08-62ee-48f2-93e5-31f008cb719b",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "b70b5e6b-5f96-4901-bdae-5c72e5dd0d0e",
+    "levelId": "3169266c-c7e3-4e49-8641-9fac53ebe531",
+    "enrollmentId": "b42fe112-49b8-41a1-8c5a-d7a7f8734291",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:04:47.303"
+  },
+  {
+    "id": "24044064-ad5c-4b22-9faf-6efb6637c674",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "5ab47f7b-e582-4544-99ae-fde9e6eb0dbe",
+    "levelId": "6c7b7be0-622e-4dcd-a6bd-95ee9a5c3f2c",
+    "enrollmentId": "e9160f88-8e4c-4bf7-aa1b-051df4d6d6cd",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:11:52.673"
+  },
+  {
+    "id": "244d15f7-a3af-4a10-8d82-263382b5b13b",
+    "userId": "f247d09f-f9c7-4d3a-986e-090e6c5f2fa3",
+    "skillId": "11f8659e-923e-4d82-babc-1fa838f86daf",
+    "levelId": "2b354961-f3b7-44cf-9639-ccb1fc07ad74",
+    "enrollmentId": "5403dfb7-fd46-4b04-ae83-0932452596c2",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-21T22:23:33.547"
+  },
+  {
+    "id": "24bbdd31-6cb2-4d8e-b9ad-454e52448a65",
+    "userId": "2c5c504d-0764-4a7d-b2ed-cf69b84d4cf6",
+    "skillId": "a001f764-267c-4ff3-aa38-305ad2cc0ccf",
+    "levelId": "67e5835c-663a-4674-9131-ae6e69611151",
+    "enrollmentId": "92fe1e63-2cb2-468f-9de0-62d5c1272d45",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:34:52.41"
+  },
+  {
+    "id": "2579c33f-33c2-4023-8d85-d321219acc7f",
+    "userId": "8d8c238c-ef8b-453e-84f4-9ff899900346",
+    "skillId": "41d6e1b5-7aa6-4199-8478-52138666fee3",
+    "levelId": "fdaa6620-f238-43a5-a409-c4e9812323a4",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:53:13.873"
+  },
+  {
+    "id": "25f65733-7986-4dc0-8125-85fab61a1790",
+    "userId": "6230ba6c-d593-4a25-90cc-64e40dfb768f",
+    "skillId": "bd45c365-2dc1-4467-9571-8c05b98bd8c3",
+    "levelId": "4049aa94-1af4-4488-8100-4f11b74825c8",
+    "enrollmentId": "eea23121-c3b4-4435-9172-a36a1771818b",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-10T23:31:32.467"
+  },
+  {
+    "id": "25f78b86-76ec-41c9-824b-35314c2aa640",
+    "userId": "0565d2b7-944a-4ecf-955d-322e8f0e1e45",
+    "skillId": "b6a87613-f658-4ee3-9a1a-3c115608fb7a",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "bfd941f8-d0de-440b-b96b-9578d4ebcead",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:32.17"
+  },
+  {
+    "id": "265f3084-6f1f-4a23-8efb-a8d12bf913c4",
+    "userId": "2c5c504d-0764-4a7d-b2ed-cf69b84d4cf6",
+    "skillId": "847e4a1c-c081-4030-b9ca-f9181c3ed078",
+    "levelId": "d062c2a7-a375-4795-985a-963a8c659ac0",
+    "enrollmentId": "92fe1e63-2cb2-468f-9de0-62d5c1272d45",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:34:52.787"
+  },
+  {
+    "id": "2687eac3-6f4b-48ef-baf8-b58c3e193aae",
+    "userId": "1d465a98-6bb2-4daa-b135-dc5e92b8173f",
+    "skillId": "11f8659e-923e-4d82-babc-1fa838f86daf",
+    "levelId": "2b354961-f3b7-44cf-9639-ccb1fc07ad74",
+    "enrollmentId": "49ccf1c2-1602-4cf5-81c0-d902e5af7b63",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-21T22:26:28.69"
+  },
+  {
+    "id": "26c23e32-0e54-4470-b0b8-80d6539b7d2b",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "23aa64fa-ca2d-4558-a2f3-05f51eb87a34",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "0e1e64a0-35bf-4124-9c73-840401f1760f",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:06:45.467"
+  },
+  {
+    "id": "2722b54a-a943-45bc-8d3a-4683880b34a4",
+    "userId": "9da7f12c-f3ee-4870-a854-b54ee68b42e8",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-08-29T20:58:41.46",
+    "modifiedAt": "2025-12-09T16:39:53.753"
+  },
+  {
+    "id": "2790aa81-21be-40ee-92d8-e413f0600f60",
+    "userId": "0fa822c3-ea9b-4154-8ade-a4314471a237",
+    "skillId": "23aa64fa-ca2d-4558-a2f3-05f51eb87a34",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "cfb55258-614f-42a3-b5fa-e3beed19d6a6",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:55:00.117"
+  },
+  {
+    "id": "28b4225d-3c44-4aa6-94be-46d918bead16",
+    "userId": "77a13977-b402-4951-baea-dd3efef0857f",
+    "skillId": "6994d7ad-8fad-4be7-a362-4bc8110e3a5b",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "f516b06e-9512-49ad-b4cd-bfc15d60de3c",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:38:48.203"
+  },
+  {
+    "id": "28f6b445-ef25-4d60-8909-2e970b893402",
+    "userId": "2281757a-42f8-42b1-b352-5dd003317e6d",
+    "skillId": "fd57fe61-c346-4c79-8ca5-6bea33cb9b73",
+    "levelId": "29eba2e6-8761-4a07-9805-537bed0c9e37",
+    "enrollmentId": "ad2e4a6b-cc31-4084-9aac-0044feeb1383",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:51:53.123"
+  },
+  {
+    "id": "29c7528c-2e1a-4d1c-bd2f-d892484fdeb0",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "23aa64fa-ca2d-4558-a2f3-05f51eb87a34",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "bf090eb9-77d2-4f27-84d8-a23c2aea22b4",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:10:33.763"
+  },
+  {
+    "id": "2ae87790-51c4-4040-93fc-53bb4308d973",
+    "userId": "629a50ea-9c61-4276-b467-7ce679fbba47",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-08-29T20:58:01.013",
+    "modifiedAt": "2025-12-09T16:39:44.753"
+  },
+  {
+    "id": "2b32f5f0-d539-4fe9-a78f-8d47fa4fc5fb",
+    "userId": "2d15aa31-d241-4127-a382-b8768653fcd4",
+    "skillId": "f9abbfa8-ff39-442b-a1cd-00b4a58bc513",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "68c9418e-e816-4717-b200-2a9bdb5e467e",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:57.357"
+  },
+  {
+    "id": "2bc0ff99-e822-4982-9d6a-10fd68df6dd9",
+    "userId": "2d15aa31-d241-4127-a382-b8768653fcd4",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "68c9418e-e816-4717-b200-2a9bdb5e467e",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:57.527"
+  },
+  {
+    "id": "2cfb0f98-b78a-479b-a18d-d740df905437",
+    "userId": "2a93048c-a03c-4d94-bfa7-2b1c285d1762",
+    "skillId": "a5e9aa47-7ee1-4407-ab46-a6534d087dba",
+    "levelId": "c51d8d4a-32da-473c-b2bd-5307424bb865",
+    "enrollmentId": "1bdf9a18-4a51-4a30-a4bf-f796ac55eb60",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:34:59.333"
+  },
+  {
+    "id": "2d45a670-0863-4559-a924-d07f35c8c920",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "fd57fe61-c346-4c79-8ca5-6bea33cb9b73",
+    "levelId": "29eba2e6-8761-4a07-9805-537bed0c9e37",
+    "enrollmentId": "5a1e6d42-ebe1-4560-9d0f-29d9c8e9c29a",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:54:02.853"
+  },
+  {
+    "id": "2da58e0d-f2b2-4c31-bc38-35a0c118e8a2",
+    "userId": "32ec5338-cc2c-4d11-96e3-d59c38294168",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "fbd9238d-fe39-440d-bc4f-914693b889bf",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:50:42.513"
+  },
+  {
+    "id": "2e43bbc4-e10c-4888-9f8c-736adc8a8b22",
+    "userId": "2c5c504d-0764-4a7d-b2ed-cf69b84d4cf6",
+    "skillId": "db8e4484-a6f6-4ee2-b6ac-8796638420bf",
+    "levelId": "d062c2a7-a375-4795-985a-963a8c659ac0",
+    "enrollmentId": "92fe1e63-2cb2-468f-9de0-62d5c1272d45",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:34:52.583"
+  },
+  {
+    "id": "2e67c66f-add0-428e-b6b0-c1b193c810d4",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "41d6e1b5-7aa6-4199-8478-52138666fee3",
+    "levelId": "fdaa6620-f238-43a5-a409-c4e9812323a4",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:53:14.31"
+  },
+  {
+    "id": "2f77df2e-0d17-4b64-a797-3e19959f3e95",
+    "userId": "55bea526-3b31-43cc-ac00-53abaf65f224",
+    "skillId": "f9abbfa8-ff39-442b-a1cd-00b4a58bc513",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "cbfced3c-fed1-4ad9-9cd7-24af2fc2411b",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:39.113"
+  },
+  {
+    "id": "2fbbb78c-297d-42c1-ac5f-5bdde97c6e44",
+    "userId": "12864c0f-96f9-4d6f-bdad-48888f79672f",
+    "skillId": "b1cd74e7-b9b0-4b5f-9cc0-7acdb7b92d77",
+    "levelId": "d372dc39-548d-4b34-99f0-a452017089a8",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:53:15.153"
+  },
+  {
+    "id": "2fcf1301-aff1-4edc-b9fb-bbc7db619ed6",
+    "userId": "1f08b445-3e0a-4c45-9031-8303959300c9",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "e2c09eba-2f42-4aa7-b091-be84f58a415d",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:39:12.71"
+  },
+  {
+    "id": "2fe22877-4cf3-4db0-a3c4-2207cc842201",
+    "userId": "04ba7f44-0468-4883-a54d-9f8e0378f376",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-08-29T20:58:17.233",
+    "modifiedAt": "2025-12-09T16:39:53.173"
+  },
+  {
+    "id": "2ffa0f03-911c-402c-bf29-b618ce4c2f09",
+    "userId": "954db4b0-ae36-4a6a-9e7f-05cc313d3070",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "1a7d7d63-2756-4846-898a-dee3b8b48221",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:40:14.99"
+  },
+  {
+    "id": "30ec5138-f0dd-4cdd-8b3c-c9c2e1d598d2",
+    "userId": "2a93048c-a03c-4d94-bfa7-2b1c285d1762",
+    "skillId": "4dfd5bfb-afba-4915-9091-3ff21a071754",
+    "levelId": "c51d8d4a-32da-473c-b2bd-5307424bb865",
+    "enrollmentId": "06fc8e28-e23f-4ab5-ab1c-8bbcea4c1436",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:41:40.403"
+  },
+  {
+    "id": "31545e6a-bc67-4f31-89bc-3e62e68ce59f",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "36e9b3ce-c9b6-4ca8-a962-190cedb5a440",
+    "levelId": "af3940dc-d9b2-47ca-bd1c-494893e38701",
+    "enrollmentId": "d6c053ed-68ce-494d-affd-8a26704b66c5",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:07:16.613"
+  },
+  {
+    "id": "31c28e45-a95f-4dbe-9f19-bb28b0236694",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "520252f6-1783-4006-92d2-1f6d3301dd95",
+    "levelId": "c2d5a1e2-2125-4e25-bb77-ac747f8893a2",
+    "enrollmentId": "8e910015-5955-499f-995c-d169cd7c8f39",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:07:48.557"
+  },
+  {
+    "id": "3279ac0c-c005-43b5-80c8-c0629cfe361a",
+    "userId": "fadada97-9dc6-4863-9269-c08db68ba455",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "fbd9238d-fe39-440d-bc4f-914693b889bf",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:50:44.31"
+  },
+  {
+    "id": "32849161-ba7d-45a0-a312-fc274e6ffe1e",
+    "userId": "2281757a-42f8-42b1-b352-5dd003317e6d",
+    "skillId": "902a03bf-93c1-4dd3-8565-77c5820a4970",
+    "levelId": "4ff5bb8c-e1f6-489a-8868-ace85e1d6ce9",
+    "enrollmentId": "4aad8dec-20e3-4ef3-b5a2-71b71691e922",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:33.59"
+  },
+  {
+    "id": "32da0f10-5139-47d6-9f30-07cb184af308",
+    "userId": "8d8c238c-ef8b-453e-84f4-9ff899900346",
+    "skillId": "b1cd74e7-b9b0-4b5f-9cc0-7acdb7b92d77",
+    "levelId": "d372dc39-548d-4b34-99f0-a452017089a8",
+    "enrollmentId": "1d553e7a-20bc-468e-835c-22f57d8d59d5",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:59.22"
+  },
+  {
+    "id": "34d54ab4-e79c-46ab-b970-25eb85d6a792",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "9d054b2f-2380-4d41-a413-472f674d8a5b",
+    "levelId": "eee7b118-9a00-4aea-b27e-a10a8b5548b2",
+    "enrollmentId": "8e910015-5955-499f-995c-d169cd7c8f39",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:07:48.683"
+  },
+  {
+    "id": "363d85c9-38b6-4c9d-a1f4-9c7b3aa7b626",
+    "userId": "5e16d244-75ee-4f79-b42b-21aa8792d47d",
+    "skillId": "b1cd74e7-b9b0-4b5f-9cc0-7acdb7b92d77",
+    "levelId": "d372dc39-548d-4b34-99f0-a452017089a8",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:53:15.653"
+  },
+  {
+    "id": "3660a792-c1ca-48f1-9c60-ba88b6f327c6",
+    "userId": "33edf1d9-0f5d-420c-bcb5-cb9dc4a10f40",
+    "skillId": "bd45c365-2dc1-4467-9571-8c05b98bd8c3",
+    "levelId": "4049aa94-1af4-4488-8100-4f11b74825c8",
+    "enrollmentId": "525dcfbe-2ff4-4869-b808-3741f16a6001",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-10T23:30:14.57"
+  },
+  {
+    "id": "3738cd18-d088-4417-99b2-e583213876e6",
+    "userId": "b6f9bd0a-650e-40b1-bd5a-3a0220aaf97e",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-10-03T21:30:00",
+    "modifiedAt": "2025-12-09T16:39:55.223"
+  },
+  {
+    "id": "37460fe6-2450-45f7-af4b-e4e464df397b",
+    "userId": "0dee586e-1643-4922-b2f7-861b6819a006",
+    "skillId": "c1211f38-3295-47fe-abd5-04bb04805e68",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "73762a55-4e0c-4325-a7d6-779fb0a1a2ee",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:55:22.01"
+  },
+  {
+    "id": "39ab7cb6-d066-4f33-8fb3-3cd842a33ee2",
+    "userId": "fadada97-9dc6-4863-9269-c08db68ba455",
+    "skillId": "a5e9aa47-7ee1-4407-ab46-a6534d087dba",
+    "levelId": "c51d8d4a-32da-473c-b2bd-5307424bb865",
+    "enrollmentId": "c958f145-ea6c-4b05-9f47-68d0c391a96a",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:35:11.31"
+  },
+  {
+    "id": "3a63c541-b9c6-4435-9d9b-f845584beb07",
+    "userId": "01ce0f2c-d407-4e41-930c-6c8989ea6168",
+    "skillId": "2079381a-ab70-4497-9286-f5b4feefd2bf",
+    "levelId": "9831fb85-126b-4d9e-b8d7-15b1dbfda802",
+    "enrollmentId": "5505b4b2-a2ed-4734-b94a-f9b2ef7cb6ad",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-09-18T15:36:31.64"
+  },
+  {
+    "id": "3a96761b-ae44-4056-a006-8f658ffcfb5a",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "df4abc9c-25de-47e1-803d-c63203d1db50",
+    "levelId": "d062c2a7-a375-4795-985a-963a8c659ac0",
+    "enrollmentId": "12324bf1-ccee-4f6a-9c28-38f8cdecce30",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:21:41.797"
+  },
+  {
+    "id": "3ac24a7b-1aa6-46ed-9bd6-361447c8207d",
+    "userId": "1f08b445-3e0a-4c45-9031-8303959300c9",
+    "skillId": "6b722963-aae2-496b-af4a-f3eb13526c4d",
+    "levelId": "15e53118-73c2-4dcd-ba22-708b4b29d7cb",
+    "enrollmentId": "fd6c7aeb-5530-4611-aec5-fba3823beb26",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T17:08:46.933"
+  },
+  {
+    "id": "3bc54173-3fca-461e-a7c2-1680b04a9f49",
+    "userId": "5e16d244-75ee-4f79-b42b-21aa8792d47d",
+    "skillId": "9d054b2f-2380-4d41-a413-472f674d8a5b",
+    "levelId": "6c7b7be0-622e-4dcd-a6bd-95ee9a5c3f2c",
+    "enrollmentId": "3f866910-33ce-4c97-9564-e9f5e494fffb",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-08-12T21:40:03.493"
+  },
+  {
+    "id": "3c294cd4-f539-4bf0-801f-52b58727569e",
+    "userId": "0fa822c3-ea9b-4154-8ade-a4314471a237",
+    "skillId": "ecc9e6b0-4528-46ee-849c-211aa642565d",
+    "levelId": "1ec76e5f-7472-480b-b8e3-0ceae85be62b",
+    "enrollmentId": "cfb55258-614f-42a3-b5fa-e3beed19d6a6",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-09T16:55:00.197"
+  },
+  {
+    "id": "3c516fcc-381b-44b9-bbef-2391f667e660",
+    "userId": "fadada97-9dc6-4863-9269-c08db68ba455",
+    "skillId": "e1fc7240-85d1-4e41-94f2-a3d39a40f399",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": "6de85c7e-7d0f-44a7-a797-895b7da29e68",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T21:41:49.55"
+  },
+  {
+    "id": "3c9fd2e4-9475-483b-853e-ac076935190c",
+    "userId": "5bf28d7b-5c12-4ac1-a276-9cbc83182a3d",
+    "skillId": "bd45c365-2dc1-4467-9571-8c05b98bd8c3",
+    "levelId": "4049aa94-1af4-4488-8100-4f11b74825c8",
+    "enrollmentId": "3ac2e7b3-2a01-4465-8cdb-aa2780aa8a94",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-10T23:32:52.747"
+  },
+  {
+    "id": "3d61b5f2-bad9-4780-9805-ca40f3ffef21",
+    "userId": "a1b84218-a62e-45b9-977d-b0d448f2b641",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-10-03T21:30:00",
+    "modifiedAt": "2025-12-09T16:39:46.69"
+  },
+  {
+    "id": "3ddb4526-227f-44bc-8362-3853607e555d",
+    "userId": "1889b42f-016e-4d5a-bd1f-5ac0535efbf3",
+    "skillId": "f87626ad-6306-427b-bf47-c8f85fcb8e9e",
+    "levelId": "0c38a358-1c20-40ef-b159-f9d28e7faca5",
+    "enrollmentId": "b1e99e97-ea1a-44f5-875b-769f818c329b",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-07-28T16:19:22.193"
+  },
+  {
+    "id": "3e69d74a-8241-4b59-8a04-4fc12218fdbc",
+    "userId": "d19fec59-e581-4c35-b00b-4ee12b083ff4",
+    "skillId": "f9abbfa8-ff39-442b-a1cd-00b4a58bc513",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "81bb973a-3f8f-405e-8821-2daa683ad358",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:40:29.607"
+  },
+  {
+    "id": "3e9c35bb-9aae-4e33-b34b-45d2ce206676",
+    "userId": "fadada97-9dc6-4863-9269-c08db68ba455",
+    "skillId": "4dfd5bfb-afba-4915-9091-3ff21a071754",
+    "levelId": "c51d8d4a-32da-473c-b2bd-5307424bb865",
+    "enrollmentId": "c958f145-ea6c-4b05-9f47-68d0c391a96a",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-11-20T20:35:11.043"
+  },
+  {
+    "id": "3f409124-671f-4c22-9385-977cbe52ad42",
+    "userId": "0cf5f2d0-f3a6-4e13-bc1b-25723d1433b6",
+    "skillId": "7af717ae-e9e8-453f-ac7e-fb141839ffde",
+    "levelId": "b3425340-045f-4b8a-9b55-b6b27bff593c",
+    "enrollmentId": null,
+    "status": "Granted",
+    "expiryDate": "2027-11-21T22:30:00",
+    "modifiedAt": "2025-12-09T16:39:47.877"
+  },
+  {
+    "id": "3fdc1b6d-54c9-4af8-9a7f-4cfbf94570fb",
+    "userId": "77a13977-b402-4951-baea-dd3efef0857f",
+    "skillId": "b6a87613-f658-4ee3-9a1a-3c115608fb7a",
+    "levelId": "25d1bb97-22f5-4c9a-a890-6913d87660f3",
+    "enrollmentId": "f516b06e-9512-49ad-b4cd-bfc15d60de3c",
+    "status": "Granted",
+    "expiryDate": null,
+    "modifiedAt": "2025-12-08T18:38:48.17"
+  }
+]

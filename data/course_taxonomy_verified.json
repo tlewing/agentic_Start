@@ -1,0 +1,5425 @@
+{
+  "generated": "2026-05-21",
+  "verified": true,
+  "rules_applied": "position_skills_courses_matrix.md Rules 1-8",
+  "courses": [
+    {
+      "course": "2024 NFPA 70E Required Boundaries",
+      "source_file": "2024-nfpa-70-e-required-boundaries-scorm12-dumyti56.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "NFPA 70E",
+        "approach boundary",
+        "electrical safety",
+        "shock",
+        "qualified person",
+        "boundaries",
+        "ppe",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Approach Boundary Management",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Arc Flash Personal Protective Equipment (PPE)",
+      "source_file": "arc-flash-personal-protective-equipment-ppe-scorm12-4M7f_E64.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "arc flash",
+        "ppe",
+        "NFPA 70E",
+        "incident energy",
+        "electrical safety",
+        "Personal Protection",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Arc Flash Awareness",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Boosting Self-Regulation",
+      "source_file": "boosting-self-regulation-scorm12-dmovz3bh.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Self-Management",
+      "tags": [
+        "Emotional Intelligence",
+        "Emotional Regulation",
+        "Self-Control",
+        "Self-Management",
+        "Adaptability",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Self-Regulation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": "REVIEW: possible duplicate - Second VTT file is a duplicate of the first (same content, different filename). Only one unique video."
+    },
+    {
+      "course": "Chapter 01 - Embracing Lean Productivity",
+      "source_file": "chapter-01-embracing-lean-productivity-scorm12-rrruldwd.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "productivity",
+        "Lean Construction",
+        "fundamentals",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Abnormal Lockout Removal Procedures",
+      "source_file": "abnormal-lockout-removal-procedures-scorm12-nyjwgrko.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "LOTO",
+        "abnormal removal",
+        "Safety",
+        "compliance",
+        "red master lock",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Complex LOTO Procedures",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Approving Change Orders in ViewPoint",
+      "source_file": "3354da97-5b41-4f64-97cd-9e3cf916414e.zip",
+      "category": "Software & Technical Skills",
+      "subcategory": "Project Management Software",
+      "tags": [
+        "Viewpoint",
+        "Vista",
+        "Change Orders",
+        "software",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "ViewPoint Change Orders",
+          "bucket": "Software",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "General Superintendent"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Avoiding Common Time Wasters",
+      "source_file": "avoiding-common-time-wasters-introduction-to-field-leadership-section-1-scorm12-_pz4ofaz.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "time wasters",
+        "productivity",
+        "Field Leadership",
+        "prioritization",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Time Management",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Conducting Effective Performance Reviews",
+      "source_file": "conducting-effective-performance-reviews-scorm12-8ihyn2kz.zip",
+      "category": "Leadership",
+      "subcategory": "Performance Management",
+      "tags": [
+        "performance",
+        "Feedback",
+        "evaluations",
+        "performance management",
+        "Coaching",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Performance Reviews",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Safety"
+      ],
+      "notes": "REVIEW: possible duplicate - Three versions of this course exist in the catalog. Need to determine if they differ or are duplicates.; LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Chapter 4 - Building an Effective Team",
+      "source_file": "chapter-4-building-an-effective-team-scorm12-lurfzpkv.zip",
+      "category": "Team Building & Teamwork",
+      "subcategory": null,
+      "tags": [
+        "Team Building",
+        "Team Dynamics",
+        "Leadership",
+        "effective teams",
+        "Trust",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Project Team Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Roles and Responsibilities of a Foreman",
+      "source_file": "roles-and-responsibilities-of-a-foreman-scorm12-fuwrpeep.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "foreman",
+        "Foreman Training",
+        "Field Leadership",
+        "roles",
+        "Responsibility",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Foreman Role & Responsibilities",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Eight Wastes of Construction",
+      "source_file": "the-eight-wastes-of-construction-scorm12-9_faca08.zip",
+      "category": "Lean Construction",
+      "subcategory": "Waste Reduction & Process Improvement",
+      "tags": [
+        "Lean",
+        "Waste",
+        "Lean Construction",
+        "Eliminate Waste",
+        "Continuous Improvement",
+        "Respect For People",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Eight Wastes Recognition",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "1.0 Coach K Teaches Values-Driven Leadership",
+      "source_file": "1-0-coach-k-teaches-values-driven-leadership-scorm12-xpvxgbur.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Values",
+        "Mission-Focused",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "11.1 Recruit & Retain All-Star Talent",
+      "source_file": "11-1-recruit-retain-all-star-talent-scorm12-ap0eangm.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Succession Planning",
+        "Team Building",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": "REVIEW: possible duplicate - Duplicate exists: values-driven-leadership-11-recruit-and-retain-all-stars-scorm12-dqqkpaaj.zip; LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "A Commitment to Zero Broken Lives- New Hire Safety Orientation",
+      "source_file": "3c1c9fac-b95f-4fad-b859-fe5a6a84824e.zip",
+      "category": "Employee Orientation",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "safety culture",
+        "expectations & onboarding",
+        "safety protocols",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Advanced Trimble Accubid Classic Pro",
+      "source_file": "6900d60b-d412-4bc1-aab7-d068f5c8eb0e (1).zip",
+      "category": "Software & Technical Skills",
+      "subcategory": "Estimating Software",
+      "tags": [
+        "Accubid",
+        "Estimating",
+        "Takeoff",
+        "Pricing",
+        "sub-jobs",
+        "cost",
+        "software",
+        "Difficulty: Advanced"
+      ],
+      "skills": [
+        {
+          "skill": "Estimating",
+          "bucket": "Procurement",
+          "difficulty": "Advanced"
+        }
+      ],
+      "mandatory_for": [
+        "Estimating"
+      ],
+      "recommended_for": [
+        "Engineering",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Building and Maintaining Team Morale",
+      "source_file": "building-and-maintaining-team-morale-introduction-to-field-leadership-section-1-scorm12-qbritjmd.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "morale",
+        "Motivation",
+        "Field Leadership",
+        "Team Building",
+        "Recognition",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Team Motivation Fundamentals",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 0 - Introduction to Critical Leadership Training",
+      "source_file": "chapter-0-introduction-to-critical-leadership-training-scorm12-qolorhhv.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "fundamentals",
+        "training",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 01 - What Is Emotional Intelligence (EQ)?",
+      "source_file": "chapter-01-what-is-emotional-intelligence-eq-scorm12-byirin-l.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Emotional Intelligence",
+      "tags": [
+        "Emotional Intelligence",
+        "Self-awareness",
+        "Empathy",
+        "Social Skills",
+        "Self-Control",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "EQ Fundamentals",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": "REVIEW: possible duplicate - Second VTT is a duplicate. Timecodes need extraction from raw VTT cues."
+    },
+    {
+      "course": "Chapter 02 - What You Need to Know",
+      "source_file": "chapter-02-what-you-need-to-know-scorm12-n-qj69jo (1).zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "fundamentals",
+        "basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 03 - Productivity in Construction",
+      "source_file": "chapter-03-productivity-in-construction-scorm12-imnm9mxy.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "productivity",
+        "Lean Construction",
+        "Construction",
+        "Efficiency",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Productivity Benefits",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 05 - What is Lean?",
+      "source_file": "chapter-05-what-is-lean-scorm12-pvxdpabr.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Lean Principles",
+        "fundamentals",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 06 - A Brief History",
+      "source_file": "chapter-06-a-brief-history-scorm12-d1yinukr.zip",
+      "category": "Lean Construction",
+      "subcategory": "Continuous Improvement & Industry Change",
+      "tags": [
+        "Lean",
+        "Industry Change",
+        "Lean Adoption",
+        "Lean Construction",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean History Understanding",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 07 - How Does Lean Apply to Construction?",
+      "source_file": "chapter-07-how-does-lean-apply-to-construction-scorm12-wji5bpej.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Construction",
+        "Process Improvement",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 08 - What Processes Need to Change?",
+      "source_file": "chapter-08-what-processes-need-to-change-scorm12-said6ikm.zip",
+      "category": "Lean Construction",
+      "subcategory": "Continuous Improvement & Industry Change",
+      "tags": [
+        "Lean",
+        "Process Improvement",
+        "Process",
+        "Lean Construction",
+        "Continuous Improvement",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Mindset",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 09 - The Adoption of a New Production Theory",
+      "source_file": "chapter-09-the-adoption-of-a-new-production-theory-scorm12-ypg1zg6x.zip",
+      "category": "Lean Construction",
+      "subcategory": "Continuous Improvement & Industry Change",
+      "tags": [
+        "Lean",
+        "Lean Adoption",
+        "Industry Change",
+        "Lean Construction",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Mindset",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "[FROM FILENAME] Untitled",
+      "source_file": "untitled-scorm12-xrofbisj.zip",
+      "category": "[UNKNOWN — needs investigation]",
+      "subcategory": null,
+      "tags": [
+        "Difficulty: [UNKNOWN]"
+      ],
+      "skills": [],
+      "mandatory_for": [],
+      "recommended_for": [],
+      "notes": "No skill assigned - review needed"
+    },
+    {
+      "course": "Chapter 1 Job Plan Theory",
+      "source_file": "chapter-1-job-plan-theory-scorm12-lhuuftlp.zip",
+      "category": "Leadership",
+      "subcategory": "Project Execution & Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "project planning",
+        "fundamentals",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Creating Job Plans",
+          "bucket": "Software",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 1 - What Makes A Leader",
+      "source_file": "chapter-1-what-makes-a-leader-scorm12-gkna64je.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "fundamentals",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 10 Avoiding Common Time Wasters",
+      "source_file": "chapter-10-avoiding-common-time-wasters-scorm12-rakckav4.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "time wasters",
+        "productivity",
+        "Field Leadership",
+        "prioritization",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Time Management",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": "REVIEW: possible duplicate - Likely duplicate of 'Avoiding Common Time Wasters- Introduction to Field Leadership Section - 1' (Batch 1). Verify and consolidate."
+    },
+    {
+      "course": "Chapter 10 - Conclusion: Leadership is the Most Important Skill",
+      "source_file": "chapter-10-conclusion-leadership-is-the-most-important-skill-scorm12-2vctenpb.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 10 - Identifying Waste in Construction",
+      "source_file": "chapter-10-identifying-waste-in-construction-scorm12-rttb6txz.zip",
+      "category": "Lean Construction",
+      "subcategory": "Waste Reduction & Process Improvement",
+      "tags": [
+        "Lean",
+        "Waste",
+        "Lean Construction",
+        "Eliminate Waste",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Eight Wastes Recognition",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 11 Building and Maintaining Team Morale",
+      "source_file": "chapter-11-building-and-maintaining-team-morale-scorm12-o9ngi2ph.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "morale",
+        "Motivation",
+        "Field Leadership",
+        "Team Building",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Team Motivation Fundamentals",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": "REVIEW: possible duplicate - Likely duplicate of 'Building and Maintaining Team Morale- Introduction to Field Leadership Section - 1' (Batch 2). Verify and consolidate."
+    },
+    {
+      "course": "Chapter 11 - Minimizing Waste at a Project Level",
+      "source_file": "chapter-11-minimizing-waste-at-a-project-level-scorm12-bb8uiief (1).zip",
+      "category": "Lean Construction",
+      "subcategory": "Waste Reduction & Process Improvement",
+      "tags": [
+        "Lean",
+        "Waste",
+        "Eliminate Waste",
+        "Lean Construction",
+        "jobsite efficiency",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Eliminate Waste",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 12 - Empowerment of Field Personnel",
+      "source_file": "chapter-12-empowerment-of-field-personnel-scorm12-tz6n2sy9.zip",
+      "category": "Lean Principals",
+      "subcategory": "Respect For People",
+      "tags": [
+        "Lean",
+        "Empowerment",
+        "Respect For People",
+        "Lean Construction",
+        "autonomy",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Field Team Empowerment",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 12 Using Tool and Technology",
+      "source_file": "chapter-12-using-tool-and-technology-scorm12-jzhv6nfe.zip",
+      "category": "Leadership",
+      "subcategory": "Tools & Technology",
+      "tags": [
+        "technology",
+        "Field Leadership",
+        "software",
+        "productivity",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Tool & Equipment Management",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 13 - Pull Planning",
+      "source_file": "chapter-13-pull-planning-scorm12-ne5la4rr.zip",
+      "category": "Lean Construction",
+      "subcategory": "Production Planning & Control",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Planning",
+        "Scheduling",
+        "Collaboration",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Pull Planning",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 14 - The Sticky Note Format",
+      "source_file": "chapter-14-the-sticky-note-format-scorm12-ipzawrxc.zip",
+      "category": "Lean Construction",
+      "subcategory": "Production Planning & Control",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Planning",
+        "Collaboration",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Pull Planning",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 15 - Continuous Improvement",
+      "source_file": "chapter-15-continuous-improvement-scorm12-s6uwlft8.zip",
+      "category": "Lean Construction",
+      "subcategory": "Continuous Improvement & Industry Change",
+      "tags": [
+        "Lean",
+        "Continuous Improvement",
+        "Kaizen",
+        "Lean Construction",
+        "Improvement",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Continuous Improvement",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [],
+      "recommended_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 16 - Training the Industry",
+      "source_file": "chapter-16-training-the-industry-scorm12-lnugtlxm.zip",
+      "category": "Lean Construction",
+      "subcategory": "Continuous Improvement & Industry Change",
+      "tags": [
+        "Lean",
+        "Industry Change",
+        "training",
+        "Lean Construction",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Mindset",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 17 - Reshaping the Industry",
+      "source_file": "chapter-17-reshaping-the-industry-scorm12-ltddpgc0.zip",
+      "category": "Lean Construction",
+      "subcategory": "Continuous Improvement & Industry Change",
+      "tags": [
+        "Lean",
+        "Industry Change",
+        "Lean Adoption",
+        "Lean Construction",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Mindset",
+          "bucket": "Lean Principles",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 2 - Jobsite Efficiency",
+      "source_file": "chapter-2-jobsite-efficiency-scorm12-gtwzkr7z.zip",
+      "category": "Leadership",
+      "subcategory": "Project Execution & Planning",
+      "tags": [
+        "job plan",
+        "jobsite efficiency",
+        "productivity",
+        "execution",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Productivity Execution",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 2 - Leadership is About Human Interaction",
+      "source_file": "chapter-2-leadership-is-about-human-interaction-scorm12-hfyi9tl7.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 3 - Coordinating with Other Trades-",
+      "source_file": "chapter-3-coordinating-with-other-trades-scorm12-e-hl3uzr.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Trade Coordination",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 3 Introduction to Project Planning and Execution",
+      "source_file": "chapter-3-introduction-to-project-planning-and-execution-scorm12-7wuf3mox.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 3 - New Manager 101",
+      "source_file": "chapter-3-new-manager-101-scorm12-yduvl08s.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 4 - Construction vs. Manufacturing",
+      "source_file": "chapter-4-construction-vs-manufacturing-scorm12-atugxt47.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Estimating",
+        "Executive",
+        "Field Journeyman",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 4 - Document Management",
+      "source_file": "chapter-4-document-management-scorm12-tyrhbk9m.zip",
+      "category": "Leadership",
+      "subcategory": "Document Control",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Documentation Practices",
+          "bucket": "Management",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 4 Introduction to Safety Management",
+      "source_file": "chapter-4-introduction-to-safety-management-scorm12-jkruifsj.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Field Leadership",
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 5 - Extreme Ownership",
+      "source_file": "chapter-5-extreme-ownership-scorm12-ec9unjhp.zip",
+      "category": "Leadership",
+      "subcategory": "Extreme Ownership",
+      "tags": [
+        "Leadership",
+        "Ownership",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Extreme Ownership",
+          "bucket": "Leadership",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 5 - Introduction to Quality Control",
+      "source_file": "chapter-5-introduction-to-quality-control-scorm12-hzjpxur3.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 5 - Manpower Projection",
+      "source_file": "chapter-5-manpower-projection-scorm12-nxcglu2o.zip",
+      "category": "Leadership",
+      "subcategory": "Resource Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Manpower Projection",
+          "bucket": "Leadership",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 6 - Enhancing Your Social Skills",
+      "source_file": "chapter-6-enhancing-your-social-skills-scorm12-idczjurm.zip",
+      "category": "Soft Skills",
+      "subcategory": "Social Skills",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Social Skills",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 6 - Introduction to Team Management",
+      "source_file": "chapter-6-introduction-to-team-management-scorm12-ywlcwpmw.zip",
+      "category": "Team Building & Teamwork",
+      "subcategory": null,
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Project Team Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 6 - Leadership Law 1: Cover and Move",
+      "source_file": "chapter-6-leadership-law-1-cover-and-move-scorm12-8ifufrcg.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 7 Introduction to Documentation and Reporting",
+      "source_file": "chapter-7-introduction-to-documentation-and-reporting-scorm12-kjbidn5r.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Documentation",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Documentation & Reporting",
+          "bucket": "Management",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 8 - Leadership Law 3: Prioritize and Execute",
+      "source_file": "chapter-8-leadership-law-3-prioritize-and-execute-scorm12-t3uuyi2b.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Commitment to Safety : A Shared Responsibility- New Hire Safety Orientation",
+      "source_file": "640d3a2d-f5d1-4131-bc2a-8acbb03cd182.zip",
+      "category": "Employee Orientation",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Critical Leadership Training",
+      "source_file": "92ea63ef-4606-43f5-a757-6fc60095cab4.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Copy of Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "source_file": "9e098bfe-2470-4cfd-a8c8-83618f5534df.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Complex Lockout-Tagout Procedures",
+      "source_file": "bc18133e-d61d-4b14-979b-7e7360f22583.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Complex LOTO Procedures",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 8 Introduction to Effective Communication",
+      "source_file": "chapter-8-introduction-to-effective-communication-scorm12-k6p_uqpq (1).zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Communication & Presentation",
+      "tags": [
+        "Field Leadership",
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Effective Communication",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 9 - Leadership Law 4: Decentralize Command",
+      "source_file": "chapter-9-leadership-law-4-decentralize-command-scorm12-k-7vhy3i.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Chapter 9 Time Management",
+      "source_file": "chapter-9-time-management-scorm12-gifb0r3z (1).zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Time Management",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Conducting effective Performance Reviews - AI video generated with Synthesia",
+      "source_file": "conducting effective performance reviews - scorm.zip",
+      "category": "Leadership",
+      "subcategory": "Performance Management",
+      "tags": [
+        "performance",
+        "Feedback",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Performance Reviews",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Safety"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Construction Management: Introduction to Lean Construction",
+      "source_file": "construction-management-introduction-to-lean-construction-scorm12-ix45_zjt.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Coordinating with Other Trades- Introduction to Field Leadership Section 2",
+      "source_file": "coordinating-with-other-trades-introduction-to-field-leadership-section-2-scorm12-vclfcl72.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Trade Coordination",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Copy of Introduction to Field Leadership Section 3 - Leadership",
+      "source_file": "copy-of-introduction-to-field-leadership-section-3-leadership-scorm12-ehy1h9md.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Corrective Counseling and Performance Reviews (d)",
+      "source_file": "corrective-counseling-and-performance-reviews-d-scorm12-dgptjd8r.zip",
+      "category": "Leadership",
+      "subcategory": "Performance Management",
+      "tags": [
+        "performance",
+        "Feedback",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Corrective Counseling",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Creating a Pending Change Orders in ViewPoint",
+      "source_file": "creating-a-pending-change-orders-in-view-point-scorm12-cir_kuef.zip",
+      "category": "Software & Technical Skills",
+      "subcategory": "Project Management Software",
+      "tags": [
+        "software",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "ViewPoint Change Orders",
+          "bucket": "Software",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "General Superintendent"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Developing Empathy",
+      "source_file": "developing-empathy-scorm12-vhcmzfyl.zip",
+      "category": "Soft Skills",
+      "subcategory": "Empathy",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Empathy",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Document Management- Introduction to Field Leadership Section 2",
+      "source_file": "document-management-introduction-to-field-leadership-section-2-scorm12-su5ewyse.zip",
+      "category": "Leadership",
+      "subcategory": "Document Control",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Documentation Practices",
+          "bucket": "Management",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Fall Protection In Industrial And Construction Environments",
+      "source_file": "3831c3b1-2959-47c3-9eb2-0bb7c0bb06cf (1).zip",
+      "category": "Safety",
+      "subcategory": "Fall Protection & Scaffolding",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Fall Hazard Recognition",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Hazard Communication",
+      "source_file": "4896725b-5d88-4056-8a6e-4290ba8a5a5d.zip",
+      "category": "Safety",
+      "subcategory": "Hazard Communication",
+      "tags": [
+        "Safety",
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Chemical Hazard Identification",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Information Found on Container Labels",
+      "source_file": "75a49409-e8aa-4ce3-b528-8ce05aef937f.zip",
+      "category": "Safety",
+      "subcategory": "Hazard Communication",
+      "tags": [
+        "hazard communication",
+        "label",
+        "GHS",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Container Label Use",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "GSL's New Hire Safety Orientation",
+      "source_file": "8d96dbf9-679c-4f00-b8a6-b62accb23d0d.zip",
+      "category": "Employee Orientation",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Electrical Shock & Arc Flash Risk Assessments (Safety-Related Work Practices)",
+      "source_file": "electrical-shock-arc-flash-risk-assessments-safety-related-work-practices-scorm12-2z6u87fa.zip",
+      "category": "Risk Assessment",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Electrical Risk Assessment",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Employee Assistance Program (EAP) and Mental Health Awareness- field leadership -4",
+      "source_file": "employee-assistance-program-eap-and-mental-health-awareness-field-leadership-4-scorm12-tx9ouuz5.zip",
+      "category": "General Personal Development",
+      "subcategory": null,
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Enhancing Social Skills",
+      "source_file": "enhancing-social-skills-scorm12-prqpfyxi.zip",
+      "category": "Soft Skills",
+      "subcategory": "Social Skills",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Social Skills",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Fall Protection In Industrial And Construction Environments: Edges, Openings And Guarding",
+      "source_file": "fall-protection-in-industrial-and-construction-environments-edges-openings-and-guarding-scorm12-ulhh_oba.zip",
+      "category": "Safety",
+      "subcategory": "Fall Protection & Scaffolding",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Fall Hazard Recognition",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "FMLA Introduction to Field Leadership Part - 4 Policy",
+      "source_file": "fmla-introduction-to-field-leadership-part-4-policy-scorm12-wvlpmgbx.zip",
+      "category": "Policy",
+      "subcategory": null,
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Harassment, Discrimination, and Retaliation Prevention -Introduction to Field Leadership Part - 4",
+      "source_file": "harassment-discrimination-and-retaliation-prevention-introduction-to-field-leadership-part-4-scorm12-tkuwfuoz.zip",
+      "category": "Policy",
+      "subcategory": null,
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Improving Self-Awareness",
+      "source_file": "improving-self-awareness-scorm12-nv0knu1a.zip",
+      "category": "Soft Skills",
+      "subcategory": "Self-Awareness",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "EQ Fundamentals",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Increasing Self-Motivation",
+      "source_file": "increasing-self-motivation-scorm12-npmiqa6h.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Self-Management",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Motivation",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "EQ Leadership",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Increasing Your Self-Motivation",
+      "source_file": "increasing-your-self-motivation-scorm12-s0eqm439.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Self-Management",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Motivation",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "EQ Leadership",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Documentation and Reporting- Introduction to Field Leadership Section - 1",
+      "source_file": "introduction-to-documentation-and-reporting-introduction-to-field-leadership-section-1-scorm12-5pb1ub8x.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Documentation",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Documentation & Reporting",
+          "bucket": "Management",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Effective Communication- Introduction to Field Leadership Section - 1",
+      "source_file": "introduction-to-effective-communication-introduction-to-field-leadership-section-1-scorm12-0vyt6ox6.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Communication & Presentation",
+      "tags": [
+        "Field Leadership",
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Effective Communication",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Field Leadership Part 2 - Anatomy of a Project",
+      "source_file": "13d9715d-6384-46be-8cf3-eccf3325481d.zip",
+      "category": "Leadership",
+      "subcategory": "Project Execution & Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Project Planning",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to planning and Controlling Hazards - T.R.A.C.K.",
+      "source_file": "c1fd58d5-f841-41c0-b15d-5e00a8415db9.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction- Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "source_file": "introduction-introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-k-mbpeuu.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Field Leadership Part - 4 Policy",
+      "source_file": "introduction-to-field-leadership-part-4-policy-scorm12-vyeh7q-b.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Introduction to Field Leadership Section - 1 Skills Traits & Responsibilities",
+      "source_file": "introduction-to-field-leadership-section-1-skills-traits-responsibilities-scorm12-pjqoieo4.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Project Planning and Execution- Introduction to Field Leadership Section - 1",
+      "source_file": "introduction-to-project-planning-and-execution-introduction-to-field-leadership-section-1-scorm12-gsezq1ll.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Quality Control- Introduction to Field Leadership Section - 1",
+      "source_file": "introduction-to-quality-control-introduction-to-field-leadership-section-1-scorm12-gxmgfvvz.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Safety Management- Introduction to Field Leadership Section - 1",
+      "source_file": "introduction-to-safety-management-introduction-to-field-leadership-section-1-scorm12-xqqzeydb.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Field Leadership",
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Introduction to Team Management- Introduction to Field Leadership Section - 1",
+      "source_file": "introduction-to-team-management-introduction-to-field-leadership-section-1-scorm12-ymggz-66.zip",
+      "category": "Team Building & Teamwork",
+      "subcategory": null,
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Project Team Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Job Closeout- Introduction to Field Leadership Section 2",
+      "source_file": "job-closeout-introduction-to-field-leadership-section-2-scorm12-n6l4pbci.zip",
+      "category": "Leadership",
+      "subcategory": "Project Execution & Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Project Planning",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Job Plan Theory - Introduction to Field Leadership Section 2",
+      "source_file": "job-plan-theory-introduction-to-field-leadership-section-2-scorm12-dckui4j2.zip",
+      "category": "Leadership",
+      "subcategory": "Project Execution & Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Creating Job Plans",
+          "bucket": "Software",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Jobsite Efficiency Introduction to Field Leadership Section 2",
+      "source_file": "jobsite-efficiency-introduction-to-field-leadership-section-2-scorm12--oojrobn.zip",
+      "category": "Leadership",
+      "subcategory": "Project Execution & Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Efficiency",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Productivity Execution",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Leadership & Decision-Making Under Pressure",
+      "source_file": "leadership-decision-making-under-pressure-scorm12-AIhn49zc.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Strategic Thinking",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Leadership Essentials- Introduction to Field Leadership Section 3",
+      "source_file": "leadership-essentials-introduction-to-field-leadership-section-3-scorm12-bzr6yskm.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Leadership Law 2: Keep it Simple",
+      "source_file": "leadership-law-2-keep-it-simple-scorm12-dsimqrvx.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Journeyman",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures",
+      "source_file": "095abf5a-362f-42ef-8158-994ddd66e70e.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Managing Sub-contractors",
+      "source_file": "3f5b3717-553b-4e66-96bc-faa72589fe5d.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "coordination",
+        "supervision",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Trade Coordination",
+          "bucket": "Leadership",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Nevada's Employee Rights and Responsibilities - New Hire Safety Orientation",
+      "source_file": "64df4a34-c340-4ef1-8a94-9dddd55b3f0d.zip",
+      "category": "Policy",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Nevada Employee Rights",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Leading With Emotional Intelligence",
+      "source_file": "f40629c8-0091-418e-9b45-cee6a5b3aa9c.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Emotional Intelligence",
+      "tags": [
+        "Emotional Intelligence",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "EQ Fundamentals",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Learning Accubid Pro",
+      "source_file": "learning-accubid-pro-scorm12-c6av2ijj.zip",
+      "category": "Software & Technical Skills",
+      "subcategory": "Estimating Software",
+      "tags": [
+        "Estimating",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Estimating",
+          "bucket": "Procurement",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Estimating"
+      ],
+      "recommended_for": [
+        "Engineering",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures - Abnormal Lockout Removal Procedures",
+      "source_file": "lockout-tagout-procedures-abnormal-lockout-removal-procedures-scorm12-x9mn1h5s (1).zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures - Complex Lockout-Tagout Procedures",
+      "source_file": "lockout-tagout-procedures-complex-lockout-tagout-procedures-scorm12-r6juiurw.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Complex LOTO Procedures",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures - Hazardous Energy Control (Lockout Tagout)",
+      "source_file": "lockout-tagout-procedures-hazardous-energy-control-lockout-tagout-scorm12-berhmiwr.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures - Return To Service Procedures",
+      "source_file": "lockout-tagout-procedures-return-to-service-procedures-scorm12-_dkqhcuy.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures - Simple Lockout-Tagout Procedures",
+      "source_file": "lockout-tagout-procedures-simple-lockout-tagout-procedures-scorm12-rj5zpfvf.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Lockout Tagout Procedures - Verifying a De-Energized Condition",
+      "source_file": "lockout-tagout-procedures-verifying-a-de-energized-condition-scorm12-ukdghbg_.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Manpower Projection - Introduction to Field Leadership Section 2 -",
+      "source_file": "manpower-projection-introduction-to-field-leadership-section-2-scorm12-9-7cbil_.zip",
+      "category": "Leadership",
+      "subcategory": "Resource Planning",
+      "tags": [
+        "job plan",
+        "Planning",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Manpower Projection",
+          "bucket": "Leadership",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Motivating Your Team",
+      "source_file": "motivating-your-team-scorm12-YgFh-1Vx.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "New Hire Safety Orientation",
+      "source_file": "new-hire-safety-orientation-scorm12-n-zkxxau.zip",
+      "category": "Employee Orientation",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "On-Site Productivity",
+      "source_file": "on-site-productivity-scorm12-m7-7zmzj (1).zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "productivity",
+        "Lean",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Productivity Execution",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Permit-Required Confined Spaces",
+      "source_file": "1bcd2f05-c0c3-4b2c-9f6e-baba0ac1bc61.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Confined Space Program",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Project Structure, Delegation, and Team Development",
+      "source_file": "2a3202a4-e80d-4659-bedc-532cd6a7838e.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Delegation",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Project Planning & Execution",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Preventing Slips, Trips and Falls",
+      "source_file": "35b692b7-23d3-4329-b781-9aa96ae455e8.zip",
+      "category": "Safety",
+      "subcategory": "Fall Protection & Scaffolding",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Permitted Energized Work & Required Energized Work Permit",
+      "source_file": "5c12a5da-7dc6-4649-84de-f3637bde375d.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Energized Work Practices",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safely Accessing a Scaffold",
+      "source_file": "98b56719-5696-4c87-bc57-ee2143596b89.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Scaffold Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Return To Service Procedures",
+      "source_file": "fa99d337-0243-4b21-b9b7-a54215bbda0b.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "LOTO",
+        "Return to Service",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "OSHA’s Focus Four Workplace Hazards",
+      "source_file": "osh-as-focus-four-workplace-hazards-scorm12-_eefrmuc.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Performance Management",
+      "source_file": "performance-management-scorm12-yNAMmSEg.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Required Precautions & Practices - Energized Work",
+      "source_file": "required-precautions-practices-energized-work-scorm12-pfsg-qmp.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Energized Work Practices",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Required Precautions & Practices - Testing & Troubleshooting",
+      "source_file": "required-precautions-practices-testing-troubleshooting-scorm12-ixvxs06l.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "electrical safety",
+        "testing",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Energized Work Practices",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Roles and Responsibilties of a Foreman Introduction to Field Leadership Section - 1",
+      "source_file": "roles-and-responsibilties-of-a-foreman-introduction-to-field-leadership-section-1-scorm12-j7alnrme.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Field Supervision",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safe Electrical Work Practices And The 2024 NFPA 70E For Electrical Workers",
+      "source_file": "safe-electrical-work-practices-and-the-2024-nfpa-70-e-for-electrical-workers-scorm12-o1fsru32.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "Safety",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 10.0 Injury & Case Management",
+      "source_file": "safety-coordinator-10-0-injury-case-management-scorm12-bhn-skit.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 11.0 OSHA & MSHA Inspections",
+      "source_file": "safety-coordinator-11-0-osha-msha-inspections-scorm12-1cfxq7kp.zip",
+      "category": "OSHA & MSHA Inspections",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Regulatory Inspections",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 3.0 Employee Safety Orientation",
+      "source_file": "safety-coordinator-3-0-employee-safety-orientation-scorm12-wwdhs8xs.zip",
+      "category": "Employee Orientation",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Safety Responsibility",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Supported Scaffolds and OSHA Regulations",
+      "source_file": "0fed7f77-3b20-43df-90c2-6c28b3ca4a5f.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Scaffold Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Data Sheets",
+      "source_file": "7ba26b66-15c2-4272-937c-8c20a0b71e21.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": "LOW confidence - verify content before finalizing"
+    },
+    {
+      "course": "Simple Lockout-Tagout Procedures",
+      "source_file": "b792b1d9-a94f-49d5-ac01-4a211024faa0.zip",
+      "category": "Safety",
+      "subcategory": "Lockout/Tagout",
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "LOTO Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Supported Scaffolding Safety in Industrial and Construction Environments",
+      "source_file": "c2ef003b-0aa1-40d0-8653-3cf6c5a31466.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Scaffold Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 4.0 Task Training",
+      "source_file": "safety-coordinator-4-0-task-training-scorm12-1lqdglp (1).zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 5.0 Safety Meetings",
+      "source_file": "safety-coordinator-5-0-safety-meetings-scorm12--kplybaq.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 6.0 Project Planning & Identifying Hazards",
+      "source_file": "safety-coordinator-6-0-project-planning-identifying-hazards-scorm12-pa7utguc.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 7.0 Safety Inspections",
+      "source_file": "safety-coordinator-7-0-safety-inspections-scorm12-dsf-btet.zip",
+      "category": "OSHA & MSHA Inspections",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Regulatory Inspections",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 8.0 Disciplinary Action",
+      "source_file": "safety-coordinator-8-0-disciplinary-action-scorm12-efm1bzaa.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Safety Coordinator - 9.0 Accident & Incident Investigations",
+      "source_file": "safety-coordinator-9-0-accident-incident-investigations-scorm12-viiehqfz.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Substance Abuse- Introduction to Field Leadership Part - 4 Policy",
+      "source_file": "substance-abuse-introduction-to-field-leadership-part-4-policy-scorm12-mp01ux4h.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Estimating",
+        "Executive",
+        "Other/Specialized"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Techniques for Better Communication and Feedback Introduction to Field Leadership Section 3 -",
+      "source_file": "techniques-for-better-communication-and-feedback-introduction-to-field-leadership-section-3-scorm12-eunu31cm.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Communication & Presentation",
+      "tags": [
+        "Leadership",
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Effective Communication",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "TEST",
+      "source_file": "test-scorm12-2n9lhzco.zip",
+      "category": "[TEST COURSE -- recommend removal]",
+      "subcategory": null,
+      "tags": [
+        "Difficulty: [N/A]"
+      ],
+      "skills": [],
+      "mandatory_for": [],
+      "recommended_for": [],
+      "notes": "No skill assigned - review needed; FLAG: TEST course - no skills; consider removal from catalog"
+    },
+    {
+      "course": "The Art of Presenting - 1 of 3",
+      "source_file": "the-art-of-presenting-1-of-3-scorm12-8zxc6t4x.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - 2 of 3",
+      "source_file": "the-art-of-presenting-2-of-3-scorm12-l_ebmf_n.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Types Of Chemical Hazards",
+      "source_file": "5a311cb4-586b-412a-88fb-0a50c800ba67.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Personal Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Written Hazard Communication Plan",
+      "source_file": "b9294f00-7631-4483-a177-9d75bcfa828d.zip",
+      "category": "Safety",
+      "subcategory": "Hazard Communication",
+      "tags": [
+        "Safety",
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Chemical Hazard Identification",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - 3 of 3",
+      "source_file": "the-art-of-presenting-3-of-3-scorm12-medonbco.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 1: The Power of Great Presenting",
+      "source_file": "the-art-of-presenting-chapter-1-the-power-of-great-presenting-scorm12-vamagq-w.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 2: The Giver's Mindset",
+      "source_file": "the-art-of-presenting-chapter-2-the-givers-mindset-scorm12-ku2y7zgl.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 3: Building Your Outline",
+      "source_file": "the-art-of-presenting-chapter-3-building-your-outline-scorm12-c-q6adkv.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting -Chapter 4: Creating Your Slides",
+      "source_file": "the-art-of-presenting-chapter-4-creating-your-slides-scorm12-0sloaxu1.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 5a: Preparing to Present",
+      "source_file": "the-art-of-presenting-chapter-5-a-preparing-to-present-scorm12-1s5yhlrb.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 6: Making a First Impression",
+      "source_file": "the-art-of-presenting-chapter-6-making-a-first-impression-scorm12-wmxcgy5v.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 7a.1: Delivering Your Presentation",
+      "source_file": "the-art-of-presenting-chapter-7-a-1-delivering-your-presentation-scorm12-bz_habq9.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 7a: Delivering Your Presentation",
+      "source_file": "the-art-of-presenting-chapter-7-a-delivering-your-presentation-scorm12-mda1rlln.zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 7b: Delivering Your Presentation",
+      "source_file": "the-art-of-presenting-chapter-7-b-delivering-your-presentation-scorm12-w8rvumau (1).zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 7c: Delivering Your Presentation",
+      "source_file": "the-art-of-presenting-chapter-7-c-delivering-your-presentation-scorm12-omhngorm (1).zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "The Art of Presenting - Chapter 7d: Delivering Your Presentation",
+      "source_file": "the-art-of-presenting-chapter-7-d-delivering-your-presentation-scorm12-rqczlxog (1).zip",
+      "category": "Presentation Skills",
+      "subcategory": null,
+      "tags": [
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Slide Preparation",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Leadership",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Time Management - Introduction to Field Leadership Section - 1",
+      "source_file": "time-management-introduction-to-field-leadership-section-1-scorm12-ecy9z7j1.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Time Management",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 4 Own Your Team",
+      "source_file": "02d67ee1-0635-4e68-8128-ee32d9f6b657.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 10 Planning Your Next Play",
+      "source_file": "03fd4e80-b64f-439b-89c8-784b842c2691.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Planning",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 2 Define Your Core Values",
+      "source_file": "0e803e8d-e40a-47e1-b34c-48b387997be5.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 12 Improve Individual Performance",
+      "source_file": "1a8c5a7e-1d22-4d32-9dcc-ba401140474a.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 14 Develop Emerging Leaders",
+      "source_file": "21bd2729-7596-47c8-a379-721843310b5c.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 13 Give Feedback",
+      "source_file": "493823b2-6e7a-44e9-843a-990cd8f81814.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 7 The Ultimate Motion Offense",
+      "source_file": "4c765778-8bd2-4452-866c-aec8e427dd4a.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 8 Effective Communication",
+      "source_file": "56ba7bcd-acc3-4ada-9d4c-179765442bbe.zip",
+      "category": "Communication & Soft Skills",
+      "subcategory": "Communication & Presentation",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Communication",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Effective Communication",
+          "bucket": "Soft Skills",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 6 Read Your People",
+      "source_file": "7062beb5-44e6-4646-8344-d7a09c854b08.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 17 Bounce Back from a Loss",
+      "source_file": "781af65a-e80f-43e7-9a6e-03781a978a09.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Using Portable and Fixed Ladders",
+      "source_file": "7eb6fa30-c8f4-4239-9186-9e9be0dcd045.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Ladder Safety",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 1 Coach K Teaches Values-Driven Leadership",
+      "source_file": "ab06661d-8075-4ede-84eb-8fb88fd3d500.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 3 Cultivate a Winning Team",
+      "source_file": "d226d1a8-172f-41c2-94bb-0a8dce777c94.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 5 Making Reads",
+      "source_file": "d4544a6e-93d6-4241-8c0a-15c45ba89e7a.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Using Tool and Technology- Introduction to Field Leadership Section - 1",
+      "source_file": "using-tool-and-technology-introduction-to-field-leadership-section-1-scorm12-q5xzm9rq.zip",
+      "category": "Leadership",
+      "subcategory": "Tools & Technology",
+      "tags": [
+        "Field Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Tool & Equipment Management",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership: 11 Recruit and Retain All-Stars",
+      "source_file": "0c553a0f-d9af-40ab-9427-69df0143e71d.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership: 15 Create a Legacy of Leaders",
+      "source_file": "66943eda-fb62-4ad8-ba1e-d0ec6ff9b0ec.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership : 9 Leading With Emotion",
+      "source_file": "ab28f5f2-7325-42e0-9bea-0851cc7478d7.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Values Driven Leadership: 16 Make a Habit of Motivation",
+      "source_file": "afc32b71-9f5d-432c-9ab9-80e79b9d98b1.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Values-Driven",
+        "Leadership",
+        "Motivation",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Values-Driven Leadership",
+          "bucket": "Culture & Values",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "General Superintendent",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Executive",
+        "Project Management",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Verifying a De-Energized Condition",
+      "source_file": "verifying-a-de-energized-condition-scorm12-tl-lwmmj.zip",
+      "category": "Safety",
+      "subcategory": "Electrical Safety",
+      "tags": [
+        "electrical safety",
+        "verification",
+        "voltage tester",
+        "Difficulty: Intermediate"
+      ],
+      "skills": [
+        {
+          "skill": "Electrical Safety Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Intermediate"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "What Is Emotional Intelligence?",
+      "source_file": "what-is-emotional-intelligence-scorm12-2b6hr7hq.zip",
+      "category": "Leadership",
+      "subcategory": "Field Leadership Fundamentals",
+      "tags": [
+        "Leadership",
+        "Leadership Basics",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Leadership",
+          "bucket": "Leadership",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Executive",
+        "Field Leadership",
+        "General Superintendent",
+        "Project Management",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Administration",
+        "Engineering",
+        "Estimating",
+        "Field Entry",
+        "Field Journeyman",
+        "Other/Specialized",
+        "Safety"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "What is \"LEAN\"",
+      "source_file": "what-is-lean-scorm12-5l-lsg8r.zip",
+      "category": "Lean Construction",
+      "subcategory": "Lean Foundations & Philosophy",
+      "tags": [
+        "Lean",
+        "Lean Construction",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Lean Fundamentals",
+          "bucket": "Lean Principles",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Superintendents"
+      ],
+      "recommended_for": [],
+      "notes": ""
+    },
+    {
+      "course": "Working Safely on Scaffolding",
+      "source_file": "working-safely-on-scaffolding-scorm12-0txrzw9l.zip",
+      "category": "Safety",
+      "subcategory": null,
+      "tags": [
+        "Safety",
+        "Difficulty: Foundational"
+      ],
+      "skills": [
+        {
+          "skill": "Scaffold Fundamentals",
+          "bucket": "Safety",
+          "difficulty": "Foundational"
+        }
+      ],
+      "mandatory_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "General Superintendent",
+        "Other/Specialized",
+        "Project Management"
+      ],
+      "notes": ""
+    },
+    {
+      "course": "Workplace Inspections, Pre-Task Assessments, Briefings",
+      "source_file": "workplace-inspections-pre-task-assessments-briefings-scorm12-mpjt1kbi.zip",
+      "category": "OSHA & MSHA Inspections",
+      "subcategory": null,
+      "tags": [
+        "Difficulty: [UNKNOWN]"
+      ],
+      "skills": [
+        {
+          "skill": "Regulatory Inspections",
+          "bucket": "Safety",
+          "difficulty": "[UNKNOWN]"
+        }
+      ],
+      "mandatory_for": [
+        "Field Leadership",
+        "Safety",
+        "Superintendents"
+      ],
+      "recommended_for": [
+        "Field Entry",
+        "Field Journeyman",
+        "General Superintendent",
+        "Project Management"
+      ],
+      "notes": ""
+    }
+  ]
+}

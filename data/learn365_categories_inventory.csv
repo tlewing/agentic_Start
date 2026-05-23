@@ -1,0 +1,64 @@
+Name,Id,CatalogId,IsOurCatalog,SkillCount,Skills
+Hazards,00820c4c-5acb-4851-47e2-08de9af38d32,b1670146-674a-4730-9e9d-d7d29ba52385,True,2,Chemical Hazard Identification1; Atmospheric Hazard Detection
+Orginization Skills - old,02f3bc67-9400-46b3-816b-c64c622c2e2e,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Scheduling - old,08645d04-1645-433d-aef3-536c274f8f98,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,1,Project Planning
+Documentation - old,0cd52146-25db-4a27-a343-a5bc5e0ad430,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Delegation,1363f508-5e33-4e1e-001e-08de9af247f7,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Delegation and Ownership
+Production and Efficiency - old,14f7e28c-c864-4984-9327-21480b8fef81,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Project Procedure - old,1b47e17d-6b10-459f-9ada-263664b71ba3,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,1,Manpower Forecasting
+Training and Development - old,1f682c80-5898-4305-b196-09bbcac7aefe,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Compliance - old,291a5aba-ea60-445d-acb8-2f47ca200cbe,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Communication - old,2a0e1b2a-eaf1-4a5d-a332-c302649f9c3a,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Documentation & Compliance,2bd14b80-032e-434a-fb96-08de57079453,b1670146-674a-4730-9e9d-d7d29ba52385,True,0,
+Software - old,325f6a27-d757-49a6-81b0-c9c593260857,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Leadership - old,373376c7-4e75-468f-8154-f3da1832d269,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,1,Delegation Skills
+Project Managerment,3dd8c391-5651-4074-47e3-08de9af38d32,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Change Orders
+Software Proficiency - old,4523a0f9-0ea7-41d5-93d9-5fce8435c788,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Personal Readiness,47099c44-b781-411a-3d10-08de79248bc3,b1670146-674a-4730-9e9d-d7d29ba52385,True,2,Mental Rehearsal; Leadership Presence
+Lean Principles - old,527bf620-8aeb-4c18-8928-79c6921d58a1,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Document Control - old,54af5ea0-9662-4177-9688-7e27d76358d9,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Professional Development,666ebaf9-b1c2-4fb0-9380-9090894f72b6,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Leadership Skills - old,6693888a-f6e6-4813-b025-8684c87995a2,e6eeedce-5092-416a-b16c-d1ca971f4587,False,0,
+Professional Standards - old,68daf4e3-ea16-4e44-9b71-6a8614e9e976,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,1,Corrective Counseling
+Planning - old,69ca34aa-6f5c-4fb9-aef4-bf7e71b78944,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,1,Strategic Thinking
+Construction Software,6c2d0081-b3ba-40f2-537a-08de57079271,b1670146-674a-4730-9e9d-d7d29ba52385,True,9,ProCore Job Plans; Excel Skills; ProCore Fundamentals; Accubid Data Export; Trimbal Accubid; Teams; Job Plan Setup; Outlook; Job Plan Fundamentals
+Professional Development,6f70e189-ec6e-4553-1b29-08de570791a8,b1670146-674a-4730-9e9d-d7d29ba52385,True,2,Change Orders; Presentation Skills
+Soft Skills - old,7015c32c-9d3c-411b-b291-b3c31252f596,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Soft Skills - old,7c364016-887a-4cee-807e-91a3af5cd649,d3c56e4d-aa58-4581-a523-1c39f0d62619,False,0,
+Organization Skills - old,7c7d3723-ac10-4fda-ba14-2cb6727d772d,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Record Keeping - old,8214b1e4-3e17-4f7a-b73a-e82441f436e8,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Computer - old,85a9d20b-d6ad-4b68-bf06-a74e0e7d24fa,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Engineering - old,8e683bf3-4f4b-4363-8f91-a09c7a725d45,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Cost Control - old,905bf959-b991-41da-977e-57f97a8c0e60,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Safety Protocols - old,93025f90-1e13-498e-b081-4ad2a78f5181,e6eeedce-5092-416a-b16c-d1ca971f4587,False,0,
+Lock-Out / Tag-Out,97e20f94-e9e2-4ac8-001b-08de9af247f7,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Abnormal Lock Removal
+Manpower,9d40ce1a-6405-4a6f-a7a4-37b4440351a4,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Planning,9dcc8fe2-75b8-483c-8262-22c287ddc54b,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,1,Project Planning
+Lean Construction,9f6f430d-b533-4380-1b28-08de570791a8,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Lean History
+Emotional Intelligence,9f93e282-bcc4-4e05-8859-6bd0c958597b,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Trust Building
+Special Qualifications,a1be752b-f907-45e9-a3c0-03b3048ef7cb,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Technology & Reporting,a435a94c-9540-4d4c-bf97-01a90a747390,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Change Management,a7ec241d-ddb5-4f1b-9e7c-024c6d51b597,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Conflict Resolution,b53254fc-97b1-4aa5-8e47-c7ffc400a046,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Project Planning & Productivity,b7723da5-d5af-413d-1c07-08de562238ba,b1670146-674a-4730-9e9d-d7d29ba52385,True,2,Productivity Analysis; Construction Project Lifecycle
+Strategic Leadership,b7904d60-b36a-4d3e-85f6-08de79248c36,b1670146-674a-4730-9e9d-d7d29ba52385,True,5,Integrated Leadership; After-Action Review; Strategic Planning with Intent; Decision-Making Under Pressure; Leadership Development
+Performance Management,b823f5a8-3b74-4b4d-bd34-22182f81605d,b1670146-674a-4730-9e9d-d7d29ba52385,True,3,Identifying Strengths; Performance Management Fundamentals; Escalation & Termination
+Ownership,b8f2ccb7-39df-4dfb-001d-08de9af247f7,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Delegation and Ownership
+Leadership,bc8c322b-30a1-47cf-bfc0-ef266d2b7617,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,1,Leadership
+Estimating,c2c75fd9-cfbc-4e0d-81ac-99f71e8529d2,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,1,Estimating
+Accountability,c5366a46-9fd2-4e2a-001c-08de9af247f7,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Delegation and Ownership
+Accountability,c771f13b-67f5-48a3-b07c-ffa938c85249,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Safety,cb8d73f0-7de3-48ba-91d5-62f71d6def90,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Safety,cceed900-8ea1-4848-821d-c224703321c6,b1670146-674a-4730-9e9d-d7d29ba52385,True,12,Abnormal Lock Removal; Chemical Hazard Identification1; First Aid/CPR/AED; NFPA 70E Fundamentals; Scaffold Access & Egress; Scaffold Assembly & Inspection; Electrically Safe Work Condition; Fall Protection on Scaffolds; Arc Flash PPE Selection; Accident Prevention; Atmospheric Hazard Detection; Pictogram Interpretation
+Field Leadership,d00fac35-092f-4161-bfac-1d192e9a8b66,e6eeedce-5092-416a-b16c-d1ca971f4587,False,0,
+Safety,d30bc776-acfd-491e-84b5-43dcd9d558fe,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Team Building,dcd2fbb5-9d8a-41b5-8968-86970ad12c48,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Emotional Intelligence,e2e37189-b830-4872-89f5-6325889ee4dd,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Communication,e5d56cc5-8739-4a06-a537-4688d13c6a6c,e6eeedce-5092-416a-b16c-d1ca971f4587,False,0,
+Tools,e85cc395-952a-4c00-b58c-3861ddc3830c,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Culture,e9f6b925-c248-48bb-ba83-e823d8685b13,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Communication & Coaching,ec43dd76-c999-4633-5379-08de57079271,b1670146-674a-4730-9e9d-d7d29ba52385,True,4,Setting Expectations; Mentoring & Coaching; Conflict Resolution; Conducting One-on-Ones
+Micro-Learning,ede64370-3184-4085-8fc1-cc9d937ac4b7,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Trust,f02ad04c-5cae-4e2c-90c5-8652802c3be6,6dec10c7-41f0-4bdc-8305-75171ac3de04,False,0,
+Materials,f37bc1dc-264c-4e97-9b3a-a862663191b4,070e3f2e-79cc-43ff-b0bb-1952a69cfc08,False,0,
+Leadership & Field Management,f9995c77-8959-4040-fc71-08de562236eb,b1670146-674a-4730-9e9d-d7d29ba52385,True,1,Organizational Structuring
